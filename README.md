@@ -11,6 +11,7 @@
     <li><a href=#dexterous>Dexterous</a></li>
     <li><a href=#crossembodiment>CrossEmbodiment</a></li>
     <li><a href=#worldmodel>WorldModel</a></li>
+    <li><a href=#wam>WAM</a></li>
   </ol>
 </details>
 
@@ -8948,6 +8949,7 @@
 |**2026-05-28**|**CRB-Guided Framework Design and Resource Allocation for Indoor mmWave ISCC Systems**|Mohammad Shikh-Bahaei Team|[2605.29939](http://arxiv.org/abs/2605.29939)|null|
 |**2026-05-28**|**Toward AI Systems That Understand Self and Others: A Multi-Phase Inference Framework for Human Cognitive Diversity and World-Model Alignment**|Toru Takahashi Team|[2605.29930](http://arxiv.org/abs/2605.29930)|null|
 |**2026-05-28**|**Joint Model and Data Sparsification via the Marginal Likelihood**|Eric Nalisnick Team|[2605.29908](http://arxiv.org/abs/2605.29908)|null|
+|**2026-05-28**|**Distributed Nonlinear Model Predictive Control for District Heating Networks**|Marco Muttoni Team|[2605.29841](http://arxiv.org/abs/2605.29841)|null|
 |**2026-05-28**|**BitTP: The Lightweight Trajectory Prediction Model with BitLLM for Edge-Devices**|Daehee Park Team|[2605.29705](http://arxiv.org/abs/2605.29705)|null|
 |**2026-05-28**|**World Models in Words: Auditing Physical State-Transition Commitments in Vision-Language Models**|Emmanuelle Bourigault Team|[2605.29585](http://arxiv.org/abs/2605.29585)|null|
 |**2026-05-28**|**Evolutionary Rule Extraction from Corporate Default Prediction Models**|Davide Calvaresi Team|[2605.29478](http://arxiv.org/abs/2605.29478)|null|
@@ -8957,8 +8959,45 @@
 |**2026-05-28**|**PassNet: Scaling Large Language Models for Graph Compiler Pass Generation**|Siqi Bao Team|[2605.29357](http://arxiv.org/abs/2605.29357)|**[link](https://github.com/PaddlePaddle/PassNet)**|
 |**2026-05-28**|**ViASNet: A Video Ad Saliency Network for Predicting Dynamic Saliency and Viewer Engagement**|Michel Wedel Team|[2605.29302](http://arxiv.org/abs/2605.29302)|null|
 |**2026-05-28**|**On the Practice of Scaling Search Conversion Rate Prediction**|Winter Jiao Team|[2605.29232](http://arxiv.org/abs/2605.29232)|null|
+|**2026-05-27**|**CA-AC-MPC: CUDA-Accelerated Actor-Critic Model Predictive Control**|Fabio Ruggiero Team|[2605.29155](http://arxiv.org/abs/2605.29155)|null|
+|**2026-05-27**|**Energy-Optimal Thermal Management of Heat-Pump Battery Electric Vehicles**|Nikolce Murgovski Team|[2605.29104](http://arxiv.org/abs/2605.29104)|null|
 |**2026-05-27**|**Theoretical Foundations and Effective Algorithms for Policy-Aware Simulator Learning**|Mehryar Mohri Team|[2605.29032](http://arxiv.org/abs/2605.29032)|null|
 |**2026-05-27**|**Causal Intelligence for Constraint-Aware Intervention Design to Induce State Transitions**|Dimitris V. Manatakis Team|[2605.29008](http://arxiv.org/abs/2605.29008)|null|
+|**2026-05-27**|**Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players**|Xuanchi Ren Team|[2605.28816](http://arxiv.org/abs/2605.28816)|**[link](https://research.nvidia.com/labs/sil/projects/gamma-world)**|
+|**2026-05-27**|**Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization**|Laurent Charlin Team|[2605.28810](http://arxiv.org/abs/2605.28810)|null|
+|**2026-05-27**|**Model Predictive Control for Constrained Linear Positive Systems on Graphs**|Rolf Findeisen Team|[2605.28550](http://arxiv.org/abs/2605.28550)|null|
+|**2026-05-28**|**LEIA: Learned Environment for Interactive Architected Materials**|Markus J. Buehler Team|[2605.28368](http://arxiv.org/abs/2605.28368)|null|
+|**2026-05-27**|**Hybrid Neural World Models**|Paras Chopra Team|[2605.28317](http://arxiv.org/abs/2605.28317)|null|
+|**2026-05-27**|**Do LLMs Build World Models From Text? A Multilingual Diagnostic of Spatial Reasoning**|Xin Cao Team|[2605.28277](http://arxiv.org/abs/2605.28277)|null|
+|**2026-05-27**|**Proprio: Latent Self-Scoring and Inference-Time Refinement for Physically Plausible Video Generation**|Alexandre Alahi Team|[2605.28230](http://arxiv.org/abs/2605.28230)|null|
+|**2026-05-27**|**Chreode: A Cell World Model for One-Step Temporal Dynamics and Perturbation Prediction**|Tianlong Chen Team|[2605.28111](http://arxiv.org/abs/2605.28111)|null|
+
+<p align=right>(<a href=#updated-on-20260530>back to top</a>)</p>
+
+## WAM
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-05-28**|**Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments**|Xionghui Chen Team|[2605.30280](http://arxiv.org/abs/2605.30280)|null|
+|**2026-05-28**|**BORA: Bridging Offline Reinforcement Learning and Online Residual Adaptation for Real-World Dexterous VLA Models**|Wenzhao Lian Team|[2605.30226](http://arxiv.org/abs/2605.30226)|null|
+|**2026-05-28**|**VLA-Trace: Diagnosing Vision-Language-Action Models through Representation and Behavior Tracing**|Xiaozhu Ju Team|[2605.30117](http://arxiv.org/abs/2605.30117)|null|
+|**2026-05-28**|**Sample-Efficient Diffusion-based Reinforcement Learning with Critic Guidance**|Ye Shi Team|[2605.30056](http://arxiv.org/abs/2605.30056)|null|
+|**2026-05-28**|**Mitigating State Aliasing in Vision-Language-Action Models via Inverse Dynamics Learning**|Hyunwoo J. Kim Team|[2605.29577](http://arxiv.org/abs/2605.29577)|null|
+|**2026-05-28**|**ElegantVLA: Learning When to Think for Efficient Vision-Language-Action Models**|Zhi Wang Team|[2605.29438](http://arxiv.org/abs/2605.29438)|null|
+|**2026-05-27**|**DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving**|Li Jiang Team|[2605.28544](http://arxiv.org/abs/2605.28544)|null|
+|**2026-05-27**|**SANTS: A State-Adaptive Scheduler for World Action Models**|Chunxu Tian Team|[2605.27947](http://arxiv.org/abs/2605.27947)|**[link](https://advanced-robotics-lab.github.io/SANTS/)**|
+|**2026-05-27**|**Frequency-Guided Action Diffusion via Sub-Frequency Manifold Traversal**|Junlin Wang Team|[2605.27919](http://arxiv.org/abs/2605.27919)|null|
+|**2026-05-27**|**Turning Video Models into Generalist Robot Policies**|Vincent Sitzmann Team|[2605.27817](http://arxiv.org/abs/2605.27817)|**[link](https://vera.csail.mit.edu)**|
+|**2026-05-26**|**TPS-Drive: Task-Guided Representation Purification for VLM-based Autonomous Driving**|Ke Ma Team|[2605.27038](http://arxiv.org/abs/2605.27038)|null|
+|**2026-05-28**|**Capability and Robustness Cannot Both Be Free: An Information-Theoretic Bound for Vision-Language-Action Models**|Jianwei Tai Team|[2605.25889](http://arxiv.org/abs/2605.25889)|null|
+|**2026-05-25**|**OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction for Robotic Manipulation**|Xuguang Lan Team|[2605.25829](http://arxiv.org/abs/2605.25829)|null|
+|**2026-05-25**|**AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions**|Bo Han Team|[2605.25707](http://arxiv.org/abs/2605.25707)|null|
+|**2026-05-24**|**X-DiffVLA: X-Embodied Diffusion Action Heads for Vision-Language-Action Models**|Zongqing Lu Team|[2605.25044](http://arxiv.org/abs/2605.25044)|null|
+|**2026-05-23**|**How Noisy Poses Break Inverse Dynamics: Analysis and Mitigation for Video-Based Joint Torque Estimation**|Seong Jae Hwang Team|[2605.24776](http://arxiv.org/abs/2605.24776)|null|
+|**2026-05-23**|**Geometric Workspace Analysis and Transmission-Aware Dynamics of a Serial Spherical Tool for Microsurgery**|Christos Bergeles Team|[2605.24760](http://arxiv.org/abs/2605.24760)|null|
+|**2026-05-22**|**Afford-VLA: Action-Aligned Visual Planning via Internalized Affordance**|Xiangyang Xue Team|[2605.24203](http://arxiv.org/abs/2605.24203)|null|
+|**2026-05-22**|**Point Tracking Improves World Action Models**|Juho Kannala Team|[2605.23856](http://arxiv.org/abs/2605.23856)|null|
+|**2026-05-22**|**$π_0$ -EqM: Equilibrium Matching for Closed-Loop Vision-Language-Action Control**|Yao Mu Team|[2605.23128](http://arxiv.org/abs/2605.23128)|null|
 
 <p align=right>(<a href=#updated-on-20260530>back to top</a>)</p>
 
