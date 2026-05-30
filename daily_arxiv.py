@@ -16,6 +16,8 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
+MAX_DISPLAY_PAPERS = 50
+NEW_PAPER_BADGE = "![NEW](https://img.shields.io/badge/NEW-brightgreen)"
 
 def load_config(config_file:str) -> dict:
     '''
@@ -222,12 +224,18 @@ def update_json_file(filename,data_dict):
         else:
             m = json.loads(content)
             
-    json_data = m.copy() 
+    json_data = m.copy()
+    new_papers = {}
     
     # update papers in each keywords         
     for data in data_dict:
         for keyword in data.keys():
             papers = data[keyword]
+            existing_papers = json_data.get(keyword, {})
+            new_papers[keyword] = [
+                paper_id for paper_id in papers.keys()
+                if paper_id not in existing_papers
+            ]
 
             if keyword in json_data.keys():
                 json_data[keyword].update(papers)
@@ -236,6 +244,7 @@ def update_json_file(filename,data_dict):
 
     with open(filename,"w") as f:
         json.dump(json_data,f)
+    return new_papers
     
 def json_to_md(filename,md_filename,
                task = '',
@@ -243,7 +252,9 @@ def json_to_md(filename,md_filename,
                use_title = True, 
                use_tc = True,
                show_badge = True,
-               use_b2t = True):
+               use_b2t = True,
+               new_papers = None,
+               max_display = MAX_DISPLAY_PAPERS):
     """
     @param filename: str
     @param md_filename: str
@@ -267,6 +278,8 @@ def json_to_md(filename,md_filename,
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
     
+    new_papers = new_papers or {}
+
     with open(filename,"r") as f:
         content = f.read()
         if not content:
@@ -330,9 +343,17 @@ def json_to_md(filename,md_filename,
 
             # sort papers by date
             day_content = sort_papers(day_content)
-        
+
+            # Old logic: write every historical paper in this topic.
+            # for _,v in day_content.items():
+            #     if v is not None:
+            #         f.write(pretty_math(v)) # make latex pretty
+            day_content = dict(list(day_content.items())[:max_display])
+
             for _,v in day_content.items():
                 if v is not None:
+                    if _ in new_papers.get(keyword, []):
+                        v = v.replace("|**", f"|{NEW_PAPER_BADGE} **", 1)
                     f.write(pretty_math(v)) # make latex pretty
 
             f.write(f"\n")
@@ -396,12 +417,13 @@ def demo(**config):
         # update paper links
         if config['update_paper_links']:
             update_paper_links(json_file)
+            new_papers = {}
         else:    
             # update json data
-            update_json_file(json_file,data_collector)
+            new_papers = update_json_file(json_file,data_collector)
         # json data to markdown
         json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge)
+            show_badge = show_badge, new_papers = new_papers)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -410,11 +432,12 @@ def demo(**config):
         # TODO: duplicated update paper links!!!
         if config['update_paper_links']:
             update_paper_links(json_file)
+            new_papers = {}
         else:    
-            update_json_file(json_file,data_collector)
+            new_papers = update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False)
+            use_tc=False, use_b2t=False, new_papers = new_papers)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
@@ -423,10 +446,12 @@ def demo(**config):
         # TODO: duplicated update paper links!!!
         if config['update_paper_links']:
             update_paper_links(json_file)
+            new_papers = {}
         else:    
-            update_json_file(json_file, data_collector_web)
+            new_papers = update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge) 
+            to_web=False, use_title= False, show_badge = show_badge, \
+            new_papers = new_papers) 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
