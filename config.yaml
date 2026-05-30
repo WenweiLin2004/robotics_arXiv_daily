@@ -55,6 +55,35 @@ keywords:
             "Action Space Alignment",
             "Motion Retargeting"
         ]
+        
+    "WAM":
+        filters: [
+            "World Action Model",
+            "World Action Models",
+            "WAM",
+            "World-Action Model",
+            "World-Action Models",
+            "Joint World Action Model",
+            "Joint World-Action Model",
+            "World Action Policy",
+            "World Model Policy",
+            "World Model-based Policy",
+            "World Model-based Policy Optimization",
+            "Predictive Action Model",
+            "Future State and Action",
+            "Joint Future State and Action",
+            "Joint Video and Action",
+            "Video and Action Prediction",
+            "Action Generation",
+            "Action Decoding",
+            "Inverse Dynamics Model",
+            "Inverse Dynamics",
+            "Cascaded WAM",
+            "Joint WAM",
+            "World Model for Action Generation",
+            "World Model for Robot Control"
+        ]
+
     "WorldModel":
         filters: [
             "World Model",
@@ -65,14 +94,22 @@ keywords:
             "Robot World Model",
             "Robotic World Model",
             "Physical World Model",
-            "Action-Conditioned World Model",
-            "Action Conditioned World Model",
             "Video World Model",
             "Generative World Model",
-            "World Foundation Model",
+            "Action-Conditioned World Model",
+            "Action Conditioned World Model",
+            "Action-Conditioned Video Model",
+            "Future State Prediction",
+            "Future Observation Prediction",
+            "Predictive Dynamics Model",
+            "Latent Dynamics Model",
+            "Latent World Model",
             "Neural Simulator",
+            "World Simulator",
             "Imagined Rollout",
             "Imagined Rollouts",
-            "Imagination-Based",
-            "Predictive Model"
+            "Imagination-Based Planning",
+            "Model-Based Planning",
+            "Model Predictive Control"
         ]
+
