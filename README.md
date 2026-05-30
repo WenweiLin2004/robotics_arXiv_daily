@@ -9,6 +9,8 @@
     <li><a href=#vla>VLA</a></li>
     <li><a href=#humanoid>Humanoid</a></li>
     <li><a href=#dexterous>Dexterous</a></li>
+    <li><a href=#crossembodiment>CrossEmbodiment</a></li>
+    <li><a href=#worldmodel>WorldModel</a></li>
   </ol>
 </details>
 
@@ -8903,6 +8905,60 @@
 |**2019-01-23**|**Learning Dexterous In-Hand Manipulation**|Wojciech Zaremba Team|[1808.00177](http://arxiv.org/abs/1808.00177)|null|
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
+
+<p align=right>(<a href=#updated-on-20260530>back to top</a>)</p>
+
+## CrossEmbodiment
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-05-27**|**Turning Video Models into Generalist Robot Policies**|Vincent Sitzmann Team|[2605.27817](http://arxiv.org/abs/2605.27817)|**[link](https://vera.csail.mit.edu)**|
+|**2026-05-25**|**OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction for Robotic Manipulation**|Xuguang Lan Team|[2605.25829](http://arxiv.org/abs/2605.25829)|null|
+|**2026-05-24**|**X-DiffVLA: X-Embodied Diffusion Action Heads for Vision-Language-Action Models**|Zongqing Lu Team|[2605.25044](http://arxiv.org/abs/2605.25044)|null|
+|**2026-05-22**|**Any2Any: Efficient Cross-Embodiment Transfer for Humanoid Whole-Body Tracking**|Hua Chen Team|[2605.23733](http://arxiv.org/abs/2605.23733)|null|
+|**2026-05-22**|**Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving**|Chiyu Max Jiang Team|[2605.22809](http://arxiv.org/abs/2605.22809)|null|
+|**2026-05-20**|**Demo-JEPA: Joint-Embedding Predictive Architecture for One-shot Cross-Embodiment Imitation**|Shanghang Zhang Team|[2605.20811](http://arxiv.org/abs/2605.20811)|null|
+|**2026-05-19**|**Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization**|Abdelkader Lahmadi Team|[2605.19721](http://arxiv.org/abs/2605.19721)|null|
+|**2026-05-19**|**D-CLING: Prior-Preserving Depth-Conditioned Fine-Tuning for Navigation Foundation Models**|Kazuhito Tanaka Team|[2605.19690](http://arxiv.org/abs/2605.19690)|null|
+|**2026-05-19**|**Beyond Waypoints: Dual-Heatmap Grounding for Cross-Embodiment Semantic Navigation**|Yue Chen Team|[2605.19420](http://arxiv.org/abs/2605.19420)|null|
+|**2026-05-19**|**Skinned Motion Retargeting with Spatially Adaptive Interaction Guidance**|Junyong Noh Team|[2605.19355](http://arxiv.org/abs/2605.19355)|**[link](https://suzyn.github.io/space_page/)**|
+|**2026-05-18**|**Dexora: Open-source VLA for High-DoF Bimanual Dexterity**|Hao Zhao Team|[2605.18722](http://arxiv.org/abs/2605.18722)|null|
+|**2026-05-19**|**Latent Action Reparameterization for Efficient Agent Inference**|Chenglin Wu Team|[2605.18597](http://arxiv.org/abs/2605.18597)|null|
+|**2026-05-16**|**LACE: Latent Visual Representation for Cross-Embodiment Learning**|Michael S. Ryoo Team|[2605.16743](http://arxiv.org/abs/2605.16743)|null|
+|**2026-05-13**|**SCAR: Self-Supervised Continuous Action Representation Learning**|Biwei Huang Team|[2605.16412](http://arxiv.org/abs/2605.16412)|null|
+|**2026-05-15**|**DiLA: Disentangled Latent Action World Models**|Si Wu Team|[2605.15725](http://arxiv.org/abs/2605.15725)|**[link](http://disentangled-latent-action-world-models.github.io)**|
+|**2026-05-19**|**AnyAct: Towards Human Reenactment of Character Motion From Video**|Kanglin Liu Team|[2605.15497](http://arxiv.org/abs/2605.15497)|null|
+|**2026-05-13**|**RotVLA: Rotational Latent Action for Vision-Language-Action Model**|Yadong Mu Team|[2605.13403](http://arxiv.org/abs/2605.13403)|null|
+|**2026-05-12**|**OmniHumanoid: Streaming Cross-Embodiment Video Generation with Paired-Free Adaptation**|Mike Zheng Shou Team|[2605.12038](http://arxiv.org/abs/2605.12038)|null|
+|**2026-05-12**|**RIO: Flexible Real-Time Robot I/O for Cross-Embodiment Robot Learning**|Jean Oh Team|[2605.11564](http://arxiv.org/abs/2605.11564)|null|
+|**2026-05-10**|**Beyond Isolation: A Unified Benchmark for General-Purpose Navigation**|Zhipeng Zhang Team|[2605.09441](http://arxiv.org/abs/2605.09441)|null|
+
+<p align=right>(<a href=#updated-on-20260530>back to top</a>)</p>
+
+## WorldModel
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-05-28**|**NeuROK: Generative 4D Neural Object Kinematics**|Jiajun Wu Team|[2605.30347](http://arxiv.org/abs/2605.30347)|null|
+|**2026-05-28**|**YoCausal: How Far is Video Generation from World Model? A Causality Perspective**|Zhixiang Wang Team|[2605.30346](http://arxiv.org/abs/2605.30346)|**[link](https://www.youzhexie.me/papers/YoCausal/index.html)**|
+|**2026-05-28**|**Statistical Embeddings for Similarity, Retrieval, and Interpretable Alignment of Numeric Tabular Datasets**|Keith Wilson Team|[2605.30289](http://arxiv.org/abs/2605.30289)|null|
+|**2026-05-28**|**minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models**|Jun Zhu Team|[2605.30263](http://arxiv.org/abs/2605.30263)|null|
+|**2026-05-28**|**Chess-World-Model: A 10M-Game Benchmark for Exact State Tracking from Chess Move Sequences**|Terry Lyons Team|[2605.30100](http://arxiv.org/abs/2605.30100)|null|
+|**2026-05-28**|**Evaluation of Conversational Agents: Understanding Culture, Context and Environment in Emotion Detection**|Auxane Boch Team|[2605.30099](http://arxiv.org/abs/2605.30099)|null|
+|**2026-05-28**|**CRB-Guided Framework Design and Resource Allocation for Indoor mmWave ISCC Systems**|Mohammad Shikh-Bahaei Team|[2605.29939](http://arxiv.org/abs/2605.29939)|null|
+|**2026-05-28**|**Toward AI Systems That Understand Self and Others: A Multi-Phase Inference Framework for Human Cognitive Diversity and World-Model Alignment**|Toru Takahashi Team|[2605.29930](http://arxiv.org/abs/2605.29930)|null|
+|**2026-05-28**|**Joint Model and Data Sparsification via the Marginal Likelihood**|Eric Nalisnick Team|[2605.29908](http://arxiv.org/abs/2605.29908)|null|
+|**2026-05-28**|**BitTP: The Lightweight Trajectory Prediction Model with BitLLM for Edge-Devices**|Daehee Park Team|[2605.29705](http://arxiv.org/abs/2605.29705)|null|
+|**2026-05-28**|**World Models in Words: Auditing Physical State-Transition Commitments in Vision-Language Models**|Emmanuelle Bourigault Team|[2605.29585](http://arxiv.org/abs/2605.29585)|null|
+|**2026-05-28**|**Evolutionary Rule Extraction from Corporate Default Prediction Models**|Davide Calvaresi Team|[2605.29478](http://arxiv.org/abs/2605.29478)|null|
+|**2026-05-28**|**Dynamic charges effect on infrared dielectric response of polar materials**|Hong-Liang Yi Team|[2605.29437](http://arxiv.org/abs/2605.29437)|null|
+|**2026-05-28**|**Measurements and simulations of X-ray radiation damage effects on CNM n-type 4H-SiC MOS capacitors**|Francesco Moscatelli Team|[2605.29375](http://arxiv.org/abs/2605.29375)|null|
+|**2026-05-28**|**MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models**|Yaodong Yang Team|[2605.29360](http://arxiv.org/abs/2605.29360)|null|
+|**2026-05-28**|**PassNet: Scaling Large Language Models for Graph Compiler Pass Generation**|Siqi Bao Team|[2605.29357](http://arxiv.org/abs/2605.29357)|**[link](https://github.com/PaddlePaddle/PassNet)**|
+|**2026-05-28**|**ViASNet: A Video Ad Saliency Network for Predicting Dynamic Saliency and Viewer Engagement**|Michel Wedel Team|[2605.29302](http://arxiv.org/abs/2605.29302)|null|
+|**2026-05-28**|**On the Practice of Scaling Search Conversion Rate Prediction**|Winter Jiao Team|[2605.29232](http://arxiv.org/abs/2605.29232)|null|
+|**2026-05-27**|**Theoretical Foundations and Effective Algorithms for Policy-Aware Simulator Learning**|Mehryar Mohri Team|[2605.29032](http://arxiv.org/abs/2605.29032)|null|
+|**2026-05-27**|**Causal Intelligence for Constraint-Aware Intervention Design to Induce State Transitions**|Dimitris V. Manatakis Team|[2605.29008](http://arxiv.org/abs/2605.29008)|null|
 
 <p align=right>(<a href=#updated-on-20260530>back to top</a>)</p>
 
