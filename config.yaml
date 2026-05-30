@@ -33,3 +33,46 @@ keywords:
         filters: ["Humanoid Robot", "Humanoid"]
     "Dexterous":
         filters: ["Dexterous Manipulation", "Dexterous hand", "Dexterity", "Dexterous"]
+    "CrossEmbodiment":
+        filters: [
+            "Cross-Embodiment",
+            "Cross Embodiment",
+            "Cross-Embodied",
+            "Cross Embodied",
+            "Embodiment",
+            "Embodied",
+            "Cross-Robot",
+            "Cross Robot",
+            "Multi-Embodiment",
+            "Multi Embodiment",
+            "Embodiment Generalization",
+            "Embodiment Scaling",
+            "Embodiment-Aware",
+            "Morphology-Aware",
+            "Universal Action Space",
+            "Unified Action Space",
+            "Latent Action Space",
+            "Action Space Alignment",
+            "Motion Retargeting"
+        ]
+    "WorldModel":
+        filters: [
+            "World Model",
+            "World Models",
+            "World Modeling",
+            "World Modelling",
+            "Embodied World Model",
+            "Robot World Model",
+            "Robotic World Model",
+            "Physical World Model",
+            "Action-Conditioned World Model",
+            "Action Conditioned World Model",
+            "Video World Model",
+            "Generative World Model",
+            "World Foundation Model",
+            "Neural Simulator",
+            "Imagined Rollout",
+            "Imagined Rollouts",
+            "Imagination-Based",
+            "Predictive Model"
+        ]
