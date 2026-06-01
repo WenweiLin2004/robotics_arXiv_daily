@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.31
+## Updated on 2026.06.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -304,12 +304,12 @@ layout: default
 |**2026-05-12**|**OmniHumanoid: Streaming Cross-Embodiment Video Generation with Paired-Free Adaptation**|Mike Zheng Shou Team|[2605.12038](http://arxiv.org/abs/2605.12038)|null|
 |**2026-05-12**|**RIO: Flexible Real-Time Robot I/O for Cross-Embodiment Robot Learning**|Jean Oh Team|[2605.11564](http://arxiv.org/abs/2605.11564)|null|
 |**2026-05-10**|**Beyond Isolation: A Unified Benchmark for General-Purpose Navigation**|Zhipeng Zhang Team|[2605.09441](http://arxiv.org/abs/2605.09441)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-25**|**FactoryNet: A Large-Scale Dataset toward Industrial Time-Series Foundation Models**|Philipp Petersen Team|[2605.09081](http://arxiv.org/abs/2605.09081)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-05**|**Bridging the Embodiment Gap: Disentangled Cross-Embodiment Video Editing**|Joni Pajarinen Team|[2605.03637](http://arxiv.org/abs/2605.03637)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-04**|**A Semantic Autonomy Framework for VLM-Integrated Indoor Mobile Robots: Hybrid Deterministic Reasoning and Cross-Robot Adaptive Memory**|Cristian Vasile Doicin Team|[2605.02525](http://arxiv.org/abs/2605.02525)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-03**|**Embody4D: A Generalist 4D World Model for Embodied AI**|Zhibo Chen Team|[2605.01799](http://arxiv.org/abs/2605.01799)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-02**|**Action Agent: Agentic Video Generation Meets Flow-Constrained Diffusion**|Dzmitry Tsetserukou Team|[2605.01477](http://arxiv.org/abs/2605.01477)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-04-30**|**FlexiTac: A Low-Cost, Open-Source, Scalable Tactile Sensing Solution for Robotic Systems**|Yunzhu Li Team|[2604.28156](http://arxiv.org/abs/2604.28156)|**[link](https://flexitac.github.io/)**|
+|**2026-05-25**|**FactoryNet: A Large-Scale Dataset toward Industrial Time-Series Foundation Models**|Philipp Petersen Team|[2605.09081](http://arxiv.org/abs/2605.09081)|null|
+|**2026-05-05**|**Bridging the Embodiment Gap: Disentangled Cross-Embodiment Video Editing**|Joni Pajarinen Team|[2605.03637](http://arxiv.org/abs/2605.03637)|null|
+|**2026-05-04**|**A Semantic Autonomy Framework for VLM-Integrated Indoor Mobile Robots: Hybrid Deterministic Reasoning and Cross-Robot Adaptive Memory**|Cristian Vasile Doicin Team|[2605.02525](http://arxiv.org/abs/2605.02525)|null|
+|**2026-05-03**|**Embody4D: A Generalist 4D World Model for Embodied AI**|Zhibo Chen Team|[2605.01799](http://arxiv.org/abs/2605.01799)|null|
+|**2026-05-02**|**Action Agent: Agentic Video Generation Meets Flow-Constrained Diffusion**|Dzmitry Tsetserukou Team|[2605.01477](http://arxiv.org/abs/2605.01477)|null|
+|**2026-04-30**|**FlexiTac: A Low-Cost, Open-Source, Scalable Tactile Sensing Solution for Robotic Systems**|Yunzhu Li Team|[2604.28156](http://arxiv.org/abs/2604.28156)|**[link](https://flexitac.github.io/)**|
 
 ## WorldModel
 
@@ -346,10 +346,10 @@ layout: default
 |**2026-05-27**|**Do LLMs Build World Models From Text? A Multilingual Diagnostic of Spatial Reasoning**|Xin Cao Team|[2605.28277](http://arxiv.org/abs/2605.28277)|null|
 |**2026-05-27**|**Proprio: Latent Self-Scoring and Inference-Time Refinement for Physically Plausible Video Generation**|Alexandre Alahi Team|[2605.28230](http://arxiv.org/abs/2605.28230)|null|
 |**2026-05-27**|**Chreode: A Cell World Model for One-Step Temporal Dynamics and Perturbation Prediction**|Tianlong Chen Team|[2605.28111](http://arxiv.org/abs/2605.28111)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-27**|**Turning Video Models into Generalist Robot Policies**|Vincent Sitzmann Team|[2605.27817](http://arxiv.org/abs/2605.27817)|**[link](https://vera.csail.mit.edu)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-26**|**What-If World: A Causal Benchmark for General World Models in Embodied Scenarios**|Yuan Tian Team|[2605.27589](http://arxiv.org/abs/2605.27589)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-26**|**GE-Sim 2.0: A Roadmap Towards Comprehensive Closed-loop Video World Simulators for Robotic Manipulation**|Guanghui Ren Team|[2605.27491](http://arxiv.org/abs/2605.27491)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-26**|**Riding the Shifting Potential: When Reactive Control Suffices for Multi-Goal Behavior**|Oliver Brock Team|[2605.27314](http://arxiv.org/abs/2605.27314)|null|
+|**2026-05-27**|**Turning Video Models into Generalist Robot Policies**|Vincent Sitzmann Team|[2605.27817](http://arxiv.org/abs/2605.27817)|**[link](https://vera.csail.mit.edu)**|
+|**2026-05-26**|**What-If World: A Causal Benchmark for General World Models in Embodied Scenarios**|Yuan Tian Team|[2605.27589](http://arxiv.org/abs/2605.27589)|null|
+|**2026-05-26**|**GE-Sim 2.0: A Roadmap Towards Comprehensive Closed-loop Video World Simulators for Robotic Manipulation**|Guanghui Ren Team|[2605.27491](http://arxiv.org/abs/2605.27491)|null|
+|**2026-05-26**|**Riding the Shifting Potential: When Reactive Control Suffices for Multi-Goal Behavior**|Oliver Brock Team|[2605.27314](http://arxiv.org/abs/2605.27314)|null|
 
 ## WAM
 
@@ -375,20 +375,20 @@ layout: default
 |**2026-05-22**|**Afford-VLA: Action-Aligned Visual Planning via Internalized Affordance**|Xiangyang Xue Team|[2605.24203](http://arxiv.org/abs/2605.24203)|null|
 |**2026-05-22**|**Point Tracking Improves World Action Models**|Juho Kannala Team|[2605.23856](http://arxiv.org/abs/2605.23856)|null|
 |**2026-05-22**|**$π_0$ -EqM: Equilibrium Matching for Closed-Loop Vision-Language-Action Control**|Yao Mu Team|[2605.23128](http://arxiv.org/abs/2605.23128)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-18**|**Key-Gram: Extensible World Knowledge for Embodied Manipulation**|Zhidong Deng Team|[2605.18556](http://arxiv.org/abs/2605.18556)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-16**|**How to Instruct Your Robot: Dense Language Annotations Power Robot Policy Learning**|Prithviraj Ammanabrolu Team|[2605.17077](http://arxiv.org/abs/2605.17077)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-15**|**WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation**|Yong Li Team|[2605.15964](http://arxiv.org/abs/2605.15964)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-28**|**AttenA+: Rectifying Action Inequality in Robotic Foundation Models**|Jun Ma Team|[2605.13548](http://arxiv.org/abs/2605.13548)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-12**|**World Action Models: The Next Frontier in Embodied AI**|Yu-Gang Jiang Team|[2605.12090](http://arxiv.org/abs/2605.12090)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-12**|**The DAWN of World-Action Interactive Models**|Pai Peng Team|[2605.11550](http://arxiv.org/abs/2605.11550)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-11**|**HarmoWAM: Harmonizing Generalizable and Precise Manipulation via Adaptive World Action Models**|Shanghang Zhang Team|[2605.10942](http://arxiv.org/abs/2605.10942)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-09**|**Geometry Guided Self-Consistency for Physical AI**|Ravi Netravali Team|[2605.08638](http://arxiv.org/abs/2605.08638)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-08**|**NoiseGate: Learning Per-Latent Timestep Schedules as Information Gating in World Action Models**|Junwu Xiong Team|[2605.07794](http://arxiv.org/abs/2605.07794)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-08**|**Is the Future Compatible? Diagnosing Dynamic Consistency in World Action Models**|Hong-Han Shuai Team|[2605.07514](http://arxiv.org/abs/2605.07514)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-08**|**Learning Visual Feature-Based World Models via Residual Latent Action**|Abdeslam Boularias Team|[2605.07079](http://arxiv.org/abs/2605.07079)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-07**|**OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation**|Wenbo Ding Team|[2605.06481](http://arxiv.org/abs/2605.06481)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-07**|**CKT-WAM: Parameter-Efficient Context Knowledge Transfer Between World Action Models**|Biqing Qi Team|[2605.06247](http://arxiv.org/abs/2605.06247)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-09**|**When to Trust Imagination: Adaptive Action Execution for World Action Models**|Xiaojuan Qi Team|[2605.06222](http://arxiv.org/abs/2605.06222)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-05-07**|**EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields**|Kai Chen Team|[2605.06192](http://arxiv.org/abs/2605.06192)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-04-30**|**Being-H0.7: A Latent World-Action Model from Egocentric Videos**|Zongqing Lu Team|[2605.00078](http://arxiv.org/abs/2605.00078)|null|
+|**2026-05-18**|**Key-Gram: Extensible World Knowledge for Embodied Manipulation**|Zhidong Deng Team|[2605.18556](http://arxiv.org/abs/2605.18556)|null|
+|**2026-05-16**|**How to Instruct Your Robot: Dense Language Annotations Power Robot Policy Learning**|Prithviraj Ammanabrolu Team|[2605.17077](http://arxiv.org/abs/2605.17077)|null|
+|**2026-05-15**|**WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation**|Yong Li Team|[2605.15964](http://arxiv.org/abs/2605.15964)|null|
+|**2026-05-28**|**AttenA+: Rectifying Action Inequality in Robotic Foundation Models**|Jun Ma Team|[2605.13548](http://arxiv.org/abs/2605.13548)|null|
+|**2026-05-12**|**World Action Models: The Next Frontier in Embodied AI**|Yu-Gang Jiang Team|[2605.12090](http://arxiv.org/abs/2605.12090)|null|
+|**2026-05-12**|**The DAWN of World-Action Interactive Models**|Pai Peng Team|[2605.11550](http://arxiv.org/abs/2605.11550)|null|
+|**2026-05-11**|**HarmoWAM: Harmonizing Generalizable and Precise Manipulation via Adaptive World Action Models**|Shanghang Zhang Team|[2605.10942](http://arxiv.org/abs/2605.10942)|null|
+|**2026-05-09**|**Geometry Guided Self-Consistency for Physical AI**|Ravi Netravali Team|[2605.08638](http://arxiv.org/abs/2605.08638)|null|
+|**2026-05-08**|**NoiseGate: Learning Per-Latent Timestep Schedules as Information Gating in World Action Models**|Junwu Xiong Team|[2605.07794](http://arxiv.org/abs/2605.07794)|null|
+|**2026-05-08**|**Is the Future Compatible? Diagnosing Dynamic Consistency in World Action Models**|Hong-Han Shuai Team|[2605.07514](http://arxiv.org/abs/2605.07514)|null|
+|**2026-05-08**|**Learning Visual Feature-Based World Models via Residual Latent Action**|Abdeslam Boularias Team|[2605.07079](http://arxiv.org/abs/2605.07079)|null|
+|**2026-05-07**|**OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation**|Wenbo Ding Team|[2605.06481](http://arxiv.org/abs/2605.06481)|null|
+|**2026-05-07**|**CKT-WAM: Parameter-Efficient Context Knowledge Transfer Between World Action Models**|Biqing Qi Team|[2605.06247](http://arxiv.org/abs/2605.06247)|null|
+|**2026-05-09**|**When to Trust Imagination: Adaptive Action Execution for World Action Models**|Xiaojuan Qi Team|[2605.06222](http://arxiv.org/abs/2605.06222)|null|
+|**2026-05-07**|**EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields**|Kai Chen Team|[2605.06192](http://arxiv.org/abs/2605.06192)|null|
+|**2026-04-30**|**Being-H0.7: A Latent World-Action Model from Egocentric Videos**|Zongqing Lu Team|[2605.00078](http://arxiv.org/abs/2605.00078)|null|
 
