@@ -7,7 +7,6 @@ import logging
 import argparse
 import datetime
 import requests
-import subprocess
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -22,34 +21,40 @@ ARXIV_PAGE_SIZE = 20
 ARXIV_DELAY_SECONDS = 10
 ARXIV_NUM_RETRIES = 8
 
+def parse_filters(filters:list):
+    escape = '\"'
+    quote = '' # NO-USE
+    op = ' OR '
+    ret = ''
+    for idx in range(0,len(filters)):
+        filter = filters[idx]
+        if len(filter.split()) > 1:
+            ret += (escape + filter + escape)
+        else:
+            ret += (quote + filter + quote)
+        if idx != len(filters) - 1:
+            ret += op
+    return ret
+
+def pretty_filters(topics:dict) -> dict:
+    keywords = dict()
+    for k,v in topics.items():
+        keywords[k] = parse_filters(v['filters'])
+    return keywords
+
 def load_config(config_file:str) -> dict:
     '''
     config_file: input config file path
     return: a dict of configuration
     '''
-    # make filters pretty
-    def pretty_filters(**config) -> dict:
-        keywords = dict()
-        EXCAPE = '\"'
-        QUOTA = '' # NO-USE
-        OR = ' OR '
-        def parse_filters(filters:list):
-            ret = ''
-            for idx in range(0,len(filters)):
-                filter = filters[idx]
-                if len(filter.split()) > 1:
-                    ret += (EXCAPE + filter + EXCAPE)  
-                else:
-                    ret += (QUOTA + filter + QUOTA)   
-                if idx != len(filters) - 1:
-                    ret += OR
-            return ret
-        for k,v in config['keywords'].items():
-            keywords[k] = parse_filters(v['filters'])
-        return keywords
     with open(config_file,'r') as f:
         config = yaml.load(f,Loader=yaml.FullLoader) 
-        config['kv'] = pretty_filters(**config)
+        config['kv'] = pretty_filters(config['keywords'])
+        topic_pages = config.get('topic_pages', {})
+        if isinstance(topic_pages.get('topics'), dict):
+            config['topic_pages_kv'] = pretty_filters(topic_pages['topics'])
+        else:
+            config['topic_pages_kv'] = {}
         logging.info(f'config = {config}')
     return config 
 
@@ -225,12 +230,15 @@ def update_json_file(filename,data_dict):
     '''
     daily update json file using data_dict
     '''
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
+    if os.path.exists(filename):
+        with open(filename,"r") as f:
+            content = f.read()
+            if not content:
+                m = {}
+            else:
+                m = json.loads(content)
+    else:
+        m = {}
             
     json_data = m.copy()
     new_papers = {}
@@ -249,6 +257,10 @@ def update_json_file(filename,data_dict):
                 json_data[keyword].update(papers)
             else:
                 json_data[keyword] = papers
+
+    output_dir = os.path.dirname(filename)
+    if output_dir:
+        os.makedirs(output_dir, exist_ok=True)
 
     with open(filename,"w") as f:
         json.dump(json_data,f)
@@ -294,6 +306,10 @@ def json_to_md(filename,md_filename,
             data = {}
         else:
             data = json.loads(content)
+
+    output_dir = os.path.dirname(md_filename)
+    if output_dir:
+        os.makedirs(output_dir, exist_ok=True)
 
     # clean README.md if daily already exist else create it
     with open(md_filename,"w+") as f:
@@ -393,6 +409,58 @@ def json_to_md(filename,md_filename,
                 
     logging.info(f"{task} finished")        
 
+def topic_to_filename(topic):
+    filename = re.sub(r'[^A-Za-z0-9_-]+', '-', topic).strip('-')
+    return filename or topic
+
+def publish_topic_pages(**config):
+    topic_pages = config.get('topic_pages', {})
+    if not topic_pages.get('enabled', False):
+        logging.info("Topic pages are disabled")
+        return
+
+    topics = topic_pages.get('topics', [])
+    output_dir = topic_pages.get('output_dir', './docs/topics')
+    topic_queries = config.get('topic_pages_kv', {})
+    if not topic_queries and isinstance(topics, list):
+        topic_queries = {
+            topic: config['kv'][topic]
+            for topic in topics
+            if topic in config['kv']
+        }
+    max_results = config['max_results']
+    show_badge = config['show_badge']
+
+    client = arxiv.Client(
+        page_size=min(max_results, ARXIV_PAGE_SIZE),
+        delay_seconds=ARXIV_DELAY_SECONDS,
+        num_retries=ARXIV_NUM_RETRIES,
+    )
+
+    logging.info("GET topic pages begin")
+    for topic, query in topic_queries.items():
+        if not query:
+            logging.warning(f"Skip topic page {topic} because it has no filters")
+            continue
+
+        logging.info(f"Topic page: {topic}")
+        try:
+            data, _ = get_daily_papers(topic, query=query,
+                                       max_results=max_results,
+                                       client=client)
+        except arxiv.HTTPError as e:
+            logging.error(f"Skip topic page {topic} because arXiv returned an HTTP error: {e}")
+            continue
+
+        topic_filename = topic_to_filename(topic)
+        json_file = os.path.join(output_dir, f"{topic_filename}.json")
+        md_file = os.path.join(output_dir, f"{topic_filename}.md")
+        new_papers = update_json_file(json_file, [data])
+        json_to_md(json_file, md_file, task=f"Update Topic Page {topic}",
+                   show_badge=show_badge, use_tc=False, use_b2t=False,
+                   new_papers=new_papers)
+    logging.info("GET topic pages end")
+
 def demo(**config):
     # TODO: use config
     data_collector = []
@@ -476,18 +544,15 @@ if __name__ == "__main__":
     parser.add_argument('--config_path',type=str, default='config.yaml',
                             help='configuration file path')
     parser.add_argument('--update_paper_links', default=False,
-                        action="store_true",help='whether to update paper links etc.')                        
+                        action="store_true",help='whether to update paper links etc.')
+    parser.add_argument('--publish_topic_pages', default=False,
+                        action="store_true",help='whether to publish separate topic pages')
     args = parser.parse_args()
     config = load_config(args.config_path)
     config = {**config, 'update_paper_links':args.update_paper_links}
-    demo(**config)
-
-    try:
-        subprocess.run(["git", "add", "."], check=True)
-        subprocess.run(["git", "commit", "-m", "commit"], check=True)
-        subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
-        print("Git commands executed successfully.")
-    except subprocess.CalledProcessError as e:
-        pass
+    if args.publish_topic_pages:
+        publish_topic_pages(**config)
+    else:
+        demo(**config)
 
     

@@ -20,6 +20,13 @@ md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
+topic_pages:
+    enabled: True
+    output_dir: './docs/topics'
+    topics: 
+        "Agent":
+            filters: ["Agent", "Agents", "Agentic", "Agentics", "Claw"]
+
 # keywords to search
 keywords:
     # --------- My Keywords ---------

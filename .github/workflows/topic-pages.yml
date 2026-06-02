@@ -1,0 +1,46 @@
+name: Run Topic Pages Daily
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 2 * * *"
+
+permissions:
+  contents: write
+
+env:
+  GITHUB_USER_NAME: WenweiLin2004
+  GITHUB_USER_EMAIL: 2357932328@qq.com
+
+jobs:
+  build:
+    name: update-topic-pages
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python Env
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate topic pages
+        run: |
+          python daily_arxiv.py --publish_topic_pages
+
+      - name: Push topic pages
+        uses: github-actions-x/commit@v2.9
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Github Action Automatic Update Topic Pages"
+          files: docs/topics/*.md docs/topics/*.json
+          rebase: "true"
+          name: ${{ env.GITHUB_USER_NAME }}
+          email: ${{ env.GITHUB_USER_EMAIL }}
