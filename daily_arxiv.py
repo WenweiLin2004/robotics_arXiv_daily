@@ -428,7 +428,8 @@ def publish_topic_pages(**config):
             for topic in topics
             if topic in config['kv']
         }
-    max_results = config['max_results']
+    max_results = topic_pages.get('max_results', config['max_results'])
+    max_display = topic_pages.get('max_display', MAX_DISPLAY_PAPERS)
     show_badge = config['show_badge']
 
     client = arxiv.Client(
@@ -458,7 +459,7 @@ def publish_topic_pages(**config):
         new_papers = update_json_file(json_file, [data])
         json_to_md(json_file, md_file, task=f"Update Topic Page {topic}",
                    show_badge=show_badge, use_tc=False, use_b2t=False,
-                   new_papers=new_papers)
+                   new_papers=new_papers, max_display=max_display)
     logging.info("GET topic pages end")
 
 def demo(**config):

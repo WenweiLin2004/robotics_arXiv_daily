@@ -23,6 +23,8 @@ md_wechat_path: './docs/wechat.md'
 topic_pages:
     enabled: True
     output_dir: './docs/topics'
+    max_results: 150
+    max_display: 150
     topics: 
         "Agent":
             filters: ["Agent", "Agents", "Agentic", "Agentics", "Claw"]
