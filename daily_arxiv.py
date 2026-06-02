@@ -18,6 +18,9 @@ github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 MAX_DISPLAY_PAPERS = 50
 NEW_PAPER_BADGE = "![NEW](https://img.shields.io/badge/NEW-brightgreen)"
+ARXIV_PAGE_SIZE = 20
+ARXIV_DELAY_SECONDS = 10
+ARXIV_NUM_RETRIES = 8
 
 def load_config(config_file:str) -> dict:
     '''
@@ -29,7 +32,7 @@ def load_config(config_file:str) -> dict:
         keywords = dict()
         EXCAPE = '\"'
         QUOTA = '' # NO-USE
-        OR = 'OR' # TODO
+        OR = ' OR '
         def parse_filters(filters:list):
             ret = ''
             for idx in range(0,len(filters)):
@@ -89,7 +92,7 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
   
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic,query="slam", max_results=2, client=None):
     """
     @param topic: str
     @param query: str
@@ -103,7 +106,12 @@ def get_daily_papers(topic,query="slam", max_results=2):
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
-    client = arxiv.Client()
+    if client is None:
+        client = arxiv.Client(
+            page_size=min(max_results, ARXIV_PAGE_SIZE),
+            delay_seconds=ARXIV_DELAY_SECONDS,
+            num_retries=ARXIV_NUM_RETRIES,
+        )
 
     for result in client.results(search_engine):
 
@@ -401,10 +409,20 @@ def demo(**config):
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
+        client = arxiv.Client(
+            page_size=min(max_results, ARXIV_PAGE_SIZE),
+            delay_seconds=ARXIV_DELAY_SECONDS,
+            num_retries=ARXIV_NUM_RETRIES,
+        )
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results)
+            try:
+                data, data_web = get_daily_papers(topic, query = keyword,
+                                                max_results = max_results,
+                                                client = client)
+            except arxiv.HTTPError as e:
+                logging.error(f"Skip topic {topic} because arXiv returned an HTTP error: {e}")
+                continue
             data_collector.append(data)
             data_collector_web.append(data_web)
             print("\n")

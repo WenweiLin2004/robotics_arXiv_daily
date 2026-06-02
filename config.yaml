@@ -53,24 +53,11 @@ keywords:
             "World Action Models",
             "World-Action Model",
             "World-Action Models",
-            "Joint World Action Model",
-            "Joint World-Action Model",
-            "Cascaded WAM",
-            "Joint WAM",
-            "World Model for Action Generation",
-            "World Model for Robot Control"
         ]
 
     "WorldModel":
         filters: [
             "World Model",
             "World Models",
-            "World Modeling",
-            "World Modelling",
-            "Embodied World Model",
-            "Robot World Model",
-            "Robotic World Model",
-            "Physical World Model",
-            "Video World Model"
         ]
 
