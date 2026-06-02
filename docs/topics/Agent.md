@@ -1,0 +1,28 @@
+## Updated on 2026.06.02
+> Usage instructions: [here](./docs/README.md#usage)
+
+## Agent
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models**|Hadar Averbuch-Elor Team|[2606.02580](http://arxiv.org/abs/2606.02580)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents**|May Dongmei Wang Team|[2606.02568](http://arxiv.org/abs/2606.02568)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**HERO'S JOURNEY: Testing Complex Rule Induction with Text Games**|Junyi Jessy Li Team|[2606.02556](http://arxiv.org/abs/2606.02556)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**SkillHarm: Lifecycle-Aware Skill-Based Attacks via Automated Construction**|Huan Sun Team|[2606.02540](http://arxiv.org/abs/2606.02540)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**Tracking the Behavioral Trajectories of Adapting Agents**|Ian Timmis Team|[2606.02536](http://arxiv.org/abs/2606.02536)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**A No-Regret Framework for Adaptive Incentive Design**|Silun Zhang Team|[2606.02529](http://arxiv.org/abs/2606.02529)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**Auditing Asset-Specific Preferences in Financial Large Language Models: Evidence from Bitcoin Representations and Portfolio Allocation**|Wenbin Wu Team|[2606.02528](http://arxiv.org/abs/2606.02528)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**IMAC-AgriVLN: Can Agricultural Vision-and-Language Navigation Agents be Aware of Instruction Mistakes?**|Xiang Li Team|[2606.02519](http://arxiv.org/abs/2606.02519)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**Bridging the Last Mile of Time Series Forecasting with LLM Agents**|Zhenhua Zhang Team|[2606.02497](http://arxiv.org/abs/2606.02497)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**Monitoring Agentic Systems Before They're Reliable**|Heather Frase Team|[2606.02494](http://arxiv.org/abs/2606.02494)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**Iteris: Agentic Research Loops for Computational Mathematics**|Bin Dong Team|[2606.02484](http://arxiv.org/abs/2606.02484)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**Ghost Tool Calls: Issue-Time Privacy for Speculative Agent Tools**|Laurent Bindschaedler Team|[2606.02483](http://arxiv.org/abs/2606.02483)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**X-Stream: Exploring MLLMs as Multiplexers for Multi-Stream Understanding**|Xiangyu Yue Team|[2606.02482](http://arxiv.org/abs/2606.02482)|**[link](https://peiwensun2000.github.io/xstream/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**MCP-Persona: Benchmarking LLM Agents on Real-World Personal Applications via Environment Simulation**|Siheng Chen Team|[2606.02470](http://arxiv.org/abs/2606.02470)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**MASER: Modality-Adaptive Specialist Routing for Embodied 3D Spatial Intelligence**|Vishnuram AV Team|[2606.02463](http://arxiv.org/abs/2606.02463)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**AGENTCL: Toward Rigorous Evaluation of Continual Learning in Language Agents**|Yu Su Team|[2606.02461](http://arxiv.org/abs/2606.02461)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models**|Mengshi Qi Team|[2606.02459](http://arxiv.org/abs/2606.02459)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**Beyond One-shot: AI Agents for Learning in Field Experiments**|Gordon Gao Team|[2606.02458](http://arxiv.org/abs/2606.02458)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**HLL: Can Agents Cross Humanity's Last Line of Verification?**|Dongrui Liu Team|[2606.02449](http://arxiv.org/abs/2606.02449)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-01**|**ODTQA-FoRe: An Open-Domain Tabular Question Answering Dataset for Future Data Forecasting and Reasoning**|Weijia Jia Team|[2606.02433](http://arxiv.org/abs/2606.02433)|null|
+
