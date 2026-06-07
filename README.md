@@ -1,4 +1,4 @@
-## Updated on 2026.06.06
+## Updated on 2026.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -70,7 +70,7 @@
 |**2026-05-28**|**Mitigating State Aliasing in Vision-Language-Action Models via Inverse Dynamics Learning**|Hyunwoo J. Kim Team|[2605.29577](http://arxiv.org/abs/2605.29577)|null|
 |**2026-05-28**|**VE2VF: Vision-Enabled to Vision-Free Distillation via Real-world Reinforcement Learning for Robust Contact-Rich Manipulation**|Dongheui Lee Team|[2605.29564](http://arxiv.org/abs/2605.29564)|null|
 
-<p align=right>(<a href=#updated-on-20260606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## VLM
 
@@ -127,7 +127,7 @@
 |**2026-05-28**|**Why Far Looks Up: Probing Spatial Representation in Vision-Language Models**|Jaesik Park Team|[2605.30161](http://arxiv.org/abs/2605.30161)|null|
 |**2026-05-28**|**AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection**|Guansong Pang Team|[2605.30140](http://arxiv.org/abs/2605.30140)|null|
 
-<p align=right>(<a href=#updated-on-20260606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## VLA
 
@@ -184,7 +184,7 @@
 |**2026-05-31**|**Threading Optimization for Vision-Language-Action Model Inference in Low-Cost Smart Agricultural Manipulation**|Lifeng Zhou Team|[2606.00966](http://arxiv.org/abs/2606.00966)|null|
 |**2026-05-30**|**Benchmarks for Vision-Language Models in Urban Perception Should Be Reliability-Aware and Negotiated**|Rashid Mushkani Team|[2606.00871](http://arxiv.org/abs/2606.00871)|null|
 
-<p align=right>(<a href=#updated-on-20260606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## Humanoid
 
@@ -241,7 +241,7 @@
 |**2026-05-19**|**HoloMotion-1 Technical Report**|Zhizhong Su Team|[2605.15336](http://arxiv.org/abs/2605.15336)|null|
 |**2026-05-14**|**Before the Body Moves: Learning Anticipatory Joint Intent for Language-Conditioned Humanoid Control**|Yutao Yue Team|[2605.14417](http://arxiv.org/abs/2605.14417)|null|
 
-<p align=right>(<a href=#updated-on-20260606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## Dexterous
 
@@ -298,7 +298,7 @@
 |**2026-04-26**|**Tube Diffusion Policy: Reactive Visual-Tactile Policy Learning for Contact-rich Manipulation**|Amirhossein H. Memar Team|[2604.23609](http://arxiv.org/abs/2604.23609)|null|
 |**2026-04-23**|**X2-N: A Transformable Wheel-legged Humanoid Robot with Dual-mode Locomotion and Manipulation**|Ling Shi Team|[2604.21541](http://arxiv.org/abs/2604.21541)|null|
 
-<p align=right>(<a href=#updated-on-20260606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## CrossEmbodiment
 
@@ -355,7 +355,7 @@
 |**2026-06-01**|**PillarDETR: YOLO-Backbone and RT-DETR Head for Real-Time 3D Object Detection**|Harsh Dave Team|[2606.01757](http://arxiv.org/abs/2606.01757)|null|
 |**2026-06-01**|**TERRA: Task-Embedded Reasoning and Representation Architecture for Cross-Domain Applications**|Shayan Shokri Team|[2606.01520](http://arxiv.org/abs/2606.01520)|null|
 
-<p align=right>(<a href=#updated-on-20260606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## WorldModel
 
@@ -412,7 +412,7 @@
 |**2026-05-31**|**BRo-JEPA: Learning Modular Arithmetic in Latent Space**|Brennen Yu Team|[2606.01372](http://arxiv.org/abs/2606.01372)|null|
 |**2026-05-31**|**Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends**|Per Ola Kristensson Team|[2606.01164](http://arxiv.org/abs/2606.01164)|**[link](https://github.com/liujiuming123/Awesome-Interactive-World-Model)**|
 
-<p align=right>(<a href=#updated-on-20260606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## WAM
 
@@ -466,5 +466,5 @@
 |**2026-05-07**|**EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields**|Kai Chen Team|[2605.06192](http://arxiv.org/abs/2605.06192)|null|
 |**2026-04-30**|**Being-H0.7: A Latent World-Action Model from Egocentric Videos**|Zongqing Lu Team|[2605.00078](http://arxiv.org/abs/2605.00078)|null|
 
-<p align=right>(<a href=#updated-on-20260606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
