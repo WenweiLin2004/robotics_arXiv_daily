@@ -28,6 +28,8 @@ topic_pages:
     topics: 
         "Agent":
             filters: ["Agent", "Agents", "Agentic", "Agentics", "Claw"]
+        "Ego-centric":
+            filters: ["Ego-centric", "Ego centric", "Egocentric", "Ego", "ego"]
 
 # keywords to search
 keywords:
