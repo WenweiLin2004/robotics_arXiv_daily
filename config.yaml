@@ -30,6 +30,8 @@ topic_pages:
             filters: ["Agent", "Agents", "Agentic", "Agentics", "Claw"]
         "Ego-centric":
             filters: ["Ego-centric", "Ego centric", "Egocentric", "Ego", "ego"]
+        "CrossEmbodiment":
+            filters: ["Cross Embodiment", "Cross-Embodiment", "Embodiment", "Embodied"]
 
 # keywords to search
 keywords:
