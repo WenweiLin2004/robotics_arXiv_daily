@@ -1,10 +1,12 @@
-## Updated on 2026.06.10
+## Updated on 2026.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-10**|**VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving**|Burhan Yaman Team|[2606.12396](http://arxiv.org/abs/2606.12396)|**[link](https://yaojin17.github.io/VLGA/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-10**|**Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning**|Jiangchao Yao Team|[2606.11683](http://arxiv.org/abs/2606.11683)|null|
 |**2026-06-09**|**A Multimodal RGB and Events Dataset for Hand Detection in First-Person View**|Yulia Sandamirskaya Team|[2606.10790](http://arxiv.org/abs/2606.10790)|null|
 |**2026-06-09**|**ManiSplat: Manipulation Trajectory Synthesis from Monocular Video via Decoupled 3D Gaussian Splatting**|Gaoang Wang Team|[2606.10645](http://arxiv.org/abs/2606.10645)|null|
 |**2026-06-09**|**Hierarchical Policies from Verbal and Egocentric Human Signals for Natural Human-Robot Interaction**|Kimin Lee Team|[2606.10276](http://arxiv.org/abs/2606.10276)|**[link](https://project-edith.github.io)**|
@@ -153,6 +155,4 @@
 |**2026-05-13**|**SID: Sliding into Distribution for Robust Few-Demonstration Manipulation**|Huixu Dong Team|[2605.13428](http://arxiv.org/abs/2605.13428)|**[link](https://sliding-into-distribution.github.io/)**|
 |**2026-05-13**|**Ego2World: Compiling Egocentric Cooking Videos into Executable Worlds for Belief-State Planning**|Shijie Li Team|[2605.13335](http://arxiv.org/abs/2605.13335)|**[link](https://sj-li.com/PROJ/Ego2World/)**|
 |**2026-05-13**|**What Limits Vision-and-Language Navigation ?**|Renjing Xu Team|[2605.13328](http://arxiv.org/abs/2605.13328)|null|
-|**2026-05-13**|**TouchAnything: A Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video**|Shuo Yang Team|[2605.13083](http://arxiv.org/abs/2605.13083)|null|
-|**2026-05-13**|**EgoForce: Robust Online Egocentric Motion Reconstruction via Diffusion Forcing**|Young Min Kim Team|[2605.13041](http://arxiv.org/abs/2605.13041)|**[link](https://inwoohwang.me/EgoForce)**|
 
