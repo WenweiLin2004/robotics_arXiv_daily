@@ -1,10 +1,19 @@
-## Updated on 2026.06.11
+## Updated on 2026.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-11**|**NavWAM: A Navigation World Action Model for Goal-Conditioned Visual Navigation**|Yutaka Matsuo Team|[2606.13494](http://arxiv.org/abs/2606.13494)|**[link](https://dachii-azm.github.io/navwam/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-11**|**Embodied Opinion Dynamics for Safety-Critical Motion Control in Dynamic Environments**|Yu Xing Team|[2606.13465](http://arxiv.org/abs/2606.13465)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-11**|**OR-Action: Multi-Role Video Understanding with Fine-Grained Actions**|Nassir Navab Team|[2606.13332](http://arxiv.org/abs/2606.13332)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-11**|**Rethinking RAG in Long Videos: What to Retrieve and How to Use It?**|Hwanjun Song Team|[2606.13141](http://arxiv.org/abs/2606.13141)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-11**|**Diffusion Transformer World-Action Model for AV Scene Prediction**|Kai Xi Chew Team|[2606.12987](http://arxiv.org/abs/2606.12987)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-11**|**Objects Before Words: Object-First Inductive Biases for Grounding Language in Child-View Video**|Muhammad Haris Khan Team|[2606.12985](http://arxiv.org/abs/2606.12985)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-11**|**SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation**|Nikolay Atanasov Team|[2606.12956](http://arxiv.org/abs/2606.12956)|**[link](https://existentialrobotics.org/serf/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-10**|**PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation**|Salma Elmalaki Team|[2606.12616](http://arxiv.org/abs/2606.12616)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-10**|**EgoEngine: From Egocentric Human Videos to High-Fidelity Dexterous Robot Demonstrations**|Danfei Xu Team|[2606.12604](http://arxiv.org/abs/2606.12604)|null|
 |**2026-06-10**|**VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving**|Burhan Yaman Team|[2606.12396](http://arxiv.org/abs/2606.12396)|**[link](https://yaojin17.github.io/VLGA/)**|
 |**2026-06-10**|**Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning**|Jiangchao Yao Team|[2606.11683](http://arxiv.org/abs/2606.11683)|null|
 |**2026-06-09**|**A Multimodal RGB and Events Dataset for Hand Detection in First-Person View**|Yulia Sandamirskaya Team|[2606.10790](http://arxiv.org/abs/2606.10790)|null|
@@ -146,13 +155,4 @@
 |**2026-05-25**|**EgoExo-WM: Unlocking Exo Video for Ego World Models**|Kristen Grauman Team|[2605.15477](http://arxiv.org/abs/2605.15477)|**[link](https://vision.cs.utexas.edu/projects/EgoExo-WM/)**|
 |**2026-05-14**|**Social-Mamba: Socially-Aware Trajectory Forecasting with State-Space Models**|Alexandre Alahi Team|[2605.15424](http://arxiv.org/abs/2605.15424)|null|
 |**2026-05-14**|**Minerva-Ego: Spatiotemporal Hints for Egocentric Video Understanding**|Cordelia Schmid Team|[2605.15342](http://arxiv.org/abs/2605.15342)|null|
-|**2026-05-14**|**PhysBrain 1.0 Technical Report**|Kai Chen Team|[2605.15298](http://arxiv.org/abs/2605.15298)|**[link](https://phys-brain.github.io)**|
-|**2026-05-14**|**EARL: Towards a Unified Analysis-Guided Reinforcement Learning Framework for Egocentric Interaction Reasoning and Pixel Grounding**|Yi Wang Team|[2605.14742](http://arxiv.org/abs/2605.14742)|**[link](https://github.com/yuggiehk/EARL)**|
-|**2026-05-19**|**MAPLE: Latent Multi-Agent Play for End-to-End Autonomous Driving**|Hong Cai Team|[2605.14201](http://arxiv.org/abs/2605.14201)|null|
-|**2026-05-13**|**Behavior Cloning for Active Perception with Low-Resolution Egocentric Vision**|Ladislau Bölöni Team|[2605.14106](http://arxiv.org/abs/2605.14106)|null|
-|**2026-05-13**|**LEXI-SG: Monocular 3D Scene Graph Mapping with Room-Guided Feed-Forward Reconstruction**|Maurice Fallon Team|[2605.13741](http://arxiv.org/abs/2605.13741)|null|
-|**2026-05-19**|**Causality-Aware End-to-End Autonomous Driving via Ego-Centric Joint Scene Modeling**|Jungbeom Lee Team|[2605.13646](http://arxiv.org/abs/2605.13646)|null|
-|**2026-05-13**|**SID: Sliding into Distribution for Robust Few-Demonstration Manipulation**|Huixu Dong Team|[2605.13428](http://arxiv.org/abs/2605.13428)|**[link](https://sliding-into-distribution.github.io/)**|
-|**2026-05-13**|**Ego2World: Compiling Egocentric Cooking Videos into Executable Worlds for Belief-State Planning**|Shijie Li Team|[2605.13335](http://arxiv.org/abs/2605.13335)|**[link](https://sj-li.com/PROJ/Ego2World/)**|
-|**2026-05-13**|**What Limits Vision-and-Language Navigation ?**|Renjing Xu Team|[2605.13328](http://arxiv.org/abs/2605.13328)|null|
 
