@@ -1,19 +1,19 @@
-## Updated on 2026.06.12
+## Updated on 2026.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-11**|**NavWAM: A Navigation World Action Model for Goal-Conditioned Visual Navigation**|Yutaka Matsuo Team|[2606.13494](http://arxiv.org/abs/2606.13494)|**[link](https://dachii-azm.github.io/navwam/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-11**|**Embodied Opinion Dynamics for Safety-Critical Motion Control in Dynamic Environments**|Yu Xing Team|[2606.13465](http://arxiv.org/abs/2606.13465)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-11**|**OR-Action: Multi-Role Video Understanding with Fine-Grained Actions**|Nassir Navab Team|[2606.13332](http://arxiv.org/abs/2606.13332)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-11**|**Rethinking RAG in Long Videos: What to Retrieve and How to Use It?**|Hwanjun Song Team|[2606.13141](http://arxiv.org/abs/2606.13141)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-11**|**Diffusion Transformer World-Action Model for AV Scene Prediction**|Kai Xi Chew Team|[2606.12987](http://arxiv.org/abs/2606.12987)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-11**|**Objects Before Words: Object-First Inductive Biases for Grounding Language in Child-View Video**|Muhammad Haris Khan Team|[2606.12985](http://arxiv.org/abs/2606.12985)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-11**|**SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation**|Nikolay Atanasov Team|[2606.12956](http://arxiv.org/abs/2606.12956)|**[link](https://existentialrobotics.org/serf/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-10**|**PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation**|Salma Elmalaki Team|[2606.12616](http://arxiv.org/abs/2606.12616)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-10**|**EgoEngine: From Egocentric Human Videos to High-Fidelity Dexterous Robot Demonstrations**|Danfei Xu Team|[2606.12604](http://arxiv.org/abs/2606.12604)|null|
+|**2026-06-11**|**NavWAM: A Navigation World Action Model for Goal-Conditioned Visual Navigation**|Yutaka Matsuo Team|[2606.13494](http://arxiv.org/abs/2606.13494)|**[link](https://dachii-azm.github.io/navwam/)**|
+|**2026-06-11**|**Embodied Opinion Dynamics for Safety-Critical Motion Control in Dynamic Environments**|Yu Xing Team|[2606.13465](http://arxiv.org/abs/2606.13465)|null|
+|**2026-06-11**|**OR-Action: Multi-Role Video Understanding with Fine-Grained Actions**|Nassir Navab Team|[2606.13332](http://arxiv.org/abs/2606.13332)|null|
+|**2026-06-11**|**Rethinking RAG in Long Videos: What to Retrieve and How to Use It?**|Hwanjun Song Team|[2606.13141](http://arxiv.org/abs/2606.13141)|null|
+|**2026-06-11**|**Diffusion Transformer World-Action Model for AV Scene Prediction**|Kai Xi Chew Team|[2606.12987](http://arxiv.org/abs/2606.12987)|null|
+|**2026-06-11**|**Objects Before Words: Object-First Inductive Biases for Grounding Language in Child-View Video**|Muhammad Haris Khan Team|[2606.12985](http://arxiv.org/abs/2606.12985)|null|
+|**2026-06-11**|**SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation**|Nikolay Atanasov Team|[2606.12956](http://arxiv.org/abs/2606.12956)|**[link](https://existentialrobotics.org/serf/)**|
+|**2026-06-10**|**PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation**|Salma Elmalaki Team|[2606.12616](http://arxiv.org/abs/2606.12616)|null|
+|**2026-06-10**|**EgoEngine: From Egocentric Human Videos to High-Fidelity Dexterous Robot Demonstrations**|Danfei Xu Team|[2606.12604](http://arxiv.org/abs/2606.12604)|null|
 |**2026-06-10**|**VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving**|Burhan Yaman Team|[2606.12396](http://arxiv.org/abs/2606.12396)|**[link](https://yaojin17.github.io/VLGA/)**|
 |**2026-06-10**|**Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning**|Jiangchao Yao Team|[2606.11683](http://arxiv.org/abs/2606.11683)|null|
 |**2026-06-09**|**A Multimodal RGB and Events Dataset for Hand Detection in First-Person View**|Yulia Sandamirskaya Team|[2606.10790](http://arxiv.org/abs/2606.10790)|null|
