@@ -1,4 +1,4 @@
-## Updated on 2026.06.13
+## Updated on 2026.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -70,7 +70,7 @@
 |**2026-06-08**|**DexPIE: Stable Dexterous Policy Improvement from Real-World Experience**|Yaonan Wang Team|[2606.09615](http://arxiv.org/abs/2606.09615)|**[link](https://siiuuuuuu.github.io/DexPIE)**|
 |**2026-06-08**|**CT-VAM: A Cerebello-Thalamic-Inspired Vision-Action Model for Efficient Visuomotor Control**|Jiahu Qin Team|[2606.09572](http://arxiv.org/abs/2606.09572)|null|
 
-<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260614>back to top</a>)</p>
 
 ## VLM
 
@@ -127,7 +127,7 @@
 |**2026-06-08**|**Multi-channel Optical Vision Model**|Romain Fleury Team|[2606.10253](http://arxiv.org/abs/2606.10253)|null|
 |**2026-06-08**|**Density Ridge Selective Prediction for LLM and VLM Hallucination Detection under Calibration Label Scarcity**|Nina I. Shamsi Team|[2606.10198](http://arxiv.org/abs/2606.10198)|null|
 
-<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260614>back to top</a>)</p>
 
 ## VLA
 
@@ -184,7 +184,7 @@
 |**2026-06-08**|**TORL-VLA: Tactile Guided Online Reinforcement Learning for Contact-Rich Manipulation**|Baoxu Liu Team|[2606.09337](http://arxiv.org/abs/2606.09337)|null|
 |**2026-06-08**|**Back to the Familiar Future: Failure Recovery for VLA Policies via Pre-Imagined Milestone Selection**|Byoung-Tak Zhang Team|[2606.09258](http://arxiv.org/abs/2606.09258)|null|
 
-<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260614>back to top</a>)</p>
 
 ## Humanoid
 
@@ -241,7 +241,7 @@
 |**2026-05-30**|**Global-Local Attention Decomposition for Terrain Encoding in Humanoid Perceptive Locomotion**|Yue Gao Team|[2606.00637](http://arxiv.org/abs/2606.00637)|null|
 |**2026-05-29**|**Constrained Whole-Body Tracking for Humanoid Robots**|Marco Pavone Team|[2606.00374](http://arxiv.org/abs/2606.00374)|null|
 
-<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260614>back to top</a>)</p>
 
 ## Dexterous
 
@@ -298,7 +298,7 @@
 |**2026-05-23**|**IsaacIPC: Coupling High-Fidelity Simulation and Realistic Rendering for Contact-Rich Robotic Systems**|Zhongqing Han Team|[2605.24339](http://arxiv.org/abs/2605.24339)|null|
 |**2026-05-20**|**Safe and Steerable Geometric Motion Policies for Robotic Dexterous Manipulation**|C. Karen Liu Team|[2605.21811](http://arxiv.org/abs/2605.21811)|**[link](https://tml.stanford.edu/safe-pbds)**|
 
-<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260614>back to top</a>)</p>
 
 ## CrossEmbodiment
 
@@ -355,7 +355,7 @@
 |**2026-06-06**|**Continual Quadruped Robots Coordination via Semantic Skill Discovery**|Yang Yu Team|[2606.08102](http://arxiv.org/abs/2606.08102)|**[link](https://conquer-project.pages.dev/)**|
 |**2026-06-06**|**vla.cpp: A Unified Inference Runtime for Vision-Language-Action Models**|An T. Le Team|[2606.08094](http://arxiv.org/abs/2606.08094)|null|
 
-<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260614>back to top</a>)</p>
 
 ## WorldModel
 
@@ -412,7 +412,7 @@
 |**2026-06-06**|**PRISM: PRior-guided Imagination Sampling in world Models**|Yang Ye Team|[2606.07974](http://arxiv.org/abs/2606.07974)|null|
 |**2026-06-06**|**DisCo: World Models with Discrete Camera Motion Control**|Zuxuan Wu Team|[2606.07967](http://arxiv.org/abs/2606.07967)|null|
 
-<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260614>back to top</a>)</p>
 
 ## WAM
 
@@ -469,5 +469,5 @@
 |**2026-05-22**|**$π_0$ -EqM: Equilibrium Matching for Closed-Loop Vision-Language-Action Control**|Yao Mu Team|[2605.23128](http://arxiv.org/abs/2605.23128)|null|
 |**2026-05-18**|**Key-Gram: Extensible World Knowledge for Embodied Manipulation**|Zhidong Deng Team|[2605.18556](http://arxiv.org/abs/2605.18556)|null|
 
-<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260614>back to top</a>)</p>
 
