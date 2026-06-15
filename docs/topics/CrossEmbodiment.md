@@ -1,11 +1,19 @@
-## Updated on 2026.06.14
+## Updated on 2026.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-11**|**InterleaveThinker: Reinforcing Agentic Interleaved Generation**|Hongsheng Li Team|[2606.13679](http://arxiv.org/abs/2606.13679)|**[link](https://zhengdian1.github.io/InterleaveThinker-proj/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-12**|**AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition**|Lianhui Qin Team|[2606.14674](http://arxiv.org/abs/2606.14674)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-12**|**What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI**|Nikolaos Fachantidis Team|[2606.14602](http://arxiv.org/abs/2606.14602)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-12**|**Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack**|Zhengyou Zhang Team|[2606.14409](http://arxiv.org/abs/2606.14409)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-12**|**FloVerse: Floor Plan-Guided Multi-Modal Navigation**|Wei Liang Team|[2606.14267](http://arxiv.org/abs/2606.14267)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-12**|**MUSE: Agentic 3D Scene Authoring via Memory-Grounded Incremental Requirement Satisfaction**|Xin Tan Team|[2606.14168](http://arxiv.org/abs/2606.14168)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-11**|**PhysVLA: Towards Physically-Grounded VLA for Embodied Robotic Manipulation**|Lin Wang Team|[2606.13886](http://arxiv.org/abs/2606.13886)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-11**|**Multi-Agent Embodied Autonomous Driving: From V2X Information Exchange to Shared World Models**|Yuguang Fang Team|[2606.13840](http://arxiv.org/abs/2606.13840)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-11**|**$μ_0$ : A Scalable 3D Interaction-Trace World Model**|Furong Huang Team|[2606.13769](http://arxiv.org/abs/2606.13769)|null|
+|**2026-06-12**|**InterleaveThinker: Reinforcing Agentic Interleaved Generation**|Hongsheng Li Team|[2606.13679](http://arxiv.org/abs/2606.13679)|**[link](https://zhengdian1.github.io/InterleaveThinker-proj/)**|
 |**2026-06-11**|**$\texttt{WEAVER}$ , Better, Faster, Longer: An Effective World Model for Robotic Manipulation**|Andrea Bajcsy Team|[2606.13672](http://arxiv.org/abs/2606.13672)|null|
 |**2026-06-11**|**LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories**|Huajun Chen Team|[2606.13578](http://arxiv.org/abs/2606.13578)|**[link](https://zjunlp.github.io/LabVLA/)**|
 |**2026-06-11**|**SPARC: Reliable Spatial Annotations from Robot Demonstrations at Scale**|Rudolf Lioutikov Team|[2606.13497](http://arxiv.org/abs/2606.13497)|null|
@@ -61,7 +69,7 @@
 |**2026-06-08**|**RPO-PDT: Demonstrating Role-Play-Based Knowledge Adaptation for Student Support Dialogue (Demonstration System)**|Yanchao Yu Team|[2606.09255](http://arxiv.org/abs/2606.09255)|null|
 |**2026-06-08**|**MotionWAM: Towards Foundation World Action Models for Real-Time Humanoid Loco-Manipulation**|Junwei Liang Team|[2606.09215](http://arxiv.org/abs/2606.09215)|null|
 |**2026-06-08**|**SpaceVLN: A Zero-Shot Vision-and-Language Navigation Agent with Online Spatial Cognitive Memory and Reasoning**|Hua Yang Team|[2606.08992](http://arxiv.org/abs/2606.08992)|null|
-|**2026-06-07**|**Benchmarking Vision-Language-Action Models on SO-101: Failure and Recovery Analysis**|Xinchuan Qiu Team|[2606.08881](http://arxiv.org/abs/2606.08881)|null|
+|**2026-06-11**|**Benchmarking Vision-Language-Action Models on SO-101: Failure and Recovery Analysis**|Xinchuan Qiu Team|[2606.08881](http://arxiv.org/abs/2606.08881)|null|
 |**2026-06-07**|**Video2Sim2Real: Full-Stack Autonomous Dexterous Skill Acquisition from a Single Human Video**|Harish Ravichandar Team|[2606.08828](http://arxiv.org/abs/2606.08828)|**[link](https://video2sim2real.github.io/)**|
 |**2026-06-07**|**Harnessing Streaming Video in the Wild**|Jiaqi Wang Team|[2606.08615](http://arxiv.org/abs/2606.08615)|null|
 |**2026-06-07**|**OASIS: From Simulation Data Collection to Real-World Humanoid Loco-Manipulation**|Xuelong Li Team|[2606.08548](http://arxiv.org/abs/2606.08548)|**[link](https://oasis-humanoid.github.io/)**|
@@ -147,12 +155,4 @@
 |**2026-05-31**|**PSG-Nav: Probabilistic Scene Graph Navigation via Multiverse Decision Making**|Sihong Xie Team|[2606.01313](http://arxiv.org/abs/2606.01313)|null|
 |**2026-05-31**|**Where to Look: Can Foundation Models Reach a Target Viewpoint Through Active Exploration?**|Chunhua Shen Team|[2606.01247](http://arxiv.org/abs/2606.01247)|**[link](https://github.com/aim-uofa/TVRBench)**|
 |**2026-06-02**|**OneVLA: A Unified Framework for Embodied Tasks**|Wenbo Ding Team|[2606.01241](http://arxiv.org/abs/2606.01241)|null|
-|**2026-05-31**|**From Craft Practice to Aesthetic Cognition Transmission: Workflow Cognition Translation for AI-native Intangible Cultural Heritage Education**|Annie Yuan Team|[2606.01203](http://arxiv.org/abs/2606.01203)|null|
-|**2026-05-31**|**Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends**|Per Ola Kristensson Team|[2606.01164](http://arxiv.org/abs/2606.01164)|**[link](https://github.com/liujiuming123/Awesome-Interactive-World-Model)**|
-|**2026-05-31**|**MindClaw: Closed-Loop Embodied Mental-State Reasoning for Precision Intervention**|Wen-Huang Cheng Team|[2606.01063](http://arxiv.org/abs/2606.01063)|null|
-|**2026-05-31**|**Position: Good Embodied Reward Models Need Bad Behavior Data**|Andrea Bajcsy Team|[2606.01036](http://arxiv.org/abs/2606.01036)|null|
-|**2026-05-31**|**AI-IoT-Robotics Integration: Survey of Frameworks, Emerging Trends, and the Path Toward Connected Robotics**|Kazunori Ohno Team|[2606.01015](http://arxiv.org/abs/2606.01015)|null|
-|**2026-05-31**|**GraspGen-X: Cross-Embodiment 6-DOF Diffusion-based Grasping**|Adithyavairavan Murali Team|[2606.00998](http://arxiv.org/abs/2606.00998)|null|
-|**2026-05-30**|**RoboStressBench: Benchmarking VLM Robustness to Physical Visual Stress in Embodied Scenes**|Ying-Cong Chen Team|[2606.00828](http://arxiv.org/abs/2606.00828)|null|
-|**2026-06-11**|**Interaction-Centered Intelligence: Toward an Interaction-Based Theory of Human-AI Co-Creation**|Nicholas Davis Team|[2606.00807](http://arxiv.org/abs/2606.00807)|null|
 

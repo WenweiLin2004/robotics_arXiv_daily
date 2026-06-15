@@ -1,10 +1,13 @@
-## Updated on 2026.06.14
+## Updated on 2026.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-12**|**EgoGuide: Egocentric Guidance for Efficient Robot-Free Demonstration Collection and Learning**|Yong-Lu Li Team|[2606.14665](http://arxiv.org/abs/2606.14665)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-12**|**StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance**|Tun Lu Team|[2606.14571](http://arxiv.org/abs/2606.14571)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-12**|**CADET: Physics-Grounded Causal Auditing and Training-Free Deconfounding of End-to-End Driving Planners**|Zikun Guo Team|[2606.14438](http://arxiv.org/abs/2606.14438)|null|
 |**2026-06-11**|**NavWAM: A Navigation World Action Model for Goal-Conditioned Visual Navigation**|Yutaka Matsuo Team|[2606.13494](http://arxiv.org/abs/2606.13494)|**[link](https://dachii-azm.github.io/navwam/)**|
 |**2026-06-11**|**Embodied Opinion Dynamics for Safety-Critical Motion Control in Dynamic Environments**|Yu Xing Team|[2606.13465](http://arxiv.org/abs/2606.13465)|null|
 |**2026-06-11**|**OR-Action: Multi-Role Video Understanding with Fine-Grained Actions**|Nassir Navab Team|[2606.13332](http://arxiv.org/abs/2606.13332)|null|
@@ -45,7 +48,7 @@
 |**2026-06-04**|**VZCrash: A Large-Scale IMU Dataset of Ego-Vehicle Crashes**|Leonardo Taccari Team|[2606.06074](http://arxiv.org/abs/2606.06074)|**[link](https://huggingface.co/datasets/vzc-research-chapter/VZCrash)**|
 |**2026-06-04**|**PLAN-S: Bridging Planning with Latent Style Dynamics for Autonomous Driving World Models**|Xinhu Zheng Team|[2606.06014](http://arxiv.org/abs/2606.06014)|null|
 |**2026-06-04**|**World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis**|Zhijie Deng Team|[2606.05979](http://arxiv.org/abs/2606.05979)|null|
-|**2026-06-04**|**LiAuto-GeoX: Efficient Grounded Driving Transformer**|Jian Yang Team|[2606.05774](http://arxiv.org/abs/2606.05774)|null|
+|**2026-06-12**|**LiAuto-GeoX: Efficient Grounded Driving Transformer**|Jian Yang Team|[2606.05774](http://arxiv.org/abs/2606.05774)|null|
 |**2026-06-04**|**DexFuture: Hierarchical Future-State Visuomotor Targeting for Bimanual Dexterous Tool Use**|Truong Nguyen Team|[2606.05699](http://arxiv.org/abs/2606.05699)|null|
 |**2026-06-09**|**Discrete-WAM: Unified Discrete Vision-Action Token Editing for World-Policy Learning**|Hangjun Ye Team|[2606.05645](http://arxiv.org/abs/2606.05645)|null|
 |**2026-06-03**|**GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors**|Ye Yuan Team|[2606.05160](http://arxiv.org/abs/2606.05160)|**[link](https://research.nvidia.com/labs/dair/grail/)**|
@@ -152,7 +155,4 @@
 |**2026-05-16**|**Motion Cues from Image-based Point Tracking for LiDAR Scene Flow Estimation**|Sangpil Kim Team|[2605.16922](http://arxiv.org/abs/2605.16922)|null|
 |**2026-05-16**|**EgoKit: Towards Unified Low-Cost Egocentric Data Collection with Heterogeneous Devices**|Ruoya Sheng Team|[2605.16797](http://arxiv.org/abs/2605.16797)|null|
 |**2026-05-15**|**Learning Sim-Grounded Policies for Bimanual Rope Manipulation from Human Teleoperation Data**|Jan Peters Team|[2605.16043](http://arxiv.org/abs/2605.16043)|null|
-|**2026-05-25**|**EgoExo-WM: Unlocking Exo Video for Ego World Models**|Kristen Grauman Team|[2605.15477](http://arxiv.org/abs/2605.15477)|**[link](https://vision.cs.utexas.edu/projects/EgoExo-WM/)**|
-|**2026-05-14**|**Social-Mamba: Socially-Aware Trajectory Forecasting with State-Space Models**|Alexandre Alahi Team|[2605.15424](http://arxiv.org/abs/2605.15424)|null|
-|**2026-05-14**|**Minerva-Ego: Spatiotemporal Hints for Egocentric Video Understanding**|Cordelia Schmid Team|[2605.15342](http://arxiv.org/abs/2605.15342)|null|
 
