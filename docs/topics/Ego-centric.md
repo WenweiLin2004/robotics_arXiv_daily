@@ -1,15 +1,15 @@
-## Updated on 2026.06.19
+## Updated on 2026.06.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning**|Srijan Das Team|[2606.20559](http://arxiv.org/abs/2606.20559)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining**|Daquan Zhou Team|[2606.20521](http://arxiv.org/abs/2606.20521)|**[link](https://github.com/DAGroup-PKU/HumanNet/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**Interpretable Meta-Learning for Multi-Objective Chemical Search**|Nicholas E. Lubbers Team|[2606.20497](http://arxiv.org/abs/2606.20497)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**Pose6DAug: Physically Plausible Multi-view Object Swapping for Robot Data Augmentation**|Jinwoo Shin Team|[2606.20118](http://arxiv.org/abs/2606.20118)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**See-and-Reach: Precise Vision-Language Navigation for UAVs within the Field of View**|Jiande Sun Team|[2606.20045](http://arxiv.org/abs/2606.20045)|null|
+|**2026-06-18**|**UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning**|Srijan Das Team|[2606.20559](http://arxiv.org/abs/2606.20559)|null|
+|**2026-06-18**|**HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining**|Daquan Zhou Team|[2606.20521](http://arxiv.org/abs/2606.20521)|**[link](https://github.com/DAGroup-PKU/HumanNet/)**|
+|**2026-06-18**|**Interpretable Meta-Learning for Multi-Objective Chemical Search**|Nicholas E. Lubbers Team|[2606.20497](http://arxiv.org/abs/2606.20497)|null|
+|**2026-06-18**|**Pose6DAug: Physically Plausible Multi-view Object Swapping for Robot Data Augmentation**|Jinwoo Shin Team|[2606.20118](http://arxiv.org/abs/2606.20118)|null|
+|**2026-06-18**|**See-and-Reach: Precise Vision-Language Navigation for UAVs within the Field of View**|Jiande Sun Team|[2606.20045](http://arxiv.org/abs/2606.20045)|null|
 |**2026-06-17**|**Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games**|Yuhang Zang Team|[2606.19338](http://arxiv.org/abs/2606.19338)|null|
 |**2026-06-17**|**Do as I Do: Dexterous Manipulation Data from Everyday Human Videos**|Jitendra Malik Team|[2606.19333](http://arxiv.org/abs/2606.19333)|**[link](https://do-as-i-do.com/)**|
 |**2026-06-17**|**CABLE: Cloud-Assisted Bandwidth-efficient LMM-based Encoding for V2X Systems**|Handong Yao Team|[2606.19258](http://arxiv.org/abs/2606.19258)|null|

@@ -1,26 +1,26 @@
-## Updated on 2026.06.19
+## Updated on 2026.06.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**Generating Robot Hands from Human Demonstrations**|Xiaolong Wang Team|[2606.20549](http://arxiv.org/abs/2606.20549)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining**|Daquan Zhou Team|[2606.20521](http://arxiv.org/abs/2606.20521)|**[link](https://github.com/DAGroup-PKU/HumanNet/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**Finetuning Vision-Language-Action Models Requires Fewer Layers Than You Think**|Ngo Anh Vien Team|[2606.20246](http://arxiv.org/abs/2606.20246)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**See-and-Reach: Precise Vision-Language Navigation for UAVs within the Field of View**|Jiande Sun Team|[2606.20045](http://arxiv.org/abs/2606.20045)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**Reward as An Agent for Embodied World Models**|Shan You Team|[2606.19990](http://arxiv.org/abs/2606.19990)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**A Measurement Study of Cryptographic Misuse in Embodied AI Mobile Applications**|Yue Zhang Team|[2606.19983](http://arxiv.org/abs/2606.19983)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**Advancing DialNav through Automatic Embodied Dialog Augmentation**|Paul Hongsuck Seo Team|[2606.19948](http://arxiv.org/abs/2606.19948)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**PhysDrift: Bridging the Embodiment Gap in Humanoid Co-Speech Motion Generation**|Xiangmin Xu Team|[2606.19935](http://arxiv.org/abs/2606.19935)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**Co-policy: Responsive Human-Robot Co-Creation for Musical Performances**|Miao Li Team|[2606.19914](http://arxiv.org/abs/2606.19914)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**Forecasting AI-Era Productivity: The Intellectually Converged Human Framework and a Missing Cognitive Mediator in Production Function Theory**|In Seok Kang Team|[2606.19794](http://arxiv.org/abs/2606.19794)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**Occ-VLM: Occupancy Grounded Vision Language Model for Indoor Scene Understanding**|Li Du Team|[2606.19776](http://arxiv.org/abs/2606.19776)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**Start Right, Arrive Right: Asynchronous Execution via Initial Noise Selection**|Ngo Anh Vien Team|[2606.19774](http://arxiv.org/abs/2606.19774)|**[link](https://paint-action-chunking.github.io)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI**|Jie Tang Team|[2606.19769](http://arxiv.org/abs/2606.19769)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**Bidirectional Tutoring for Developmental Motor Learning in Robots: Co-Developed Interaction Dynamics Support Stable Learning**|Jun Tani Team|[2606.19728](http://arxiv.org/abs/2606.19728)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-17**|**Fail-RAG : A Retrieval Augmented Generation Informed Framework for Robot Failure Identification**|Jie Hu Team|[2606.19598](http://arxiv.org/abs/2606.19598)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-17**|**Playful Agentic Robot Learning**|Trevor Darrell Team|[2606.19419](http://arxiv.org/abs/2606.19419)|**[link](https://playful-rats.github.io/)**|
+|**2026-06-18**|**Generating Robot Hands from Human Demonstrations**|Xiaolong Wang Team|[2606.20549](http://arxiv.org/abs/2606.20549)|null|
+|**2026-06-18**|**HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining**|Daquan Zhou Team|[2606.20521](http://arxiv.org/abs/2606.20521)|**[link](https://github.com/DAGroup-PKU/HumanNet/)**|
+|**2026-06-18**|**Finetuning Vision-Language-Action Models Requires Fewer Layers Than You Think**|Ngo Anh Vien Team|[2606.20246](http://arxiv.org/abs/2606.20246)|null|
+|**2026-06-18**|**See-and-Reach: Precise Vision-Language Navigation for UAVs within the Field of View**|Jiande Sun Team|[2606.20045](http://arxiv.org/abs/2606.20045)|null|
+|**2026-06-18**|**Reward as An Agent for Embodied World Models**|Shan You Team|[2606.19990](http://arxiv.org/abs/2606.19990)|null|
+|**2026-06-18**|**A Measurement Study of Cryptographic Misuse in Embodied AI Mobile Applications**|Yue Zhang Team|[2606.19983](http://arxiv.org/abs/2606.19983)|null|
+|**2026-06-18**|**Advancing DialNav through Automatic Embodied Dialog Augmentation**|Paul Hongsuck Seo Team|[2606.19948](http://arxiv.org/abs/2606.19948)|null|
+|**2026-06-18**|**PhysDrift: Bridging the Embodiment Gap in Humanoid Co-Speech Motion Generation**|Xiangmin Xu Team|[2606.19935](http://arxiv.org/abs/2606.19935)|null|
+|**2026-06-18**|**Co-policy: Responsive Human-Robot Co-Creation for Musical Performances**|Miao Li Team|[2606.19914](http://arxiv.org/abs/2606.19914)|null|
+|**2026-06-18**|**Forecasting AI-Era Productivity: The Intellectually Converged Human Framework and a Missing Cognitive Mediator in Production Function Theory**|In Seok Kang Team|[2606.19794](http://arxiv.org/abs/2606.19794)|null|
+|**2026-06-18**|**Occ-VLM: Occupancy Grounded Vision Language Model for Indoor Scene Understanding**|Li Du Team|[2606.19776](http://arxiv.org/abs/2606.19776)|null|
+|**2026-06-18**|**Start Right, Arrive Right: Asynchronous Execution via Initial Noise Selection**|Ngo Anh Vien Team|[2606.19774](http://arxiv.org/abs/2606.19774)|**[link](https://paint-action-chunking.github.io)**|
+|**2026-06-18**|**Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI**|Jie Tang Team|[2606.19769](http://arxiv.org/abs/2606.19769)|null|
+|**2026-06-18**|**Bidirectional Tutoring for Developmental Motor Learning in Robots: Co-Developed Interaction Dynamics Support Stable Learning**|Jun Tani Team|[2606.19728](http://arxiv.org/abs/2606.19728)|null|
+|**2026-06-17**|**Fail-RAG : A Retrieval Augmented Generation Informed Framework for Robot Failure Identification**|Jie Hu Team|[2606.19598](http://arxiv.org/abs/2606.19598)|null|
+|**2026-06-17**|**Playful Agentic Robot Learning**|Trevor Darrell Team|[2606.19419](http://arxiv.org/abs/2606.19419)|**[link](https://playful-rats.github.io/)**|
 |**2026-06-17**|**Do as I Do: Dexterous Manipulation Data from Everyday Human Videos**|Jitendra Malik Team|[2606.19333](http://arxiv.org/abs/2606.19333)|**[link](https://do-as-i-do.com/)**|
 |**2026-06-17**|**Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models**|Vlad Shakhuro Team|[2606.19297](http://arxiv.org/abs/2606.19297)|**[link](https://tttonyalpha.github.io/act2answer/)**|
 |**2026-06-17**|**OneCanvas: 3D Scene Understanding via Panoramic Reprojection**|Matthias Nießner Team|[2606.19253](http://arxiv.org/abs/2606.19253)|**[link](https://baranowskibrt.github.io/onecanvas/)**|
