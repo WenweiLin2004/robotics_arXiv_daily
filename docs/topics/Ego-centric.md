@@ -1,14 +1,23 @@
-## Updated on 2026.06.22
+## Updated on 2026.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-22**|**Dense Reward for Multi-View 3D Reasoning with Global Maps and Local Views**|Hyunjung Shim Team|[2606.23557](http://arxiv.org/abs/2606.23557)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-22**|**DexTeleop-0: Force-Aware Bimanual Dexterous Teleoperation with Ego-Centric Perception towards Shared Autonomy**|Ziwei Wang Team|[2606.23431](http://arxiv.org/abs/2606.23431)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-22**|**UECP: Uncertainty-Enhanced Collaborative Perception**|Yongcai Wang Team|[2606.23046](http://arxiv.org/abs/2606.23046)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-21**|**Prompting Diffusion Models for Zero-Shot Instance Segmentation**|Stefano Gasperini Team|[2606.22660](http://arxiv.org/abs/2606.22660)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-20**|**Wh0: Generative World Models as Scalable Sources of Egocentric Human Hand Manipulation Data**|Yang Gao Team|[2606.22136](http://arxiv.org/abs/2606.22136)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-19**|**A DVDrive Approach for doScenes Instructed Driving Challenge**|Wei Li Team|[2606.21623](http://arxiv.org/abs/2606.21623)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-19**|**FleetAgent: Teleoperation Assistant for Autonomous Fleets via Vectorized V2N Messages**|Ziran Wang Team|[2606.21222](http://arxiv.org/abs/2606.21222)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-19**|**BadDreamer: Transferable Backdoor Attacks against Video World Models for Autonomous Driving**|Yikun Zeng Team|[2606.21172](http://arxiv.org/abs/2606.21172)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-18**|**Mind the Privileged-to-Camera Gap: Actor-Centric Sidecar Supervision for Camera-First Open-Loop Waypoint Prediction**|Jaerock Kwon Team|[2606.20772](http://arxiv.org/abs/2606.20772)|null|
 |**2026-06-18**|**UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning**|Srijan Das Team|[2606.20559](http://arxiv.org/abs/2606.20559)|null|
 |**2026-06-18**|**HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining**|Daquan Zhou Team|[2606.20521](http://arxiv.org/abs/2606.20521)|**[link](https://github.com/DAGroup-PKU/HumanNet/)**|
 |**2026-06-18**|**Interpretable Meta-Learning for Multi-Objective Chemical Search**|Nicholas E. Lubbers Team|[2606.20497](http://arxiv.org/abs/2606.20497)|null|
-|**2026-06-18**|**Pose6DAug: Physically Plausible Multi-view Object Swapping for Robot Data Augmentation**|Jinwoo Shin Team|[2606.20118](http://arxiv.org/abs/2606.20118)|null|
+|**2026-06-19**|**Pose6DAug: Physically Plausible Multi-view Object Swapping for Robot Data Augmentation**|Jinwoo Shin Team|[2606.20118](http://arxiv.org/abs/2606.20118)|null|
 |**2026-06-18**|**See-and-Reach: Precise Vision-Language Navigation for UAVs within the Field of View**|Jiande Sun Team|[2606.20045](http://arxiv.org/abs/2606.20045)|null|
 |**2026-06-17**|**Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games**|Yuhang Zang Team|[2606.19338](http://arxiv.org/abs/2606.19338)|null|
 |**2026-06-17**|**Do as I Do: Dexterous Manipulation Data from Everyday Human Videos**|Jitendra Malik Team|[2606.19333](http://arxiv.org/abs/2606.19333)|**[link](https://do-as-i-do.com/)**|
@@ -20,7 +29,7 @@
 |**2026-06-17**|**Where Will They Go? Modelling Multimodal Pedestrian Manoeuvres from Ego-centric Videos**|Edmond S. L. Ho Team|[2606.18824](http://arxiv.org/abs/2606.18824)|null|
 |**2026-06-17**|**HALOMI: Learning Humanoid Loco-Manipulation with Active Perception from Human Demonstrations**|Wenzhao Lian Team|[2606.18772](http://arxiv.org/abs/2606.18772)|null|
 |**2026-06-16**|**VEGA: Learning Navigation VLAs from In-the-Wild Egocentric Video with Geometric Trajectory Supervision**|Dinesh Manocha Team|[2606.18426](http://arxiv.org/abs/2606.18426)|null|
-|**2026-06-16**|**PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation**|Kai Xu Team|[2606.18375](http://arxiv.org/abs/2606.18375)|null|
+|**2026-06-20**|**PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation**|Kai Xu Team|[2606.18375](http://arxiv.org/abs/2606.18375)|null|
 |**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Stefano Gasperini Team|[2606.18250](http://arxiv.org/abs/2606.18250)|**[link](https://fr3d-wm.github.io)**|
 |**2026-06-16**|**EgoCS-400K: An Egocentric Gameplay Dataset for World Models**|Rynson W. H. Lau Team|[2606.18180](http://arxiv.org/abs/2606.18180)|null|
 |**2026-06-17**|**Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models**|Xiong-Hui Chen Team|[2606.17846](http://arxiv.org/abs/2606.17846)|null|
@@ -146,13 +155,4 @@
 |**2026-06-04**|**EgoAdapt: A Multi-Scene Egocentric Adaptation Method for CVPR 2026 HD-EPIC VQA Challenge**|Liqiang Nie Team|[2605.24500](http://arxiv.org/abs/2605.24500)|null|
 |**2026-06-04**|**EgoAction: Egocentric Action Composition with Reliability-Aware Temporal Fusion for the EPIC-KITCHENS Action Detection Challenge at CVPR 2026**|Liqiang Nie Team|[2605.24496](http://arxiv.org/abs/2605.24496)|null|
 |**2026-06-04**|**OmniEgo-R $^2$ : A Routed Reasoning Framework for the 1st Cross-Domain EgoCross Challenge at CVPR 2026**|Liqiang Nie Team|[2605.24481](http://arxiv.org/abs/2605.24481)|null|
-|**2026-06-04**|**TempRet: Temporal Enhancement and Two-Stage Reranking for CVPR 2026 EPIC-KITCHENS-100 Multi-Instance Retrieval Challenge**|Liqiang Nie Team|[2605.24470](http://arxiv.org/abs/2605.24470)|null|
-|**2026-05-26**|**EgoProx: Evaluating MLLMs on Egocentric 3D Proximity Reasoning Across a Cognitive Hierarchy**|Miao Liu Team|[2605.24456](http://arxiv.org/abs/2605.24456)|null|
-|**2026-05-26**|**Cross-Modal Action Recognition in Egocentric Video Using Mamba: Integrating RGB and Hand Skeleton Streams via CLS Token Fusion Strategies**|Maria Elena Buemi Team|[2605.24302](http://arxiv.org/abs/2605.24302)|null|
-|**2026-05-20**|**Machine Intelligence that Understands Visual and Linguistic Information and Interacts with Humans and Environments**|Van Quang Nguyen Team|[2605.24020](http://arxiv.org/abs/2605.24020)|null|
-|**2026-05-22**|**SeedER: Seed-and-Expand Retrieval from Knowledge Graphs**|Emmanuel Noutahi Team|[2605.23753](http://arxiv.org/abs/2605.23753)|null|
-|**2026-05-22**|**Droneulator: A Portable UAV Simulator for Agricultural Workflows with RotorPy and Godot 4**|Riccardo Polvara Team|[2605.23386](http://arxiv.org/abs/2605.23386)|null|
-|**2026-06-15**|**DRIVESPATIAL: A Benchmark for Spatiotemporal Intelligence in VLMs for Autonomous Driving**|Ngan Le Team|[2605.23176](http://arxiv.org/abs/2605.23176)|null|
-|**2026-05-21**|**GazeBehavior Annotation Toolkit (GBAT): AI-powered toolkit for automatic annotation of egocentric eye-tracking and video data of child-caregiver interaction**|Ming Bo Cai Team|[2605.22962](http://arxiv.org/abs/2605.22962)|null|
-|**2026-05-21**|**Decoupling Ego-Motion from Target Dynamics via Dual-Interval Motion Cues for UAV Detection**|Feitian Zhang Team|[2605.22605](http://arxiv.org/abs/2605.22605)|null|
 
