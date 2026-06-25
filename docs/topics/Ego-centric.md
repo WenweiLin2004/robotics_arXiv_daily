@@ -1,16 +1,28 @@
-## Updated on 2026.06.24
+## Updated on 2026.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-23**|**GeoIMO: Geometry-Driven Independent Motion Classification for Event Cameras**|Stefano Di Carlo Team|[2606.24499](http://arxiv.org/abs/2606.24499)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-23**|**EgoSAT: A Comprehensive Benchmark of Egocentric Streaming Interaction Understanding**|Miao Liu Team|[2606.24422](http://arxiv.org/abs/2606.24422)|**[link](https://leiyj23.github.io/EgoSAT/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-23**|**Social Structure Matters in 3D Human-Human Interaction Generation**|Zhenhong Sun Team|[2606.24255](http://arxiv.org/abs/2606.24255)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-23**|**Importance of Intent-Sharing for V2X-based Maneuver Coordination**|Onur Altintas Team|[2606.24203](http://arxiv.org/abs/2606.24203)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-23**|**FORESEE: A Cooperative Lane Change Model for Connected and Automated Driving**|Onur Altintas Team|[2606.24201](http://arxiv.org/abs/2606.24201)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-22**|**Emergent Relational Order in LLM Agent Societies: From Collective Affect to Authority Stratification**|Yueguo Chen Team|[2606.23764](http://arxiv.org/abs/2606.23764)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-24**|**ForceBand: Learning Forceful Manipulation with sEMG**|Yiannis Aloimonos Team|[2606.26093](http://arxiv.org/abs/2606.26093)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-24**|**Learning Robot Visual Navigation in Crowds via Intention-Aware Scene Representations**|Jiankun Wang Team|[2606.26047](http://arxiv.org/abs/2606.26047)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-24**|**RoboAtlas: Contextual Active SLAM**|Stefano Di Cairano Team|[2606.26046](http://arxiv.org/abs/2606.26046)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-24**|**USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning**|Jianfei Yang Team|[2606.25880](http://arxiv.org/abs/2606.25880)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-24**|**Graph it first! Enabling Reasoning on Long-form Egocentric Videos through Scene Graphs**|Matteo Matteucci Team|[2606.25842](http://arxiv.org/abs/2606.25842)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-24**|**WOLF-VLA: Whole-Body Humanoid Optimal Locomotion Framework for Vision-Language-Action Learning**|Frank Kirchner Team|[2606.25591](http://arxiv.org/abs/2606.25591)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-24**|**FeVOS: Foresight Expression Video Object Segmentation**|Henghui Ding Team|[2606.25585](http://arxiv.org/abs/2606.25585)|**[link](https://henghuiding.com/FeVOS/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-24**|**SAGE-Nav: Leveraging LLM Planning and Alignment Fusion for Hierarchical Scene Graph-Guided Navigation**|Jiajun Lv Team|[2606.25497](http://arxiv.org/abs/2606.25497)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-23**|**Toward Low-Latency Vision-Language Models with Doubly-Correct Predictions in Egocentric Visual Understanding**|Christopher Rasmussen Team|[2606.25160](http://arxiv.org/abs/2606.25160)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-23**|**Causality-Based Parametric Control Barrier Function for Safe Multi-Vehicle Interaction**|John M. Dolan Team|[2606.25134](http://arxiv.org/abs/2606.25134)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-23**|**ADM-Fusion: Adaptive Deep Multi-Sensor Fusion for Robust Ego-Motion Estimation in Diverse Conditions**|Daniel Asmar Team|[2606.25111](http://arxiv.org/abs/2606.25111)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-23**|**Are We There Yet? Exploring the Capabilities of MLLMs in Assistive AI Applications**|C. V. Jawahar Team|[2606.25084](http://arxiv.org/abs/2606.25084)|null|
+|**2026-06-23**|**GeoIMO: Geometry-Driven Independent Motion Classification for Event Cameras**|Stefano Di Carlo Team|[2606.24499](http://arxiv.org/abs/2606.24499)|null|
+|**2026-06-23**|**EgoSAT: A Comprehensive Benchmark of Egocentric Streaming Interaction Understanding**|Miao Liu Team|[2606.24422](http://arxiv.org/abs/2606.24422)|**[link](https://leiyj23.github.io/EgoSAT/)**|
+|**2026-06-23**|**Social Structure Matters in 3D Human-Human Interaction Generation**|Zhenhong Sun Team|[2606.24255](http://arxiv.org/abs/2606.24255)|null|
+|**2026-06-23**|**Importance of Intent-Sharing for V2X-based Maneuver Coordination**|Onur Altintas Team|[2606.24203](http://arxiv.org/abs/2606.24203)|null|
+|**2026-06-23**|**FORESEE: A Cooperative Lane Change Model for Connected and Automated Driving**|Onur Altintas Team|[2606.24201](http://arxiv.org/abs/2606.24201)|null|
+|**2026-06-22**|**Emergent Relational Order in LLM Agent Societies: From Collective Affect to Authority Stratification**|Yueguo Chen Team|[2606.23764](http://arxiv.org/abs/2606.23764)|null|
 |**2026-06-22**|**Dense Reward for Multi-View 3D Reasoning with Global Maps and Local Views**|Hyunjung Shim Team|[2606.23557](http://arxiv.org/abs/2606.23557)|null|
 |**2026-06-22**|**DexTeleop-0: Force-Aware Bimanual Dexterous Teleoperation with Ego-Centric Perception towards Shared Autonomy**|Ziwei Wang Team|[2606.23431](http://arxiv.org/abs/2606.23431)|null|
 |**2026-06-22**|**UECP: Uncertainty-Enhanced Collaborative Perception**|Yongcai Wang Team|[2606.23046](http://arxiv.org/abs/2606.23046)|null|
@@ -143,16 +155,4 @@
 |**2026-06-01**|**Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments**|Xionghui Chen Team|[2605.30280](http://arxiv.org/abs/2605.30280)|null|
 |**2026-05-28**|**FRUC: Feedforward Dynamic Scene Reconstruction from Uncalibrated Collaborative Driving Views**|Yuguang Fang Team|[2605.29997](http://arxiv.org/abs/2605.29997)|null|
 |**2026-05-28**|**Semantic and Visual Evidence for Efficient Long-Video Reasoning: A Solution for the HD-EPIC VQA Challenge**|Hui Li Team|[2605.29402](http://arxiv.org/abs/2605.29402)|null|
-|**2026-05-27**|**EvaluatAR: A Cross-Device Evaluation Framework for Rapid Prototyping of Bystander PETs in AR**|Brendan David-John Team|[2605.29177](http://arxiv.org/abs/2605.29177)|null|
-|**2026-05-27**|**EgoRelight: Egocentric Human Capture and Illumination Recovery for Relightable and Photoreal Avatar Rendering**|Christian Theobalt Team|[2605.28401](http://arxiv.org/abs/2605.28401)|null|
-|**2026-05-27**|**Evaluating the Feasibility of Inferring Dietary Behavior Change Receptivity from Egocentric Images of Eating Environment**|Edward Sazonov Team|[2605.27950](http://arxiv.org/abs/2605.27950)|null|
-|**2026-05-27**|**EgoBench: An Interactive Egocentric Multimodal Benchmark for Tool-Using Agents**|Jian Liu Team|[2605.27820](http://arxiv.org/abs/2605.27820)|null|
-|**2026-05-27**|**CuriosAI Submission to the CASTLE Challenge at EgoVis 2026**|Takayuki Hori Team|[2605.27800](http://arxiv.org/abs/2605.27800)|null|
-|**2026-05-26**|**Design of a Real-time Asynchronous Monocular Odometry for Planetary Exploration**|Wolfgang Stuerzl Team|[2605.27661](http://arxiv.org/abs/2605.27661)|null|
-|**2026-05-29**|**SpatialBench: Is Your Spatial Foundation Model an All-Round Player?**|Wenchao Xu Team|[2605.27367](http://arxiv.org/abs/2605.27367)|**[link](https://ropedia.github.io/SpatialBench/)**|
-|**2026-05-26**|**Adaptation-Free Heterogeneous Collaborative Perception with Unseen Agent Configurations**|Heejin Ahn Team|[2605.26642](http://arxiv.org/abs/2605.26642)|null|
-|**2026-05-26**|**3D Gaussian Map with Open-Set Semantic Grouping for Vision-Language Navigation**|Wenguan Wang Team|[2605.26500](http://arxiv.org/abs/2605.26500)|null|
-|**2026-05-25**|**Zero-Shot Object Re-Identification in Egocentric Kitchen Videos via Multi-Stage SAM3 Feature Fusion**|Yuhao Chen Team|[2605.26383](http://arxiv.org/abs/2605.26383)|null|
-|**2026-05-25**|**E $^3$ C: Video Generation with 3D Environmental Memory and Ego-Exo Human Pose Control**|Julian Straub Team|[2605.26316](http://arxiv.org/abs/2605.26316)|**[link](https://e3c-videogen.github.io/)**|
-|**2026-05-25**|**Agent-Centric Social Trajectory Prediction: A Free Energy Principle Perspective**|Chongfeng Wei Team|[2605.25748](http://arxiv.org/abs/2605.25748)|null|
 
