@@ -1,22 +1,25 @@
-## Updated on 2026.06.25
+## Updated on 2026.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-24**|**ForceBand: Learning Forceful Manipulation with sEMG**|Yiannis Aloimonos Team|[2606.26093](http://arxiv.org/abs/2606.26093)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-24**|**Learning Robot Visual Navigation in Crowds via Intention-Aware Scene Representations**|Jiankun Wang Team|[2606.26047](http://arxiv.org/abs/2606.26047)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-24**|**RoboAtlas: Contextual Active SLAM**|Stefano Di Cairano Team|[2606.26046](http://arxiv.org/abs/2606.26046)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-24**|**USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning**|Jianfei Yang Team|[2606.25880](http://arxiv.org/abs/2606.25880)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-24**|**Graph it first! Enabling Reasoning on Long-form Egocentric Videos through Scene Graphs**|Matteo Matteucci Team|[2606.25842](http://arxiv.org/abs/2606.25842)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-24**|**WOLF-VLA: Whole-Body Humanoid Optimal Locomotion Framework for Vision-Language-Action Learning**|Frank Kirchner Team|[2606.25591](http://arxiv.org/abs/2606.25591)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-24**|**FeVOS: Foresight Expression Video Object Segmentation**|Henghui Ding Team|[2606.25585](http://arxiv.org/abs/2606.25585)|**[link](https://henghuiding.com/FeVOS/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-24**|**SAGE-Nav: Leveraging LLM Planning and Alignment Fusion for Hierarchical Scene Graph-Guided Navigation**|Jiajun Lv Team|[2606.25497](http://arxiv.org/abs/2606.25497)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-23**|**Toward Low-Latency Vision-Language Models with Doubly-Correct Predictions in Egocentric Visual Understanding**|Christopher Rasmussen Team|[2606.25160](http://arxiv.org/abs/2606.25160)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-23**|**Causality-Based Parametric Control Barrier Function for Safe Multi-Vehicle Interaction**|John M. Dolan Team|[2606.25134](http://arxiv.org/abs/2606.25134)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-23**|**ADM-Fusion: Adaptive Deep Multi-Sensor Fusion for Robust Ego-Motion Estimation in Diverse Conditions**|Daniel Asmar Team|[2606.25111](http://arxiv.org/abs/2606.25111)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-23**|**Are We There Yet? Exploring the Capabilities of MLLMs in Assistive AI Applications**|C. V. Jawahar Team|[2606.25084](http://arxiv.org/abs/2606.25084)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-25**|**OctoSense: Self-Supervised Learning for Multimodal Robot Perception**|Pratik Chaudhari Team|[2606.27317](http://arxiv.org/abs/2606.27317)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-25**|**Ordinal Neural Collapse as a Representation Prior for Visual Navigation**|Seung-Woo Seo Team|[2606.26839](http://arxiv.org/abs/2606.26839)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-25**|**TGHE: Template-based Graph Homomorphic Encryption for Privacy-Preserving GNN Inference in Edge-Cloud Systems**|Jun Shen Team|[2606.26664](http://arxiv.org/abs/2606.26664)|null|
+|**2026-06-24**|**ForceBand: Learning Forceful Manipulation with sEMG**|Yiannis Aloimonos Team|[2606.26093](http://arxiv.org/abs/2606.26093)|null|
+|**2026-06-24**|**Learning Robot Visual Navigation in Crowds via Intention-Aware Scene Representations**|Jiankun Wang Team|[2606.26047](http://arxiv.org/abs/2606.26047)|null|
+|**2026-06-24**|**RoboAtlas: Contextual Active SLAM**|Stefano Di Cairano Team|[2606.26046](http://arxiv.org/abs/2606.26046)|null|
+|**2026-06-24**|**USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning**|Jianfei Yang Team|[2606.25880](http://arxiv.org/abs/2606.25880)|null|
+|**2026-06-24**|**Graph it first! Enabling Reasoning on Long-form Egocentric Videos through Scene Graphs**|Matteo Matteucci Team|[2606.25842](http://arxiv.org/abs/2606.25842)|null|
+|**2026-06-24**|**WOLF-VLA: Whole-Body Humanoid Optimal Locomotion Framework for Vision-Language-Action Learning**|Frank Kirchner Team|[2606.25591](http://arxiv.org/abs/2606.25591)|null|
+|**2026-06-24**|**FeVOS: Foresight Expression Video Object Segmentation**|Henghui Ding Team|[2606.25585](http://arxiv.org/abs/2606.25585)|**[link](https://henghuiding.com/FeVOS/)**|
+|**2026-06-24**|**SAGE-Nav: Leveraging LLM Planning and Alignment Fusion for Hierarchical Scene Graph-Guided Navigation**|Jiajun Lv Team|[2606.25497](http://arxiv.org/abs/2606.25497)|null|
+|**2026-06-23**|**Toward Low-Latency Vision-Language Models with Doubly-Correct Predictions in Egocentric Visual Understanding**|Christopher Rasmussen Team|[2606.25160](http://arxiv.org/abs/2606.25160)|null|
+|**2026-06-23**|**Causality-Based Parametric Control Barrier Function for Safe Multi-Vehicle Interaction**|John M. Dolan Team|[2606.25134](http://arxiv.org/abs/2606.25134)|null|
+|**2026-06-23**|**ADM-Fusion: Adaptive Deep Multi-Sensor Fusion for Robust Ego-Motion Estimation in Diverse Conditions**|Daniel Asmar Team|[2606.25111](http://arxiv.org/abs/2606.25111)|null|
+|**2026-06-23**|**Are We There Yet? Exploring the Capabilities of MLLMs in Assistive AI Applications**|C. V. Jawahar Team|[2606.25084](http://arxiv.org/abs/2606.25084)|null|
 |**2026-06-23**|**GeoIMO: Geometry-Driven Independent Motion Classification for Event Cameras**|Stefano Di Carlo Team|[2606.24499](http://arxiv.org/abs/2606.24499)|null|
 |**2026-06-23**|**EgoSAT: A Comprehensive Benchmark of Egocentric Streaming Interaction Understanding**|Miao Liu Team|[2606.24422](http://arxiv.org/abs/2606.24422)|**[link](https://leiyj23.github.io/EgoSAT/)**|
 |**2026-06-23**|**Social Structure Matters in 3D Human-Human Interaction Generation**|Zhenhong Sun Team|[2606.24255](http://arxiv.org/abs/2606.24255)|null|
@@ -95,7 +98,7 @@
 |**2026-06-08**|**Decoding Pedestrian Crossing Intention from Egocentric Vision via Vision Language Models**|Rico Krueger Team|[2606.09142](http://arxiv.org/abs/2606.09142)|null|
 |**2026-06-08**|**Autonomous FPV Flight with Translational Optical Flow and Uncertainty Mask**|Danping Zou Team|[2606.09088](http://arxiv.org/abs/2606.09088)|null|
 |**2026-06-08**|**AlloSpatial: Agentic Harness Framework for Spatial Reasoning in Foundation Models**|Xingxing Wei Team|[2606.08952](http://arxiv.org/abs/2606.08952)|null|
-|**2026-06-08**|**Scalable Network-Aware Experiment Design for Two-Sided Marketplaces**|Zhen Yan Team|[2606.08923](http://arxiv.org/abs/2606.08923)|null|
+|**2026-06-25**|**Scalable Network-Aware Experiment Design for Two-Sided Marketplaces**|Zhen Yan Team|[2606.08923](http://arxiv.org/abs/2606.08923)|null|
 |**2026-06-07**|**EgoPriMo: Egocentric Motion Generation for Interactive Humanoid Control**|Kai Chen Team|[2606.08495](http://arxiv.org/abs/2606.08495)|null|
 |**2026-06-06**|**Trustworthy Visual Predicates for Robust Manipulation Understanding under Degradation**|Fatemeh Ziaeetabar Team|[2606.08121](http://arxiv.org/abs/2606.08121)|null|
 |**2026-06-06**|**Ego-Pi: VLA Fine-Tuning for Ego-Centric Human and Robot Data**|Chelsea Finn Team|[2606.08107](http://arxiv.org/abs/2606.08107)|null|
@@ -152,7 +155,4 @@
 |**2026-05-29**|**SSR: Scaling Surefooted and Symmetric Humanoid Traversal to the Open World**|Qiuguo Zhu Team|[2605.30770](http://arxiv.org/abs/2605.30770)|null|
 |**2026-05-29**|**WristCompass: Kinematic Coupling as a Learnable Visual Concept for Ego-Camera Orientation**|Cabrel Happi Team|[2605.30671](http://arxiv.org/abs/2605.30671)|null|
 |**2026-05-28**|**Gaze2Act: Gaze-Conditioned Vision-Language-Action Policies for Interactive Robot Manipulation**|Jianfei Yang Team|[2605.30282](http://arxiv.org/abs/2605.30282)|**[link](https://zuo-kuangji.github.io/Gaze2Act/)**|
-|**2026-06-01**|**Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments**|Xionghui Chen Team|[2605.30280](http://arxiv.org/abs/2605.30280)|null|
-|**2026-05-28**|**FRUC: Feedforward Dynamic Scene Reconstruction from Uncalibrated Collaborative Driving Views**|Yuguang Fang Team|[2605.29997](http://arxiv.org/abs/2605.29997)|null|
-|**2026-05-28**|**Semantic and Visual Evidence for Efficient Long-Video Reasoning: A Solution for the HD-EPIC VQA Challenge**|Hui Li Team|[2605.29402](http://arxiv.org/abs/2605.29402)|null|
 
