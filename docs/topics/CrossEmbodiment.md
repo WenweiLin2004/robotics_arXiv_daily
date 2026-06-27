@@ -1,21 +1,21 @@
-## Updated on 2026.06.26
+## Updated on 2026.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-25**|**E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation**|Liang Wang Team|[2606.27268](http://arxiv.org/abs/2606.27268)|**[link](https://27yw.github.io/E-TTS-Web/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-25**|**Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy**|Yu-Gang Jiang Team|[2606.27251](http://arxiv.org/abs/2606.27251)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-25**|**DMuon: Efficient Distributed Muon Training with Near-Adam Overhead**|Qian Wang Team|[2606.27153](http://arxiv.org/abs/2606.27153)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-25**|**ForesightSafety-VLA: A Unified Diagnostic Safety Benchmark for Vision-Language-Action Models**|Yi Zeng Team|[2606.27079](http://arxiv.org/abs/2606.27079)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-25**|**Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds**|Zhenhong Sun Team|[2606.26964](http://arxiv.org/abs/2606.26964)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-25**|**Confidence-Aware Tool Orchestration for Robust Video Understanding**|Jaehong Yoon Team|[2606.26904](http://arxiv.org/abs/2606.26904)|**[link](https://rova-v2.github.io/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-25**|**SSI-Policy: Learning Structured Scene Interfaces for Vision-Language Robotic Manipulation**|Linfang Zheng Team|[2606.26800](http://arxiv.org/abs/2606.26800)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-25**|**Do Safety Guardrails Need to Reason? LeanGuard: A Fast and Light Approach for Robust Moderation**|Dongbin Na Team|[2606.26686](http://arxiv.org/abs/2606.26686)|**[link](https://ndb796.github.io/LeanGuard)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-24**|**Having Dog Ears "for Real": Effects of Active and Passive Haptics on Embodying Non-Human Body Parts in VR**|Tiffany D. Do Team|[2606.26364](http://arxiv.org/abs/2606.26364)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-24**|**RoboTales: ROBOTic Anthropomorphic LEarning Systems**|Alexis E. Block Team|[2606.26213](http://arxiv.org/abs/2606.26213)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-23**|**Hot AI in Cold Space: Thermal-Crosstalk-Aware Scheduling for Sustainable Orbital AI Clusters**|Georgios Theodoropoulos Team|[2606.26150](http://arxiv.org/abs/2606.26150)|null|
+|**2026-06-25**|**E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation**|Liang Wang Team|[2606.27268](http://arxiv.org/abs/2606.27268)|**[link](https://27yw.github.io/E-TTS-Web/)**|
+|**2026-06-25**|**Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy**|Yu-Gang Jiang Team|[2606.27251](http://arxiv.org/abs/2606.27251)|null|
+|**2026-06-25**|**DMuon: Efficient Distributed Muon Training with Near-Adam Overhead**|Qian Wang Team|[2606.27153](http://arxiv.org/abs/2606.27153)|null|
+|**2026-06-25**|**ForesightSafety-VLA: A Unified Diagnostic Safety Benchmark for Vision-Language-Action Models**|Yi Zeng Team|[2606.27079](http://arxiv.org/abs/2606.27079)|null|
+|**2026-06-25**|**Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds**|Zhenhong Sun Team|[2606.26964](http://arxiv.org/abs/2606.26964)|null|
+|**2026-06-25**|**Confidence-Aware Tool Orchestration for Robust Video Understanding**|Jaehong Yoon Team|[2606.26904](http://arxiv.org/abs/2606.26904)|**[link](https://rova-v2.github.io/)**|
+|**2026-06-25**|**SSI-Policy: Learning Structured Scene Interfaces for Vision-Language Robotic Manipulation**|Linfang Zheng Team|[2606.26800](http://arxiv.org/abs/2606.26800)|null|
+|**2026-06-25**|**Do Safety Guardrails Need to Reason? LeanGuard: A Fast and Light Approach for Robust Moderation**|Dongbin Na Team|[2606.26686](http://arxiv.org/abs/2606.26686)|**[link](https://ndb796.github.io/LeanGuard)**|
+|**2026-06-24**|**Having Dog Ears "for Real": Effects of Active and Passive Haptics on Embodying Non-Human Body Parts in VR**|Tiffany D. Do Team|[2606.26364](http://arxiv.org/abs/2606.26364)|null|
+|**2026-06-24**|**RoboTales: ROBOTic Anthropomorphic LEarning Systems**|Alexis E. Block Team|[2606.26213](http://arxiv.org/abs/2606.26213)|null|
+|**2026-06-23**|**Hot AI in Cold Space: Thermal-Crosstalk-Aware Scheduling for Sustainable Orbital AI Clusters**|Georgios Theodoropoulos Team|[2606.26150](http://arxiv.org/abs/2606.26150)|null|
 |**2026-06-24**|**Learning Action Priors for Cross-embodiment Robot Manipulation**|Mingyu Ding Team|[2606.26095](http://arxiv.org/abs/2606.26095)|null|
 |**2026-06-24**|**Emcar: Embodied Controller for Animating Robots**|Elizabeth Jochum Team|[2606.26008](http://arxiv.org/abs/2606.26008)|null|
 |**2026-06-24**|**USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning**|Jianfei Yang Team|[2606.25880](http://arxiv.org/abs/2606.25880)|null|

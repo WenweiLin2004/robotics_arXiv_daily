@@ -1,13 +1,13 @@
-## Updated on 2026.06.26
+## Updated on 2026.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-25**|**OctoSense: Self-Supervised Learning for Multimodal Robot Perception**|Pratik Chaudhari Team|[2606.27317](http://arxiv.org/abs/2606.27317)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-25**|**Ordinal Neural Collapse as a Representation Prior for Visual Navigation**|Seung-Woo Seo Team|[2606.26839](http://arxiv.org/abs/2606.26839)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-25**|**TGHE: Template-based Graph Homomorphic Encryption for Privacy-Preserving GNN Inference in Edge-Cloud Systems**|Jun Shen Team|[2606.26664](http://arxiv.org/abs/2606.26664)|null|
+|**2026-06-25**|**OctoSense: Self-Supervised Learning for Multimodal Robot Perception**|Pratik Chaudhari Team|[2606.27317](http://arxiv.org/abs/2606.27317)|null|
+|**2026-06-25**|**Ordinal Neural Collapse as a Representation Prior for Visual Navigation**|Seung-Woo Seo Team|[2606.26839](http://arxiv.org/abs/2606.26839)|null|
+|**2026-06-25**|**TGHE: Template-based Graph Homomorphic Encryption for Privacy-Preserving GNN Inference in Edge-Cloud Systems**|Jun Shen Team|[2606.26664](http://arxiv.org/abs/2606.26664)|null|
 |**2026-06-24**|**ForceBand: Learning Forceful Manipulation with sEMG**|Yiannis Aloimonos Team|[2606.26093](http://arxiv.org/abs/2606.26093)|null|
 |**2026-06-24**|**Learning Robot Visual Navigation in Crowds via Intention-Aware Scene Representations**|Jiankun Wang Team|[2606.26047](http://arxiv.org/abs/2606.26047)|null|
 |**2026-06-24**|**RoboAtlas: Contextual Active SLAM**|Stefano Di Cairano Team|[2606.26046](http://arxiv.org/abs/2606.26046)|null|
