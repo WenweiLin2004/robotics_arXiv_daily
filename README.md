@@ -1,4 +1,4 @@
-## Updated on 2026.06.27
+## Updated on 2026.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -70,7 +70,7 @@
 |**2026-06-22**|**Improving Robotic Imitation Learning via Trajectory Standardization**|Hu Su Team|[2606.22907](http://arxiv.org/abs/2606.22907)|null|
 |**2026-06-22**|**HiL-ResRL: A Model-Agnostic Finetuning Adapter via Human-in-the-loop Residual Reinforcement Learning**|Heng Zhang Team|[2606.22860](http://arxiv.org/abs/2606.22860)|null|
 
-<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
 
 ## VLM
 
@@ -127,7 +127,7 @@
 |**2026-06-22**|**Data Selection Through Iterative Self-Filtering for Vision-Language Settings**|Aaron Courville Team|[2606.23611](http://arxiv.org/abs/2606.23611)|null|
 |**2026-06-22**|**Brain-Adapter: A Dual-Stream Vision-Language MIL Framework for Comprehensive 3D CT Diagnosis of Acute Intracranial Pathologies**|Lichi Zhang Team|[2606.23494](http://arxiv.org/abs/2606.23494)|null|
 
-<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
 
 ## VLA
 
@@ -184,7 +184,7 @@
 |**2026-06-21**|**MapReason-OSM: Can Vision-Language Models Make Graph-Verifiable Mobility Decisions from Street Maps ?**|Clement Pakkam Isaac Team|[2606.22597](http://arxiv.org/abs/2606.22597)|**[link](https://github.com/Vi-Sri/mapreason-osm)**|
 |**2026-06-21**|**PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models**|Yinjie Lei Team|[2606.22540](http://arxiv.org/abs/2606.22540)|**[link](https://inceptionwang.github.io/PolicyTrim/)**|
 
-<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
 
 ## Humanoid
 
@@ -241,7 +241,7 @@
 |**2026-06-12**|**Whole-Body Impedance Model Predictive Control for Safe Physical Human--Robot Interaction on Floating-Base Platforms**|Yongyan Cao Team|[2606.14617](http://arxiv.org/abs/2606.14617)|null|
 |**2026-06-12**|**Robust Fall Recovery for Armless Bipedal-Wheeled Robots Via Force-Guided Learning**|Fei Meng Team|[2606.14270](http://arxiv.org/abs/2606.14270)|null|
 
-<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
 
 ## Dexterous
 
@@ -298,7 +298,7 @@
 |**2026-06-12**|**EquiDexFlow: Contact-Grounded SE(3)-Equivariant Dexterous Grasp Generative Flows**|Calin Belta Team|[2606.12728](http://arxiv.org/abs/2606.12728)|**[link](https://equidexflow.github.io)**|
 |**2026-06-10**|**EgoEngine: From Egocentric Human Videos to High-Fidelity Dexterous Robot Demonstrations**|Danfei Xu Team|[2606.12604](http://arxiv.org/abs/2606.12604)|null|
 
-<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
 
 ## CrossEmbodiment
 
@@ -355,7 +355,7 @@
 |**2026-06-19**|**BIT-Nav: Brain-Inspired Trajectory Memory for Embodied Navigation**|Tinoosh Mohsenin Team|[2606.21398](http://arxiv.org/abs/2606.21398)|null|
 |**2026-06-19**|**MV-WAM: Manifold-Aware World Action Model with Value Augmentation**|Shanghang Zhang Team|[2606.21088](http://arxiv.org/abs/2606.21088)|null|
 
-<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
 
 ## WorldModel
 
@@ -412,7 +412,7 @@
 |**2026-06-21**|**Reference-Free Assessment of Physical Consistency in World Model-based Video Generation**|Sukmin Yun Team|[2606.22363](http://arxiv.org/abs/2606.22363)|null|
 |**2026-06-20**|**Learning a Normal World Model for Few-Shot Boundary-Calibrated Abnormality Detection**|Yuting Su Team|[2606.22261](http://arxiv.org/abs/2606.22261)|null|
 
-<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
 
 ## WAM
 
@@ -469,5 +469,5 @@
 |**2026-05-28**|**Sample-Efficient Diffusion-based Reinforcement Learning with Critic Guidance**|Ye Shi Team|[2605.30056](http://arxiv.org/abs/2605.30056)|null|
 |**2026-05-28**|**Mitigating State Aliasing in Vision-Language-Action Models via Inverse Dynamics Learning**|Hyunwoo J. Kim Team|[2605.29577](http://arxiv.org/abs/2605.29577)|null|
 
-<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
 
