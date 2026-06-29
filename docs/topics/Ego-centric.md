@@ -1,10 +1,12 @@
-## Updated on 2026.06.28
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-26**|**Preferentiality and bandwidth drive tie activity in online and offline ego networks**|Gerardo Iñiguez Team|[2606.27937](http://arxiv.org/abs/2606.27937)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-26**|**NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning**|Bo Dai Team|[2606.27826](http://arxiv.org/abs/2606.27826)|null|
 |**2026-06-25**|**OctoSense: Self-Supervised Learning for Multimodal Robot Perception**|Pratik Chaudhari Team|[2606.27317](http://arxiv.org/abs/2606.27317)|null|
 |**2026-06-25**|**Ordinal Neural Collapse as a Representation Prior for Visual Navigation**|Seung-Woo Seo Team|[2606.26839](http://arxiv.org/abs/2606.26839)|null|
 |**2026-06-25**|**TGHE: Template-based Graph Homomorphic Encryption for Privacy-Preserving GNN Inference in Edge-Cloud Systems**|Jun Shen Team|[2606.26664](http://arxiv.org/abs/2606.26664)|null|
@@ -153,6 +155,4 @@
 |**2026-05-29**|**Generalized Intention Modeling in Multi-Agent Reinforcement Learning**|Amanda Prorok Team|[2605.31318](http://arxiv.org/abs/2605.31318)|null|
 |**2026-05-29**|**DriveMA: Driving Vision-Language-Action Models with verifiable Meta-Actions**|Hang Zhao Team|[2605.31271](http://arxiv.org/abs/2605.31271)|null|
 |**2026-05-29**|**SSR: Scaling Surefooted and Symmetric Humanoid Traversal to the Open World**|Qiuguo Zhu Team|[2605.30770](http://arxiv.org/abs/2605.30770)|null|
-|**2026-05-29**|**WristCompass: Kinematic Coupling as a Learnable Visual Concept for Ego-Camera Orientation**|Cabrel Happi Team|[2605.30671](http://arxiv.org/abs/2605.30671)|null|
-|**2026-05-28**|**Gaze2Act: Gaze-Conditioned Vision-Language-Action Policies for Interactive Robot Manipulation**|Jianfei Yang Team|[2605.30282](http://arxiv.org/abs/2605.30282)|**[link](https://zuo-kuangji.github.io/Gaze2Act/)**|
 
