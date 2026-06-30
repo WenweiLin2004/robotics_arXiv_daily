@@ -1,12 +1,17 @@
-## Updated on 2026.06.29
+## Updated on 2026.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-26**|**Preferentiality and bandwidth drive tie activity in online and offline ego networks**|Gerardo Iñiguez Team|[2606.27937](http://arxiv.org/abs/2606.27937)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-26**|**NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning**|Bo Dai Team|[2606.27826](http://arxiv.org/abs/2606.27826)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-29**|**VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes**|Karen Liu Team|[2606.30645](http://arxiv.org/abs/2606.30645)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-29**|**Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation**|Dima Damen Team|[2606.30598](http://arxiv.org/abs/2606.30598)|**[link](https://sid2697.github.io/epic-contact/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-29**|**FutureNav: Unified World-Action Modeling for Vision-and-Language Navigation**|Wenbo Ding Team|[2606.30367](http://arxiv.org/abs/2606.30367)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-29**|**The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction**|Xingang Pan Team|[2606.30308](http://arxiv.org/abs/2606.30308)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-27**|**Attribution Bias in Philosophical Knowledge Graphs: Corpus Frequency versus Temporal Sourcing**|Joy Bose Team|[2606.29070](http://arxiv.org/abs/2606.29070)|**[link](https://github.com/joyboseroy/agentic-diffusion-sim.)**|
+|**2026-06-26**|**Preferentiality and bandwidth drive tie activity in online and offline ego networks**|Gerardo Iñiguez Team|[2606.27937](http://arxiv.org/abs/2606.27937)|null|
+|**2026-06-26**|**NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning**|Bo Dai Team|[2606.27826](http://arxiv.org/abs/2606.27826)|null|
 |**2026-06-25**|**OctoSense: Self-Supervised Learning for Multimodal Robot Perception**|Pratik Chaudhari Team|[2606.27317](http://arxiv.org/abs/2606.27317)|null|
 |**2026-06-25**|**Ordinal Neural Collapse as a Representation Prior for Visual Navigation**|Seung-Woo Seo Team|[2606.26839](http://arxiv.org/abs/2606.26839)|null|
 |**2026-06-25**|**TGHE: Template-based Graph Homomorphic Encryption for Privacy-Preserving GNN Inference in Edge-Cloud Systems**|Jun Shen Team|[2606.26664](http://arxiv.org/abs/2606.26664)|null|
@@ -15,7 +20,7 @@
 |**2026-06-24**|**RoboAtlas: Contextual Active SLAM**|Stefano Di Cairano Team|[2606.26046](http://arxiv.org/abs/2606.26046)|null|
 |**2026-06-24**|**USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning**|Jianfei Yang Team|[2606.25880](http://arxiv.org/abs/2606.25880)|null|
 |**2026-06-24**|**Graph it first! Enabling Reasoning on Long-form Egocentric Videos through Scene Graphs**|Matteo Matteucci Team|[2606.25842](http://arxiv.org/abs/2606.25842)|null|
-|**2026-06-24**|**WOLF-VLA: Whole-Body Humanoid Optimal Locomotion Framework for Vision-Language-Action Learning**|Frank Kirchner Team|[2606.25591](http://arxiv.org/abs/2606.25591)|null|
+|**2026-06-28**|**WOLF-VLA: Whole-Body Humanoid Optimal Locomotion Framework for Vision-Language-Action Learning**|Frank Kirchner Team|[2606.25591](http://arxiv.org/abs/2606.25591)|null|
 |**2026-06-24**|**FeVOS: Foresight Expression Video Object Segmentation**|Henghui Ding Team|[2606.25585](http://arxiv.org/abs/2606.25585)|**[link](https://henghuiding.com/FeVOS/)**|
 |**2026-06-24**|**SAGE-Nav: Leveraging LLM Planning and Alignment Fusion for Hierarchical Scene Graph-Guided Navigation**|Jiajun Lv Team|[2606.25497](http://arxiv.org/abs/2606.25497)|null|
 |**2026-06-23**|**Toward Low-Latency Vision-Language Models with Doubly-Correct Predictions in Egocentric Visual Understanding**|Christopher Rasmussen Team|[2606.25160](http://arxiv.org/abs/2606.25160)|null|
@@ -65,7 +70,7 @@
 |**2026-06-15**|**Human Universal Grasping**|Lerrel Pinto Team|[2606.17054](http://arxiv.org/abs/2606.17054)|null|
 |**2026-06-15**|**SurroundNEXO: Ego-Centric Metric Bridging for Spatially Consistent Geometry in Autonomous Driving**|Zhipeng Zhang Team|[2606.16960](http://arxiv.org/abs/2606.16960)|null|
 |**2026-06-15**|**Binary Tracking for Spatial QA and Navigation with Open Vision-Language Models**|Dooyoung Hong Team|[2606.16902](http://arxiv.org/abs/2606.16902)|**[link](https://ndb796.github.io/BinaryTracking)**|
-|**2026-06-15**|**DataLadder: A Simulation-Enabled Interconversion Toolchain for the Embodied Data Pyramid**|Liang Lin Team|[2606.16776](http://arxiv.org/abs/2606.16776)|**[link](https://joyai-sim.github.io/)**|
+|**2026-06-28**|**JoyAI-Sim: A Simulation-Enabled Interconversion Toolchain for the Embodied Data Pyramid**|Liang Lin Team|[2606.16776](http://arxiv.org/abs/2606.16776)|**[link](https://joyai-sim.github.io/)**|
 |**2026-06-15**|**Pride and Prejudice: Toward an Information-Theoretic Framework for Mutually Communicative Driver Behavior Modeling**|Konghui Guo Team|[2606.16735](http://arxiv.org/abs/2606.16735)|null|
 |**2026-06-15**|**PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models**|Sunghwan Hong Team|[2606.16569](http://arxiv.org/abs/2606.16569)|**[link](https://rckola.github.io/prose/)**|
 |**2026-06-15**|**GraphWorld: Long-Horizon Planning with World Models for End-to-End Autonomous Driving**|Yadan Luo Team|[2606.16274](http://arxiv.org/abs/2606.16274)|null|
@@ -150,9 +155,4 @@
 |**2026-05-30**|**CASTLE2026 Team WDL Technical Report**|Xu Liu Team|[2606.00712](http://arxiv.org/abs/2606.00712)|null|
 |**2026-05-30**|**FROST-STA: Frozen Dense Features for the Ego4D Short-Term Object Interaction Anticipation**|Lexuan Xu Team|[2606.00694](http://arxiv.org/abs/2606.00694)|null|
 |**2026-05-30**|**TAP-JEPA: Frozen Future-Latent Probing and Two-Stage Score Fusion for EPIC-KITCHENS-100 Action Anticipation**|Lexuan Xu Team|[2606.00662](http://arxiv.org/abs/2606.00662)|null|
-|**2026-05-29**|**StressDream: Steering Video World Models for Robust Policy Evaluation and Improvement**|Andrea Bajcsy Team|[2606.00267](http://arxiv.org/abs/2606.00267)|**[link](https://junwon.me/StressDream/)**|
-|**2026-06-01**|**EGOSTREAM: A Diagnostic Benchmark for Streaming Episodic Memory in Egocentric Vision**|Antonino Furnari Team|[2605.31557](http://arxiv.org/abs/2605.31557)|null|
-|**2026-05-29**|**Generalized Intention Modeling in Multi-Agent Reinforcement Learning**|Amanda Prorok Team|[2605.31318](http://arxiv.org/abs/2605.31318)|null|
-|**2026-05-29**|**DriveMA: Driving Vision-Language-Action Models with verifiable Meta-Actions**|Hang Zhao Team|[2605.31271](http://arxiv.org/abs/2605.31271)|null|
-|**2026-05-29**|**SSR: Scaling Surefooted and Symmetric Humanoid Traversal to the Open World**|Qiuguo Zhu Team|[2605.30770](http://arxiv.org/abs/2605.30770)|null|
 
