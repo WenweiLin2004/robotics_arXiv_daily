@@ -1,15 +1,23 @@
-## Updated on 2026.06.30
+## Updated on 2026.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-29**|**VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes**|Karen Liu Team|[2606.30645](http://arxiv.org/abs/2606.30645)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-29**|**Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation**|Dima Damen Team|[2606.30598](http://arxiv.org/abs/2606.30598)|**[link](https://sid2697.github.io/epic-contact/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-29**|**FutureNav: Unified World-Action Modeling for Vision-and-Language Navigation**|Wenbo Ding Team|[2606.30367](http://arxiv.org/abs/2606.30367)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-29**|**The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction**|Xingang Pan Team|[2606.30308](http://arxiv.org/abs/2606.30308)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-27**|**Attribution Bias in Philosophical Knowledge Graphs: Corpus Frequency versus Temporal Sourcing**|Joy Bose Team|[2606.29070](http://arxiv.org/abs/2606.29070)|**[link](https://github.com/joyboseroy/agentic-diffusion-sim.)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-30**|**Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments**|Kai Chen Team|[2606.32009](http://arxiv.org/abs/2606.32009)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-30**|**Bridging Local Observation and Global Simulation in Closed-Loop Traffic Modeling**|Xintao Yan Team|[2606.31844](http://arxiv.org/abs/2606.31844)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-30**|**ForgeDrive: Bidirectional Cross-Conditioning for Unified Visual-Action Generation in Autonomous Driving**|Yang Cai Team|[2606.31226](http://arxiv.org/abs/2606.31226)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-30**|**Reasoning-aware Speculative Decoding for Efficient Vision-Language-Action Models in Autonomous Driving**|Flora Salim Team|[2606.31160](http://arxiv.org/abs/2606.31160)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-30**|**Scenario Generation for Testing of Autonomous Driving Systems Using Real-World Failure Records**|Chuchu Fan Team|[2606.31131](http://arxiv.org/abs/2606.31131)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-30**|**SkillSpotter: Pose-Aware Multi-View Skilled Action Detection and Grading in Ego-Exo Videos**|Christian Holz Team|[2606.31127](http://arxiv.org/abs/2606.31127)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-30**|**What Probing Reveals about Autonomous Driving: Linking Internal Prediction Errors to Ego Planning**|Kyung-Joong Kim Team|[2606.31106](http://arxiv.org/abs/2606.31106)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-06-29**|**Streaming Gaussian Encoding for 4D Panoptic Occupancy Tracking**|Abhinav Valada Team|[2606.30754](http://arxiv.org/abs/2606.30754)|null|
+|**2026-06-29**|**VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes**|Karen Liu Team|[2606.30645](http://arxiv.org/abs/2606.30645)|null|
+|**2026-06-29**|**Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation**|Dima Damen Team|[2606.30598](http://arxiv.org/abs/2606.30598)|**[link](https://sid2697.github.io/epic-contact/)**|
+|**2026-06-29**|**FutureNav: Unified World-Action Modeling for Vision-and-Language Navigation**|Wenbo Ding Team|[2606.30367](http://arxiv.org/abs/2606.30367)|null|
+|**2026-06-29**|**The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction**|Xingang Pan Team|[2606.30308](http://arxiv.org/abs/2606.30308)|null|
+|**2026-06-27**|**Attribution Bias in Philosophical Knowledge Graphs: Corpus Frequency versus Temporal Sourcing**|Joy Bose Team|[2606.29070](http://arxiv.org/abs/2606.29070)|**[link](https://github.com/joyboseroy/agentic-diffusion-sim.)**|
 |**2026-06-26**|**Preferentiality and bandwidth drive tie activity in online and offline ego networks**|Gerardo Iñiguez Team|[2606.27937](http://arxiv.org/abs/2606.27937)|null|
 |**2026-06-26**|**NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning**|Bo Dai Team|[2606.27826](http://arxiv.org/abs/2606.27826)|null|
 |**2026-06-25**|**OctoSense: Self-Supervised Learning for Multimodal Robot Perception**|Pratik Chaudhari Team|[2606.27317](http://arxiv.org/abs/2606.27317)|null|
@@ -147,12 +155,4 @@
 |**2026-06-01**|**Understanding-Enhanced Model Collaboration for Long-Tailed Egocentric Mistake Detection**|Qingming Huang Team|[2606.02120](http://arxiv.org/abs/2606.02120)|null|
 |**2026-06-01**|**Co-training with Ego-centric Video and Demonstration for Robot Navigation Task**|Kanata Suzuki Team|[2606.01951](http://arxiv.org/abs/2606.01951)|null|
 |**2026-06-01**|**3rd Place at CVPR 2026 CASTLE Challenge: Agentic Multi-View Long-Context Video Understanding via Hierarchical Knowledge Graph Retrieval**|Munirah Alyahya Team|[2606.01933](http://arxiv.org/abs/2606.01933)|null|
-|**2026-06-01**|**Token Predictors Are Not Planners: Building Physically Grounded Causal Reasoners**|Yiming Li Team|[2606.01810](http://arxiv.org/abs/2606.01810)|**[link](https://github.com/THUSI-Lab/Causal-Reasoner)**|
-|**2026-06-01**|**Effective Multi-sensor Conditioning for Street-view Novel-view Synthesis**|Gordon Wetzstein Team|[2606.01590](http://arxiv.org/abs/2606.01590)|null|
-|**2026-05-31**|**$τ_0$ -WM: A Unified Video-Action World Model for Robotic Manipulation**|Jianlan Luo Team|[2606.01027](http://arxiv.org/abs/2606.01027)|**[link](https://finch.agibot.com/research/tau0-wm)**|
-|**2026-05-30**|**The Right Inference Strategy Is All You Need: Nearly Training-Free Domain-Wise Inference for EgoCross Challenge**|Ying-Cong Chen Team|[2606.00829](http://arxiv.org/abs/2606.00829)|null|
-|**2026-05-30**|**SuperMemory-VQA: An Egocentric Visual Question-Answering Benchmark for Long-Horizon Memory**|Mi Zhang Team|[2606.00825](http://arxiv.org/abs/2606.00825)|null|
-|**2026-05-30**|**CASTLE2026 Team WDL Technical Report**|Xu Liu Team|[2606.00712](http://arxiv.org/abs/2606.00712)|null|
-|**2026-05-30**|**FROST-STA: Frozen Dense Features for the Ego4D Short-Term Object Interaction Anticipation**|Lexuan Xu Team|[2606.00694](http://arxiv.org/abs/2606.00694)|null|
-|**2026-05-30**|**TAP-JEPA: Frozen Future-Latent Probing and Two-Stage Score Fusion for EPIC-KITCHENS-100 Action Anticipation**|Lexuan Xu Team|[2606.00662](http://arxiv.org/abs/2606.00662)|null|
 
