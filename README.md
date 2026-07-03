@@ -1,4 +1,4 @@
-## Updated on 2026.07.02
+## Updated on 2026.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -70,7 +70,7 @@
 |**2026-06-26**|**WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation**|Ken Goldberg Team|[2606.28320](http://arxiv.org/abs/2606.28320)|null|
 |**2026-06-26**|**Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots**|Xihui Liu Team|[2606.28133](http://arxiv.org/abs/2606.28133)|**[link](https://translation-as-a-bridging-action.github.io/)**|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## VLM
 
@@ -127,7 +127,7 @@
 |**2026-06-29**|**From Accuracy to Visual Dependence: Auditing and Filtering Modality Collapse in Traffic VideoQA**|Zeynep Akata Team|[2606.30220](http://arxiv.org/abs/2606.30220)|null|
 |**2026-06-29**|**SHOVIR: A Benchmark for Evaluating Vision Shortcut Learning in Radiology Report Generation**|Paolo Soda Team|[2606.30201](http://arxiv.org/abs/2606.30201)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## VLA
 
@@ -184,7 +184,7 @@
 |**2026-06-26**|**Drop-Then-Recovery: How Redundant Are Vision-Language-Action Models?**|Ang Li Team|[2606.27755](http://arxiv.org/abs/2606.27755)|null|
 |**2026-06-26**|**Direct Action-Head Injection of A Grounded 3D Point Unlocks Spatial and Task Generalization**|Yi-Ting Chen Team|[2606.27663](http://arxiv.org/abs/2606.27663)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## Humanoid
 
@@ -241,7 +241,7 @@
 |**2026-06-18**|**Start Right, Arrive Right: Asynchronous Execution via Initial Noise Selection**|Ngo Anh Vien Team|[2606.19774](http://arxiv.org/abs/2606.19774)|**[link](https://paint-action-chunking.github.io)**|
 |**2026-06-18**|**Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI**|Jie Tang Team|[2606.19769](http://arxiv.org/abs/2606.19769)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## Dexterous
 
@@ -298,7 +298,7 @@
 |**2026-06-15**|**ART-Glove: Articulated Tactile Glove for Contact-Grounded Dexterous Interaction Capture**|Ding Zhao Team|[2606.16370](http://arxiv.org/abs/2606.16370)|null|
 |**2026-06-15**|**TopoRetarget: Interaction-Preserving Retargeting for Dexterous Manipulation**|Hang Zhao Team|[2606.16272](http://arxiv.org/abs/2606.16272)|**[link](https://toporetarget2026.github.io/TopoRetarget/)**|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## CrossEmbodiment
 
@@ -355,7 +355,7 @@
 |**2026-06-25**|**DMuon: Efficient Distributed Muon Training with Near-Adam Overhead**|Qian Wang Team|[2606.27153](http://arxiv.org/abs/2606.27153)|null|
 |**2026-06-25**|**RelAfford6D: Relational 6D Affordance Graphs for Constraint-Driven Robotic Manipulation**|Hongtao Lu Team|[2606.27036](http://arxiv.org/abs/2606.27036)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## WorldModel
 
@@ -412,7 +412,7 @@
 |**2026-06-26**|**Textual Belief States for World Models: Identifiable Representation Learning Under Strict Mediation**|Kamalika Das Team|[2606.27681](http://arxiv.org/abs/2606.27681)|null|
 |**2026-06-26**|**CascadeOcc: Rethinking 3D Occupancy World Models with Cascaded VQ Representations**|Sunghoon Im Team|[2606.27644](http://arxiv.org/abs/2606.27644)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## WAM
 
@@ -469,5 +469,5 @@
 |**2026-06-05**|**Cosmos 3: Omnimodal World Models for Physical AI**|Artur Zolkowski Team|[2606.02800](http://arxiv.org/abs/2606.02800)|null|
 |**2026-06-01**|**WALL-WM: Carving World Action Modeling at the Event Joints**|Qian Wang Team|[2606.01955](http://arxiv.org/abs/2606.01955)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
