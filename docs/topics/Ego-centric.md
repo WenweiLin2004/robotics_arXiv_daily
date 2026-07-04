@@ -1,17 +1,17 @@
-## Updated on 2026.07.03
+## Updated on 2026.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs**|Giuseppe Averta Team|[2607.02425](http://arxiv.org/abs/2607.02425)|**[link](https://francescapistilli.github.io/GLEN)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**LIME: Learning Intent-aware Camera Motion from Egocentric Video**|Hermann Blum Team|[2607.02417](http://arxiv.org/abs/2607.02417)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension**|Chenhui Chu Team|[2607.02096](http://arxiv.org/abs/2607.02096)|**[link](https://github.com/shunya-kato/LongEgoRefer)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**HandsOnWorld: Unconstrained Egocentric Video Generation with Camera-Disentangled Hand Control**|Yebin Liu Team|[2607.02075](http://arxiv.org/abs/2607.02075)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**Comprehensive Robustness Analysis of LiDAR-based 3D Object Detection in Autonomous Driving**|Tobias Meisen Team|[2607.02074](http://arxiv.org/abs/2607.02074)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**C2E: Boosting Ego-Only 3D Object Detection via Multi-Teacher Contrastive Knowledge Distillation**|Chenglu Wen Team|[2607.01827](http://arxiv.org/abs/2607.01827)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-01**|**How Much Future Helps? A Controlled Study of Future-Privileged Supervision for Causal Egocentric Gaze Estimation**|Yapeng Tian Team|[2607.01437](http://arxiv.org/abs/2607.01437)|null|
+|**2026-07-02**|**Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs**|Giuseppe Averta Team|[2607.02425](http://arxiv.org/abs/2607.02425)|**[link](https://francescapistilli.github.io/GLEN)**|
+|**2026-07-02**|**LIME: Learning Intent-aware Camera Motion from Egocentric Video**|Hermann Blum Team|[2607.02417](http://arxiv.org/abs/2607.02417)|null|
+|**2026-07-02**|**LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension**|Chenhui Chu Team|[2607.02096](http://arxiv.org/abs/2607.02096)|**[link](https://github.com/shunya-kato/LongEgoRefer)**|
+|**2026-07-02**|**HandsOnWorld: Unconstrained Egocentric Video Generation with Camera-Disentangled Hand Control**|Yebin Liu Team|[2607.02075](http://arxiv.org/abs/2607.02075)|null|
+|**2026-07-02**|**Comprehensive Robustness Analysis of LiDAR-based 3D Object Detection in Autonomous Driving**|Tobias Meisen Team|[2607.02074](http://arxiv.org/abs/2607.02074)|null|
+|**2026-07-02**|**C2E: Boosting Ego-Only 3D Object Detection via Multi-Teacher Contrastive Knowledge Distillation**|Chenglu Wen Team|[2607.01827](http://arxiv.org/abs/2607.01827)|null|
+|**2026-07-01**|**How Much Future Helps? A Controlled Study of Future-Privileged Supervision for Causal Egocentric Gaze Estimation**|Yapeng Tian Team|[2607.01437](http://arxiv.org/abs/2607.01437)|null|
 |**2026-07-01**|**SD-RouteFusion: Ego-Trajectory Prediction with SD-Map Route Conditioning**|Junsheng Fu Team|[2607.01139](http://arxiv.org/abs/2607.01139)|null|
 |**2026-07-01**|**LongVQUBench: Benchmarking Long-Term Video Quality Understanding of Vision-Language Models**|Weisi Lin Team|[2607.01086](http://arxiv.org/abs/2607.01086)|null|
 |**2026-07-01**|**Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation**|Zongqing Lu Team|[2607.01067](http://arxiv.org/abs/2607.01067)|null|

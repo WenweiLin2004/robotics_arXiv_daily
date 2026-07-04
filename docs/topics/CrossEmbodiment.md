@@ -1,26 +1,26 @@
-## Updated on 2026.07.03
+## Updated on 2026.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots**|Shuai Wang Team|[2607.02501](http://arxiv.org/abs/2607.02501)|**[link](https://github.com/SEU-PAISys/Embodied.cpp)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**Seek to Segment: Active Perception for Panoramic Referring Segmentation**|Yu-Gang Jiang Team|[2607.02497](http://arxiv.org/abs/2607.02497)|**[link](https://henghuiding.com/APRS/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**EAGLE-360: Embodied Active Global-to-Local Exploration in 360 $^\circ$**|Yawei Luo Team|[2607.02479](http://arxiv.org/abs/2607.02479)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs**|Xipeng Qiu Team|[2607.02466](http://arxiv.org/abs/2607.02466)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs**|Giuseppe Averta Team|[2607.02425](http://arxiv.org/abs/2607.02425)|**[link](https://francescapistilli.github.io/GLEN)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**ACID: Action Consistency via Inverse Dynamics for Planning with World Models**|Suha Kwak Team|[2607.02403](http://arxiv.org/abs/2607.02403)|**[link](https://gawon1224.github.io/ACID/))**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**ComplexMimic: Human-Scene Interaction Imitation in Complex 3D Environments**|Hongwei Zhao Team|[2607.02034](http://arxiv.org/abs/2607.02034)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**Episodic-to-Semantic Consolidation Without Identity Drift**|Zhijun Li Team|[2607.01988](http://arxiv.org/abs/2607.01988)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation**|Bo Yang Team|[2607.01938](http://arxiv.org/abs/2607.01938)|**[link](https://github.com/vLAR-group/PhysMani)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon**|Wenqi Zhang Team|[2607.01804](http://arxiv.org/abs/2607.01804)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**SpaceEra++: A Unified Framework Towards 3D Spatial Reasoning in Video**|Liqiang Nie Team|[2607.01784](http://arxiv.org/abs/2607.01784)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**SimWorlds: A Multi-Agent System for Dynamic 3D Scene Creation**|László A. Jeni Team|[2607.01766](http://arxiv.org/abs/2607.01766)|**[link](https://dynsimworlds.github.io)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**Path-level Hindsight Instructions for Semantic Exploration in Vision-Language Navigation**|Honglak Lee Team|[2607.01754](http://arxiv.org/abs/2607.01754)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-02**|**VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment**|Yan Xie Team|[2607.01586](http://arxiv.org/abs/2607.01586)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-01**|**Sign in the Air to Unlock: An Interface for authentication in Virtual and Augmented Reality Powered by Point-Voxel Cross-Attention Network**|Vir V Phoha Team|[2607.01435](http://arxiv.org/abs/2607.01435)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-01**|**Mitigating Confirmation Bias through Hand-Drawing Videos**|Icy Zhang Team|[2607.01359](http://arxiv.org/abs/2607.01359)|null|
+|**2026-07-02**|**Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots**|Shuai Wang Team|[2607.02501](http://arxiv.org/abs/2607.02501)|**[link](https://github.com/SEU-PAISys/Embodied.cpp)**|
+|**2026-07-02**|**Seek to Segment: Active Perception for Panoramic Referring Segmentation**|Yu-Gang Jiang Team|[2607.02497](http://arxiv.org/abs/2607.02497)|**[link](https://henghuiding.com/APRS/)**|
+|**2026-07-02**|**EAGLE-360: Embodied Active Global-to-Local Exploration in 360 $^\circ$**|Yawei Luo Team|[2607.02479](http://arxiv.org/abs/2607.02479)|null|
+|**2026-07-02**|**Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs**|Xipeng Qiu Team|[2607.02466](http://arxiv.org/abs/2607.02466)|null|
+|**2026-07-02**|**Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs**|Giuseppe Averta Team|[2607.02425](http://arxiv.org/abs/2607.02425)|**[link](https://francescapistilli.github.io/GLEN)**|
+|**2026-07-02**|**ACID: Action Consistency via Inverse Dynamics for Planning with World Models**|Suha Kwak Team|[2607.02403](http://arxiv.org/abs/2607.02403)|**[link](https://gawon1224.github.io/ACID/))**|
+|**2026-07-02**|**ComplexMimic: Human-Scene Interaction Imitation in Complex 3D Environments**|Hongwei Zhao Team|[2607.02034](http://arxiv.org/abs/2607.02034)|null|
+|**2026-07-02**|**Episodic-to-Semantic Consolidation Without Identity Drift**|Zhijun Li Team|[2607.01988](http://arxiv.org/abs/2607.01988)|null|
+|**2026-07-02**|**PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation**|Bo Yang Team|[2607.01938](http://arxiv.org/abs/2607.01938)|**[link](https://github.com/vLAR-group/PhysMani)**|
+|**2026-07-02**|**VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon**|Wenqi Zhang Team|[2607.01804](http://arxiv.org/abs/2607.01804)|null|
+|**2026-07-02**|**SpaceEra++: A Unified Framework Towards 3D Spatial Reasoning in Video**|Liqiang Nie Team|[2607.01784](http://arxiv.org/abs/2607.01784)|null|
+|**2026-07-02**|**SimWorlds: A Multi-Agent System for Dynamic 3D Scene Creation**|László A. Jeni Team|[2607.01766](http://arxiv.org/abs/2607.01766)|**[link](https://dynsimworlds.github.io)**|
+|**2026-07-02**|**Path-level Hindsight Instructions for Semantic Exploration in Vision-Language Navigation**|Honglak Lee Team|[2607.01754](http://arxiv.org/abs/2607.01754)|null|
+|**2026-07-02**|**VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment**|Yan Xie Team|[2607.01586](http://arxiv.org/abs/2607.01586)|null|
+|**2026-07-01**|**Sign in the Air to Unlock: An Interface for authentication in Virtual and Augmented Reality Powered by Point-Voxel Cross-Attention Network**|Vir V Phoha Team|[2607.01435](http://arxiv.org/abs/2607.01435)|null|
+|**2026-07-01**|**Mitigating Confirmation Bias through Hand-Drawing Videos**|Icy Zhang Team|[2607.01359](http://arxiv.org/abs/2607.01359)|null|
 |**2026-07-02**|**From World Models to World Action Models: A Concise Tutorial for Robotics**|Wei Zhang Team|[2607.00836](http://arxiv.org/abs/2607.00836)|**[link](https://clearlab-sustech.github.io/WorldModelSurvey/)**|
 |**2026-07-01**|**ABot-M0.5: Unified Mobility-and-Manipulation World Action Model**|Xinyuan Chang Team|[2607.00678](http://arxiv.org/abs/2607.00678)|**[link](https://github.com/amap-cvlab/ABot-Manipulation)**|
 |**2026-07-01**|**Convolutional Symmetric AutoEncoders: enhancing latent stability via differential geometry**|G. Rozza Team|[2607.00669](http://arxiv.org/abs/2607.00669)|null|
