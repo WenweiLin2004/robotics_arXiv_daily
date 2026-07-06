@@ -1,4 +1,4 @@
-## Updated on 2026.07.05
+## Updated on 2026.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -70,7 +70,7 @@
 |**2026-06-29**|**AI Training Manager: Bounded Closed-Loop Control of Adaptive Training Recipes**|Nikhil Kamalkumar Advani Team|[2606.29871](http://arxiv.org/abs/2606.29871)|null|
 |**2026-06-29**|**STEAM: Self-Supervised Temporal Ensemble Advantage Modeling for Real-World Robot Learning**|Chao Yu Team|[2606.29834](http://arxiv.org/abs/2606.29834)|null|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## VLM
 
@@ -127,7 +127,7 @@
 |**2026-06-30**|**Surprise as a Signal for Plasticity and Metacognition**|Louis Mouchon Team|[2606.31495](http://arxiv.org/abs/2606.31495)|null|
 |**2026-06-30**|**Think While You Map: Asynchronous Vision-Language Agents for Incremental 3D Scene Graphs**|Dieter Schmalstieg Team|[2606.31471](http://arxiv.org/abs/2606.31471)|**[link](https://denizbickici.github.io/thinkgraphs/)**|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## VLA
 
@@ -184,7 +184,7 @@
 |**2026-06-29**|**Early Warning Signals for OpenVLA Failure under Visual Distribution Shift**|Rachel Ren Team|[2606.29699](http://arxiv.org/abs/2606.29699)|null|
 |**2026-06-28**|**Event-VLA: Action-Conditioned Event Fusion for Robust Vision-Language-Action Model**|Laurent Kneip Team|[2606.29384](http://arxiv.org/abs/2606.29384)|null|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## Humanoid
 
@@ -241,7 +241,7 @@
 |**2026-06-15**|**MotionPyramid: Hierarchical Motion Representation and Residual Interfaces**|Yubei Chen Team|[2606.20705](http://arxiv.org/abs/2606.20705)|null|
 |**2026-06-18**|**PhysDrift: Bridging the Embodiment Gap in Humanoid Co-Speech Motion Generation**|Xiangmin Xu Team|[2606.19935](http://arxiv.org/abs/2606.19935)|null|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## Dexterous
 
@@ -298,7 +298,7 @@
 |**2026-06-15**|**ART-Glove: Articulated Tactile Glove for Contact-Grounded Dexterous Interaction Capture**|Ding Zhao Team|[2606.16370](http://arxiv.org/abs/2606.16370)|null|
 |**2026-06-15**|**TopoRetarget: Interaction-Preserving Retargeting for Dexterous Manipulation**|Hang Zhao Team|[2606.16272](http://arxiv.org/abs/2606.16272)|**[link](https://toporetarget2026.github.io/TopoRetarget/)**|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## CrossEmbodiment
 
@@ -355,7 +355,7 @@
 |**2026-06-26**|**Booster Lab: A Data-Centric Pipeline for Learning Deployable Humanoid Locomotion Policies**|Mingguo Zhao Team|[2606.27813](http://arxiv.org/abs/2606.27813)|null|
 |**2026-06-26**|**SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks**|Long Chen Team|[2606.27807](http://arxiv.org/abs/2606.27807)|null|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## WorldModel
 
@@ -412,7 +412,7 @@
 |**2026-06-28**|**Prototype Latent World Model Replay for Class-Incremental Learning**|Yuting Su Team|[2606.29465](http://arxiv.org/abs/2606.29465)|null|
 |**2026-06-28**|**L2D2-GS: Learning to Densify for Feedforward Dynamic Gaussian Scene Reconstruction**|Wen Gao Team|[2606.29374](http://arxiv.org/abs/2606.29374)|null|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
 ## WAM
 
@@ -469,5 +469,5 @@
 |**2026-06-02**|**Unified Video-Action Joint Denoising for Dexterous Action and Data Generation**|Johannes Betz Team|[2606.03868](http://arxiv.org/abs/2606.03868)|null|
 |**2026-06-02**|**GeoSem-WAM: Geometry- and Semantic-Aware World Action Models**|Jun Ma Team|[2606.03188](http://arxiv.org/abs/2606.03188)|null|
 
-<p align=right>(<a href=#updated-on-20260705>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
 
