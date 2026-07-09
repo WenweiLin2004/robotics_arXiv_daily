@@ -1,25 +1,39 @@
-## Updated on 2026.07.08
+## Updated on 2026.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization**|Sriram Subramanian Team|[2607.06563](http://arxiv.org/abs/2607.06563)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation**|Zhongyu Li Team|[2607.06559](http://arxiv.org/abs/2607.06559)|**[link](https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Zhongyu Li Team|[2607.06558](http://arxiv.org/abs/2607.06558)|**[link](https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation**|Minsu Cho Team|[2607.06438](http://arxiv.org/abs/2607.06438)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**From Foundation to Application: Improving VLA Models in Practice**|Kecheng Zheng Team|[2607.06403](http://arxiv.org/abs/2607.06403)|**[link](https://technology.robbyant.com/lingbot-vla-v2)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**A Definition and Roadmap for World Models**|Ming Zhou Team|[2607.06401](http://arxiv.org/abs/2607.06401)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**Responsible Personalisation: The Double-Edged Sword of Personalisation in Human-Robot Interaction**|Wing-Yue Geoffrey Louie Team|[2607.06344](http://arxiv.org/abs/2607.06344)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**AlayaWorld: Long-Horizon and Playable Video World Generation**|Zihui Gao Team|[2607.06291](http://arxiv.org/abs/2607.06291)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**EAGOR: Embodied Reasoning in Omni-direction**|Addison Lin Wang Team|[2607.06165](http://arxiv.org/abs/2607.06165)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**Imagined Rollouts are Kinematic, Not Dynamic: A Diagnosis of Long-Horizon World-Model Failure**|Johannes Betz Team|[2607.05966](http://arxiv.org/abs/2607.05966)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**Image2Sim: Scaling Embodied Navigation via Generative Neural Simulator**|Gim Hee Lee Team|[2607.05765](http://arxiv.org/abs/2607.05765)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-06**|**AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass**|H. Chad Lane Team|[2607.05557](http://arxiv.org/abs/2607.05557)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-06**|**GEM-Occ: From Visual Geometry Evidence to Embodied Semantic Occupancy Memory**|Chang Wen Chen Team|[2607.05543](http://arxiv.org/abs/2607.05543)|**[link](https://zhuhu00.top/GEM-Occ/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-06**|**TypeGo: An OS Runtime for Embodied Agents**|Lin Zhong Team|[2607.05482](http://arxiv.org/abs/2607.05482)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-06**|**Governable Individuals: An Identity Layer for Embodied Agents That Keep Learning**|Zhijun Li Team|[2607.05463](http://arxiv.org/abs/2607.05463)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence**|Ka Leong Cheng Team|[2607.07675](http://arxiv.org/abs/2607.07675)|**[link](https://technology.robbyant.com/lingbot-video)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Social-spatial dependencies for learning visual navigation**|Pawel Romanczuk Team|[2607.07460](http://arxiv.org/abs/2607.07460)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI**|Zhizhong Su Team|[2607.07459](http://arxiv.org/abs/2607.07459)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report**|Wenbin Tang Team|[2607.07370](http://arxiv.org/abs/2607.07370)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts**|Andrea Baronchelli Team|[2607.07267](http://arxiv.org/abs/2607.07267)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Validate the Dream Before You Trust Its Verdict: Admissibility for World-Model Simulators**|Johannes Betz Team|[2607.07196](http://arxiv.org/abs/2607.07196)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**GeoProp: Grounding Robot State in Vision for Generalist Manipulation**|Ran Xu Team|[2607.07101](http://arxiv.org/abs/2607.07101)|**[link](https://alibaba-damo-academy.github.io/GeoProp/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Ego-Human Motion Prediction with 3D-Aware LLM**|Kuk-Jin Yoon Team|[2607.07001](http://arxiv.org/abs/2607.07001)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**GemNav: Discrete-Token Visual Robot Navigation using a Multimodal Large Language Model**|Peyman Moghadam Team|[2607.06882](http://arxiv.org/abs/2607.06882)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**WildCity: A Real-World City-Scale Testbed for Rendering, Simulation, and Spatial Intelligence**|Yiming Li Team|[2607.06838](http://arxiv.org/abs/2607.06838)|**[link](https://han-xiangyu.github.io/Wild-City/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**Devising Interactive Spaces: A Rehearsal-Oriented Tool for Creating Responsive Environments for Immersive Theatre**|Nils Jaeger Team|[2607.06761](http://arxiv.org/abs/2607.06761)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**Creating a Mixed-Reality Installation with Families through Theatrical Co-Design**|Laurence Cliffe Team|[2607.06754](http://arxiv.org/abs/2607.06754)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**SPEAR: A Simulator for Photorealistic Embodied AI Research**|Vladlen Koltun Team|[2607.06701](http://arxiv.org/abs/2607.06701)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**Pelican-VLA 0.5: Attending Before Acting Benefits Generalization**|Xiaozhu Ju Team|[2607.06655](http://arxiv.org/abs/2607.06655)|null|
+|**2026-07-07**|**Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization**|Sriram Subramanian Team|[2607.06563](http://arxiv.org/abs/2607.06563)|null|
+|**2026-07-07**|**RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation**|Zhongyu Li Team|[2607.06559](http://arxiv.org/abs/2607.06559)|**[link](https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io)**|
+|**2026-07-07**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Zhongyu Li Team|[2607.06558](http://arxiv.org/abs/2607.06558)|**[link](https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io)**|
+|**2026-07-07**|**WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation**|Minsu Cho Team|[2607.06438](http://arxiv.org/abs/2607.06438)|null|
+|**2026-07-07**|**From Foundation to Application: Improving VLA Models in Practice**|Kecheng Zheng Team|[2607.06403](http://arxiv.org/abs/2607.06403)|**[link](https://technology.robbyant.com/lingbot-vla-v2)**|
+|**2026-07-07**|**A Definition and Roadmap for World Models**|Ming Zhou Team|[2607.06401](http://arxiv.org/abs/2607.06401)|null|
+|**2026-07-07**|**Responsible Personalisation: The Double-Edged Sword of Personalisation in Human-Robot Interaction**|Wing-Yue Geoffrey Louie Team|[2607.06344](http://arxiv.org/abs/2607.06344)|null|
+|**2026-07-07**|**AlayaWorld: Long-Horizon and Playable Video World Generation**|Zihui Gao Team|[2607.06291](http://arxiv.org/abs/2607.06291)|null|
+|**2026-07-07**|**EAGOR: Embodied Reasoning in Omni-direction**|Addison Lin Wang Team|[2607.06165](http://arxiv.org/abs/2607.06165)|null|
+|**2026-07-07**|**Imagined Rollouts are Kinematic, Not Dynamic: A Diagnosis of Long-Horizon World-Model Failure**|Johannes Betz Team|[2607.05966](http://arxiv.org/abs/2607.05966)|null|
+|**2026-07-07**|**Image2Sim: Scaling Embodied Navigation via Generative Neural Simulator**|Gim Hee Lee Team|[2607.05765](http://arxiv.org/abs/2607.05765)|null|
+|**2026-07-06**|**AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass**|H. Chad Lane Team|[2607.05557](http://arxiv.org/abs/2607.05557)|null|
+|**2026-07-06**|**GEM-Occ: From Visual Geometry Evidence to Embodied Semantic Occupancy Memory**|Chang Wen Chen Team|[2607.05543](http://arxiv.org/abs/2607.05543)|**[link](https://zhuhu00.top/GEM-Occ/)**|
+|**2026-07-06**|**TypeGo: An OS Runtime for Embodied Agents**|Lin Zhong Team|[2607.05482](http://arxiv.org/abs/2607.05482)|null|
+|**2026-07-06**|**Governable Individuals: An Identity Layer for Embodied Agents That Keep Learning**|Zhijun Li Team|[2607.05463](http://arxiv.org/abs/2607.05463)|null|
 |**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Tai Wang Team|[2607.05377](http://arxiv.org/abs/2607.05377)|**[link](https://steinate.github.io/cortex.github.io/)**|
 |**2026-07-06**|**Vision Pretraining for Dense Spatial Perception**|Nan Xue Team|[2607.05247](http://arxiv.org/abs/2607.05247)|null|
 |**2026-07-06**|**DSWAM: A Dual-System World Action Foundation Model for Fine-Grained Robot Manipulation**|Yi Xu Team|[2607.04927](http://arxiv.org/abs/2607.04927)|null|
@@ -141,18 +155,4 @@
 |**2026-06-25**|**Confidence-Aware Tool Orchestration for Robust Video Understanding**|Jaehong Yoon Team|[2606.26904](http://arxiv.org/abs/2606.26904)|**[link](https://rova-v2.github.io/)**|
 |**2026-06-29**|**SSI-Policy: Learning Structured Scene Interfaces for Vision-Language Robotic Manipulation**|Linfang Zheng Team|[2606.26800](http://arxiv.org/abs/2606.26800)|null|
 |**2026-06-25**|**Do Safety Guardrails Need to Reason? LeanGuard: A Fast and Light Approach for Robust Moderation**|Dongbin Na Team|[2606.26686](http://arxiv.org/abs/2606.26686)|**[link](https://ndb796.github.io/LeanGuard)**|
-|**2026-06-24**|**Having Dog Ears "for Real": Effects of Active and Passive Haptics on Embodying Non-Human Body Parts in VR**|Tiffany D. Do Team|[2606.26364](http://arxiv.org/abs/2606.26364)|null|
-|**2026-06-24**|**RoboTales: ROBOTic Anthropomorphic LEarning Systems**|Alexis E. Block Team|[2606.26213](http://arxiv.org/abs/2606.26213)|null|
-|**2026-06-30**|**Hot AI in Cold Space: Thermal-Crosstalk-Aware Scheduling for Sustainable Orbital AI Clusters**|Georgios Theodoropoulos Team|[2606.26150](http://arxiv.org/abs/2606.26150)|**[link](https://github.com/Sukiiichan/sdc-sim)**|
-|**2026-06-24**|**Learning Action Priors for Cross-embodiment Robot Manipulation**|Mingyu Ding Team|[2606.26095](http://arxiv.org/abs/2606.26095)|null|
-|**2026-06-24**|**Emcar: Embodied Controller for Animating Robots**|Elizabeth Jochum Team|[2606.26008](http://arxiv.org/abs/2606.26008)|null|
-|**2026-06-24**|**USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning**|Jianfei Yang Team|[2606.25880](http://arxiv.org/abs/2606.25880)|null|
-|**2026-06-24**|**One Body, Two Minds: Variable Autonomy Approach for a Co-embodied Robotic Hand**|Michael C. Welle Team|[2606.25575](http://arxiv.org/abs/2606.25575)|null|
-|**2026-06-24**|**Beyond One-Size-Fits-All: Diagnosis-Driven Online Reinforcement Learning with Offline Priors**|Dacheng Tao Team|[2606.25527](http://arxiv.org/abs/2606.25527)|null|
-|**2026-06-24**|**SAGE-Nav: Leveraging LLM Planning and Alignment Fusion for Hierarchical Scene Graph-Guided Navigation**|Jiajun Lv Team|[2606.25497](http://arxiv.org/abs/2606.25497)|null|
-|**2026-06-24**|**AI Coaching for Accelerating Human Skill Development with Reinforcement Learning**|Rahul Mangharam Team|[2606.25337](http://arxiv.org/abs/2606.25337)|null|
-|**2026-06-23**|**Reflective VLA: In-Context Action Consequences Make VLAs Generalize**|Lei Zhang Team|[2606.25215](http://arxiv.org/abs/2606.25215)|null|
-|**2026-06-23**|**Learning Perceptive Platform Adaptive Locomotion Controllers for Quadrupedal Robots**|Ioannis Havoutis Team|[2606.25179](http://arxiv.org/abs/2606.25179)|null|
-|**2026-06-23**|**Toward Low-Latency Vision-Language Models with Doubly-Correct Predictions in Egocentric Visual Understanding**|Christopher Rasmussen Team|[2606.25160](http://arxiv.org/abs/2606.25160)|null|
-|**2026-06-25**|**Virtual Simulation for Mental Health**|Anna Fang Team|[2606.24826](http://arxiv.org/abs/2606.24826)|null|
 

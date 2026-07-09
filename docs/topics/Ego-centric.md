@@ -1,17 +1,22 @@
-## Updated on 2026.07.08
+## Updated on 2026.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation**|Zhongyu Li Team|[2607.06559](http://arxiv.org/abs/2607.06559)|**[link](https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Zhongyu Li Team|[2607.06558](http://arxiv.org/abs/2607.06558)|**[link](https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**Point as Skeleton: Accumulated Point Cloud Enhanced Autoregressive Generation for Closed-Loop Autonomous Driving Simulation**|Junchi Yan Team|[2607.06516](http://arxiv.org/abs/2607.06516)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**EgoPolice: A Benchmark for Egocentric Video Understanding in High-Stakes Police Body-Worn Camera Footage**|Olga Russakovsky Team|[2607.06468](http://arxiv.org/abs/2607.06468)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**From Foundation to Application: Improving VLA Models in Practice**|Kecheng Zheng Team|[2607.06403](http://arxiv.org/abs/2607.06403)|**[link](https://technology.robbyant.com/lingbot-vla-v2)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**EAGOR: Embodied Reasoning in Omni-direction**|Addison Lin Wang Team|[2607.06165](http://arxiv.org/abs/2607.06165)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**TRIG: Trajectory-Rig Decoupled Metric Geometry Learning**|Chang Huang Team|[2607.05801](http://arxiv.org/abs/2607.05801)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence**|Ka Leong Cheng Team|[2607.07675](http://arxiv.org/abs/2607.07675)|**[link](https://technology.robbyant.com/lingbot-video)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**CARLA-GS: Decoupling Representation, Reasoning, and Physics Simulation for Autonomous Driving Corner-Case Synthesis**|Ruimin Ke Team|[2607.07601](http://arxiv.org/abs/2607.07601)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Immersive Social Interaction with VR and LLM-Assisted Humanoids**|Yi Fang Team|[2607.07430](http://arxiv.org/abs/2607.07430)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Ego-Human Motion Prediction with 3D-Aware LLM**|Kuk-Jin Yoon Team|[2607.07001](http://arxiv.org/abs/2607.07001)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**CoMind: Understanding Collaborative Human Activity from Multiple Minds and Views**|Xi Wang Team|[2607.06691](http://arxiv.org/abs/2607.06691)|null|
+|**2026-07-07**|**RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation**|Zhongyu Li Team|[2607.06559](http://arxiv.org/abs/2607.06559)|**[link](https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io)**|
+|**2026-07-07**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Zhongyu Li Team|[2607.06558](http://arxiv.org/abs/2607.06558)|**[link](https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io)**|
+|**2026-07-07**|**Point as Skeleton: Accumulated Point Cloud Enhanced Autoregressive Generation for Closed-Loop Autonomous Driving Simulation**|Junchi Yan Team|[2607.06516](http://arxiv.org/abs/2607.06516)|null|
+|**2026-07-07**|**EgoPolice: A Benchmark for Egocentric Video Understanding in High-Stakes Police Body-Worn Camera Footage**|Olga Russakovsky Team|[2607.06468](http://arxiv.org/abs/2607.06468)|null|
+|**2026-07-07**|**From Foundation to Application: Improving VLA Models in Practice**|Kecheng Zheng Team|[2607.06403](http://arxiv.org/abs/2607.06403)|**[link](https://technology.robbyant.com/lingbot-vla-v2)**|
+|**2026-07-07**|**EAGOR: Embodied Reasoning in Omni-direction**|Addison Lin Wang Team|[2607.06165](http://arxiv.org/abs/2607.06165)|null|
+|**2026-07-07**|**TRIG: Trajectory-Rig Decoupled Metric Geometry Learning**|Chang Huang Team|[2607.05801](http://arxiv.org/abs/2607.05801)|null|
 |**2026-07-06**|**SteelBench: Evaluating Vision-Language Models in Real-World Industrial Environments**|Katragadda Ajay RamaSwamy Chowdary Gowtham Team|[2607.05264](http://arxiv.org/abs/2607.05264)|null|
 |**2026-07-06**|**UNIVERSE: Unified Video Action Models for Autonomous Driving with Flexible Mask-Modulated Modality Generation**|Michael Ying Yang Team|[2607.05133](http://arxiv.org/abs/2607.05133)|null|
 |**2026-07-06**|**ECO: Incremental Ego-Centric Octree Update for Point Streams**|Duksu Kim Team|[2607.05092](http://arxiv.org/abs/2607.05092)|null|
@@ -150,9 +155,4 @@
 |**2026-06-09**|**A Multimodal RGB and Events Dataset for Hand Detection in First-Person View**|Yulia Sandamirskaya Team|[2606.10790](http://arxiv.org/abs/2606.10790)|null|
 |**2026-06-09**|**ManiSplat: Manipulation Trajectory Synthesis from Monocular Video via Decoupled 3D Gaussian Splatting**|Gaoang Wang Team|[2606.10645](http://arxiv.org/abs/2606.10645)|null|
 |**2026-06-09**|**Hierarchical Policies from Verbal and Egocentric Human Signals for Natural Human-Robot Interaction**|Kimin Lee Team|[2606.10276](http://arxiv.org/abs/2606.10276)|**[link](https://project-edith.github.io)**|
-|**2026-06-13**|**SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks**|Yinpeng Dong Team|[2606.09669](http://arxiv.org/abs/2606.09669)|null|
-|**2026-06-17**|**Streaming Interventions: Can Video Large Language Models Correct Mistakes as They Occur?**|Roland Memisevic Team|[2606.09547](http://arxiv.org/abs/2606.09547)|**[link](https://apratimbh.github.io/livecookv2/)**|
-|**2026-06-08**|**EgoTactile: Learning Grasp Pressure for Everyday Objects from Egocentric Video**|Qingmin Liao Team|[2606.09243](http://arxiv.org/abs/2606.09243)|null|
-|**2026-06-08**|**MotionWAM: Towards Foundation World Action Models for Real-Time Humanoid Loco-Manipulation**|Junwei Liang Team|[2606.09215](http://arxiv.org/abs/2606.09215)|null|
-|**2026-06-08**|**Decoding Pedestrian Crossing Intention from Egocentric Vision via Vision Language Models**|Rico Krueger Team|[2606.09142](http://arxiv.org/abs/2606.09142)|null|
 
