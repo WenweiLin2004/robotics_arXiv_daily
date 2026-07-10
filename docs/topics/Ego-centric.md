@@ -1,15 +1,21 @@
-## Updated on 2026.07.09
+## Updated on 2026.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence**|Ka Leong Cheng Team|[2607.07675](http://arxiv.org/abs/2607.07675)|**[link](https://technology.robbyant.com/lingbot-video)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**CARLA-GS: Decoupling Representation, Reasoning, and Physics Simulation for Autonomous Driving Corner-Case Synthesis**|Ruimin Ke Team|[2607.07601](http://arxiv.org/abs/2607.07601)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Immersive Social Interaction with VR and LLM-Assisted Humanoids**|Yi Fang Team|[2607.07430](http://arxiv.org/abs/2607.07430)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Ego-Human Motion Prediction with 3D-Aware LLM**|Kuk-Jin Yoon Team|[2607.07001](http://arxiv.org/abs/2607.07001)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-07**|**CoMind: Understanding Collaborative Human Activity from Multiple Minds and Views**|Xi Wang Team|[2607.06691](http://arxiv.org/abs/2607.06691)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Whareformer: Learning to Track What is Where in Long Egocentric Videos**|Diane Larlus Team|[2607.08537](http://arxiv.org/abs/2607.08537)|**[link](https://jacobchalk.github.io/Whareformer/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Do Egocentric Video-Language Models Capture Both Hand- and Object-Centric Cues?**|Dima Damen Team|[2607.08514](http://arxiv.org/abs/2607.08514)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**VEGAS: Human-Aligned Video Caption Evaluation via Gaze**|Ufuk Topcu Team|[2607.08489](http://arxiv.org/abs/2607.08489)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data**|Danfei Xu Team|[2607.08436](http://arxiv.org/abs/2607.08436)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**HeadRoom: Lightweight, Edge-deployable Pipeline for Adaptive Notification Routing**|Suranga Nanayakkara Team|[2607.08083](http://arxiv.org/abs/2607.08083)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous Driving Motion Planning**|Julian Jordan Team|[2607.07844](http://arxiv.org/abs/2607.07844)|null|
+|**2026-07-08**|**Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence**|Ka Leong Cheng Team|[2607.07675](http://arxiv.org/abs/2607.07675)|**[link](https://technology.robbyant.com/lingbot-video)**|
+|**2026-07-08**|**CARLA-GS: Decoupling Representation, Reasoning, and Physics Simulation for Autonomous Driving Corner-Case Synthesis**|Ruimin Ke Team|[2607.07601](http://arxiv.org/abs/2607.07601)|null|
+|**2026-07-08**|**Immersive Social Interaction with VR and LLM-Assisted Humanoids**|Yi Fang Team|[2607.07430](http://arxiv.org/abs/2607.07430)|null|
+|**2026-07-08**|**Ego-Human Motion Prediction with 3D-Aware LLM**|Kuk-Jin Yoon Team|[2607.07001](http://arxiv.org/abs/2607.07001)|null|
+|**2026-07-07**|**CoMind: Understanding Collaborative Human Activity from Multiple Minds and Views**|Xi Wang Team|[2607.06691](http://arxiv.org/abs/2607.06691)|null|
 |**2026-07-07**|**RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation**|Zhongyu Li Team|[2607.06559](http://arxiv.org/abs/2607.06559)|**[link](https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io)**|
 |**2026-07-07**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Zhongyu Li Team|[2607.06558](http://arxiv.org/abs/2607.06558)|**[link](https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io)**|
 |**2026-07-07**|**Point as Skeleton: Accumulated Point Cloud Enhanced Autoregressive Generation for Closed-Loop Autonomous Driving Simulation**|Junchi Yan Team|[2607.06516](http://arxiv.org/abs/2607.06516)|null|
@@ -65,7 +71,7 @@
 |**2026-06-29**|**VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes**|Karen Liu Team|[2606.30645](http://arxiv.org/abs/2606.30645)|null|
 |**2026-06-29**|**Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation**|Dima Damen Team|[2606.30598](http://arxiv.org/abs/2606.30598)|**[link](https://sid2697.github.io/epic-contact/)**|
 |**2026-06-29**|**FutureNav: Unified World-Action Modeling for Vision-and-Language Navigation**|Wenbo Ding Team|[2606.30367](http://arxiv.org/abs/2606.30367)|null|
-|**2026-06-29**|**The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction**|Xingang Pan Team|[2606.30308](http://arxiv.org/abs/2606.30308)|null|
+|**2026-07-09**|**The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction**|Xingang Pan Team|[2606.30308](http://arxiv.org/abs/2606.30308)|null|
 |**2026-06-27**|**Attribution Bias in Philosophical Knowledge Graphs: Corpus Frequency versus Temporal Sourcing**|Joy Bose Team|[2606.29070](http://arxiv.org/abs/2606.29070)|**[link](https://github.com/joyboseroy/agentic-diffusion-sim.)**|
 |**2026-06-26**|**Preferentiality and bandwidth drive tie activity in online and offline ego networks**|Gerardo Iñiguez Team|[2606.27937](http://arxiv.org/abs/2606.27937)|null|
 |**2026-06-26**|**NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning**|Bo Dai Team|[2606.27826](http://arxiv.org/abs/2606.27826)|null|
@@ -149,10 +155,4 @@
 |**2026-06-11**|**Objects Before Words: Object-First Inductive Biases for Grounding Language in Child-View Video**|Muhammad Haris Khan Team|[2606.12985](http://arxiv.org/abs/2606.12985)|null|
 |**2026-06-11**|**SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation**|Nikolay Atanasov Team|[2606.12956](http://arxiv.org/abs/2606.12956)|**[link](https://existentialrobotics.org/serf/)**|
 |**2026-06-10**|**PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation**|Salma Elmalaki Team|[2606.12616](http://arxiv.org/abs/2606.12616)|null|
-|**2026-06-10**|**EgoEngine: From Egocentric Human Videos to High-Fidelity Dexterous Robot Demonstrations**|Danfei Xu Team|[2606.12604](http://arxiv.org/abs/2606.12604)|null|
-|**2026-06-10**|**VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving**|Burhan Yaman Team|[2606.12396](http://arxiv.org/abs/2606.12396)|**[link](https://yaojin17.github.io/VLGA/)**|
-|**2026-06-10**|**Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning**|Jiangchao Yao Team|[2606.11683](http://arxiv.org/abs/2606.11683)|null|
-|**2026-06-09**|**A Multimodal RGB and Events Dataset for Hand Detection in First-Person View**|Yulia Sandamirskaya Team|[2606.10790](http://arxiv.org/abs/2606.10790)|null|
-|**2026-06-09**|**ManiSplat: Manipulation Trajectory Synthesis from Monocular Video via Decoupled 3D Gaussian Splatting**|Gaoang Wang Team|[2606.10645](http://arxiv.org/abs/2606.10645)|null|
-|**2026-06-09**|**Hierarchical Policies from Verbal and Egocentric Human Signals for Natural Human-Robot Interaction**|Kimin Lee Team|[2606.10276](http://arxiv.org/abs/2606.10276)|**[link](https://project-edith.github.io)**|
 
