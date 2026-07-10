@@ -1,4 +1,4 @@
-## Updated on 2026.07.09
+## Updated on 2026.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -70,7 +70,7 @@
 |**2026-07-02**|**One Demonstration Is Enough for Real-World Robotic Reinforcement Learning**|Ceyao Zhang Team|[2607.01651](http://arxiv.org/abs/2607.01651)|null|
 |**2026-07-02**|**VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment**|Yan Xie Team|[2607.01586](http://arxiv.org/abs/2607.01586)|null|
 
-<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260710>back to top</a>)</p>
 
 ## VLM
 
@@ -127,7 +127,7 @@
 |**2026-07-06**|**TORINO: Token Reduction via Interpretable Concept Overlap in Vision-Language Models**|Van-Tam Nguyen Team|[2607.04593](http://arxiv.org/abs/2607.04593)|null|
 |**2026-07-06**|**QSVideo: Query-Conditioned Semantic Temporal Retrieval for Video Understanding**|Vishnu Naresh Boddeti Team|[2607.04559](http://arxiv.org/abs/2607.04559)|null|
 
-<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260710>back to top</a>)</p>
 
 ## VLA
 
@@ -184,7 +184,7 @@
 |**2026-07-02**|**VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment**|Yan Xie Team|[2607.01586](http://arxiv.org/abs/2607.01586)|null|
 |**2026-07-01**|**Neuro-Symbolic Safety Guidance for Vision-Language-Action Models via Constrained Flow Matching**|Rickard Ewetz Team|[2607.01378](http://arxiv.org/abs/2607.01378)|null|
 
-<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260710>back to top</a>)</p>
 
 ## Humanoid
 
@@ -241,7 +241,7 @@
 |**2026-06-22**|**HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory**|Zhizhong Su Team|[2606.23565](http://arxiv.org/abs/2606.23565)|null|
 |**2026-06-22**|**LP-NavOA: Integrated Local Navigation and Obstacle Avoidance for Humanoid Robots under Limited Perception**|Peng Li Team|[2606.23249](http://arxiv.org/abs/2606.23249)|null|
 
-<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260710>back to top</a>)</p>
 
 ## Dexterous
 
@@ -298,7 +298,7 @@
 |**2026-06-18**|**Belt-Finger: An Affordable Soft Belt-Driven Gripper for Dexterous In-Hand Manipulation**|Georg Martius Team|[2606.20193](http://arxiv.org/abs/2606.20193)|null|
 |**2026-06-18**|**ENPIRE: Agentic Robot Policy Self-Improvement in the Real World**|Guanya Shi Team|[2606.19980](http://arxiv.org/abs/2606.19980)|null|
 
-<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260710>back to top</a>)</p>
 
 ## CrossEmbodiment
 
@@ -355,7 +355,7 @@
 |**2026-07-01**|**BIFROST: Bridging Invariant Feature Representation for Observation-space Sim2Real Transfer**|Josiah P. Hanna Team|[2607.01410](http://arxiv.org/abs/2607.01410)|null|
 |**2026-07-01**|**Where Am I? Semantic Map Grounding via Vision-Language Models for Multi-Modal Localization**|Madhu Vadali Team|[2607.01079](http://arxiv.org/abs/2607.01079)|null|
 
-<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260710>back to top</a>)</p>
 
 ## WorldModel
 
@@ -412,7 +412,7 @@
 |**2026-07-01**|**OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration**|Scott Sanner Team|[2607.01531](http://arxiv.org/abs/2607.01531)|null|
 |**2026-07-01**|**RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation**|Kimin Lee Team|[2607.01060](http://arxiv.org/abs/2607.01060)|null|
 
-<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260710>back to top</a>)</p>
 
 ## WAM
 
@@ -469,5 +469,5 @@
 |**2026-06-05**|**Dreaming when Necessary: Advancing World Action Models with Adaptive Multi-Modal Reasoning**|Yong Li Team|[2606.07089](http://arxiv.org/abs/2606.07089)|null|
 |**2026-06-04**|**World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis**|Zhijie Deng Team|[2606.05979](http://arxiv.org/abs/2606.05979)|null|
 
-<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260710>back to top</a>)</p>
 
