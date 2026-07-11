@@ -1,79 +1,79 @@
-## Updated on 2026.07.10
+## Updated on 2026.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks**|Xihui Liu Team|[2607.08768](http://arxiv.org/abs/2607.08768)|**[link](https://uniclawbench.github.io)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Measuring Consumption with Credit Card Data: Benchmarking and Beyond**|Carlo Wix Team|[2607.08759](http://arxiv.org/abs/2607.08759)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents**|Zhuokai Zhao Team|[2607.08716](http://arxiv.org/abs/2607.08716)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales**|Wei Lu Team|[2607.08705](http://arxiv.org/abs/2607.08705)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**MPFlow: Learning Budgeted Max-Flow Optimization on the Lightning Network with Deep Graph Reinforcement Learning**|Emanuele Rossi Team|[2607.08703](http://arxiv.org/abs/2607.08703)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**ProjAgent: Procedural Similarity Retrieval for Repository-Level Code Generation**|Iftekhar Ahmed Team|[2607.08691](http://arxiv.org/abs/2607.08691)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets**|Luyao Zhang Team|[2607.08681](http://arxiv.org/abs/2607.08681)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search**|Zhicheng Dou Team|[2607.08662](http://arxiv.org/abs/2607.08662)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Formal Mechanisms for Market Stability in Self-Interested Agent Societies: A Marketplace Simulation Study**|Bingquan Shen Team|[2607.08652](http://arxiv.org/abs/2607.08652)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Multi-Modal, Multi-Environment Machine Teaching for Robust Reward Learning**|Daniel S. Brown Team|[2607.08647](http://arxiv.org/abs/2607.08647)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Short Peptide Tails Modulate DNA Association and Condensation by PAMAM Dendrimers**|Rita S. Dias Team|[2607.08623](http://arxiv.org/abs/2607.08623)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling**|Haibo Chen Team|[2607.08565](http://arxiv.org/abs/2607.08565)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Early to Share, Late to Save: Synchronisation-Driven Communication Gating in Bandwidth-Constrained Cooperative VLN**|Avinash Gautam Team|[2607.08504](http://arxiv.org/abs/2607.08504)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing**|Ge Li Team|[2607.08497](http://arxiv.org/abs/2607.08497)|**[link](https://caseclose.github.io/cma-harness/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality**|Masahiro Fujita Team|[2607.08495](http://arxiv.org/abs/2607.08495)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents**|Chao Yu Team|[2607.08448](http://arxiv.org/abs/2607.08448)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**ADORN: Adaptive Drift handling for Open RAN using Reinforcement Learning**|Koteswararao Kondepu Team|[2607.08443](http://arxiv.org/abs/2607.08443)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data**|Danfei Xu Team|[2607.08436](http://arxiv.org/abs/2607.08436)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice**|Miao Fang Team|[2607.08423](http://arxiv.org/abs/2607.08423)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Game Theory Driven Multi-Agent Framework Mitigates Language Model Hallucination**|Shengyang Tao Team|[2607.08403](http://arxiv.org/abs/2607.08403)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**TRACE: A Two-Channel Robust Attribution Watermark via Complementary Embeddings for LLM-Agent Trajectories**|Liming Zhu Team|[2607.08400](http://arxiv.org/abs/2607.08400)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Token-Flow Firewall: Semantic Runtime Auditing for Persistent AI Agents**|Xueqi Cheng Team|[2607.08395](http://arxiv.org/abs/2607.08395)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving**|Binyang Song Team|[2607.08375](http://arxiv.org/abs/2607.08375)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Self-Adaptive Anomaly Detection with Reinforcement Learning and Human Feedback in Connected Vehicles**|Michael Weyrich Team|[2607.08373](http://arxiv.org/abs/2607.08373)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Computing in Anonymous Dynamic Networks with One-Bit Communications**|Giovanni Viglietta Team|[2607.08358](http://arxiv.org/abs/2607.08358)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**ArtMine: Discovering and Formalizing Artistic Processes**|Shirish Karande Team|[2607.08331](http://arxiv.org/abs/2607.08331)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**GitLake: Git-for-data for the agentic lakehouse**|Luca Bigon Team|[2607.08319](http://arxiv.org/abs/2607.08319)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Sufficientarian Grading Rules and Rankings: Characterizations and Implementation**|Stefano Vannucci Team|[2607.08293](http://arxiv.org/abs/2607.08293)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**From Legacy Documentation to OSCAL: An MCP-Based Agent Pipeline for Threat-Informed Continuous Compliance in Critical Infrastructure**|Marian Margraf Team|[2607.08288](http://arxiv.org/abs/2607.08288)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models**|Alfonso Sánchez-Macián Team|[2607.08282](http://arxiv.org/abs/2607.08282)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Deep Reinforcement Learning-Empowered Wireless Sensor Networking for 6G Closed-Loop Controls**|Shi Jin Team|[2607.08272](http://arxiv.org/abs/2607.08272)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**AutoPersonas: A Multi-Timescale Loop Engine for Open-Ended Persona Evolution**|Mengchen Li Team|[2607.08252](http://arxiv.org/abs/2607.08252)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Playing ZendoWorld: Challenging AI Agents on Active Visual Concept Induction**|Kristian Kersting Team|[2607.08233](http://arxiv.org/abs/2607.08233)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Open-ended Multi-agent Autocurricula via Visual Inspection of Policies with Multi-modal LLMs**|Roberto Capobianco Team|[2607.08193](http://arxiv.org/abs/2607.08193)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action**|Zhi Han Team|[2607.08182](http://arxiv.org/abs/2607.08182)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Out of Sight: Compression-Aware Content Protection against Agentic Crawlers**|Xuefei Wang Team|[2607.08180](http://arxiv.org/abs/2607.08180)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**ASMR: Agentic Schema Generation for Ship Maintenance Report Writing**|Senjuti Basu Roy Team|[2607.08177](http://arxiv.org/abs/2607.08177)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Prismata: Confining Cross-Site Prompt Injection in Web Agents**|Raluca Ada Popa Team|[2607.08147](http://arxiv.org/abs/2607.08147)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Securing Autonomous Vehicle Systems via Twin-Aware Federated Reinforcement Learning**|Yuchen Liu Team|[2607.08137](http://arxiv.org/abs/2607.08137)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**TTHE: Test-Time Harness Evolution**|Bo Han Team|[2607.08124](http://arxiv.org/abs/2607.08124)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**MORES: Mobile Reasoning-as-a-Service via Distributed LLM Inference-Time Scaling**|Kaibin Huang Team|[2607.08116](http://arxiv.org/abs/2607.08116)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**CausalDS: Benchmarking Causal Reasoning in Data-Science Agents**|Yuekai Sun Team|[2607.08093](http://arxiv.org/abs/2607.08093)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**MASTE: A Multi-Agent Pipeline for Zero-Shot Aspect Sentiment Triplet Extraction**|Houde Liu Team|[2607.08080](http://arxiv.org/abs/2607.08080)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring**|Victoria Krakovna Team|[2607.08066](http://arxiv.org/abs/2607.08066)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Aleena: Alignment Agent for Research Software Engineering Collaborations**|Anant Mittal Team|[2607.08043](http://arxiv.org/abs/2607.08043)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**What to Keep, What to Forget: A Rate--Distortion View of Memory Compaction in LLMs and Agents**|Nada Lahjouji Team|[2607.08032](http://arxiv.org/abs/2607.08032)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents**|Moonsoo Kim Team|[2607.08028](http://arxiv.org/abs/2607.08028)|**[link](https://github.com/hammerbaki/enterprise-llm-agent-harness)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Provably Optimal Learning Algorithms for Assistance Games**|Nika Haghtalab Team|[2607.08012](http://arxiv.org/abs/2607.08012)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Tool-Making and Self-Evolving LLM Agents in Low-Latency Systems**|Shervin Malmasi Team|[2607.08010](http://arxiv.org/abs/2607.08010)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Who Broke the System? Failure Localization in LLM-Based Multi-Agent Systems**|Minghong Fang Team|[2607.07989](http://arxiv.org/abs/2607.07989)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**A Reliability Assessment of LALM Audio Judges for Full-Duplex Voice Agents**|H. Krishnan Team|[2607.07985](http://arxiv.org/abs/2607.07985)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Agentic Neural Architecture Search**|Taehwan Kim Team|[2607.07984](http://arxiv.org/abs/2607.07984)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**3100 Opinions on Code Review in an AI World: Building Causal Theory from Practitioner Discourse**|Bogdan Vasilescu Team|[2607.07980](http://arxiv.org/abs/2607.07980)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**DeepSWE: Measuring Frontier Coding Agents on Original, Long-Horizon Engineering Tasks**|Serena Ge Team|[2607.07946](http://arxiv.org/abs/2607.07946)|**[link](https://github.com/datacurve-ai/deep-swe)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Bug Report Specification Refinement with Trajectory Guidance for Automated Program Repair**| Chen Team|[2607.07882](http://arxiv.org/abs/2607.07882)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**GIRAF: Towards Generalizable Human Interactions with Articulated Objects**|Yuting Ye Team|[2607.07880](http://arxiv.org/abs/2607.07880)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Inflation as an emergent phenomenon**|Mauro Gallegati Team|[2607.07864](http://arxiv.org/abs/2607.07864)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Feedback Manipulation Regularization: Enabling Offline Agent Alignment for Imitation Learning**|Minwoo Lee Team|[2607.07859](http://arxiv.org/abs/2607.07859)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting**|David Sandberg Team|[2607.07858](http://arxiv.org/abs/2607.07858)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Multi-agent Autoformalization of Tensor Network Theory**|J. Ignacio Cirac Team|[2607.07857](http://arxiv.org/abs/2607.07857)|**[link](https://lionsr.github.io/TNLean/blueprint-ch01-12.pdf)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**When Does Continual Learning Require Learning**|Yutong Bai Team|[2607.07847](http://arxiv.org/abs/2607.07847)|**[link](https://github.com/anneharrington/studying-cl.)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**From Triggers to Emotions: A CPM-Grounded Appraisal Multi-Agent for Dynamic Emotional Evolution in Persona-Based Dialogue**|Xiaosong Yang Team|[2607.07824](http://arxiv.org/abs/2607.07824)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment**|Yi R. Fung Team|[2607.07820](http://arxiv.org/abs/2607.07820)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**From Solvers to Research: Large Language Model-Driven Formal Mathematics at the Research Frontier**|Wei Wang Team|[2607.07779](http://arxiv.org/abs/2607.07779)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**ScopeJudge: Cost-Aware Pre-Execution Gating for Offensive Security Agents**|Will Pearce Team|[2607.07774](http://arxiv.org/abs/2607.07774)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Adversarial Social Epistemology for Assemblies of Humans and Large Language Models**|Joel A. C. Baum Team|[2607.07760](http://arxiv.org/abs/2607.07760)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**A Transdiagnostic Space of Disorder Like Phenotypes in Reinforcement Learning Agents**|Hari Prasad Team|[2607.07753](http://arxiv.org/abs/2607.07753)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**PERFOPT-Bench: Evaluating Coding Agents on Software Performance Optimization**|Liangliang Cao Team|[2607.07744](http://arxiv.org/abs/2607.07744)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-08**|**Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE**|Han Cai Team|[2607.07740](http://arxiv.org/abs/2607.07740)|null|
+|**2026-07-09**|**UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks**|Xihui Liu Team|[2607.08768](http://arxiv.org/abs/2607.08768)|**[link](https://uniclawbench.github.io)**|
+|**2026-07-09**|**Measuring Consumption with Credit Card Data: Benchmarking and Beyond**|Carlo Wix Team|[2607.08759](http://arxiv.org/abs/2607.08759)|null|
+|**2026-07-09**|**Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents**|Zhuokai Zhao Team|[2607.08716](http://arxiv.org/abs/2607.08716)|null|
+|**2026-07-09**|**HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales**|Wei Lu Team|[2607.08705](http://arxiv.org/abs/2607.08705)|null|
+|**2026-07-09**|**MPFlow: Learning Budgeted Max-Flow Optimization on the Lightning Network with Deep Graph Reinforcement Learning**|Emanuele Rossi Team|[2607.08703](http://arxiv.org/abs/2607.08703)|null|
+|**2026-07-09**|**ProjAgent: Procedural Similarity Retrieval for Repository-Level Code Generation**|Iftekhar Ahmed Team|[2607.08691](http://arxiv.org/abs/2607.08691)|null|
+|**2026-07-09**|**SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets**|Luyao Zhang Team|[2607.08681](http://arxiv.org/abs/2607.08681)|null|
+|**2026-07-09**|**WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search**|Zhicheng Dou Team|[2607.08662](http://arxiv.org/abs/2607.08662)|null|
+|**2026-07-09**|**Formal Mechanisms for Market Stability in Self-Interested Agent Societies: A Marketplace Simulation Study**|Bingquan Shen Team|[2607.08652](http://arxiv.org/abs/2607.08652)|null|
+|**2026-07-09**|**Multi-Modal, Multi-Environment Machine Teaching for Robust Reward Learning**|Daniel S. Brown Team|[2607.08647](http://arxiv.org/abs/2607.08647)|null|
+|**2026-07-09**|**Short Peptide Tails Modulate DNA Association and Condensation by PAMAM Dendrimers**|Rita S. Dias Team|[2607.08623](http://arxiv.org/abs/2607.08623)|null|
+|**2026-07-09**|**SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling**|Haibo Chen Team|[2607.08565](http://arxiv.org/abs/2607.08565)|null|
+|**2026-07-09**|**Early to Share, Late to Save: Synchronisation-Driven Communication Gating in Bandwidth-Constrained Cooperative VLN**|Avinash Gautam Team|[2607.08504](http://arxiv.org/abs/2607.08504)|null|
+|**2026-07-09**|**Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing**|Ge Li Team|[2607.08497](http://arxiv.org/abs/2607.08497)|**[link](https://caseclose.github.io/cma-harness/)**|
+|**2026-07-09**|**The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality**|Masahiro Fujita Team|[2607.08495](http://arxiv.org/abs/2607.08495)|null|
+|**2026-07-09**|**Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents**|Chao Yu Team|[2607.08448](http://arxiv.org/abs/2607.08448)|null|
+|**2026-07-09**|**ADORN: Adaptive Drift handling for Open RAN using Reinforcement Learning**|Koteswararao Kondepu Team|[2607.08443](http://arxiv.org/abs/2607.08443)|null|
+|**2026-07-08**|**EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data**|Danfei Xu Team|[2607.08436](http://arxiv.org/abs/2607.08436)|null|
+|**2026-07-09**|**OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice**|Miao Fang Team|[2607.08423](http://arxiv.org/abs/2607.08423)|null|
+|**2026-07-09**|**Game Theory Driven Multi-Agent Framework Mitigates Language Model Hallucination**|Shengyang Tao Team|[2607.08403](http://arxiv.org/abs/2607.08403)|null|
+|**2026-07-09**|**TRACE: A Two-Channel Robust Attribution Watermark via Complementary Embeddings for LLM-Agent Trajectories**|Liming Zhu Team|[2607.08400](http://arxiv.org/abs/2607.08400)|null|
+|**2026-07-09**|**Token-Flow Firewall: Semantic Runtime Auditing for Persistent AI Agents**|Xueqi Cheng Team|[2607.08395](http://arxiv.org/abs/2607.08395)|null|
+|**2026-07-09**|**WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving**|Binyang Song Team|[2607.08375](http://arxiv.org/abs/2607.08375)|null|
+|**2026-07-09**|**Self-Adaptive Anomaly Detection with Reinforcement Learning and Human Feedback in Connected Vehicles**|Michael Weyrich Team|[2607.08373](http://arxiv.org/abs/2607.08373)|null|
+|**2026-07-09**|**Computing in Anonymous Dynamic Networks with One-Bit Communications**|Giovanni Viglietta Team|[2607.08358](http://arxiv.org/abs/2607.08358)|null|
+|**2026-07-09**|**ArtMine: Discovering and Formalizing Artistic Processes**|Shirish Karande Team|[2607.08331](http://arxiv.org/abs/2607.08331)|null|
+|**2026-07-09**|**GitLake: Git-for-data for the agentic lakehouse**|Luca Bigon Team|[2607.08319](http://arxiv.org/abs/2607.08319)|null|
+|**2026-07-09**|**Sufficientarian Grading Rules and Rankings: Characterizations and Implementation**|Stefano Vannucci Team|[2607.08293](http://arxiv.org/abs/2607.08293)|null|
+|**2026-07-09**|**From Legacy Documentation to OSCAL: An MCP-Based Agent Pipeline for Threat-Informed Continuous Compliance in Critical Infrastructure**|Marian Margraf Team|[2607.08288](http://arxiv.org/abs/2607.08288)|null|
+|**2026-07-09**|**Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models**|Alfonso Sánchez-Macián Team|[2607.08282](http://arxiv.org/abs/2607.08282)|null|
+|**2026-07-09**|**Deep Reinforcement Learning-Empowered Wireless Sensor Networking for 6G Closed-Loop Controls**|Shi Jin Team|[2607.08272](http://arxiv.org/abs/2607.08272)|null|
+|**2026-07-09**|**AutoPersonas: A Multi-Timescale Loop Engine for Open-Ended Persona Evolution**|Mengchen Li Team|[2607.08252](http://arxiv.org/abs/2607.08252)|null|
+|**2026-07-09**|**Playing ZendoWorld: Challenging AI Agents on Active Visual Concept Induction**|Kristian Kersting Team|[2607.08233](http://arxiv.org/abs/2607.08233)|null|
+|**2026-07-09**|**Open-ended Multi-agent Autocurricula via Visual Inspection of Policies with Multi-modal LLMs**|Roberto Capobianco Team|[2607.08193](http://arxiv.org/abs/2607.08193)|null|
+|**2026-07-09**|**LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action**|Zhi Han Team|[2607.08182](http://arxiv.org/abs/2607.08182)|null|
+|**2026-07-09**|**Out of Sight: Compression-Aware Content Protection against Agentic Crawlers**|Xuefei Wang Team|[2607.08180](http://arxiv.org/abs/2607.08180)|null|
+|**2026-07-09**|**ASMR: Agentic Schema Generation for Ship Maintenance Report Writing**|Senjuti Basu Roy Team|[2607.08177](http://arxiv.org/abs/2607.08177)|null|
+|**2026-07-09**|**Prismata: Confining Cross-Site Prompt Injection in Web Agents**|Raluca Ada Popa Team|[2607.08147](http://arxiv.org/abs/2607.08147)|null|
+|**2026-07-09**|**Securing Autonomous Vehicle Systems via Twin-Aware Federated Reinforcement Learning**|Yuchen Liu Team|[2607.08137](http://arxiv.org/abs/2607.08137)|null|
+|**2026-07-09**|**TTHE: Test-Time Harness Evolution**|Bo Han Team|[2607.08124](http://arxiv.org/abs/2607.08124)|null|
+|**2026-07-09**|**MORES: Mobile Reasoning-as-a-Service via Distributed LLM Inference-Time Scaling**|Kaibin Huang Team|[2607.08116](http://arxiv.org/abs/2607.08116)|null|
+|**2026-07-09**|**CausalDS: Benchmarking Causal Reasoning in Data-Science Agents**|Yuekai Sun Team|[2607.08093](http://arxiv.org/abs/2607.08093)|null|
+|**2026-07-09**|**MASTE: A Multi-Agent Pipeline for Zero-Shot Aspect Sentiment Triplet Extraction**|Houde Liu Team|[2607.08080](http://arxiv.org/abs/2607.08080)|null|
+|**2026-07-09**|**Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring**|Victoria Krakovna Team|[2607.08066](http://arxiv.org/abs/2607.08066)|null|
+|**2026-07-09**|**Aleena: Alignment Agent for Research Software Engineering Collaborations**|Anant Mittal Team|[2607.08043](http://arxiv.org/abs/2607.08043)|null|
+|**2026-07-09**|**What to Keep, What to Forget: A Rate--Distortion View of Memory Compaction in LLMs and Agents**|Nada Lahjouji Team|[2607.08032](http://arxiv.org/abs/2607.08032)|null|
+|**2026-07-09**|**From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents**|Moonsoo Kim Team|[2607.08028](http://arxiv.org/abs/2607.08028)|**[link](https://github.com/hammerbaki/enterprise-llm-agent-harness)**|
+|**2026-07-09**|**Provably Optimal Learning Algorithms for Assistance Games**|Nika Haghtalab Team|[2607.08012](http://arxiv.org/abs/2607.08012)|null|
+|**2026-07-09**|**Tool-Making and Self-Evolving LLM Agents in Low-Latency Systems**|Shervin Malmasi Team|[2607.08010](http://arxiv.org/abs/2607.08010)|null|
+|**2026-07-08**|**Who Broke the System? Failure Localization in LLM-Based Multi-Agent Systems**|Minghong Fang Team|[2607.07989](http://arxiv.org/abs/2607.07989)|null|
+|**2026-07-08**|**A Reliability Assessment of LALM Audio Judges for Full-Duplex Voice Agents**|H. Krishnan Team|[2607.07985](http://arxiv.org/abs/2607.07985)|null|
+|**2026-07-08**|**Agentic Neural Architecture Search**|Taehwan Kim Team|[2607.07984](http://arxiv.org/abs/2607.07984)|null|
+|**2026-07-08**|**3100 Opinions on Code Review in an AI World: Building Causal Theory from Practitioner Discourse**|Bogdan Vasilescu Team|[2607.07980](http://arxiv.org/abs/2607.07980)|null|
+|**2026-07-08**|**DeepSWE: Measuring Frontier Coding Agents on Original, Long-Horizon Engineering Tasks**|Serena Ge Team|[2607.07946](http://arxiv.org/abs/2607.07946)|**[link](https://github.com/datacurve-ai/deep-swe)**|
+|**2026-07-08**|**Bug Report Specification Refinement with Trajectory Guidance for Automated Program Repair**| Chen Team|[2607.07882](http://arxiv.org/abs/2607.07882)|null|
+|**2026-07-08**|**GIRAF: Towards Generalizable Human Interactions with Articulated Objects**|Yuting Ye Team|[2607.07880](http://arxiv.org/abs/2607.07880)|null|
+|**2026-07-08**|**Inflation as an emergent phenomenon**|Mauro Gallegati Team|[2607.07864](http://arxiv.org/abs/2607.07864)|null|
+|**2026-07-08**|**Feedback Manipulation Regularization: Enabling Offline Agent Alignment for Imitation Learning**|Minwoo Lee Team|[2607.07859](http://arxiv.org/abs/2607.07859)|null|
+|**2026-07-08**|**Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting**|David Sandberg Team|[2607.07858](http://arxiv.org/abs/2607.07858)|null|
+|**2026-07-08**|**Multi-agent Autoformalization of Tensor Network Theory**|J. Ignacio Cirac Team|[2607.07857](http://arxiv.org/abs/2607.07857)|**[link](https://lionsr.github.io/TNLean/blueprint-ch01-12.pdf)**|
+|**2026-07-08**|**When Does Continual Learning Require Learning**|Yutong Bai Team|[2607.07847](http://arxiv.org/abs/2607.07847)|**[link](https://github.com/anneharrington/studying-cl.)**|
+|**2026-07-08**|**From Triggers to Emotions: A CPM-Grounded Appraisal Multi-Agent for Dynamic Emotional Evolution in Persona-Based Dialogue**|Xiaosong Yang Team|[2607.07824](http://arxiv.org/abs/2607.07824)|null|
+|**2026-07-08**|**DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment**|Yi R. Fung Team|[2607.07820](http://arxiv.org/abs/2607.07820)|null|
+|**2026-07-08**|**From Solvers to Research: Large Language Model-Driven Formal Mathematics at the Research Frontier**|Wei Wang Team|[2607.07779](http://arxiv.org/abs/2607.07779)|null|
+|**2026-07-08**|**ScopeJudge: Cost-Aware Pre-Execution Gating for Offensive Security Agents**|Will Pearce Team|[2607.07774](http://arxiv.org/abs/2607.07774)|null|
+|**2026-07-08**|**Adversarial Social Epistemology for Assemblies of Humans and Large Language Models**|Joel A. C. Baum Team|[2607.07760](http://arxiv.org/abs/2607.07760)|null|
+|**2026-07-08**|**A Transdiagnostic Space of Disorder Like Phenotypes in Reinforcement Learning Agents**|Hari Prasad Team|[2607.07753](http://arxiv.org/abs/2607.07753)|null|
+|**2026-07-08**|**PERFOPT-Bench: Evaluating Coding Agents on Software Performance Optimization**|Liangliang Cao Team|[2607.07744](http://arxiv.org/abs/2607.07744)|null|
+|**2026-07-08**|**Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE**|Han Cai Team|[2607.07740](http://arxiv.org/abs/2607.07740)|null|
 |**2026-07-08**|**From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization**|Yuqing Yang Team|[2607.07702](http://arxiv.org/abs/2607.07702)|null|
 |**2026-07-08**|**Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass**|Immanuel Trummer Team|[2607.07696](http://arxiv.org/abs/2607.07696)|null|
 |**2026-07-08**|**Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety**|Yujiao Chen Team|[2607.07695](http://arxiv.org/abs/2607.07695)|null|
