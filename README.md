@@ -1,4 +1,4 @@
-## Updated on 2026.07.11
+## Updated on 2026.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -70,7 +70,7 @@
 |**2026-07-02**|**Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning**|Jun Morimoto Team|[2607.02205](http://arxiv.org/abs/2607.02205)|null|
 |**2026-07-02**|**Influence of Radial Basis Activation Functions on Intelligent Controller for Robotic Manipulators**|Wallace Moreira Bessa Team|[2607.02167](http://arxiv.org/abs/2607.02167)|**[link](https://eurodiname.sciencesconf.org/))**|
 
-<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260712>back to top</a>)</p>
 
 ## VLM
 
@@ -127,7 +127,7 @@
 |**2026-07-06**|**HunyuanOCR-1.5: Making Lightweight OCR VLMs Faster and Better**|Yu Zhou Team|[2607.04884](http://arxiv.org/abs/2607.04884)|null|
 |**2026-07-06**|**DeGenseGS: Geometrically and Semantically Decoupled Surgical Scene Understanding in 4D Gaussian Splatting**|Yueming Jin Team|[2607.04761](http://arxiv.org/abs/2607.04761)|null|
 
-<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260712>back to top</a>)</p>
 
 ## VLA
 
@@ -184,7 +184,7 @@
 |**2026-07-02**|**LIME: Learning Intent-aware Camera Motion from Egocentric Video**|Hermann Blum Team|[2607.02417](http://arxiv.org/abs/2607.02417)|null|
 |**2026-07-02**|**The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection**|Jiaxing Zhang Team|[2607.02322](http://arxiv.org/abs/2607.02322)|null|
 
-<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260712>back to top</a>)</p>
 
 ## Humanoid
 
@@ -241,7 +241,7 @@
 |**2026-06-23**|**BFMTrack: Latent Sequence Optimization for Physics-Based Motion Tracking with Behavioral Foundation Models**|Moritz Bächer Team|[2606.25056](http://arxiv.org/abs/2606.25056)|null|
 |**2026-06-23**|**MANGO: Automated Multi-Agent Test Oracle Generation for Vision-Language-Action Models**|Lionel Briand Team|[2606.24815](http://arxiv.org/abs/2606.24815)|null|
 
-<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260712>back to top</a>)</p>
 
 ## Dexterous
 
@@ -298,7 +298,7 @@
 |**2026-06-23**|**Wh0: Generative World Models as Scalable Sources of Egocentric Human Hand Manipulation Data**|Yang Gao Team|[2606.22136](http://arxiv.org/abs/2606.22136)|null|
 |**2026-06-20**|**KITE: Decoupling Kinematics and Interaction for Zero-Shot Cross-Embodiment Manipulation**|Kuan Fang Team|[2606.22113](http://arxiv.org/abs/2606.22113)|null|
 
-<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260712>back to top</a>)</p>
 
 ## CrossEmbodiment
 
@@ -355,7 +355,7 @@
 |**2026-07-01**|**Sign in the Air to Unlock: An Interface for authentication in Virtual and Augmented Reality Powered by Point-Voxel Cross-Attention Network**|Vir V Phoha Team|[2607.01435](http://arxiv.org/abs/2607.01435)|null|
 |**2026-07-01**|**BIFROST: Bridging Invariant Feature Representation for Observation-space Sim2Real Transfer**|Josiah P. Hanna Team|[2607.01410](http://arxiv.org/abs/2607.01410)|null|
 
-<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260712>back to top</a>)</p>
 
 ## WorldModel
 
@@ -412,7 +412,7 @@
 |**2026-07-02**|**Predicting Closed-Loop Performance of Latent World Models: Offline Checkpoint Selection for MPC and Model-Based RL Under Non-Markovian Rewards in LunarLander**|Nikolai Smolyanskiy Team|[2607.01736](http://arxiv.org/abs/2607.01736)|**[link](https://youtu.be/4PxHFW_TYUw)**|
 |**2026-07-02**|**Safe and Adaptive Cloud Healing: Verifying LLM-Generated Recovery Plans with a Neural-Symbolic World Model**|Zeyu Qiao Team|[2607.01595](http://arxiv.org/abs/2607.01595)|null|
 
-<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260712>back to top</a>)</p>
 
 ## WAM
 
@@ -469,5 +469,5 @@
 |**2026-06-06**|**SIMPLE: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation**|Yue Wang Team|[2606.08278](http://arxiv.org/abs/2606.08278)|null|
 |**2026-06-06**|**Light-WAM: Efficient World Action Models with State-Fusion Action Decoding**|Jiaqi Wang Team|[2606.08242](http://arxiv.org/abs/2606.08242)|null|
 
-<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260712>back to top</a>)</p>
 
