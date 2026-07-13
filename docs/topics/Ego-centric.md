@@ -1,10 +1,13 @@
-## Updated on 2026.07.12
+## Updated on 2026.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**OpenLongTail: Generative Scaling of Long-Tail Driving Data**|Zhiwen Fan Team|[2607.09655](http://arxiv.org/abs/2607.09655)|**[link](https://openlongtail.github.io/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**TSR-Ego: Temporally Guided Stereo Refinement Framework for Egocentric 3D Human Pose Estimation**|Kevin Desai Team|[2607.09169](http://arxiv.org/abs/2607.09169)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**AgenticFocus: Object-Preserving Mixed Reality Synthesis from Human FPV Video for Dexterous Humanoid Learning**|Dzmitry Tsetserukou Team|[2607.08857](http://arxiv.org/abs/2607.08857)|null|
 |**2026-07-09**|**Whareformer: Learning to Track What is Where in Long Egocentric Videos**|Diane Larlus Team|[2607.08537](http://arxiv.org/abs/2607.08537)|**[link](https://jacobchalk.github.io/Whareformer/)**|
 |**2026-07-09**|**Do Egocentric Video-Language Models Capture Both Hand- and Object-Centric Cues?**|Dima Damen Team|[2607.08514](http://arxiv.org/abs/2607.08514)|null|
 |**2026-07-09**|**VEGAS: Human-Aligned Video Caption Evaluation via Gaze**|Ufuk Topcu Team|[2607.08489](http://arxiv.org/abs/2607.08489)|null|
@@ -152,7 +155,4 @@
 |**2026-06-11**|**OR-Action: Multi-Role Video Understanding with Fine-Grained Actions**|Nassir Navab Team|[2606.13332](http://arxiv.org/abs/2606.13332)|null|
 |**2026-06-11**|**Rethinking RAG in Long Videos: What to Retrieve and How to Use It?**|Hwanjun Song Team|[2606.13141](http://arxiv.org/abs/2606.13141)|null|
 |**2026-06-11**|**Diffusion Transformer World-Action Model for AV Scene Prediction**|Kai Xi Chew Team|[2606.12987](http://arxiv.org/abs/2606.12987)|null|
-|**2026-06-11**|**Objects Before Words: Object-First Inductive Biases for Grounding Language in Child-View Video**|Muhammad Haris Khan Team|[2606.12985](http://arxiv.org/abs/2606.12985)|null|
-|**2026-06-11**|**SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation**|Nikolay Atanasov Team|[2606.12956](http://arxiv.org/abs/2606.12956)|**[link](https://existentialrobotics.org/serf/)**|
-|**2026-06-10**|**PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation**|Salma Elmalaki Team|[2606.12616](http://arxiv.org/abs/2606.12616)|null|
 

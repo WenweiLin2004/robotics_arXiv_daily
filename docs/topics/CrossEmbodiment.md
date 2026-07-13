@@ -1,10 +1,18 @@
-## Updated on 2026.07.12
+## Updated on 2026.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**Mosaic: Runtime-Efficient Multi-Agent Embodied Planning**|Hui Guan Team|[2607.09603](http://arxiv.org/abs/2607.09603)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference**|Tengjiao He Team|[2607.09520](http://arxiv.org/abs/2607.09520)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**DemoBridge: A Simulation-in-the-Loop Toolkit for Single-View Human Demonstration Retargeting**|Rahaf Aljundi Team|[2607.09519](http://arxiv.org/abs/2607.09519)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**PhysV2A: Reachability-Gated and Semantic-Mask-Constrained Feasibility Completion for Video-to-Robot Manipulation**|Chenguang Yang Team|[2607.09365](http://arxiv.org/abs/2607.09365)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks**|Changchuan Yin Team|[2607.09330](http://arxiv.org/abs/2607.09330)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**Causally Debiased Latent Action Model for Embodied Action Conditioned World Models**|Biwei Huang Team|[2607.09185](http://arxiv.org/abs/2607.09185)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Impedance-Guided Programmable Transmission of Localized Deformation in Modular Soft Metamaterials**|Xiaojia Shelly Zhang Team|[2607.08966](http://arxiv.org/abs/2607.08966)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**AgenticFocus: Object-Preserving Mixed Reality Synthesis from Human FPV Video for Dexterous Humanoid Learning**|Dzmitry Tsetserukou Team|[2607.08857](http://arxiv.org/abs/2607.08857)|null|
 |**2026-07-09**|**DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation**|Mingyu Ding Team|[2607.08751](http://arxiv.org/abs/2607.08751)|null|
 |**2026-07-09**|**Native Video-Action Pretraining for Generalizable Robot Control**|Yinghao Xu Team|[2607.08639](http://arxiv.org/abs/2607.08639)|null|
 |**2026-07-09**|**Early to Share, Late to Save: Synchronisation-Driven Communication Gating in Bandwidth-Constrained Cooperative VLN**|Avinash Gautam Team|[2607.08504](http://arxiv.org/abs/2607.08504)|null|
@@ -147,12 +155,4 @@
 |**2026-06-26**|**Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots**|Xihui Liu Team|[2606.28133](http://arxiv.org/abs/2606.28133)|**[link](https://translation-as-a-bridging-action.github.io/)**|
 |**2026-06-26**|**PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation**|Daquan Zhou Team|[2606.28128](http://arxiv.org/abs/2606.28128)|**[link](https://github.com/DAGroup-PKU/PhysisForcing)**|
 |**2026-06-26**|**ReScene: Structured Indoor Scene Reconstruction from Multi-View Captures**|Xin Tan Team|[2606.28060](http://arxiv.org/abs/2606.28060)|null|
-|**2026-06-26**|**AirGroundBench: Probing Spatial Intelligence in Multimodal Large Models under Heterogeneous Multi-View Embodied Collaboration**|Zhaofeng He Team|[2606.28049](http://arxiv.org/abs/2606.28049)|null|
-|**2026-07-01**|**Building a Scalable, Reproducible, Evaluatable, and Closed-Loop Simulation Environment Foundation for Embodied Intelligence**|Lu Lu Team|[2606.27962](http://arxiv.org/abs/2606.27962)|null|
-|**2026-06-26**|**When Multi-Robot Systems Meet Agentic AI:Towards Embodied Collective Intelligence**|Qianqian Yang Team|[2606.27929](http://arxiv.org/abs/2606.27929)|null|
-|**2026-06-26**|**LocalNav: Distilling Frontier VLMs and Embodied RL for On-Device Object Goal Navigation**|Michele Magno Team|[2606.27871](http://arxiv.org/abs/2606.27871)|null|
-|**2026-06-26**|**NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning**|Bo Dai Team|[2606.27826](http://arxiv.org/abs/2606.27826)|null|
-|**2026-06-26**|**SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks**|Long Chen Team|[2606.27807](http://arxiv.org/abs/2606.27807)|null|
-|**2026-06-25**|**Not All Relations Rotate Alike: Transformation-Aware Decoupling for Viewpoint-Robust 3D Scene Graph Generation**|Shan Gao Team|[2606.27412](http://arxiv.org/abs/2606.27412)|null|
-|**2026-06-25**|**E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation**|Liang Wang Team|[2606.27268](http://arxiv.org/abs/2606.27268)|**[link](https://27yw.github.io/E-TTS-Web/)**|
 
