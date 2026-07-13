@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.12
+## Updated on 2026.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -64,6 +64,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models**|Miguel P. Eckstein Team|[2607.09654](http://arxiv.org/abs/2607.09654)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models**|Ziyu Zhou Team|[2607.09562](http://arxiv.org/abs/2607.09562)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**The Count Is There, but Misaligned: Understanding and Correcting Counting Failures in VLMs**|Kentaro Inui Team|[2607.09544](http://arxiv.org/abs/2607.09544)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference**|Tengjiao He Team|[2607.09520](http://arxiv.org/abs/2607.09520)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**Robustifying Vision-Language Models via Test-Time Prompt Adaptation**|Long Chen Team|[2607.09450](http://arxiv.org/abs/2607.09450)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**Parameter-Efficient Vision-Language Adaptation with Continuous Metadata Conditioning for Animal Re-Identification**|Cigdem Beyan Team|[2607.09443](http://arxiv.org/abs/2607.09443)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**Test-Time Scaling for Small VLMs on Multilingual Visual MCQ**|Peng-Jian Yang Team|[2607.09438](http://arxiv.org/abs/2607.09438)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**AnythingReality: Robust Online Gaussian Splatting SLAM for Open-Vocabulary VR Scene Exploration**|Dzmitry Tsetserukou Team|[2607.09260](http://arxiv.org/abs/2607.09260)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**Integrating Large Language Models and Graph Convolutional Networks for Semi-Supervised Image Classification**|Lucas Pascotti Valem Team|[2607.09104](http://arxiv.org/abs/2607.09104)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**Learning More from Less: Reinforcement Learning from Hindsight**|Zhang-Wei Hong Team|[2607.09042](http://arxiv.org/abs/2607.09042)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**MOSAIC: Adaptive Inter-layer Composition for Efficient Heterogeneous Vision-Language Models**|Yan Xie Team|[2607.09029](http://arxiv.org/abs/2607.09029)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**C-GAP: Class-Aware and Online Prompting Improves Vision-Language Models on Imbalanced Classes**|Salimeh Sekeh Team|[2607.09008](http://arxiv.org/abs/2607.09008)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning**|Tianyi Zhou Team|[2607.08940](http://arxiv.org/abs/2607.08940)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Ortho2CAD: 3D CAD generation from orthographic drawings using vision language models**|Levent Burak Kara Team|[2607.08891](http://arxiv.org/abs/2607.08891)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Prompt-Driven Exploration**|Zhang-Wei Hong Team|[2607.08837](http://arxiv.org/abs/2607.08837)|null|
 |**2026-07-09**|**AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding**|Jugal Kalita Team|[2607.08745](http://arxiv.org/abs/2607.08745)|null|
 |**2026-07-09**|**When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities**|Ying Wei Team|[2607.08605](http://arxiv.org/abs/2607.08605)|null|
 |**2026-07-09**|**VEGAS: Human-Aligned Video Caption Evaluation via Gaze**|Ufuk Topcu Team|[2607.08489](http://arxiv.org/abs/2607.08489)|null|
@@ -99,21 +114,6 @@ layout: default
 |**2026-07-07**|**Pluralis v0.1: Towards a Multicultural, Multimodal, Multilingual Benchmark for AI Risk and Reliability**|Lora Aroyo Team|[2607.06196](http://arxiv.org/abs/2607.06196)|null|
 |**2026-07-07**|**Calf-Integrated Arms for Bimanual Quadruped Loco-Manipulation**|Chengxu Zhou Team|[2607.06186](http://arxiv.org/abs/2607.06186)|null|
 |**2026-07-07**|**Structured-Condensed Prompt Tuning in Vision-Language Models for Fine-grained Image Recognition**|Shuqiang Jiang Team|[2607.06185](http://arxiv.org/abs/2607.06185)|null|
-|**2026-07-07**|**EAGOR: Embodied Reasoning in Omni-direction**|Addison Lin Wang Team|[2607.06165](http://arxiv.org/abs/2607.06165)|null|
-|**2026-07-07**|**DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control**|Zhaojie Ju Team|[2607.05883](http://arxiv.org/abs/2607.05883)|null|
-|**2026-07-07**|**AVA-VLM: Adaptive Visual Attention-Vision Language Model for In-the-Wild Construction Site Monitoring**|Seunghee Park Team|[2607.05859](http://arxiv.org/abs/2607.05859)|null|
-|**2026-07-07**|**Benchmarking the Robustness of Autonomous Driving to Environmental Illusions: A Lane Perception Perspective**|Dacheng Tao Team|[2607.05783](http://arxiv.org/abs/2607.05783)|null|
-|**2026-07-07**|**SAMPLe: SAM-based Optimizer for Prompt Learning in VLMs**|Fatemeh Afghah Team|[2607.05727](http://arxiv.org/abs/2607.05727)|null|
-|**2026-07-07**|**Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding**|Pavlo Molchanov Team|[2607.05722](http://arxiv.org/abs/2607.05722)|null|
-|**2026-07-06**|**Beyond Isolated Objects: Relationship-aware Open Vocabulary Scene Understanding via 3D Scene Graph Analysis**|Zhaopeng Cui Team|[2607.05348](http://arxiv.org/abs/2607.05348)|**[link](https://cxavireh.github.io/relgraphov-projectpage)**|
-|**2026-07-06**|**Evaluating and Understanding Model Editing for Medical Vision Language Models**|Liyue Shen Team|[2607.05310](http://arxiv.org/abs/2607.05310)|**[link](https://github.com/BioMed-AI-Lab-U-Michgan/M3Bench)**|
-|**2026-07-06**|**Is the Geometry Doing the Work? An Operating-Point Audit of Hierarchy in Hyperbolic Vision-Language Models**|Dongsuk Jang Team|[2607.05268](http://arxiv.org/abs/2607.05268)|null|
-|**2026-07-06**|**SteelBench: Evaluating Vision-Language Models in Real-World Industrial Environments**|Katragadda Ajay RamaSwamy Chowdary Gowtham Team|[2607.05264](http://arxiv.org/abs/2607.05264)|null|
-|**2026-07-06**|**Repurposing CLIP to Localize at Pixel Level**|Shengfeng He Team|[2607.05253](http://arxiv.org/abs/2607.05253)|null|
-|**2026-07-06**|**A Multimodal Reasoning Typology for Grounding Chart-Image Coherence in Science Communication**|Aritra Dasgupta Team|[2607.05222](http://arxiv.org/abs/2607.05222)|null|
-|**2026-07-06**|**VLM-CASE: Vision-Language Model Enabled Context-Adaptive Safety Envelopes for Anticipatory Safe Autonomous Driving**|Xianbiao Hu Team|[2607.05180](http://arxiv.org/abs/2607.05180)|null|
-|**2026-07-06**|**HunyuanOCR-1.5: Making Lightweight OCR VLMs Faster and Better**|Yu Zhou Team|[2607.04884](http://arxiv.org/abs/2607.04884)|null|
-|**2026-07-06**|**DeGenseGS: Geometrically and Semantically Decoupled Surgical Scene Understanding in 4D Gaussian Splatting**|Yueming Jin Team|[2607.04761](http://arxiv.org/abs/2607.04761)|null|
 
 ## VLA
 
