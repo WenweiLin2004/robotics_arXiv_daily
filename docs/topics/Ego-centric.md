@@ -1,14 +1,18 @@
-## Updated on 2026.07.15
+## Updated on 2026.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-14**|**TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale**|Wei Zhan Team|[2607.13028](http://arxiv.org/abs/2607.13028)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-14**|**MAMMOTH: A Multi-Modal End-to-End Policy for Off-Road Mobility Robust to Missing Modality**|Suresh Sundaram Team|[2607.12965](http://arxiv.org/abs/2607.12965)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-14**|**ViCo3D: Empowering LiDAR-based Collaborative 3D Object Detection with Vision Foundation Models**|Yanyong Zhang Team|[2607.12959](http://arxiv.org/abs/2607.12959)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-14**|**Adaptive Cross-Modal Fusion with Sparse Attention for Pedestrian Crossing Intention Prediction**|Kaixin Gao Team|[2607.12293](http://arxiv.org/abs/2607.12293)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-15**|**EgoProceVQA: A Novel Egocentric Procedural Understanding Task with Self-Skill-Exploration Agent**|Yi Wang Team|[2607.13792](http://arxiv.org/abs/2607.13792)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-15**|**EgoHTR: Egocentric 4D Demonstrations of Human Terrain Traversal**|Marco Hutter Team|[2607.13472](http://arxiv.org/abs/2607.13472)|**[link](https://egohtr.github.io)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-15**|**Ego-Dynamics-Augmented World Model for Autonomous Driving with Zero-Shot Cross-Chassis Adaptation**|Chen Lv Team|[2607.13410](http://arxiv.org/abs/2607.13410)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-10**|**A 3DGS-Driven Dynamic Viewpoint and Vibrotactile Framework for Subsea Teleoperation Validated via fNIRS**|Jing Du Team|[2607.13067](http://arxiv.org/abs/2607.13067)|null|
+|**2026-07-14**|**TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale**|Wei Zhan Team|[2607.13028](http://arxiv.org/abs/2607.13028)|null|
+|**2026-07-14**|**MAMMOTH: A Multi-Modal End-to-End Policy for Off-Road Mobility Robust to Missing Modality**|Suresh Sundaram Team|[2607.12965](http://arxiv.org/abs/2607.12965)|null|
+|**2026-07-14**|**ViCo3D: Empowering LiDAR-based Collaborative 3D Object Detection with Vision Foundation Models**|Yanyong Zhang Team|[2607.12959](http://arxiv.org/abs/2607.12959)|null|
+|**2026-07-14**|**Adaptive Cross-Modal Fusion with Sparse Attention for Pedestrian Crossing Intention Prediction**|Kaixin Gao Team|[2607.12293](http://arxiv.org/abs/2607.12293)|null|
 |**2026-07-14**|**DA-Nav: Direction-Aware City-Scale Vision-Language Navigation**|Zhulin An Team|[2607.11638](http://arxiv.org/abs/2607.11638)|null|
 |**2026-07-13**|**Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos**|Yifei Huang Team|[2607.11523](http://arxiv.org/abs/2607.11523)|null|
 |**2026-07-13**|**LightMem-Ego: Your AI Memory for Everyday Life**|Ningyu Zhang Team|[2607.11487](http://arxiv.org/abs/2607.11487)|null|
@@ -150,9 +154,5 @@
 |**2026-06-15**|**Human Universal Grasping**|Lerrel Pinto Team|[2606.17054](http://arxiv.org/abs/2606.17054)|null|
 |**2026-06-15**|**SurroundNEXO: Ego-Centric Metric Bridging for Spatially Consistent Geometry in Autonomous Driving**|Zhipeng Zhang Team|[2606.16960](http://arxiv.org/abs/2606.16960)|null|
 |**2026-06-15**|**Binary Tracking for Spatial QA and Navigation with Open Vision-Language Models**|Dooyoung Hong Team|[2606.16902](http://arxiv.org/abs/2606.16902)|**[link](https://ndb796.github.io/BinaryTracking)**|
-|**2026-06-28**|**JoyAI-Sim: A Simulation-Enabled Interconversion Toolchain for the Embodied Data Pyramid**|Liang Lin Team|[2606.16776](http://arxiv.org/abs/2606.16776)|**[link](https://joyai-sim.github.io/)**|
-|**2026-06-15**|**Pride and Prejudice: Toward an Information-Theoretic Framework for Mutually Communicative Driver Behavior Modeling**|Konghui Guo Team|[2606.16735](http://arxiv.org/abs/2606.16735)|null|
-|**2026-06-15**|**PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models**|Sunghwan Hong Team|[2606.16569](http://arxiv.org/abs/2606.16569)|**[link](https://rckola.github.io/prose/)**|
-|**2026-06-15**|**GraphWorld: Long-Horizon Planning with World Models for End-to-End Autonomous Driving**|Yadan Luo Team|[2606.16274](http://arxiv.org/abs/2606.16274)|null|
-|**2026-06-15**|**EgoPhys: Learning Generalizable Physics Models of Deformable Objects from Egocentric Video**|Xiaolong Wang Team|[2606.16202](http://arxiv.org/abs/2606.16202)|**[link](https://hjhyunjinkim.github.io/EgoPhys)**|
+|**2026-07-15**|**JoyAI-Sim: A Simulation-Enabled Interconversion Toolchain for the Embodied Data Pyramid**|Liang Lin Team|[2606.16776](http://arxiv.org/abs/2606.16776)|**[link](https://joyai-sim.github.io/)**|
 
