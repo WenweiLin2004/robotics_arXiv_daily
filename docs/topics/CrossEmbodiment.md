@@ -1,23 +1,23 @@
-## Updated on 2026.07.17
+## Updated on 2026.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-16**|**When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space**|Ke Xu Team|[2607.15218](http://arxiv.org/abs/2607.15218)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-16**|**BadWAM: When World-Action Models Dream Right but Act Wrong**|Xinchao Wang Team|[2607.15207](http://arxiv.org/abs/2607.15207)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-16**|**Scaling Behavior Foundation Model for Humanoid Robots**|Jingbo Wang Team|[2607.15163](http://arxiv.org/abs/2607.15163)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-16**|**NavCMPO: Critic-Guided MeanFlow Policy Optimization for Adaptive Navigation**|Guang Li Team|[2607.14643](http://arxiv.org/abs/2607.14643)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-16**|**Knowing You at First Glance: Inferring Apparent Personality from Faces**|Zhen Lei Team|[2607.14631](http://arxiv.org/abs/2607.14631)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-16**|**SoftNav: Injecting 3D Scene Tokens into VLMs for Embodied Navigation**|Guang Li Team|[2607.14586](http://arxiv.org/abs/2607.14586)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-16**|**MathCoPilot: An Interactive System for Human-AI Symbiotic Paradigm of Mathematical Research**|Xiangdong Ye Team|[2607.14582](http://arxiv.org/abs/2607.14582)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-16**|**HyMobileAgent: Data-Environment Co-Scaling for Efficient GUI Agents**|Chengquan Zhang Team|[2607.14548](http://arxiv.org/abs/2607.14548)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-16**|**SafeRelBench: A Spatial-Relation-Aware Benchmark for Process-Level Safety in VLM-Driven Embodied Agents**|Zhaofeng He Team|[2607.14543](http://arxiv.org/abs/2607.14543)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-16**|**VTM-Nav: Hierarchical Visual-Topological Memory for Cross-Episode Object-Goal Navigation**|Changsheng Xu Team|[2607.14514](http://arxiv.org/abs/2607.14514)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-15**|**MEMORA: Embodied Action Memory from Egocentric Videos for Reasoning and Planning**|Chongjie Zhang Team|[2607.14252](http://arxiv.org/abs/2607.14252)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-15**|**RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination**|Zhengyou Zhang Team|[2607.14187](http://arxiv.org/abs/2607.14187)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-15**|**Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning**|Zhe Li Team|[2607.14183](http://arxiv.org/abs/2607.14183)|null|
+|**2026-07-16**|**When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space**|Ke Xu Team|[2607.15218](http://arxiv.org/abs/2607.15218)|null|
+|**2026-07-16**|**BadWAM: When World-Action Models Dream Right but Act Wrong**|Xinchao Wang Team|[2607.15207](http://arxiv.org/abs/2607.15207)|null|
+|**2026-07-16**|**Scaling Behavior Foundation Model for Humanoid Robots**|Jingbo Wang Team|[2607.15163](http://arxiv.org/abs/2607.15163)|null|
+|**2026-07-16**|**NavCMPO: Critic-Guided MeanFlow Policy Optimization for Adaptive Navigation**|Guang Li Team|[2607.14643](http://arxiv.org/abs/2607.14643)|null|
+|**2026-07-16**|**Knowing You at First Glance: Inferring Apparent Personality from Faces**|Zhen Lei Team|[2607.14631](http://arxiv.org/abs/2607.14631)|null|
+|**2026-07-16**|**SoftNav: Injecting 3D Scene Tokens into VLMs for Embodied Navigation**|Guang Li Team|[2607.14586](http://arxiv.org/abs/2607.14586)|null|
+|**2026-07-16**|**MathCoPilot: An Interactive System for Human-AI Symbiotic Paradigm of Mathematical Research**|Xiangdong Ye Team|[2607.14582](http://arxiv.org/abs/2607.14582)|null|
+|**2026-07-16**|**HyMobileAgent: Data-Environment Co-Scaling for Efficient GUI Agents**|Chengquan Zhang Team|[2607.14548](http://arxiv.org/abs/2607.14548)|null|
+|**2026-07-16**|**SafeRelBench: A Spatial-Relation-Aware Benchmark for Process-Level Safety in VLM-Driven Embodied Agents**|Zhaofeng He Team|[2607.14543](http://arxiv.org/abs/2607.14543)|null|
+|**2026-07-16**|**VTM-Nav: Hierarchical Visual-Topological Memory for Cross-Episode Object-Goal Navigation**|Changsheng Xu Team|[2607.14514](http://arxiv.org/abs/2607.14514)|null|
+|**2026-07-15**|**MEMORA: Embodied Action Memory from Egocentric Videos for Reasoning and Planning**|Chongjie Zhang Team|[2607.14252](http://arxiv.org/abs/2607.14252)|null|
+|**2026-07-15**|**RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination**|Zhengyou Zhang Team|[2607.14187](http://arxiv.org/abs/2607.14187)|null|
+|**2026-07-15**|**Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning**|Zhe Li Team|[2607.14183](http://arxiv.org/abs/2607.14183)|null|
 |**2026-07-15**|**Even central galaxies feel their environment: cosmic siphoning of cool gas accretion**|Tao Wang Team|[2607.13961](http://arxiv.org/abs/2607.13961)|null|
 |**2026-07-15**|**ExpressionCueLens: A Cross-Cultural Analysis of Human-AI Companion Conversations on Social Media**|Mona Diab Team|[2607.13924](http://arxiv.org/abs/2607.13924)|null|
 |**2026-07-15**|**T3HG-Editor: Text-driven 3D Human Garment Editing with Body Priors Embedded in SMPL-X**|Xiaopeng Fan Team|[2607.13654](http://arxiv.org/abs/2607.13654)|null|

@@ -1,16 +1,16 @@
-## Updated on 2026.07.17
+## Updated on 2026.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-16**|**AeroAct: Action-Centered World-Action Models for Language-Conditioned Quadrotor Flight**|Gang Wang Team|[2607.14997](http://arxiv.org/abs/2607.14997)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-16**|**Communication-Efficient Relative Pose Estimation with Vision Foundation Models for Ephemeral Collaborative Perception**|Peng Gao Team|[2607.14539](http://arxiv.org/abs/2607.14539)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-16**|**DRIFT: Drift and Aggregation for Motion Planning**|Jianqiang Wang Team|[2607.14507](http://arxiv.org/abs/2607.14507)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-16**|**Reinforcing Egocentric Spatial Perception in Multimodal Large Language Models via Ego Scene Augmentation**|Xuming Hu Team|[2607.14497](http://arxiv.org/abs/2607.14497)|**[link](https://github.com/Chikit-WONG/spatialGraph)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-15**|**MEMORA: Embodied Action Memory from Egocentric Videos for Reasoning and Planning**|Chongjie Zhang Team|[2607.14252](http://arxiv.org/abs/2607.14252)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-15**|**Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning**|Zhe Li Team|[2607.14183](http://arxiv.org/abs/2607.14183)|null|
+|**2026-07-16**|**AeroAct: Action-Centered World-Action Models for Language-Conditioned Quadrotor Flight**|Gang Wang Team|[2607.14997](http://arxiv.org/abs/2607.14997)|null|
+|**2026-07-16**|**Communication-Efficient Relative Pose Estimation with Vision Foundation Models for Ephemeral Collaborative Perception**|Peng Gao Team|[2607.14539](http://arxiv.org/abs/2607.14539)|null|
+|**2026-07-16**|**DRIFT: Drift and Aggregation for Motion Planning**|Jianqiang Wang Team|[2607.14507](http://arxiv.org/abs/2607.14507)|null|
+|**2026-07-16**|**Reinforcing Egocentric Spatial Perception in Multimodal Large Language Models via Ego Scene Augmentation**|Xuming Hu Team|[2607.14497](http://arxiv.org/abs/2607.14497)|**[link](https://github.com/Chikit-WONG/spatialGraph)**|
+|**2026-07-15**|**MEMORA: Embodied Action Memory from Egocentric Videos for Reasoning and Planning**|Chongjie Zhang Team|[2607.14252](http://arxiv.org/abs/2607.14252)|null|
+|**2026-07-15**|**Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning**|Zhe Li Team|[2607.14183](http://arxiv.org/abs/2607.14183)|null|
 |**2026-07-15**|**EgoProceVQA: A Novel Egocentric Procedural Understanding Task with Self-Skill-Exploration Agent**|Yi Wang Team|[2607.13792](http://arxiv.org/abs/2607.13792)|null|
 |**2026-07-15**|**EgoHTR: Egocentric 4D Demonstrations of Human Terrain Traversal**|Marco Hutter Team|[2607.13472](http://arxiv.org/abs/2607.13472)|**[link](https://egohtr.github.io)**|
 |**2026-07-15**|**Ego-Dynamics-Augmented World Model for Autonomous Driving with Zero-Shot Cross-Chassis Adaptation**|Chen Lv Team|[2607.13410](http://arxiv.org/abs/2607.13410)|null|
