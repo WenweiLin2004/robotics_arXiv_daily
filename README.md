@@ -1,4 +1,4 @@
-## Updated on 2026.07.18
+## Updated on 2026.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -70,7 +70,7 @@
 |**2026-07-10**|**GenVid2Robot: From Video Generation to Robot Manipulation via Rigid-Geometric Consistency**|Yi Guo Team|[2607.09191](http://arxiv.org/abs/2607.09191)|null|
 |**2026-07-09**|**SplatCtrl: Perception-Action Coupling via Gaussian Scene Representations and Reactive Robot Control**|Ho Jin Choi Team|[2607.08948](http://arxiv.org/abs/2607.08948)|null|
 
-<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
 
 ## VLM
 
@@ -127,7 +127,7 @@
 |**2026-07-13**|**When Depth Is Better Told Than Shown: Depth-Ordinal Prompting for Vision-Language Spatial Reasoning**|Thong Nguyen Team|[2607.11173](http://arxiv.org/abs/2607.11173)|null|
 |**2026-07-13**|**RetroHolmes: When Semantic Plausibility Fails Retrospective Physical Process Reasoning**|Wen-Huang Cheng Team|[2607.11044](http://arxiv.org/abs/2607.11044)|null|
 
-<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
 
 ## VLA
 
@@ -184,7 +184,7 @@
 |**2026-07-12**|**Anomalous Frame Detection by Grouping Frame Similarities between Two Videos Computed by Vision-Language Model to Extract Expert Workers' Unique Actions**|Nobutaka Kimura Team|[2607.10598](http://arxiv.org/abs/2607.10598)|null|
 |**2026-07-11**|**SUREFlow: State-space Uncertainty-aware REsidual Flow Matching for Robust Robot Manipulation**|Sangtae Ahn Team|[2607.10504](http://arxiv.org/abs/2607.10504)|null|
 
-<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
 
 ## Humanoid
 
@@ -241,7 +241,7 @@
 |**2026-06-26**|**When May I Help You? On The Effect of Proactivity on Group Human-Robot Collaboration**|Stefan Wermter Team|[2606.28469](http://arxiv.org/abs/2606.28469)|null|
 |**2026-06-26**|**Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors**|Ziqiao Li Team|[2606.28237](http://arxiv.org/abs/2606.28237)|null|
 
-<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
 
 ## Dexterous
 
@@ -298,7 +298,7 @@
 |**2026-06-24**|**Self Capacitive Tactile Sensor System designed for Companion Robots**|Shuhei Ikemoto Team|[2606.25348](http://arxiv.org/abs/2606.25348)|null|
 |**2026-06-24**|**A Mean-Field Lindblad Master Equation Framework for Interaction-Driven Decoherence in Solid-State Qubit Ensembles**|Sanghamitra Neogi Team|[2606.25261](http://arxiv.org/abs/2606.25261)|null|
 
-<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
 
 ## CrossEmbodiment
 
@@ -355,7 +355,7 @@
 |**2026-07-09**|**DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation**|Mingyu Ding Team|[2607.08751](http://arxiv.org/abs/2607.08751)|null|
 |**2026-07-08**|**Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence**|Ka Leong Cheng Team|[2607.07675](http://arxiv.org/abs/2607.07675)|**[link](https://technology.robbyant.com/lingbot-video)**|
 
-<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
 
 ## WorldModel
 
@@ -412,7 +412,7 @@
 |**2026-07-07**|**The Rank-One Corner: How Much Value Equivalence Does a Task Need from a World Model?**|Donna Vakalis Team|[2607.06640](http://arxiv.org/abs/2607.06640)|null|
 |**2026-07-07**|**RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation**|Zhongyu Li Team|[2607.06559](http://arxiv.org/abs/2607.06559)|**[link](https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io)**|
 
-<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
 
 ## WAM
 
@@ -469,5 +469,5 @@
 |**2026-06-10**|**Making Foresight Actionable: Repurposing Representation Alignment in World Action Models**|Xihui Liu Team|[2606.12217](http://arxiv.org/abs/2606.12217)|null|
 |**2026-06-09**|**Next Forcing: Causal World Modeling with Multi-Chunk Prediction**|Yinghao Xu Team|[2606.11187](http://arxiv.org/abs/2606.11187)|**[link](https://gangweix.github.io/next-forcing/)**|
 
-<p align=right>(<a href=#updated-on-20260718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
 
