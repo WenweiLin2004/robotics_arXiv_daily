@@ -1,10 +1,13 @@
-## Updated on 2026.07.19
+## Updated on 2026.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-17**|**Let the Body Follow: Coupled Egocentric Control for Whole-Body Robot Teleoperation**|Chien-Ming Huang Team|[2607.16095](http://arxiv.org/abs/2607.16095)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-17**|**Exo2EgoPose: Leveraging Exocentric Demonstrations for Vision-Language guided Egocentric 3D Hand Pose Forecasting**|Hongliang Li Team|[2607.15890](http://arxiv.org/abs/2607.15890)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-17**|**EgoExoMoCap: Distributed Ego-Exo Human Motion Capture**|Federica Bogo Team|[2607.15868](http://arxiv.org/abs/2607.15868)|**[link](https://siplab.org/projects/EgoExoMoCap)**|
 |**2026-07-16**|**AeroAct: Action-Centered World-Action Models for Language-Conditioned Quadrotor Flight**|Gang Wang Team|[2607.14997](http://arxiv.org/abs/2607.14997)|null|
 |**2026-07-16**|**Communication-Efficient Relative Pose Estimation with Vision Foundation Models for Ephemeral Collaborative Perception**|Peng Gao Team|[2607.14539](http://arxiv.org/abs/2607.14539)|null|
 |**2026-07-16**|**DRIFT: Drift and Aggregation for Motion Planning**|Jianqiang Wang Team|[2607.14507](http://arxiv.org/abs/2607.14507)|null|
@@ -144,7 +147,7 @@
 |**2026-06-17**|**HT-Bench: Benchmarking and Learning Dexterous Full-Hand Tactile Representations with Egocentric Vision**|Yuanxin Zhong Team|[2606.19161](http://arxiv.org/abs/2606.19161)|null|
 |**2026-06-17**|**Hand-4DGS: Feed-Forward 3D Gaussian Splatting for 4D Hand Reconstruction from Egocentric Videos**|Taein Kwon Team|[2606.19156](http://arxiv.org/abs/2606.19156)|**[link](https://jeongminb.github.io/hand-4dgs/)**|
 |**2026-07-02**|**Motion-Focused Latent Action Enables Cross-Embodiment VLA Training from Human EgoVideos**|Jincheng Yu Team|[2606.18955](http://arxiv.org/abs/2606.18955)|null|
-|**2026-06-17**|**Where Will They Go? Modelling Multimodal Pedestrian Manoeuvres from Ego-centric Videos**|Edmond S. L. Ho Team|[2606.18824](http://arxiv.org/abs/2606.18824)|null|
+|**2026-07-17**|**Where Will They Go? Modelling Multimodal Pedestrian Manoeuvres from Ego-centric Videos**|Edmond S. L. Ho Team|[2606.18824](http://arxiv.org/abs/2606.18824)|null|
 |**2026-06-17**|**HALOMI: Learning Humanoid Loco-Manipulation with Active Perception from Human Demonstrations**|Wenzhao Lian Team|[2606.18772](http://arxiv.org/abs/2606.18772)|null|
 |**2026-06-16**|**VEGA: Learning Navigation VLAs from In-the-Wild Egocentric Video with Geometric Trajectory Supervision**|Dinesh Manocha Team|[2606.18426](http://arxiv.org/abs/2606.18426)|null|
 |**2026-06-23**|**PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation**|Kai Xu Team|[2606.18375](http://arxiv.org/abs/2606.18375)|null|
@@ -152,7 +155,4 @@
 |**2026-06-16**|**EgoCS-400K: An Egocentric Gameplay Dataset for World Models**|Rynson W. H. Lau Team|[2606.18180](http://arxiv.org/abs/2606.18180)|null|
 |**2026-06-17**|**Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models**|Xiong-Hui Chen Team|[2606.17846](http://arxiv.org/abs/2606.17846)|null|
 |**2026-06-16**|**HumanoidArena: Benchmarking Egocentric Hierarchical Whole-body Learning**|Renjing Xu Team|[2606.17833](http://arxiv.org/abs/2606.17833)|null|
-|**2026-06-16**|**Divide, Deliberate, Decide: A Multi-Agent Framework for Fine-Grained Egocentric Action Recognition**|Oswald Lanz Team|[2606.17627](http://arxiv.org/abs/2606.17627)|null|
-|**2026-06-16**|**SkillMoV: Mixture-of-View Routing with Prototype-Conditioned Gating for Unified Multi-View Proficiency Estimation**|Antonio Liotta Team|[2606.17615](http://arxiv.org/abs/2606.17615)|null|
-|**2026-06-15**|**Contrastive Action-Image Pre-training for Visuomotor Control**|Roei Herzig Team|[2606.17256](http://arxiv.org/abs/2606.17256)|null|
 
