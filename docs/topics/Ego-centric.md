@@ -1,16 +1,20 @@
-## Updated on 2026.07.21
+## Updated on 2026.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-20**|**Learning Adaptive Safety Margins for Visual Navigation**|Yi Fang Team|[2607.18200](http://arxiv.org/abs/2607.18200)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-20**|**Anticipate Before Acting: Future-State-Conditioned Vision-Language Navigation**|Yingxue Zhang Team|[2607.18042](http://arxiv.org/abs/2607.18042)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-20**|**ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video**|Siyu Tang Team|[2607.17790](http://arxiv.org/abs/2607.17790)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-20**|**GeoWorldAD: Geometry World Action Model for Autonomous Driving**|Chen Lv Team|[2607.17521](http://arxiv.org/abs/2607.17521)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-19**|**Understanding From Human Perspective: A Multi-agent System for Interactive Egocentric Medical Image Segmentation**|Yuting He Team|[2607.17341](http://arxiv.org/abs/2607.17341)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-09**|**Moving Like a Human: Ego-Motion-Normalized Temporal Signatures for Real-Time Aerial Person Tracking on Milliwatt-Class Hardware**|Gholamreza Anbarjafari Team|[2607.16282](http://arxiv.org/abs/2607.16282)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field**|Margaret M. Henderson Team|[2607.19316](http://arxiv.org/abs/2607.19316)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Stochastic Multi-Objective Kinodynamic Planning Against Adversaries**|Dimitra Panagou Team|[2607.19284](http://arxiv.org/abs/2607.19284)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**SkyEV: RGB-Event UAV detection and tracking dataset and baseline**|Michele Magno Team|[2607.18747](http://arxiv.org/abs/2607.18747)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**End-to-end Conditional Diffusion for Realistic and Controllable Visual Traffic Scenario Generation**|Philip S Yu Team|[2607.18637](http://arxiv.org/abs/2607.18637)|null|
+|**2026-07-20**|**Learning Adaptive Safety Margins for Visual Navigation**|Yi Fang Team|[2607.18200](http://arxiv.org/abs/2607.18200)|null|
+|**2026-07-20**|**Anticipate Before Acting: Future-State-Conditioned Vision-Language Navigation**|Yingxue Zhang Team|[2607.18042](http://arxiv.org/abs/2607.18042)|null|
+|**2026-07-20**|**ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video**|Siyu Tang Team|[2607.17790](http://arxiv.org/abs/2607.17790)|null|
+|**2026-07-20**|**GeoWorldAD: Geometry World Action Model for Autonomous Driving**|Chen Lv Team|[2607.17521](http://arxiv.org/abs/2607.17521)|null|
+|**2026-07-19**|**Understanding From Human Perspective: A Multi-agent System for Interactive Egocentric Medical Image Segmentation**|Yuting He Team|[2607.17341](http://arxiv.org/abs/2607.17341)|null|
+|**2026-07-09**|**Moving Like a Human: Ego-Motion-Normalized Temporal Signatures for Real-Time Aerial Person Tracking on Milliwatt-Class Hardware**|Gholamreza Anbarjafari Team|[2607.16282](http://arxiv.org/abs/2607.16282)|null|
 |**2026-07-17**|**Let the Body Follow: Coupled Egocentric Control for Whole-Body Robot Teleoperation**|Chien-Ming Huang Team|[2607.16095](http://arxiv.org/abs/2607.16095)|null|
 |**2026-07-17**|**Exo2EgoPose: Leveraging Exocentric Demonstrations for Vision-Language guided Egocentric 3D Hand Pose Forecasting**|Hongliang Li Team|[2607.15890](http://arxiv.org/abs/2607.15890)|null|
 |**2026-07-17**|**EgoExoMoCap: Distributed Ego-Exo Human Motion Capture**|Federica Bogo Team|[2607.15868](http://arxiv.org/abs/2607.15868)|**[link](https://siplab.org/projects/EgoExoMoCap)**|
@@ -151,8 +155,4 @@
 |**2026-06-17**|**CABLE: Cloud-Assisted Bandwidth-efficient LMM-based Encoding for V2X Systems**|Handong Yao Team|[2606.19258](http://arxiv.org/abs/2606.19258)|null|
 |**2026-06-18**|**Learning to Annotate Delayed and False AEB Events: A Practical System for Extreme Class Imbalance and Asymmetric Label Noise**|Xianpeng Lang Team|[2606.19186](http://arxiv.org/abs/2606.19186)|null|
 |**2026-06-17**|**HT-Bench: Benchmarking and Learning Dexterous Full-Hand Tactile Representations with Egocentric Vision**|Yuanxin Zhong Team|[2606.19161](http://arxiv.org/abs/2606.19161)|null|
-|**2026-06-17**|**Hand-4DGS: Feed-Forward 3D Gaussian Splatting for 4D Hand Reconstruction from Egocentric Videos**|Taein Kwon Team|[2606.19156](http://arxiv.org/abs/2606.19156)|**[link](https://jeongminb.github.io/hand-4dgs/)**|
-|**2026-07-02**|**Motion-Focused Latent Action Enables Cross-Embodiment VLA Training from Human EgoVideos**|Jincheng Yu Team|[2606.18955](http://arxiv.org/abs/2606.18955)|null|
-|**2026-07-17**|**Where Will They Go? Modelling Multimodal Pedestrian Manoeuvres from Ego-centric Videos**|Edmond S. L. Ho Team|[2606.18824](http://arxiv.org/abs/2606.18824)|null|
-|**2026-06-17**|**HALOMI: Learning Humanoid Loco-Manipulation with Active Perception from Human Demonstrations**|Wenzhao Lian Team|[2606.18772](http://arxiv.org/abs/2606.18772)|null|
 
