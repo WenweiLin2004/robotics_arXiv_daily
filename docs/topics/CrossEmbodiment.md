@@ -1,17 +1,28 @@
-## Updated on 2026.07.22
+## Updated on 2026.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Masked Visual Actions for Unified World Modeling**|Jia-Bin Huang Team|[2607.19343](http://arxiv.org/abs/2607.19343)|**[link](https://masked-visual-actions.github.io)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Job-level Carbon and Water Footprint Estimation for HPC: Bias Assessment from Runtime to Full Life Cycle**|Rob van Nieuwpoort Team|[2607.19150](http://arxiv.org/abs/2607.19150)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Athena-Brain Technical Report: An Efficient Robot Brain for General Intelligence and Embodied Interactio**|Jie Chen Team|[2607.18985](http://arxiv.org/abs/2607.18985)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**WorldScape Policy 2.0: Empowering Steerable World Action Modeling with Reasoning-Augmented Memory**|Wei Wu Team|[2607.18840](http://arxiv.org/abs/2607.18840)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation**|Si Liu Team|[2607.18709](http://arxiv.org/abs/2607.18709)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision**|Eli Blevis Team|[2607.18598](http://arxiv.org/abs/2607.18598)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-20**|**Now We Know? A Systematic Comparison of TerraMind and THOR**|Valerio Marsocci Team|[2607.18504](http://arxiv.org/abs/2607.18504)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**surprisal is Not a Theory**|Cassandra L. Jacobs Team|[2607.20208](http://arxiv.org/abs/2607.20208)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**SeededGrasp: Language-Guided Grasping in Complex Scenes with Multiple Embodiments**|Igor Gilitschenski Team|[2607.20207](http://arxiv.org/abs/2607.20207)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**ReferTrack: Referring Then Tracking for Embodied Visual Tracking**|Hong Zhang Team|[2607.20061](http://arxiv.org/abs/2607.20061)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**Robots Acquire Manipulation Skills in Seconds from a Single Human Video**|Yufeng Yue Team|[2607.20033](http://arxiv.org/abs/2607.20033)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**Odin: Primitive-Level Synchronization for Distributed Point-Based Neural Rendering**|Hengjie Li Team|[2607.19893](http://arxiv.org/abs/2607.19893)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**EA-Nav: Learning Safe Visual Navigation Policies with Embodiment Awareness**|Jituo Li Team|[2607.19880](http://arxiv.org/abs/2607.19880)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding**|Xuelong Li Team|[2607.19876](http://arxiv.org/abs/2607.19876)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**Clinical Pathways as Safety Specifications for Physical AI in Hospital Wards**|Filippo Lanubile Team|[2607.19827](http://arxiv.org/abs/2607.19827)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**EgoRecovery: Acquiring Failure Recovery Ability Through Human Recovery Demonstration**|Yu-Gang Jiang Team|[2607.19745](http://arxiv.org/abs/2607.19745)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**NavVerse: Benchmarking Indoor-to-Outdoor Embodied Navigation in Continuous Robot Simulation**|Maani Ghaffari Team|[2607.19695](http://arxiv.org/abs/2607.19695)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**ModPack: An Extensible Teleoperation Interface for Bimanual Mobile Manipulation**|Shuran Song Team|[2607.19479](http://arxiv.org/abs/2607.19479)|null|
+|**2026-07-21**|**Masked Visual Actions for Unified World Modeling**|Jia-Bin Huang Team|[2607.19343](http://arxiv.org/abs/2607.19343)|**[link](https://masked-visual-actions.github.io)**|
+|**2026-07-21**|**Job-level Carbon and Water Footprint Estimation for HPC: Bias Assessment from Runtime to Full Life Cycle**|Rob van Nieuwpoort Team|[2607.19150](http://arxiv.org/abs/2607.19150)|null|
+|**2026-07-21**|**Athena-Brain Technical Report: An Efficient Robot Brain for General Intelligence and Embodied Interactio**|Jie Chen Team|[2607.18985](http://arxiv.org/abs/2607.18985)|null|
+|**2026-07-21**|**WorldScape Policy 2.0: Empowering Steerable World Action Modeling with Reasoning-Augmented Memory**|Wei Wu Team|[2607.18840](http://arxiv.org/abs/2607.18840)|null|
+|**2026-07-22**|**RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation**|Si Liu Team|[2607.18709](http://arxiv.org/abs/2607.18709)|null|
+|**2026-07-22**|**Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision**|Eli Blevis Team|[2607.18598](http://arxiv.org/abs/2607.18598)|null|
+|**2026-07-20**|**Now We Know? A Systematic Comparison of TerraMind and THOR**|Valerio Marsocci Team|[2607.18504](http://arxiv.org/abs/2607.18504)|null|
 |**2026-07-20**|**Patch Policy: Efficient Embodied Control via Dense Visual Representations**|Lerrel Pinto Team|[2607.18236](http://arxiv.org/abs/2607.18236)|null|
 |**2026-07-20**|**UniETP: Unifying Environments for Generalizable Embodied Task Planning**|Yadong Mu Team|[2607.18062](http://arxiv.org/abs/2607.18062)|null|
 |**2026-07-20**|**RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model**|Deli Zhao Team|[2607.17977](http://arxiv.org/abs/2607.17977)|**[link](https://alibaba-damo-academy.github.io/RynnBrain)**|
@@ -35,7 +46,7 @@
 |**2026-07-17**|**Event3R: Asynchronous-to-Global 3D Reconstruction from Event Camera via Spatial-Temporal Feature Aggregation**|Peidong Liu Team|[2607.15727](http://arxiv.org/abs/2607.15727)|null|
 |**2026-07-21**|**PACE: Persona Adaptation through Conversational Elicitation in Human-Robot Interaction**|Simon See Team|[2607.15579](http://arxiv.org/abs/2607.15579)|null|
 |**2026-07-16**|**VTAP Gripper: Synergizing Fingertip Sensing and a Visuo-Tactile Active Palm for Dexterous In-Hand Manipulation**|Yu She Team|[2607.15448](http://arxiv.org/abs/2607.15448)|**[link](https://yuhochau.github.io/vtap/)**|
-|**2026-07-16**|**Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories**|Quanyun Zhou Team|[2607.15330](http://arxiv.org/abs/2607.15330)|**[link](https://robotics.xiaomi.com/xiaomi-robotics-1.html)**|
+|**2026-07-22**|**Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories**|Quanyun Zhou Team|[2607.15330](http://arxiv.org/abs/2607.15330)|**[link](https://robotics.xiaomi.com/xiaomi-robotics-1.html)**|
 |**2026-07-16**|**When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space**|Ke Xu Team|[2607.15218](http://arxiv.org/abs/2607.15218)|null|
 |**2026-07-16**|**BadWAM: When World-Action Models Dream Right but Act Wrong**|Xinchao Wang Team|[2607.15207](http://arxiv.org/abs/2607.15207)|null|
 |**2026-07-16**|**Scaling Behavior Foundation Model for Humanoid Robots**|Jingbo Wang Team|[2607.15163](http://arxiv.org/abs/2607.15163)|null|
@@ -144,15 +155,4 @@
 |**2026-07-06**|**TypeGo: An OS Runtime for Embodied Agents**|Lin Zhong Team|[2607.05482](http://arxiv.org/abs/2607.05482)|null|
 |**2026-07-15**|**Governable Individuals: An Identity Layer for Embodied Agents That Keep Learning**|Zhijun Li Team|[2607.05463](http://arxiv.org/abs/2607.05463)|null|
 |**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Tai Wang Team|[2607.05377](http://arxiv.org/abs/2607.05377)|**[link](https://steinate.github.io/cortex.github.io/)**|
-|**2026-07-06**|**Vision Pretraining for Dense Spatial Perception**|Nan Xue Team|[2607.05247](http://arxiv.org/abs/2607.05247)|null|
-|**2026-07-06**|**DSWAM: A Dual-System World Action Foundation Model for Fine-Grained Robot Manipulation**|Yi Xu Team|[2607.04927](http://arxiv.org/abs/2607.04927)|null|
-|**2026-07-06**|**Do Vision-Language-Action Models Mean What They Say? On the Role of Faithfulness in Embodied Reasoning**|Marco Pavone Team|[2607.04681](http://arxiv.org/abs/2607.04681)|null|
-|**2026-07-06**|**Governed Caste Reassignment in Heterogeneous Swarms: An Asymmetric-Trust Protocol with Audited Operator Countersignature**|Zhijun Li Team|[2607.04634](http://arxiv.org/abs/2607.04634)|null|
-|**2026-07-06**|**RoboVista: Evaluating Vision Language Models for Diverse Robot Applications**|Ken Goldberg Team|[2607.04610](http://arxiv.org/abs/2607.04610)|**[link](https://berkeleyautomation.github.io/robovista/)**|
-|**2026-07-05**|**ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI**|Xiaogang Wang Team|[2607.04426](http://arxiv.org/abs/2607.04426)|null|
-|**2026-07-05**|**ACE: Agentic Control for Embodied Manipulation via Zero-shot Workflow Reasoning**|Zhidong Deng Team|[2607.04162](http://arxiv.org/abs/2607.04162)|null|
-|**2026-07-04**|**Worldscape-MoE: A Unified Mixture-of-Experts World Model for Scalable Heterogeneous Action Control**|Yong Li Team|[2607.03964](http://arxiv.org/abs/2607.03964)|null|
-|**2026-07-04**|**WSA $_1$ : a 3D-Centric World-Spatial-Action Model for Generalizable Robot Control**|Heng Tao Shen Team|[2607.03941](http://arxiv.org/abs/2607.03941)|null|
-|**2026-07-20**|**LH-AVLN: A Benchmark for Long-Horizon Audio-Visual-Language Navigation**|Sihong Xie Team|[2607.03920](http://arxiv.org/abs/2607.03920)|null|
-|**2026-07-04**|**ObjRetarget: An Object-Aware Motion Retargeting Framework with Anthropomorphic Arm Constraints and Polyhedral Hand Modeling**|Zhaojie Ju Team|[2607.03828](http://arxiv.org/abs/2607.03828)|null|
 

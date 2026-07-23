@@ -1,14 +1,19 @@
-## Updated on 2026.07.22
+## Updated on 2026.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field**|Margaret M. Henderson Team|[2607.19316](http://arxiv.org/abs/2607.19316)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Stochastic Multi-Objective Kinodynamic Planning Against Adversaries**|Dimitra Panagou Team|[2607.19284](http://arxiv.org/abs/2607.19284)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**SkyEV: RGB-Event UAV detection and tracking dataset and baseline**|Michele Magno Team|[2607.18747](http://arxiv.org/abs/2607.18747)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**End-to-end Conditional Diffusion for Realistic and Controllable Visual Traffic Scenario Generation**|Philip S Yu Team|[2607.18637](http://arxiv.org/abs/2607.18637)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**Unified Prediction and Planning via Conflict-Aware Disjoint Parameter Training**|Daehee Park Team|[2607.19971](http://arxiv.org/abs/2607.19971)|**[link](https://dpt2026.github.io/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**WASABI: Whole-graph Assignment-based Stabilizer for lAne topology By Inter-frame tracking**|Toru Saito Team|[2607.19781](http://arxiv.org/abs/2607.19781)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**EgoRecovery: Acquiring Failure Recovery Ability Through Human Recovery Demonstration**|Yu-Gang Jiang Team|[2607.19745](http://arxiv.org/abs/2607.19745)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**Perceived vertical and eye level as one orientation order parameter: a closed-form account of the Li-Matin rules for egocentric space**|A. Y. Shavit Team|[2607.19681](http://arxiv.org/abs/2607.19681)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Agent-Centric Animal Pose Forecasting**|Kristin Branson Team|[2607.19548](http://arxiv.org/abs/2607.19548)|null|
+|**2026-07-21**|**Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field**|Margaret M. Henderson Team|[2607.19316](http://arxiv.org/abs/2607.19316)|null|
+|**2026-07-21**|**Stochastic Multi-Objective Kinodynamic Planning Against Adversaries**|Dimitra Panagou Team|[2607.19284](http://arxiv.org/abs/2607.19284)|null|
+|**2026-07-21**|**SkyEV: RGB-Event UAV detection and tracking dataset and baseline**|Michele Magno Team|[2607.18747](http://arxiv.org/abs/2607.18747)|null|
+|**2026-07-21**|**End-to-end Conditional Diffusion for Realistic and Controllable Visual Traffic Scenario Generation**|Philip S Yu Team|[2607.18637](http://arxiv.org/abs/2607.18637)|null|
 |**2026-07-20**|**Learning Adaptive Safety Margins for Visual Navigation**|Yi Fang Team|[2607.18200](http://arxiv.org/abs/2607.18200)|null|
 |**2026-07-20**|**Anticipate Before Acting: Future-State-Conditioned Vision-Language Navigation**|Yingxue Zhang Team|[2607.18042](http://arxiv.org/abs/2607.18042)|null|
 |**2026-07-20**|**ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video**|Siyu Tang Team|[2607.17790](http://arxiv.org/abs/2607.17790)|null|
@@ -150,9 +155,4 @@
 |**2026-06-18**|**Interpretable Meta-Learning for Multi-Objective Chemical Search**|Nicholas E. Lubbers Team|[2606.20497](http://arxiv.org/abs/2606.20497)|null|
 |**2026-06-19**|**Pose6DAug: Physically Plausible Multi-view Object Swapping for Robot Data Augmentation**|Jinwoo Shin Team|[2606.20118](http://arxiv.org/abs/2606.20118)|null|
 |**2026-06-18**|**See-and-Reach: Precise Vision-Language Navigation for UAVs within the Field of View**|Jiande Sun Team|[2606.20045](http://arxiv.org/abs/2606.20045)|null|
-|**2026-06-17**|**Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games**|Yuhang Zang Team|[2606.19338](http://arxiv.org/abs/2606.19338)|null|
-|**2026-06-17**|**Do as I Do: Dexterous Manipulation Data from Everyday Human Videos**|Jitendra Malik Team|[2606.19333](http://arxiv.org/abs/2606.19333)|**[link](https://do-as-i-do.com/)**|
-|**2026-06-17**|**CABLE: Cloud-Assisted Bandwidth-efficient LMM-based Encoding for V2X Systems**|Handong Yao Team|[2606.19258](http://arxiv.org/abs/2606.19258)|null|
-|**2026-06-18**|**Learning to Annotate Delayed and False AEB Events: A Practical System for Extreme Class Imbalance and Asymmetric Label Noise**|Xianpeng Lang Team|[2606.19186](http://arxiv.org/abs/2606.19186)|null|
-|**2026-06-17**|**HT-Bench: Benchmarking and Learning Dexterous Full-Hand Tactile Representations with Egocentric Vision**|Yuanxin Zhong Team|[2606.19161](http://arxiv.org/abs/2606.19161)|null|
 
