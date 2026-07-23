@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.22
+## Updated on 2026.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -64,23 +64,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation**|Yue Yao Team|[2607.19288](http://arxiv.org/abs/2607.19288)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image**|Yueming Jin Team|[2607.19261](http://arxiv.org/abs/2607.19261)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Cognitive Dual-Process Planning for Autonomous Driving with Structured Scene Knowledge and Verifiable Reasoning-Action Consistency**|Jinrui Nan Team|[2607.19194](http://arxiv.org/abs/2607.19194)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**One Model, Many Graphs: Learning over Attributed Graphs across Heterogeneous Modalities with Vision-Language Models**|Qiaoyu Tan Team|[2607.19128](http://arxiv.org/abs/2607.19128)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Context-structured Video Anomaly Detection with Large Vision-Language Models**|Jeonghoon Mo Team|[2607.19077](http://arxiv.org/abs/2607.19077)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Mitigating Modality and Language-Style Gaps for Zero-Shot Video Moment Retrieval**|Jae-Pil Heo Team|[2607.19027](http://arxiv.org/abs/2607.19027)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Benchmarking Deep Learning Approaches for AEC Engineering Drawing Layout Detection and Information Extraction**|Edlira Vakaj Team|[2607.18997](http://arxiv.org/abs/2607.18997)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**DobicVLM: Aligning Chest X-Ray Report Generation with Clinically-Grounded Programmatic Rewards via Group Relative Policy Optimization**|Abiodun Adereni Team|[2607.18988](http://arxiv.org/abs/2607.18988)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Dual Adversarial Fine-tuning for Enhancing Robustness of Large Vision Language Model**|Wen Gao Team|[2607.18958](http://arxiv.org/abs/2607.18958)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**OPD-IAD: From Language Judgment to Industrial Anomaly Detection via On-Policy Self-Distillation**|Guijin Wang Team|[2607.18850](http://arxiv.org/abs/2607.18850)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**HPD-Parsing: Hierarchical Parallel Document Parsing**| YY Team|[2607.18839](http://arxiv.org/abs/2607.18839)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**ZeroSplat: Generalized Referring Segmentation in 3D Gaussian Splatting**|Xiangtian Si Team|[2607.18801](http://arxiv.org/abs/2607.18801)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Attributes Should Come from Images, Not Class Names: Distribution-Conditioned Attribute Selection for Vision-Language Models**|Deva Ramanan Team|[2607.18695](http://arxiv.org/abs/2607.18695)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**MissingBench-Verified: Probing Vision-Language Models' Inability to Detect Missing Object Parts**|Shan Du Team|[2607.18673](http://arxiv.org/abs/2607.18673)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Stochastic Meta-Unlearning: Bridging Language Backbone and Multimodal Unlearning**|Tianlong Chen Team|[2607.18615](http://arxiv.org/abs/2607.18615)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-20**|**STeP: Signal Temporal Logic for Precise Specifications for Action Generation with Vision Language Models**|Pratap Tokekar Team|[2607.18580](http://arxiv.org/abs/2607.18580)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-20**|**Attention Without Grounding: Causal Evaluation of Visual Explanations in Medical VLMs**|Vahid Behzadan Team|[2607.18577](http://arxiv.org/abs/2607.18577)|null|
+|**2026-07-21**|**No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation**|Yue Yao Team|[2607.19288](http://arxiv.org/abs/2607.19288)|null|
+|**2026-07-21**|**PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image**|Yueming Jin Team|[2607.19261](http://arxiv.org/abs/2607.19261)|null|
+|**2026-07-21**|**Cognitive Dual-Process Planning for Autonomous Driving with Structured Scene Knowledge and Verifiable Reasoning-Action Consistency**|Jinrui Nan Team|[2607.19194](http://arxiv.org/abs/2607.19194)|null|
+|**2026-07-21**|**One Model, Many Graphs: Learning over Attributed Graphs across Heterogeneous Modalities with Vision-Language Models**|Qiaoyu Tan Team|[2607.19128](http://arxiv.org/abs/2607.19128)|null|
+|**2026-07-21**|**Context-structured Video Anomaly Detection with Large Vision-Language Models**|Jeonghoon Mo Team|[2607.19077](http://arxiv.org/abs/2607.19077)|null|
+|**2026-07-21**|**Mitigating Modality and Language-Style Gaps for Zero-Shot Video Moment Retrieval**|Jae-Pil Heo Team|[2607.19027](http://arxiv.org/abs/2607.19027)|null|
+|**2026-07-21**|**Benchmarking Deep Learning Approaches for AEC Engineering Drawing Layout Detection and Information Extraction**|Edlira Vakaj Team|[2607.18997](http://arxiv.org/abs/2607.18997)|null|
+|**2026-07-21**|**DobicVLM: Aligning Chest X-Ray Report Generation with Clinically-Grounded Programmatic Rewards via Group Relative Policy Optimization**|Abiodun Adereni Team|[2607.18988](http://arxiv.org/abs/2607.18988)|null|
+|**2026-07-21**|**Dual Adversarial Fine-tuning for Enhancing Robustness of Large Vision Language Model**|Wen Gao Team|[2607.18958](http://arxiv.org/abs/2607.18958)|null|
+|**2026-07-21**|**OPD-IAD: From Language Judgment to Industrial Anomaly Detection via On-Policy Self-Distillation**|Guijin Wang Team|[2607.18850](http://arxiv.org/abs/2607.18850)|null|
+|**2026-07-21**|**HPD-Parsing: Hierarchical Parallel Document Parsing**| YY Team|[2607.18839](http://arxiv.org/abs/2607.18839)|null|
+|**2026-07-21**|**ZeroSplat: Generalized Referring Segmentation in 3D Gaussian Splatting**|Xiangtian Si Team|[2607.18801](http://arxiv.org/abs/2607.18801)|null|
+|**2026-07-21**|**Attributes Should Come from Images, Not Class Names: Distribution-Conditioned Attribute Selection for Vision-Language Models**|Deva Ramanan Team|[2607.18695](http://arxiv.org/abs/2607.18695)|null|
+|**2026-07-21**|**MissingBench-Verified: Probing Vision-Language Models' Inability to Detect Missing Object Parts**|Shan Du Team|[2607.18673](http://arxiv.org/abs/2607.18673)|null|
+|**2026-07-21**|**Stochastic Meta-Unlearning: Bridging Language Backbone and Multimodal Unlearning**|Tianlong Chen Team|[2607.18615](http://arxiv.org/abs/2607.18615)|null|
+|**2026-07-20**|**STeP: Signal Temporal Logic for Precise Specifications for Action Generation with Vision Language Models**|Pratap Tokekar Team|[2607.18580](http://arxiv.org/abs/2607.18580)|null|
+|**2026-07-20**|**Attention Without Grounding: Causal Evaluation of Visual Explanations in Medical VLMs**|Vahid Behzadan Team|[2607.18577](http://arxiv.org/abs/2607.18577)|null|
 |**2026-07-20**|**The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric**|Richard Zhang Team|[2607.18237](http://arxiv.org/abs/2607.18237)|**[link](https://peterwang512.github.io/TPIPS)**|
 |**2026-07-20**|**Patch Policy: Efficient Embodied Control via Dense Visual Representations**|Lerrel Pinto Team|[2607.18236](http://arxiv.org/abs/2607.18236)|null|
 |**2026-07-20**|**Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs**|Zhiqiang Shen Team|[2607.18230](http://arxiv.org/abs/2607.18230)|**[link](https://github.com/VILA-Lab/PIXAR-DG)**|
@@ -174,9 +174,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents**|Peter Yichen Chen Team|[2607.19190](http://arxiv.org/abs/2607.19190)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Motion Primitive Discovery in a Humanoid Robot via Self-Organising Maps for Phase Recognition**|Igor Farkaš Team|[2607.18737](http://arxiv.org/abs/2607.18737)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-20**|**FARO: Feasibility-Aware Robot Motion Optimization**|Majid Khadiv Team|[2607.18362](http://arxiv.org/abs/2607.18362)|null|
+|**2026-07-21**|**Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents**|Peter Yichen Chen Team|[2607.19190](http://arxiv.org/abs/2607.19190)|null|
+|**2026-07-21**|**Motion Primitive Discovery in a Humanoid Robot via Self-Organising Maps for Phase Recognition**|Igor Farkaš Team|[2607.18737](http://arxiv.org/abs/2607.18737)|null|
+|**2026-07-20**|**FARO: Feasibility-Aware Robot Motion Optimization**|Majid Khadiv Team|[2607.18362](http://arxiv.org/abs/2607.18362)|null|
 |**2026-07-20**|**Optimization of sim-to-real transfer in the humanoid robot NICO**|Igor Farkaš Team|[2607.18210](http://arxiv.org/abs/2607.18210)|null|
 |**2026-07-20**|**Learning Adaptive Safety Margins for Visual Navigation**|Yi Fang Team|[2607.18200](http://arxiv.org/abs/2607.18200)|null|
 |**2026-07-20**|**Imitation of Arm Gestures by the Semi-Humanoid Robot NICO**|Igor Farkaš Team|[2607.18197](http://arxiv.org/abs/2607.18197)|null|
