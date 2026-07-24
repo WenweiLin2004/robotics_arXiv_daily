@@ -1,23 +1,23 @@
-## Updated on 2026.07.23
+## Updated on 2026.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**Unified Prediction and Planning via Conflict-Aware Disjoint Parameter Training**|Daehee Park Team|[2607.19971](http://arxiv.org/abs/2607.19971)|**[link](https://dpt2026.github.io/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**WASABI: Whole-graph Assignment-based Stabilizer for lAne topology By Inter-frame tracking**|Toru Saito Team|[2607.19781](http://arxiv.org/abs/2607.19781)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**EgoRecovery: Acquiring Failure Recovery Ability Through Human Recovery Demonstration**|Yu-Gang Jiang Team|[2607.19745](http://arxiv.org/abs/2607.19745)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**Perceived vertical and eye level as one orientation order parameter: a closed-form account of the Li-Matin rules for egocentric space**|A. Y. Shavit Team|[2607.19681](http://arxiv.org/abs/2607.19681)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-21**|**Agent-Centric Animal Pose Forecasting**|Kristin Branson Team|[2607.19548](http://arxiv.org/abs/2607.19548)|null|
+|**2026-07-22**|**Unified Prediction and Planning via Conflict-Aware Disjoint Parameter Training**|Daehee Park Team|[2607.19971](http://arxiv.org/abs/2607.19971)|**[link](https://dpt2026.github.io/)**|
+|**2026-07-22**|**WASABI: Whole-graph Assignment-based Stabilizer for lAne topology By Inter-frame tracking**|Toru Saito Team|[2607.19781](http://arxiv.org/abs/2607.19781)|null|
+|**2026-07-23**|**EgoRecovery: Acquiring Failure Recovery Ability Through Human Recovery Demonstration**|Yu-Gang Jiang Team|[2607.19745](http://arxiv.org/abs/2607.19745)|null|
+|**2026-07-22**|**Perceived vertical and eye level as one orientation order parameter: a closed-form account of the Li-Matin rules for egocentric space**|A. Y. Shavit Team|[2607.19681](http://arxiv.org/abs/2607.19681)|null|
+|**2026-07-21**|**Agent-Centric Animal Pose Forecasting**|Kristin Branson Team|[2607.19548](http://arxiv.org/abs/2607.19548)|null|
 |**2026-07-21**|**Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field**|Margaret M. Henderson Team|[2607.19316](http://arxiv.org/abs/2607.19316)|null|
 |**2026-07-21**|**Stochastic Multi-Objective Kinodynamic Planning Against Adversaries**|Dimitra Panagou Team|[2607.19284](http://arxiv.org/abs/2607.19284)|null|
 |**2026-07-21**|**SkyEV: RGB-Event UAV detection and tracking dataset and baseline**|Michele Magno Team|[2607.18747](http://arxiv.org/abs/2607.18747)|null|
 |**2026-07-21**|**End-to-end Conditional Diffusion for Realistic and Controllable Visual Traffic Scenario Generation**|Philip S Yu Team|[2607.18637](http://arxiv.org/abs/2607.18637)|null|
 |**2026-07-20**|**Learning Adaptive Safety Margins for Visual Navigation**|Yi Fang Team|[2607.18200](http://arxiv.org/abs/2607.18200)|null|
-|**2026-07-20**|**Anticipate Before Acting: Future-State-Conditioned Vision-Language Navigation**|Yingxue Zhang Team|[2607.18042](http://arxiv.org/abs/2607.18042)|null|
+|**2026-07-23**|**Anticipate Before Acting: Future-State-Conditioned Vision-Language Navigation**|Yingxue Zhang Team|[2607.18042](http://arxiv.org/abs/2607.18042)|null|
 |**2026-07-20**|**ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video**|Siyu Tang Team|[2607.17790](http://arxiv.org/abs/2607.17790)|null|
-|**2026-07-20**|**GeoWorldAD: Geometry World Action Model for Autonomous Driving**|Chen Lv Team|[2607.17521](http://arxiv.org/abs/2607.17521)|null|
+|**2026-07-23**|**GeoWorldAD: Geometry World Action Model for Autonomous Driving**|Chen Lv Team|[2607.17521](http://arxiv.org/abs/2607.17521)|null|
 |**2026-07-19**|**Understanding From Human Perspective: A Multi-agent System for Interactive Egocentric Medical Image Segmentation**|Yuting He Team|[2607.17341](http://arxiv.org/abs/2607.17341)|null|
 |**2026-07-09**|**Moving Like a Human: Ego-Motion-Normalized Temporal Signatures for Real-Time Aerial Person Tracking on Milliwatt-Class Hardware**|Gholamreza Anbarjafari Team|[2607.16282](http://arxiv.org/abs/2607.16282)|null|
 |**2026-07-17**|**Let the Body Follow: Coupled Egocentric Control for Whole-Body Robot Teleoperation**|Chien-Ming Huang Team|[2607.16095](http://arxiv.org/abs/2607.16095)|null|
@@ -78,7 +78,7 @@
 |**2026-07-04**|**SAGE: Synchronized Action-Gaze Recognition and Anticipation for Human Behavior Understanding**|Nakul Agarwal Team|[2607.04017](http://arxiv.org/abs/2607.04017)|null|
 |**2026-07-04**|**Worldscape-MoE: A Unified Mixture-of-Experts World Model for Scalable Heterogeneous Action Control**|Yong Li Team|[2607.03964](http://arxiv.org/abs/2607.03964)|null|
 |**2026-07-04**|**EgoInertia-MI: A Multimodal Egocentric Vision and IMU Benchmark for Motor Impairment Assessment**|DK Arvind Team|[2607.03934](http://arxiv.org/abs/2607.03934)|null|
-|**2026-07-07**|**CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation**|Huan Wang Team|[2607.03819](http://arxiv.org/abs/2607.03819)|null|
+|**2026-07-23**|**CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-Centric 3D Scene Generation**|Huan Wang Team|[2607.03819](http://arxiv.org/abs/2607.03819)|null|
 |**2026-07-03**|**Responsibility Distribution Estimation in Ego-View Accident Videos with Multimodal Large Language Models**|Andrew Shin Team|[2607.03591](http://arxiv.org/abs/2607.03591)|null|
 |**2026-07-03**|**OpenGlass: A Sensing-Computing Split Architecture for Local MLLM-Driven Real-Time Visual Assistance**|Yuan Yao Team|[2607.03213](http://arxiv.org/abs/2607.03213)|null|
 |**2026-07-03**|**R3D: Quantitative 3D Spatial Reasoning for Egocentric Wearables**|Seungwhan Moon Team|[2607.02921](http://arxiv.org/abs/2607.02921)|null|
