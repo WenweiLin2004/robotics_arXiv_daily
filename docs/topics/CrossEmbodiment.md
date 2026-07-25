@@ -1,17 +1,17 @@
-## Updated on 2026.07.24
+## Updated on 2026.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-23**|**Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering**|Furong Huang Team|[2607.21571](http://arxiv.org/abs/2607.21571)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-23**|**GS-Agent: Creating 4D Physical Worlds With Generative Simulation**|Chuang Gan Team|[2607.21522](http://arxiv.org/abs/2607.21522)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-23**|**VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method**|Wenjun Wu Team|[2607.21400](http://arxiv.org/abs/2607.21400)|**[link](https://admire-ljb.github.io/VoLN-UAV/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-23**|**Embodied inquiry with AI as facilitator: an exploratory case study**|Paola Damiani Team|[2607.21349](http://arxiv.org/abs/2607.21349)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**Robostral Navigate**|Thomas Chabal Team|[2607.20785](http://arxiv.org/abs/2607.20785)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**Language Models Embody and Amplify Human Cognitive Distortions: What Is to Be Done?**|Mahzarin R. Banaji Team|[2607.20695](http://arxiv.org/abs/2607.20695)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-22**|**Towards Capability-Aware Traversability Navigation for Unstructured Environments**|Marcelo Becker Team|[2607.20679](http://arxiv.org/abs/2607.20679)|**[link](https://capability-aware-traversability.github.io/)**|
+|**2026-07-23**|**Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering**|Furong Huang Team|[2607.21571](http://arxiv.org/abs/2607.21571)|null|
+|**2026-07-23**|**GS-Agent: Creating 4D Physical Worlds With Generative Simulation**|Chuang Gan Team|[2607.21522](http://arxiv.org/abs/2607.21522)|null|
+|**2026-07-23**|**VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method**|Wenjun Wu Team|[2607.21400](http://arxiv.org/abs/2607.21400)|**[link](https://admire-ljb.github.io/VoLN-UAV/)**|
+|**2026-07-23**|**Embodied inquiry with AI as facilitator: an exploratory case study**|Paola Damiani Team|[2607.21349](http://arxiv.org/abs/2607.21349)|null|
+|**2026-07-22**|**Robostral Navigate**|Thomas Chabal Team|[2607.20785](http://arxiv.org/abs/2607.20785)|null|
+|**2026-07-22**|**Language Models Embody and Amplify Human Cognitive Distortions: What Is to Be Done?**|Mahzarin R. Banaji Team|[2607.20695](http://arxiv.org/abs/2607.20695)|null|
+|**2026-07-22**|**Towards Capability-Aware Traversability Navigation for Unstructured Environments**|Marcelo Becker Team|[2607.20679](http://arxiv.org/abs/2607.20679)|**[link](https://capability-aware-traversability.github.io/)**|
 |**2026-07-22**|**surprisal is Not a Theory**|Cassandra L. Jacobs Team|[2607.20208](http://arxiv.org/abs/2607.20208)|null|
 |**2026-07-22**|**SeededGrasp: Language-Guided Grasping in Complex Scenes with Multiple Embodiments**|Igor Gilitschenski Team|[2607.20207](http://arxiv.org/abs/2607.20207)|null|
 |**2026-07-22**|**ReferTrack: Referring Then Tracking for Embodied Visual Tracking**|Hong Zhang Team|[2607.20061](http://arxiv.org/abs/2607.20061)|null|
