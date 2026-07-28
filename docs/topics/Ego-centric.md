@@ -1,10 +1,19 @@
-## Updated on 2026.07.26
+## Updated on 2026.07.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-27**|**Data Pyramid for Embodied Manipulation**|Shanghang Zhang Team|[2607.24744](http://arxiv.org/abs/2607.24744)|**[link](https://jasper-aaa.github.io/embodied-data-pyramid/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-27**|**EgoPlay: Event-Triggered Video Editing for Egocentric Streams**|Rameen Abdal Team|[2607.24560](http://arxiv.org/abs/2607.24560)|**[link](https://egoplay2026.github.io/egoplay)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-27**|**FloAff-Kitchen: Bridging Navigation and Manipulation via Canonical and Progressive Floor Affordance Learning**|Jianxin Wang Team|[2607.24207](http://arxiv.org/abs/2607.24207)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-26**|**Topological Data Analysis and Graph-Theoretic Approaches for Tennis Match Prediction**|Angelika Elderbrook Team|[2607.23509](http://arxiv.org/abs/2607.23509)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-25**|**Towards Dual-Brain Minimal Sufficient Representation for Vision-Language Navigation**|Pan Li Team|[2607.23181](http://arxiv.org/abs/2607.23181)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-25**|**GLST: Defending Confidence-Driven V2X Collaborative Perception Against Stealthy Multi-Attacker Feature Injection**|Xiaohong Jiang Team|[2607.23059](http://arxiv.org/abs/2607.23059)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-24**|**Safe Learning Predictive Control for Ego-World Robotic Systems**|Giuseppe Notarstefano Team|[2607.22225](http://arxiv.org/abs/2607.22225)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-24**|**CommandLM: Data driven behavior level descriptor for ego vehicles**|Fabian B. Flohr Team|[2607.22078](http://arxiv.org/abs/2607.22078)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-24**|**Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents**|Yuki M Asano Team|[2607.22014](http://arxiv.org/abs/2607.22014)|null|
 |**2026-07-22**|**Unified Prediction and Planning via Conflict-Aware Disjoint Parameter Training**|Daehee Park Team|[2607.19971](http://arxiv.org/abs/2607.19971)|**[link](https://dpt2026.github.io/)**|
 |**2026-07-22**|**WASABI: Whole-graph Assignment-based Stabilizer for lAne topology By Inter-frame tracking**|Toru Saito Team|[2607.19781](http://arxiv.org/abs/2607.19781)|null|
 |**2026-07-23**|**EgoRecovery: Acquiring Failure Recovery Ability Through Human Recovery Demonstration**|Yu-Gang Jiang Team|[2607.19745](http://arxiv.org/abs/2607.19745)|null|
@@ -146,13 +155,4 @@
 |**2026-06-22**|**UECP: Uncertainty-Enhanced Collaborative Perception**|Yongcai Wang Team|[2606.23046](http://arxiv.org/abs/2606.23046)|null|
 |**2026-06-21**|**Prompting Diffusion Models for Zero-Shot Instance Segmentation**|Stefano Gasperini Team|[2606.22660](http://arxiv.org/abs/2606.22660)|null|
 |**2026-06-23**|**Wh0: Generative World Models as Scalable Sources of Egocentric Human Hand Manipulation Data**|Yang Gao Team|[2606.22136](http://arxiv.org/abs/2606.22136)|null|
-|**2026-06-19**|**A DVDrive Approach for doScenes Instructed Driving Challenge**|Wei Li Team|[2606.21623](http://arxiv.org/abs/2606.21623)|null|
-|**2026-06-19**|**FleetAgent: Teleoperation Assistant for Autonomous Fleets via Vectorized V2N Messages**|Ziran Wang Team|[2606.21222](http://arxiv.org/abs/2606.21222)|null|
-|**2026-06-19**|**BadDreamer: Transferable Backdoor Attacks against Video World Models for Autonomous Driving**|Yikun Zeng Team|[2606.21172](http://arxiv.org/abs/2606.21172)|null|
-|**2026-06-18**|**Mind the Privileged-to-Camera Gap: Actor-Centric Sidecar Supervision for Camera-First Open-Loop Waypoint Prediction**|Jaerock Kwon Team|[2606.20772](http://arxiv.org/abs/2606.20772)|null|
-|**2026-06-18**|**UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning**|Srijan Das Team|[2606.20559](http://arxiv.org/abs/2606.20559)|null|
-|**2026-06-18**|**HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining**|Daquan Zhou Team|[2606.20521](http://arxiv.org/abs/2606.20521)|**[link](https://github.com/DAGroup-PKU/HumanNet/)**|
-|**2026-06-18**|**Interpretable Meta-Learning for Multi-Objective Chemical Search**|Nicholas E. Lubbers Team|[2606.20497](http://arxiv.org/abs/2606.20497)|null|
-|**2026-06-19**|**Pose6DAug: Physically Plausible Multi-view Object Swapping for Robot Data Augmentation**|Jinwoo Shin Team|[2606.20118](http://arxiv.org/abs/2606.20118)|null|
-|**2026-06-18**|**See-and-Reach: Precise Vision-Language Navigation for UAVs within the Field of View**|Jiande Sun Team|[2606.20045](http://arxiv.org/abs/2606.20045)|null|
 
