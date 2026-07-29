@@ -1,19 +1,23 @@
-## Updated on 2026.07.28
+## Updated on 2026.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-27**|**Data Pyramid for Embodied Manipulation**|Shanghang Zhang Team|[2607.24744](http://arxiv.org/abs/2607.24744)|**[link](https://jasper-aaa.github.io/embodied-data-pyramid/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-27**|**EgoPlay: Event-Triggered Video Editing for Egocentric Streams**|Rameen Abdal Team|[2607.24560](http://arxiv.org/abs/2607.24560)|**[link](https://egoplay2026.github.io/egoplay)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-27**|**FloAff-Kitchen: Bridging Navigation and Manipulation via Canonical and Progressive Floor Affordance Learning**|Jianxin Wang Team|[2607.24207](http://arxiv.org/abs/2607.24207)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-26**|**Topological Data Analysis and Graph-Theoretic Approaches for Tennis Match Prediction**|Angelika Elderbrook Team|[2607.23509](http://arxiv.org/abs/2607.23509)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-25**|**Towards Dual-Brain Minimal Sufficient Representation for Vision-Language Navigation**|Pan Li Team|[2607.23181](http://arxiv.org/abs/2607.23181)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-25**|**GLST: Defending Confidence-Driven V2X Collaborative Perception Against Stealthy Multi-Attacker Feature Injection**|Xiaohong Jiang Team|[2607.23059](http://arxiv.org/abs/2607.23059)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-24**|**Safe Learning Predictive Control for Ego-World Robotic Systems**|Giuseppe Notarstefano Team|[2607.22225](http://arxiv.org/abs/2607.22225)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-24**|**CommandLM: Data driven behavior level descriptor for ego vehicles**|Fabian B. Flohr Team|[2607.22078](http://arxiv.org/abs/2607.22078)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-24**|**Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents**|Yuki M Asano Team|[2607.22014](http://arxiv.org/abs/2607.22014)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-28**|**Pictura: Perspective-View Self-Play at Scale for Driving**|Matthieu Cord Team|[2607.26005](http://arxiv.org/abs/2607.26005)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-28**|**Shared Voxel-Map-Based Cooperative Indoor UAV Guidance with a Multi-Agent Soft Actor-Critic Controller**|Nabil Aouf Team|[2607.25728](http://arxiv.org/abs/2607.25728)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-28**|**Leveraging Semantic Maps for City-Scale Cross-View Localization**|Nicholas Roy Team|[2607.25215](http://arxiv.org/abs/2607.25215)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-26**|**Egocentric Station Holding of Robotic Fish in Unknown Turbulent Background Flow**|Yang Wang Team|[2607.24860](http://arxiv.org/abs/2607.24860)|null|
+|**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Shanghang Zhang Team|[2607.24744](http://arxiv.org/abs/2607.24744)|**[link](https://jasper-aaa.github.io/embodied-data-pyramid/)**|
+|**2026-07-27**|**EgoPlay: Event-Triggered Video Editing for Egocentric Streams**|Rameen Abdal Team|[2607.24560](http://arxiv.org/abs/2607.24560)|**[link](https://egoplay2026.github.io/egoplay)**|
+|**2026-07-27**|**FloAff-Kitchen: Bridging Navigation and Manipulation via Canonical and Progressive Floor Affordance Learning**|Jianxin Wang Team|[2607.24207](http://arxiv.org/abs/2607.24207)|null|
+|**2026-07-26**|**Topological Data Analysis and Graph-Theoretic Approaches for Tennis Match Prediction**|Angelika Elderbrook Team|[2607.23509](http://arxiv.org/abs/2607.23509)|null|
+|**2026-07-25**|**Towards Dual-Brain Minimal Sufficient Representation for Vision-Language Navigation**|Pan Li Team|[2607.23181](http://arxiv.org/abs/2607.23181)|null|
+|**2026-07-25**|**GLST: Defending Confidence-Driven V2X Collaborative Perception Against Stealthy Multi-Attacker Feature Injection**|Xiaohong Jiang Team|[2607.23059](http://arxiv.org/abs/2607.23059)|null|
+|**2026-07-24**|**Safe Learning Predictive Control for Ego-World Robotic Systems**|Giuseppe Notarstefano Team|[2607.22225](http://arxiv.org/abs/2607.22225)|null|
+|**2026-07-24**|**CommandLM: Data driven behavior level descriptor for ego vehicles**|Fabian B. Flohr Team|[2607.22078](http://arxiv.org/abs/2607.22078)|null|
+|**2026-07-24**|**Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents**|Yuki M Asano Team|[2607.22014](http://arxiv.org/abs/2607.22014)|null|
 |**2026-07-22**|**Unified Prediction and Planning via Conflict-Aware Disjoint Parameter Training**|Daehee Park Team|[2607.19971](http://arxiv.org/abs/2607.19971)|**[link](https://dpt2026.github.io/)**|
 |**2026-07-22**|**WASABI: Whole-graph Assignment-based Stabilizer for lAne topology By Inter-frame tracking**|Toru Saito Team|[2607.19781](http://arxiv.org/abs/2607.19781)|null|
 |**2026-07-23**|**EgoRecovery: Acquiring Failure Recovery Ability Through Human Recovery Demonstration**|Yu-Gang Jiang Team|[2607.19745](http://arxiv.org/abs/2607.19745)|null|
@@ -116,7 +120,7 @@
 |**2026-06-30**|**EgoSafetyBench: A Diagnostic Egocentric Video Benchmark for Evaluating Embodied VLMs as Runtime Safety Guards**|Dasol Choi Team|[2607.00218](http://arxiv.org/abs/2607.00218)|null|
 |**2026-06-30**|**Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments**|Kai Chen Team|[2606.32009](http://arxiv.org/abs/2606.32009)|null|
 |**2026-06-30**|**Bridging Local Observation and Global Simulation in Closed-Loop Traffic Modeling**|Xintao Yan Team|[2606.31844](http://arxiv.org/abs/2606.31844)|null|
-|**2026-06-30**|**ForgeDrive: Bidirectional Cross-Conditioning for Unified Visual-Action Generation in Autonomous Driving**|Yang Cai Team|[2606.31226](http://arxiv.org/abs/2606.31226)|null|
+|**2026-07-28**|**ForgeDrive: Bidirectional Cross-Conditioning for Unified Visual-Action Generation in Autonomous Driving**|Yang Cai Team|[2606.31226](http://arxiv.org/abs/2606.31226)|null|
 |**2026-06-30**|**Reasoning-aware Speculative Decoding for Efficient Vision-Language-Action Models in Autonomous Driving**|Flora Salim Team|[2606.31160](http://arxiv.org/abs/2606.31160)|null|
 |**2026-06-30**|**Scenario Generation for Testing of Autonomous Driving Systems Using Real-World Failure Records**|Chuchu Fan Team|[2606.31131](http://arxiv.org/abs/2606.31131)|null|
 |**2026-06-30**|**SkillSpotter: Pose-Aware Multi-View Skilled Action Detection and Grading in Ego-Exo Videos**|Christian Holz Team|[2606.31127](http://arxiv.org/abs/2606.31127)|null|
@@ -151,8 +155,4 @@
 |**2026-06-23**|**FORESEE: A Cooperative Lane Change Model for Connected and Automated Driving**|Onur Altintas Team|[2606.24201](http://arxiv.org/abs/2606.24201)|null|
 |**2026-06-22**|**Emergent Relational Order in LLM Agent Societies: From Collective Affect to Authority Stratification**|Yueguo Chen Team|[2606.23764](http://arxiv.org/abs/2606.23764)|null|
 |**2026-06-22**|**Dense Reward for Multi-View 3D Reasoning with Global Maps and Local Views**|Hyunjung Shim Team|[2606.23557](http://arxiv.org/abs/2606.23557)|null|
-|**2026-06-22**|**DexTeleop-0: Force-Aware Bimanual Dexterous Teleoperation with Ego-Centric Perception towards Shared Autonomy**|Ziwei Wang Team|[2606.23431](http://arxiv.org/abs/2606.23431)|null|
-|**2026-06-22**|**UECP: Uncertainty-Enhanced Collaborative Perception**|Yongcai Wang Team|[2606.23046](http://arxiv.org/abs/2606.23046)|null|
-|**2026-06-21**|**Prompting Diffusion Models for Zero-Shot Instance Segmentation**|Stefano Gasperini Team|[2606.22660](http://arxiv.org/abs/2606.22660)|null|
-|**2026-06-23**|**Wh0: Generative World Models as Scalable Sources of Egocentric Human Hand Manipulation Data**|Yang Gao Team|[2606.22136](http://arxiv.org/abs/2606.22136)|null|
 
