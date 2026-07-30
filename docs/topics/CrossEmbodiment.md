@@ -1,15 +1,33 @@
-## Updated on 2026.07.29
+## Updated on 2026.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-28**|**Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design**|Shuran Song Team|[2607.25798](http://arxiv.org/abs/2607.25798)|**[link](https://transformer-transformer.github.io)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-28**|**Beyond Epistemia: Epistemic Schizologia and Large Language Models as Techno-Semiotic Machines**|Gianluca Colombo Team|[2607.25620](http://arxiv.org/abs/2607.25620)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-28**|**Detecting quantum phase transitions via shallow variational quantum circuits**|Min-Fong Yang Team|[2607.25345](http://arxiv.org/abs/2607.25345)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-27**|**IMPRINT: Image-Conditioned Query Enrichment for Long-Tail Object Goal Navigation**|Tommaso Campari Team|[2607.25106](http://arxiv.org/abs/2607.25106)|**[link](https://github.com/JelinR/IMPRINT)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-17**|**More Electrodes, Faster Minds? Rethinking Bandwidth in Brain-Computer Interfaces**|Boxuan Jiang Team|[2607.24820](http://arxiv.org/abs/2607.24820)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**HumanCLAW: Can Vision-Language Models Act Through a Body?**|Chuan Guo Team|[2607.27180](http://arxiv.org/abs/2607.27180)|**[link](https://human-claw.github.io/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**Explainable and Resource-Efficient Spatial Reasoning in Multimodal LLMs for Decision-Critical Applications**|Subarna Tripathi Team|[2607.27145](http://arxiv.org/abs/2607.27145)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**BioVLN: A Simulation Platform for Visual Language Navigation in Biomedical Laboratories**|Dongzhan Zhou Team|[2607.26914](http://arxiv.org/abs/2607.26914)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**From Passive Video to Editable Experience: Physically Grounded Experience Synthesis for Embodied Intelligence**|Jia Luo Team|[2607.26903](http://arxiv.org/abs/2607.26903)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**Think Short, Defer Smart, Act, and Repeat: Calibrated Reasoning and Uncertainty-Aware Deferral for Edge LLM Agents**|Osvaldo Simeone Team|[2607.26865](http://arxiv.org/abs/2607.26865)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**Practice Makes Policies: Bootstrapping and Consolidating Robotic Capabilities from Zero Human Demonstrations**|Wenzhao Lian Team|[2607.26809](http://arxiv.org/abs/2607.26809)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**Affective Tools for Thought: Towards Shared Attention and Affective Reorienting in AI-Supported Thinking**|Nadia Bianchi-Berthouze Team|[2607.26731](http://arxiv.org/abs/2607.26731)|**[link](https://ai-tools-for-thought.github.io/workshop/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**Galvanic Vestibular Stimulation in Latent Space**|Yoichi Ochiai Team|[2607.26659](http://arxiv.org/abs/2607.26659)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**Enfold: Folding World-Generator Computation into Predictive Representations for Efficient Embodied Control**|Yichao Yan Team|[2607.26657](http://arxiv.org/abs/2607.26657)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**Genie Sim PanoWorld: An Infinite Indoor 3D World Generation Pipeline via Panoramic Scene Modeling and Simulation**|Maoqing Yao Team|[2607.26646](http://arxiv.org/abs/2607.26646)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability**|Jiawei Han Team|[2607.26637](http://arxiv.org/abs/2607.26637)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**ContactFlow: A video action conditioning that transfers across embodiments**|Hermann Blum Team|[2607.26579](http://arxiv.org/abs/2607.26579)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**Learning Dynamic User Personas from Implicit Interaction Streams via Iterative Refinement**|Haifeng Wu Team|[2607.26473](http://arxiv.org/abs/2607.26473)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**CG-World: A Large-Scale World-State Dataset and Protocol for World Models**|Yong Guo Team|[2607.26452](http://arxiv.org/abs/2607.26452)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**From Micro-Cognition to Self-Construction: A Four-Layer Integrative Review of Psychological Theories in HCI**|Xinyu Long Team|[2607.26402](http://arxiv.org/abs/2607.26402)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-28**|**Hakka Kitchen: Engagement with Culinary Cultural Heritage Through Immersive Game Play**|Ray LC Team|[2607.26183](http://arxiv.org/abs/2607.26183)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-28**|**Embodied Agents Take Control: Minimal-Interface Zero-Shot Agents Rival Industrial-Scale Policies in Vision-and-Language Navigation**|Qi Wu Team|[2607.26148](http://arxiv.org/abs/2607.26148)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-28**|**Towards Trustworthy Embodied Intelligence: A Systems Framework and Graded Trustworthiness Levels**|Wenbo Ding Team|[2607.26121](http://arxiv.org/abs/2607.26121)|**[link](https://xsparkai.com/sparklab/towards-trustworthy-eai)**|
+|**2026-07-28**|**Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design**|Shuran Song Team|[2607.25798](http://arxiv.org/abs/2607.25798)|**[link](https://transformer-transformer.github.io)**|
+|**2026-07-28**|**Beyond Epistemia: Epistemic Schizologia and Large Language Models as Techno-Semiotic Machines**|Gianluca Colombo Team|[2607.25620](http://arxiv.org/abs/2607.25620)|null|
+|**2026-07-28**|**Detecting quantum phase transitions via shallow variational quantum circuits**|Min-Fong Yang Team|[2607.25345](http://arxiv.org/abs/2607.25345)|null|
+|**2026-07-27**|**IMPRINT: Image-Conditioned Query Enrichment for Long-Tail Object Goal Navigation**|Tommaso Campari Team|[2607.25106](http://arxiv.org/abs/2607.25106)|**[link](https://github.com/JelinR/IMPRINT)**|
+|**2026-07-17**|**More Electrodes, Faster Minds? Rethinking Bandwidth in Brain-Computer Interfaces**|Boxuan Jiang Team|[2607.24820](http://arxiv.org/abs/2607.24820)|null|
 |**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Shanghang Zhang Team|[2607.24744](http://arxiv.org/abs/2607.24744)|**[link](https://jasper-aaa.github.io/embodied-data-pyramid/)**|
 |**2026-07-27**|**From Prompt to Embodied Simulation: Using Generative AI to Create AR Physics Learning Tools**|Yossi Ben-Zion Team|[2607.24709](http://arxiv.org/abs/2607.24709)|null|
 |**2026-07-27**|**Entropy dynamics in gravitational collapse: From Minkowski breaking to de Sitter thermodynamics**|Manuel E. Rodrigues Team|[2607.24349](http://arxiv.org/abs/2607.24349)|null|
@@ -19,7 +37,7 @@
 |**2026-07-27**|**LeapBot-WA: World-Anchor Action Models via Predictive Latent Alignments**|Jun Ma Team|[2607.23969](http://arxiv.org/abs/2607.23969)|null|
 |**2026-07-27**|**Embodied GPT-5.1: Evidence of a World Model?**|Thiago C. Martins Team|[2607.23899](http://arxiv.org/abs/2607.23899)|null|
 |**2026-07-26**|**$N_0$ -TWAM: Scaling Tactile-Native World-Action Model for Contact-Rich Manipulation**| Fudan TEAI Team Team|[2607.23783](http://arxiv.org/abs/2607.23783)|null|
-|**2026-07-26**|**LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratories**|Wanli Ouyang Team|[2607.23704](http://arxiv.org/abs/2607.23704)|**[link](https://github.com/Su-ISE-2001/SciRobo)**|
+|**2026-07-29**|**LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratory**|Wanli Ouyang Team|[2607.23704](http://arxiv.org/abs/2607.23704)|**[link](https://github.com/Su-ISE-2001/SciRobo)**|
 |**2026-07-26**|**PRISM: Polynomial Representations for Interaction-Structured Motor Control**|Stella X. Yu Team|[2607.23473](http://arxiv.org/abs/2607.23473)|null|
 |**2026-07-25**|**WCM: World-Cognition Model for Generalizable Human-Robot Interaction**|KC Zhou Team|[2607.22999](http://arxiv.org/abs/2607.22999)|null|
 |**2026-07-25**|**Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline**|Dongdong Weng Team|[2607.22997](http://arxiv.org/abs/2607.22997)|null|
@@ -47,7 +65,7 @@
 |**2026-07-22**|**ReferTrack: Referring Then Tracking for Embodied Visual Tracking**|Hong Zhang Team|[2607.20061](http://arxiv.org/abs/2607.20061)|null|
 |**2026-07-27**|**Robots Acquire Manipulation Skills in Seconds from a Single Human Video**|Yufeng Yue Team|[2607.20033](http://arxiv.org/abs/2607.20033)|null|
 |**2026-07-22**|**Odin: Primitive-Level Synchronization for Distributed Point-Based Neural Rendering**|Hengjie Li Team|[2607.19893](http://arxiv.org/abs/2607.19893)|null|
-|**2026-07-22**|**EA-Nav: Learning Safe Visual Navigation Policies with Embodiment Awareness**|Jituo Li Team|[2607.19880](http://arxiv.org/abs/2607.19880)|null|
+|**2026-07-29**|**EA-Nav: Learning Safe Visual Navigation Policies with Embodiment Awareness**|Jituo Li Team|[2607.19880](http://arxiv.org/abs/2607.19880)|null|
 |**2026-07-22**|**KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding**|Xuelong Li Team|[2607.19876](http://arxiv.org/abs/2607.19876)|null|
 |**2026-07-22**|**Clinical Pathways as Safety Specifications for Physical AI in Hospital Wards**|Filippo Lanubile Team|[2607.19827](http://arxiv.org/abs/2607.19827)|null|
 |**2026-07-23**|**EgoRecovery: Acquiring Failure Recovery Ability Through Human Recovery Demonstration**|Yu-Gang Jiang Team|[2607.19745](http://arxiv.org/abs/2607.19745)|null|
@@ -137,22 +155,4 @@
 |**2026-07-12**|**Distributed Agent System: Fault-Tolerant Collaboration Among Embodied Agents**|Hanqi Li Team|[2607.10811](http://arxiv.org/abs/2607.10811)|null|
 |**2026-07-14**|**Traj-VLN: Learning Pixel-Space Interaction via Autoregressive Trajectory Generation**|Hong Zhang Team|[2607.10744](http://arxiv.org/abs/2607.10744)|null|
 |**2026-07-12**|**SensorPerch: Sense Wherever and Whenever it Matters**|Tapomayukh Bhattacharjee Team|[2607.10682](http://arxiv.org/abs/2607.10682)|null|
-|**2026-07-12**|**Artificial Foveated Perception for Mitigating Shortcut Learning in Robotic Foundation Models**|Daniel Rakita Team|[2607.10655](http://arxiv.org/abs/2607.10655)|null|
-|**2026-07-12**|**Ichnos+: Estimating the Carbon Footprint of Scientific Workflows Using Fitted Power Models**|Lauritz Thamsen Team|[2607.10586](http://arxiv.org/abs/2607.10586)|null|
-|**2026-07-12**|**AI YOU Town: Make Friends and Money with Your Digital Twin**|Yuxia Wang Team|[2607.10539](http://arxiv.org/abs/2607.10539)|null|
-|**2026-07-17**|**ABot-N1: Toward a General Visual Language Navigation Foundation Model**|Mu Xu Team|[2607.10383](http://arxiv.org/abs/2607.10383)|null|
-|**2026-07-17**|**ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory**|Mu Xu Team|[2607.10350](http://arxiv.org/abs/2607.10350)|**[link](https://github.com/amap-cvlab/ABot-AgentOS)**|
-|**2026-07-11**|**Devil in the Lens: Analyzing and Defending Physical Prompt Injection Against Vision-Language Models on Wearable Devices**|Yan Long Team|[2607.10269](http://arxiv.org/abs/2607.10269)|null|
-|**2026-07-11**|**ActiveFly-Bench: Aligning Embodied Question Answering with Vision-Language-Action for Aerial Embodied Perception**|Xinlei Chen Team|[2607.10180](http://arxiv.org/abs/2607.10180)|null|
-|**2026-07-11**|**On the Efficiency of LoRA Fine-Tuning for Vision-Language-Action Models in Industrial Robotic Manipulation**|Cristian Axenie Team|[2607.10172](http://arxiv.org/abs/2607.10172)|null|
-|**2026-07-10**|**TS-Mask VLA: 2D Temporal-Spatial Masking for Vision-Language-Action Model with Effective Bridging**|Yong Liu Team|[2607.09818](http://arxiv.org/abs/2607.09818)|null|
-|**2026-07-09**|**A Comprehensive Survey and Systematic Real-World Evaluation of Embodied Vision-and-Language Navigation**|Qijun Chen Team|[2607.09792](http://arxiv.org/abs/2607.09792)|null|
-|**2026-07-10**|**Mosaic: Runtime-Efficient Multi-Agent Embodied Planning**|Hui Guan Team|[2607.09603](http://arxiv.org/abs/2607.09603)|null|
-|**2026-07-10**|**Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference**|Tengjiao He Team|[2607.09520](http://arxiv.org/abs/2607.09520)|null|
-|**2026-07-10**|**DemoBridge: A Simulation-in-the-Loop Toolkit for Single-View Human Demonstration Retargeting**|Rahaf Aljundi Team|[2607.09519](http://arxiv.org/abs/2607.09519)|null|
-|**2026-07-10**|**PhysV2A: Reachability-Gated and Semantic-Mask-Constrained Feasibility Completion for Video-to-Robot Manipulation**|Chenguang Yang Team|[2607.09365](http://arxiv.org/abs/2607.09365)|null|
-|**2026-07-10**|**Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks**|Changchuan Yin Team|[2607.09330](http://arxiv.org/abs/2607.09330)|null|
-|**2026-07-10**|**Causally Debiased Latent Action Model for Embodied Action Conditioned World Models**|Biwei Huang Team|[2607.09185](http://arxiv.org/abs/2607.09185)|null|
-|**2026-07-09**|**Impedance-Guided Programmable Transmission of Localized Deformation in Modular Soft Metamaterials**|Xiaojia Shelly Zhang Team|[2607.08966](http://arxiv.org/abs/2607.08966)|null|
-|**2026-07-13**|**AgenticFocus: Object-Preserving Mixed Reality Synthesis from Human FPV Video for Dexterous Humanoid Learning**|Dzmitry Tsetserukou Team|[2607.08857](http://arxiv.org/abs/2607.08857)|null|
 
