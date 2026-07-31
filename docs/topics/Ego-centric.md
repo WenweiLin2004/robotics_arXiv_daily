@@ -1,17 +1,21 @@
-## Updated on 2026.07.30
+## Updated on 2026.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**HumanCLAW: Can Vision-Language Models Act Through a Body?**|Chuan Guo Team|[2607.27180](http://arxiv.org/abs/2607.27180)|**[link](https://human-claw.github.io/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**SymmGrid: Super-Scaling On-Robot Learning with Parallelized Symmetries and Egocentric-Exocentric Visual Perception**|Juan Rojas Team|[2607.26985](http://arxiv.org/abs/2607.26985)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**Dense Soft Weighting for Radar Ego-Velocity Estimation**|Julie A. McCann Team|[2607.26980](http://arxiv.org/abs/2607.26980)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**From Passive Video to Editable Experience: Physically Grounded Experience Synthesis for Embodied Intelligence**|Jia Luo Team|[2607.26903](http://arxiv.org/abs/2607.26903)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**From Uncertainty to Determinism: Coarse-to-Fine Visual Floorplan Localization without Ray Matching**|Jianxin Wang Team|[2607.26817](http://arxiv.org/abs/2607.26817)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**EgoSafe: A First-Person Mobile-Captured Benchmark for Visual Safety Understanding**|Ziqian Zeng Team|[2607.26518](http://arxiv.org/abs/2607.26518)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-28**|**HeteroPROPMT: A Real-time and Privacy-Preserving Heterogeneous Collaborative Perception Framework**|Hayder Radha Team|[2607.26283](http://arxiv.org/abs/2607.26283)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Ziwei Liu Team|[2607.28625](http://arxiv.org/abs/2607.28625)|**[link](https://ace-data-engine.github.io/ACE-Data-0/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE**|Linfeng Zhang Team|[2607.28243](http://arxiv.org/abs/2607.28243)|**[link](https://egogenesis.github.io/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**RaDiVe: Robust 4D Radar Odometry with Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty**|Ayoung Kim Team|[2607.28045](http://arxiv.org/abs/2607.28045)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**EgoGVAE: Ego-body Mesh Reconstruction via Guided Variational Autoencoder**|Wonjun Kim Team|[2607.27755](http://arxiv.org/abs/2607.27755)|null|
+|**2026-07-29**|**HumanCLAW: Can Vision-Language Models Act Through a Body?**|Chuan Guo Team|[2607.27180](http://arxiv.org/abs/2607.27180)|**[link](https://human-claw.github.io/)**|
+|**2026-07-29**|**SymmGrid: Super-Scaling On-Robot Learning with Parallelized Symmetries and Egocentric-Exocentric Visual Perception**|Juan Rojas Team|[2607.26985](http://arxiv.org/abs/2607.26985)|null|
+|**2026-07-29**|**Dense Soft Weighting for Radar Ego-Velocity Estimation**|Julie A. McCann Team|[2607.26980](http://arxiv.org/abs/2607.26980)|null|
+|**2026-07-29**|**From Passive Video to Editable Experience: Physically Grounded Experience Synthesis for Embodied Intelligence**|Jia Luo Team|[2607.26903](http://arxiv.org/abs/2607.26903)|null|
+|**2026-07-29**|**From Uncertainty to Determinism: Coarse-to-Fine Visual Floorplan Localization without Ray Matching**|Jianxin Wang Team|[2607.26817](http://arxiv.org/abs/2607.26817)|null|
+|**2026-07-30**|**EgoSafe: A First-Person Mobile-Captured Benchmark for Visual Safety Understanding**|Ziqian Zeng Team|[2607.26518](http://arxiv.org/abs/2607.26518)|null|
+|**2026-07-28**|**HeteroPROPMT: A Real-time and Privacy-Preserving Heterogeneous Collaborative Perception Framework**|Hayder Radha Team|[2607.26283](http://arxiv.org/abs/2607.26283)|null|
 |**2026-07-28**|**Pictura: Perspective-View Self-Play at Scale for Driving**|Matthieu Cord Team|[2607.26005](http://arxiv.org/abs/2607.26005)|null|
 |**2026-07-28**|**Shared Voxel-Map-Based Cooperative Indoor UAV Guidance with a Multi-Agent Soft Actor-Critic Controller**|Nabil Aouf Team|[2607.25728](http://arxiv.org/abs/2607.25728)|null|
 |**2026-07-28**|**Leveraging Semantic Maps for City-Scale Cross-View Localization**|Nicholas Roy Team|[2607.25215](http://arxiv.org/abs/2607.25215)|null|
@@ -151,8 +155,4 @@
 |**2026-06-28**|**WOLF-VLA: Whole-Body Humanoid Optimal Locomotion Framework for Vision-Language-Action Learning**|Frank Kirchner Team|[2606.25591](http://arxiv.org/abs/2606.25591)|null|
 |**2026-06-24**|**FeVOS: Foresight Expression Video Object Segmentation**|Henghui Ding Team|[2606.25585](http://arxiv.org/abs/2606.25585)|**[link](https://henghuiding.com/FeVOS/)**|
 |**2026-06-24**|**SAGE-Nav: Leveraging LLM Planning and Alignment Fusion for Hierarchical Scene Graph-Guided Navigation**|Jiajun Lv Team|[2606.25497](http://arxiv.org/abs/2606.25497)|null|
-|**2026-06-23**|**Toward Low-Latency Vision-Language Models with Doubly-Correct Predictions in Egocentric Visual Understanding**|Christopher Rasmussen Team|[2606.25160](http://arxiv.org/abs/2606.25160)|null|
-|**2026-06-23**|**Causality-Based Parametric Control Barrier Function for Safe Multi-Vehicle Interaction**|John M. Dolan Team|[2606.25134](http://arxiv.org/abs/2606.25134)|null|
-|**2026-07-01**|**ADM-Fusion: Adaptive Deep Multi-Sensor Fusion for Robust Ego-Motion Estimation in Diverse Conditions**|Daniel Asmar Team|[2606.25111](http://arxiv.org/abs/2606.25111)|null|
-|**2026-06-23**|**Are We There Yet? Exploring the Capabilities of MLLMs in Assistive AI Applications**|C. V. Jawahar Team|[2606.25084](http://arxiv.org/abs/2606.25084)|null|
 
