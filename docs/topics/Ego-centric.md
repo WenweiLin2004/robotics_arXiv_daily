@@ -1,14 +1,14 @@
-## Updated on 2026.07.31
+## Updated on 2026.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Ziwei Liu Team|[2607.28625](http://arxiv.org/abs/2607.28625)|**[link](https://ace-data-engine.github.io/ACE-Data-0/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE**|Linfeng Zhang Team|[2607.28243](http://arxiv.org/abs/2607.28243)|**[link](https://egogenesis.github.io/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**RaDiVe: Robust 4D Radar Odometry with Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty**|Ayoung Kim Team|[2607.28045](http://arxiv.org/abs/2607.28045)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**EgoGVAE: Ego-body Mesh Reconstruction via Guided Variational Autoencoder**|Wonjun Kim Team|[2607.27755](http://arxiv.org/abs/2607.27755)|null|
+|**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Ziwei Liu Team|[2607.28625](http://arxiv.org/abs/2607.28625)|**[link](https://ace-data-engine.github.io/ACE-Data-0/)**|
+|**2026-07-30**|**EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE**|Linfeng Zhang Team|[2607.28243](http://arxiv.org/abs/2607.28243)|**[link](https://egogenesis.github.io/)**|
+|**2026-07-30**|**RaDiVe: Robust 4D Radar Odometry with Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty**|Ayoung Kim Team|[2607.28045](http://arxiv.org/abs/2607.28045)|null|
+|**2026-07-30**|**EgoGVAE: Ego-body Mesh Reconstruction via Guided Variational Autoencoder**|Wonjun Kim Team|[2607.27755](http://arxiv.org/abs/2607.27755)|null|
 |**2026-07-29**|**HumanCLAW: Can Vision-Language Models Act Through a Body?**|Chuan Guo Team|[2607.27180](http://arxiv.org/abs/2607.27180)|**[link](https://human-claw.github.io/)**|
 |**2026-07-29**|**SymmGrid: Super-Scaling On-Robot Learning with Parallelized Symmetries and Egocentric-Exocentric Visual Perception**|Juan Rojas Team|[2607.26985](http://arxiv.org/abs/2607.26985)|null|
 |**2026-07-29**|**Dense Soft Weighting for Radar Ego-Velocity Estimation**|Julie A. McCann Team|[2607.26980](http://arxiv.org/abs/2607.26980)|null|

@@ -1,27 +1,27 @@
-## Updated on 2026.07.31
+## Updated on 2026.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Ziwei Liu Team|[2607.28625](http://arxiv.org/abs/2607.28625)|**[link](https://ace-data-engine.github.io/ACE-Data-0/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**X-NavDP: Generalizing Navigation Diffusion Policy to Novel Behavior and Embodiments with Group Q-score Reweighted Matching**|Tai Wang Team|[2607.28560](http://arxiv.org/abs/2607.28560)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**ViewMind3D: Modular View-Aware Inference for Training-Free 3D-QA**|Yu-Chee Tseng Team|[2607.28442](http://arxiv.org/abs/2607.28442)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer**|Xingyu Chen Team|[2607.28394](http://arxiv.org/abs/2607.28394)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**Intertwined magnetoresistance and Hall multifunctionality in a non-coplanar magnetic Weyl semimetal DyB4**|Haidong Zhou Team|[2607.28283](http://arxiv.org/abs/2607.28283)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**When Robots Exchange Meaning: A Demo of Goal-Oriented Semantic Communications for Collaborative Robotics**|Adnan Aijaz Team|[2607.28256](http://arxiv.org/abs/2607.28256)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**Self-Evolving Learning for Embodied AI with Criticality Model**|Shuo Feng Team|[2607.28251](http://arxiv.org/abs/2607.28251)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE**|Linfeng Zhang Team|[2607.28243](http://arxiv.org/abs/2607.28243)|**[link](https://egogenesis.github.io/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation**|Haojin Zhu Team|[2607.28226](http://arxiv.org/abs/2607.28226)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**Layered Architecture for Mobile Intelligence**|Mingqing Liu Team|[2607.28083](http://arxiv.org/abs/2607.28083)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**MARS-RA: Rank Aggregation for Credit Assignment via Multimodal Comparisons in Embodied Multi-Agent Cooperation**|Richard Davison Team|[2607.27967](http://arxiv.org/abs/2607.27967)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**The Geometric Nature and a Free Proxy for Flow-Matching Uncertainty**|Hui Xiong Team|[2607.27933](http://arxiv.org/abs/2607.27933)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**RoboBRIDGE: A Modular Framework for Bridging Policies to Robust Real-World Robotic Agents**|Honguk Woo Team|[2607.27881](http://arxiv.org/abs/2607.27881)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**SpatialCLI: Learning to Reason With Spatial Tools, Then Without Them**|Yuxiang Cai Team|[2607.27703](http://arxiv.org/abs/2607.27703)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**Arm2Air: Cross-Embodiment Skeleton Transfer for 3D Relay Formation**|Hwangnam Kim Team|[2607.27627](http://arxiv.org/abs/2607.27627)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-30**|**Cross-Embodiment Transfer via Behavior-Aligned Representations**|Dorsa Sadigh Team|[2607.27549](http://arxiv.org/abs/2607.27549)|**[link](https://ajaysridhar.com/barx/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-29**|**Leveraging Trajectory Graphs for Pre-Execution Error Diagnosis in Agentic LLM Systems**|Dongsheng Luo Team|[2607.27443](http://arxiv.org/abs/2607.27443)|null|
+|**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Ziwei Liu Team|[2607.28625](http://arxiv.org/abs/2607.28625)|**[link](https://ace-data-engine.github.io/ACE-Data-0/)**|
+|**2026-07-30**|**X-NavDP: Generalizing Navigation Diffusion Policy to Novel Behavior and Embodiments with Group Q-score Reweighted Matching**|Tai Wang Team|[2607.28560](http://arxiv.org/abs/2607.28560)|null|
+|**2026-07-30**|**ViewMind3D: Modular View-Aware Inference for Training-Free 3D-QA**|Yu-Chee Tseng Team|[2607.28442](http://arxiv.org/abs/2607.28442)|null|
+|**2026-07-30**|**Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer**|Xingyu Chen Team|[2607.28394](http://arxiv.org/abs/2607.28394)|null|
+|**2026-07-30**|**Intertwined magnetoresistance and Hall multifunctionality in a non-coplanar magnetic Weyl semimetal DyB4**|Haidong Zhou Team|[2607.28283](http://arxiv.org/abs/2607.28283)|null|
+|**2026-07-30**|**When Robots Exchange Meaning: A Demo of Goal-Oriented Semantic Communications for Collaborative Robotics**|Adnan Aijaz Team|[2607.28256](http://arxiv.org/abs/2607.28256)|null|
+|**2026-07-30**|**Self-Evolving Learning for Embodied AI with Criticality Model**|Shuo Feng Team|[2607.28251](http://arxiv.org/abs/2607.28251)|null|
+|**2026-07-30**|**EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE**|Linfeng Zhang Team|[2607.28243](http://arxiv.org/abs/2607.28243)|**[link](https://egogenesis.github.io/)**|
+|**2026-07-30**|**Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation**|Haojin Zhu Team|[2607.28226](http://arxiv.org/abs/2607.28226)|null|
+|**2026-07-30**|**Layered Architecture for Mobile Intelligence**|Mingqing Liu Team|[2607.28083](http://arxiv.org/abs/2607.28083)|null|
+|**2026-07-30**|**MARS-RA: Rank Aggregation for Credit Assignment via Multimodal Comparisons in Embodied Multi-Agent Cooperation**|Richard Davison Team|[2607.27967](http://arxiv.org/abs/2607.27967)|null|
+|**2026-07-30**|**The Geometric Nature and a Free Proxy for Flow-Matching Uncertainty**|Hui Xiong Team|[2607.27933](http://arxiv.org/abs/2607.27933)|null|
+|**2026-07-30**|**RoboBRIDGE: A Modular Framework for Bridging Policies to Robust Real-World Robotic Agents**|Honguk Woo Team|[2607.27881](http://arxiv.org/abs/2607.27881)|null|
+|**2026-07-30**|**SpatialCLI: Learning to Reason With Spatial Tools, Then Without Them**|Yuxiang Cai Team|[2607.27703](http://arxiv.org/abs/2607.27703)|null|
+|**2026-07-30**|**Arm2Air: Cross-Embodiment Skeleton Transfer for 3D Relay Formation**|Hwangnam Kim Team|[2607.27627](http://arxiv.org/abs/2607.27627)|null|
+|**2026-07-30**|**Cross-Embodiment Transfer via Behavior-Aligned Representations**|Dorsa Sadigh Team|[2607.27549](http://arxiv.org/abs/2607.27549)|**[link](https://ajaysridhar.com/barx/)**|
+|**2026-07-29**|**Leveraging Trajectory Graphs for Pre-Execution Error Diagnosis in Agentic LLM Systems**|Dongsheng Luo Team|[2607.27443](http://arxiv.org/abs/2607.27443)|null|
 |**2026-07-29**|**HumanCLAW: Can Vision-Language Models Act Through a Body?**|Chuan Guo Team|[2607.27180](http://arxiv.org/abs/2607.27180)|**[link](https://human-claw.github.io/)**|
 |**2026-07-29**|**Explainable and Resource-Efficient Spatial Reasoning in Multimodal LLMs for Decision-Critical Applications**|Subarna Tripathi Team|[2607.27145](http://arxiv.org/abs/2607.27145)|null|
 |**2026-07-29**|**BioVLN: A Simulation Platform for Visual Language Navigation in Biomedical Laboratories**|Dongzhan Zhou Team|[2607.26914](http://arxiv.org/abs/2607.26914)|null|
