@@ -1,10 +1,14 @@
-## Updated on 2026.08.02
+## Updated on 2026.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-31**|**FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling**|Shuai Wang Team|[2607.29596](http://arxiv.org/abs/2607.29596)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-31**|**CLIFT: Turning Gemini Robotics On-Device into Humanoid Specialists via Non-Invasive Closed-Loop Iterative Fine-Tuning**|Thomas Tian Team|[2607.29172](http://arxiv.org/abs/2607.29172)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-31**|**D-VLC: Decentralized Vision-Language Collaboration for Heterogeneous Embodied Multi-Robot Systems in Unknown Environments**|Fei Gao Team|[2607.29009](http://arxiv.org/abs/2607.29009)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-31**|**ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts**|Tianlun Li Team|[2607.28993](http://arxiv.org/abs/2607.28993)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Ziwei Liu Team|[2607.28625](http://arxiv.org/abs/2607.28625)|**[link](https://ace-data-engine.github.io/ACE-Data-0/)**|
 |**2026-07-30**|**X-NavDP: Generalizing Navigation Diffusion Policy to Novel Behavior and Embodiments with Group Q-score Reweighted Matching**|Tai Wang Team|[2607.28560](http://arxiv.org/abs/2607.28560)|null|
 |**2026-07-30**|**ViewMind3D: Modular View-Aware Inference for Training-Free 3D-QA**|Yu-Chee Tseng Team|[2607.28442](http://arxiv.org/abs/2607.28442)|null|
@@ -97,7 +101,7 @@
 |**2026-07-24**|**Now We Know? A Systematic Comparison of TerraMind and THOR**|Valerio Marsocci Team|[2607.18504](http://arxiv.org/abs/2607.18504)|null|
 |**2026-07-20**|**Patch Policy: Efficient Embodied Control via Dense Visual Representations**|Lerrel Pinto Team|[2607.18236](http://arxiv.org/abs/2607.18236)|null|
 |**2026-07-20**|**UniETP: Unifying Environments for Generalizable Embodied Task Planning**|Yadong Mu Team|[2607.18062](http://arxiv.org/abs/2607.18062)|null|
-|**2026-07-20**|**RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model**|Deli Zhao Team|[2607.17977](http://arxiv.org/abs/2607.17977)|**[link](https://alibaba-damo-academy.github.io/RynnBrain)**|
+|**2026-07-31**|**RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model**|Deli Zhao Team|[2607.17977](http://arxiv.org/abs/2607.17977)|**[link](https://alibaba-damo-academy.github.io/RynnBrain)**|
 |**2026-07-20**|**PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model**|Zhuoling Xiao Team|[2607.17806](http://arxiv.org/abs/2607.17806)|null|
 |**2026-07-20**|**From Sign Language Generation to Humanoid Execution: Vision-Language Guided Retargeting with Collision Mitigation**|Kazuhiro Nakadai Team|[2607.17769](http://arxiv.org/abs/2607.17769)|null|
 |**2026-07-19**|**HarmoHOI: Harmonizing Appearance and 3D Motion for Multi-view Hand-Object Interaction Synthesis**|Qingyao Wu Team|[2607.17097](http://arxiv.org/abs/2607.17097)|null|
@@ -151,8 +155,4 @@
 |**2026-07-06**|**GPUSimBench: Towards Scalable and Reliable GPU-Accelerated Simulators in Embodied AI**|Dmitry Yudin Team|[2607.13059](http://arxiv.org/abs/2607.13059)|null|
 |**2026-07-14**|**Hy-Embodied-VLM-1.0: Efficient Physical-World Agents**|Zhengyou Zhang Team|[2607.12894](http://arxiv.org/abs/2607.12894)|**[link](https://github.com/Tencent-Hunyuan/HY-Embodied)**|
 |**2026-07-20**|**Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference**|Meng Li Team|[2607.12659](http://arxiv.org/abs/2607.12659)|null|
-|**2026-07-17**|**Instance-Enriched Semantic Maps for Visual Language Navigation**|Young-Sik Shin Team|[2607.12630](http://arxiv.org/abs/2607.12630)|null|
-|**2026-07-15**|**DynTrace: Tracking Dynamic Object Evidence for 4D Spatio-Temporal Reasoning in MLLMs**|Yue Huang Team|[2607.12503](http://arxiv.org/abs/2607.12503)|null|
-|**2026-07-14**|**Scaling laws for multi-object spectrographs: empirical relationships and the photonic advantage of CAWSMOS**|Martin M. Roth Team|[2607.12492](http://arxiv.org/abs/2607.12492)|null|
-|**2026-07-15**|**Self in Space: Benchmarking Self-Awareness and Spatial Cognition in UAV Embodied Intelligence**|Wenjia Xu Team|[2607.12477](http://arxiv.org/abs/2607.12477)|**[link](https://choucisan.github.io/publications/self-in-space)**|
 

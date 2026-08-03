@@ -1,10 +1,12 @@
-## Updated on 2026.08.02
+## Updated on 2026.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-31**|**SERUM: State Extraction and Refinement for User Modeling**|Dongyeop Kang Team|[2607.29181](http://arxiv.org/abs/2607.29181)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-31**|**Auto-JEPA: A Latent World Model of Continuous Intent for End-to-End Autonomous Driving**|Jun Li Team|[2607.29031](http://arxiv.org/abs/2607.29031)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Ziwei Liu Team|[2607.28625](http://arxiv.org/abs/2607.28625)|**[link](https://ace-data-engine.github.io/ACE-Data-0/)**|
 |**2026-07-30**|**EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE**|Linfeng Zhang Team|[2607.28243](http://arxiv.org/abs/2607.28243)|**[link](https://egogenesis.github.io/)**|
 |**2026-07-30**|**RaDiVe: Robust 4D Radar Odometry with Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty**|Ayoung Kim Team|[2607.28045](http://arxiv.org/abs/2607.28045)|null|
@@ -153,6 +155,4 @@
 |**2026-06-24**|**USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning**|Jianfei Yang Team|[2606.25880](http://arxiv.org/abs/2606.25880)|null|
 |**2026-07-02**|**Graph it first! Enabling Reasoning on Long-form Egocentric Videos through Scene Graphs**|Matteo Matteucci Team|[2606.25842](http://arxiv.org/abs/2606.25842)|null|
 |**2026-06-28**|**WOLF-VLA: Whole-Body Humanoid Optimal Locomotion Framework for Vision-Language-Action Learning**|Frank Kirchner Team|[2606.25591](http://arxiv.org/abs/2606.25591)|null|
-|**2026-06-24**|**FeVOS: Foresight Expression Video Object Segmentation**|Henghui Ding Team|[2606.25585](http://arxiv.org/abs/2606.25585)|**[link](https://henghuiding.com/FeVOS/)**|
-|**2026-06-24**|**SAGE-Nav: Leveraging LLM Planning and Alignment Fusion for Hierarchical Scene Graph-Guided Navigation**|Jiajun Lv Team|[2606.25497](http://arxiv.org/abs/2606.25497)|null|
 
