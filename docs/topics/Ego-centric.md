@@ -1,28 +1,31 @@
-## Updated on 2026.08.04
+## Updated on 2026.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-03**|**Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data**|Qin Jin Team|[2608.02580](http://arxiv.org/abs/2608.02580)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-03**|**HiResNets: Native Full-HD Video Recognition with Foveal Residual Streams**|Joao F. Henriques Team|[2608.02140](http://arxiv.org/abs/2608.02140)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-03**|**Dynamic Resolution Routing for Efficient Egocentric Grounding**|Angela Yao Team|[2608.01638](http://arxiv.org/abs/2608.01638)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-02**|**Modeling Social Dynamics with an LLM-Enabled Agent Based Network-Dynamic (LAND) Model**|Kathleen M. Carley Team|[2608.00929](http://arxiv.org/abs/2608.00929)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-01**|**Assistant Placement Aria: A Benchmark for Egocentric Placement Assistance**|Ayellet Tal Team|[2608.00652](http://arxiv.org/abs/2608.00652)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-01**|**DreamTraj: Generating 6-DoF Object Trajectories by Reading Unrendered Video Diffusion Latents**|Feng Zheng Team|[2608.00486](http://arxiv.org/abs/2608.00486)|**[link](https://whathappen0.github.io/DreamTraj/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-01**|**Boosting Generalizable Depth Estimation in Endoscopy by Mixture of Lightweight Experts and Intrinsic Image Alignment**|Hongliang Ren Team|[2608.00415](http://arxiv.org/abs/2608.00415)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-01**|**Embodied Passive Aeroacoustic Perception Enables Relative Sensing and Pursuit Between Aerial Robots**|Boyuan Chen Team|[2608.00401](http://arxiv.org/abs/2608.00401)|**[link](http://generalroboticslab.com/SonicFly)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-31**|**WM-Cov: Test Adequacy for Interactive World-Model-Style Autonomous Driving Simulation**|Vladan Devedzic Team|[2608.00298](http://arxiv.org/abs/2608.00298)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-31**|**Hybrid Attention Estimation Pipeline for Adaptive HRI Using an Expressive Robotic Head**|Ricardo Grando Team|[2608.00284](http://arxiv.org/abs/2608.00284)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-07-31**|**Cross-Task Dissociation in Frontier Vision-Language Model Theory of Mind**|Haizhao Yang Team|[2608.00261](http://arxiv.org/abs/2608.00261)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-04**|**RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation**|Guiliang Liu Team|[2608.03387](http://arxiv.org/abs/2608.03387)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-04**|**From Routes to Steps: Separating Semantic Progress from Local Execution in Vision-and-Language Navigation**|Lin Jiarong Team|[2608.03143](http://arxiv.org/abs/2608.03143)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-04**|**SUV: Future Scene Understanding as Video Generation for End-to-End Driving**|Jianru Xue Team|[2608.03084](http://arxiv.org/abs/2608.03084)|**[link](https://github.com/ASH-2046/SUV)**|
+|**2026-08-03**|**Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data**|Qin Jin Team|[2608.02580](http://arxiv.org/abs/2608.02580)|null|
+|**2026-08-04**|**HiResNets: Native Full-HD Video Recognition with Foveal Residual Streams**|Joao F. Henriques Team|[2608.02140](http://arxiv.org/abs/2608.02140)|null|
+|**2026-08-03**|**Dynamic Resolution Routing for Efficient Egocentric Grounding**|Angela Yao Team|[2608.01638](http://arxiv.org/abs/2608.01638)|null|
+|**2026-08-02**|**Modeling Social Dynamics with an LLM-Enabled Agent Based Network-Dynamic (LAND) Model**|Kathleen M. Carley Team|[2608.00929](http://arxiv.org/abs/2608.00929)|null|
+|**2026-08-01**|**Assistant Placement Aria: A Benchmark for Egocentric Placement Assistance**|Ayellet Tal Team|[2608.00652](http://arxiv.org/abs/2608.00652)|null|
+|**2026-08-01**|**DreamTraj: Generating 6-DoF Object Trajectories by Reading Unrendered Video Diffusion Latents**|Feng Zheng Team|[2608.00486](http://arxiv.org/abs/2608.00486)|**[link](https://whathappen0.github.io/DreamTraj/)**|
+|**2026-08-01**|**Boosting Generalizable Depth Estimation in Endoscopy by Mixture of Lightweight Experts and Intrinsic Image Alignment**|Hongliang Ren Team|[2608.00415](http://arxiv.org/abs/2608.00415)|null|
+|**2026-08-01**|**Embodied Passive Aeroacoustic Perception Enables Relative Sensing and Pursuit Between Aerial Robots**|Boyuan Chen Team|[2608.00401](http://arxiv.org/abs/2608.00401)|**[link](http://generalroboticslab.com/SonicFly)**|
+|**2026-07-31**|**WM-Cov: Test Adequacy for Interactive World-Model-Style Autonomous Driving Simulation**|Vladan Devedzic Team|[2608.00298](http://arxiv.org/abs/2608.00298)|null|
+|**2026-07-31**|**Hybrid Attention Estimation Pipeline for Adaptive HRI Using an Expressive Robotic Head**|Ricardo Grando Team|[2608.00284](http://arxiv.org/abs/2608.00284)|null|
+|**2026-07-31**|**Cross-Task Dissociation in Frontier Vision-Language Model Theory of Mind**|Haizhao Yang Team|[2608.00261](http://arxiv.org/abs/2608.00261)|null|
 |**2026-07-31**|**SERUM: State Extraction and Refinement for User Modeling**|Dongyeop Kang Team|[2607.29181](http://arxiv.org/abs/2607.29181)|null|
 |**2026-07-31**|**Auto-JEPA: A Latent World Model of Continuous Intent for End-to-End Autonomous Driving**|Jun Li Team|[2607.29031](http://arxiv.org/abs/2607.29031)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Ziwei Liu Team|[2607.28625](http://arxiv.org/abs/2607.28625)|**[link](https://ace-data-engine.github.io/ACE-Data-0/)**|
 |**2026-07-30**|**EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE**|Linfeng Zhang Team|[2607.28243](http://arxiv.org/abs/2607.28243)|**[link](https://egogenesis.github.io/)**|
 |**2026-07-30**|**RaDiVe: Robust 4D Radar Odometry with Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty**|Ayoung Kim Team|[2607.28045](http://arxiv.org/abs/2607.28045)|null|
 |**2026-07-30**|**EgoGVAE: Ego-body Mesh Reconstruction via Guided Variational Autoencoder**|Wonjun Kim Team|[2607.27755](http://arxiv.org/abs/2607.27755)|null|
-|**2026-07-29**|**HumanCLAW: Can Vision-Language Models Act Through a Body?**|Chuan Guo Team|[2607.27180](http://arxiv.org/abs/2607.27180)|**[link](https://human-claw.github.io/)**|
+|**2026-08-03**|**HumanCLAW: Can Vision-Language Models Act Through a Body?**|Chuan Guo Team|[2607.27180](http://arxiv.org/abs/2607.27180)|**[link](https://human-claw.github.io/)**|
 |**2026-07-29**|**SymmGrid: Super-Scaling On-Robot Learning with Parallelized Symmetries and Egocentric-Exocentric Visual Perception**|Juan Rojas Team|[2607.26985](http://arxiv.org/abs/2607.26985)|null|
 |**2026-07-29**|**Dense Soft Weighting for Radar Ego-Velocity Estimation**|Julie A. McCann Team|[2607.26980](http://arxiv.org/abs/2607.26980)|null|
 |**2026-07-29**|**From Passive Video to Editable Experience: Physically Grounded Experience Synthesis for Embodied Intelligence**|Jia Luo Team|[2607.26903](http://arxiv.org/abs/2607.26903)|null|
@@ -152,7 +155,4 @@
 |**2026-06-29**|**Streaming Gaussian Encoding for 4D Panoptic Occupancy Tracking**|Abhinav Valada Team|[2606.30754](http://arxiv.org/abs/2606.30754)|null|
 |**2026-06-29**|**VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes**|Karen Liu Team|[2606.30645](http://arxiv.org/abs/2606.30645)|null|
 |**2026-06-29**|**Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation**|Dima Damen Team|[2606.30598](http://arxiv.org/abs/2606.30598)|**[link](https://sid2697.github.io/epic-contact/)**|
-|**2026-06-29**|**FutureNav: Unified World-Action Modeling for Vision-and-Language Navigation**|Wenbo Ding Team|[2606.30367](http://arxiv.org/abs/2606.30367)|null|
-|**2026-07-09**|**The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction**|Xingang Pan Team|[2606.30308](http://arxiv.org/abs/2606.30308)|null|
-|**2026-06-27**|**Attribution Bias in Philosophical Knowledge Graphs: Corpus Frequency versus Temporal Sourcing**|Joy Bose Team|[2606.29070](http://arxiv.org/abs/2606.29070)|**[link](https://github.com/joyboseroy/agentic-diffusion-sim.)**|
 
