@@ -1,17 +1,23 @@
-## Updated on 2026.08.06
+## Updated on 2026.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-05**|**SpikingNav: Robust Embodied Navigation with Spiking Neural Policies**| GuoqiLi Team|[2608.05078](http://arxiv.org/abs/2608.05078)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-05**|**Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen**|Nergis Tömen Team|[2608.04865](http://arxiv.org/abs/2608.04865)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-05**|**The First EgoCross Challenge at EgoVis 2026: Cross-Domain Egocentric Video Question Answering**|Wenping Ma Team|[2608.04589](http://arxiv.org/abs/2608.04589)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-05**|**EgoAfford: Task-Oriented Affordance Grounding via Egocentric Referring Segmentation**|Lixin Yang Team|[2608.04533](http://arxiv.org/abs/2608.04533)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-05**|**muSync-GS: Physics-Synchronized Driving Video Synthesis for Weather and Geometric Road Hazards**|Zilin Bian Team|[2608.04412](http://arxiv.org/abs/2608.04412)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-05**|**NodeJEPA: Structure-Conditioned Latent Prediction for Node-Level Graph Self-Supervised Learning**|Qiang Wang Team|[2608.04381](http://arxiv.org/abs/2608.04381)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-04**|**SiMDex: Mining Similar Egocentric Videos for Cross-Embodiment Dexterous Manipulation**|Yoichi Sato Team|[2608.04196](http://arxiv.org/abs/2608.04196)|**[link](https://lin-nie.github.io/SiMDex/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**$ω$ -0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation**|Shanghang Zhang Team|[2608.06375](http://arxiv.org/abs/2608.06375)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**HOPE: Hand-Object Pressure Estimation from Monocular Videos**|Hanbyul Joo Team|[2608.06192](http://arxiv.org/abs/2608.06192)|**[link](https://subin6.github.io/page-hope)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features**|Yan Wang Team|[2608.06008](http://arxiv.org/abs/2608.06008)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?**|Wei Li Team|[2608.05747](http://arxiv.org/abs/2608.05747)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**JoyAI-RA 0.5: Scaling Robot Manipulation Learning via Dual Action Alignment**|JoyAI-RA Team Team|[2608.05674](http://arxiv.org/abs/2608.05674)|**[link](https://joyai-ra-05.github.io/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-05**|**VLAff: Vision-Language-Affordance Model for Unified Actionable Affordances**|Kei Okada Team|[2608.05215](http://arxiv.org/abs/2608.05215)|**[link](https://ojh6404.github.io/vlaff/)**|
+|**2026-08-05**|**SpikingNav: Robust Embodied Navigation with Spiking Neural Policies**| GuoqiLi Team|[2608.05078](http://arxiv.org/abs/2608.05078)|null|
+|**2026-08-05**|**Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen**|Nergis Tömen Team|[2608.04865](http://arxiv.org/abs/2608.04865)|null|
+|**2026-08-05**|**The First EgoCross Challenge at EgoVis 2026: Cross-Domain Egocentric Video Question Answering**|Wenping Ma Team|[2608.04589](http://arxiv.org/abs/2608.04589)|null|
+|**2026-08-05**|**EgoAfford: Task-Oriented Affordance Grounding via Egocentric Referring Segmentation**|Lixin Yang Team|[2608.04533](http://arxiv.org/abs/2608.04533)|null|
+|**2026-08-05**|**muSync-GS: Physics-Synchronized Driving Video Synthesis for Weather and Geometric Road Hazards**|Zilin Bian Team|[2608.04412](http://arxiv.org/abs/2608.04412)|null|
+|**2026-08-05**|**NodeJEPA: Structure-Conditioned Latent Prediction for Node-Level Graph Self-Supervised Learning**|Qiang Wang Team|[2608.04381](http://arxiv.org/abs/2608.04381)|null|
+|**2026-08-04**|**SiMDex: Mining Similar Egocentric Videos for Cross-Embodiment Dexterous Manipulation**|Yoichi Sato Team|[2608.04196](http://arxiv.org/abs/2608.04196)|**[link](https://lin-nie.github.io/SiMDex/)**|
 |**2026-08-05**|**RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation**|Guiliang Liu Team|[2608.03387](http://arxiv.org/abs/2608.03387)|null|
 |**2026-08-04**|**From Routes to Steps: Separating Semantic Progress from Local Execution in Vision-and-Language Navigation**|Lin Jiarong Team|[2608.03143](http://arxiv.org/abs/2608.03143)|null|
 |**2026-08-04**|**SUV: Future Scene Understanding as Video Generation for End-to-End Driving**|Jianru Xue Team|[2608.03084](http://arxiv.org/abs/2608.03084)|**[link](https://github.com/ASH-2046/SUV)**|
@@ -149,10 +155,4 @@
 |**2026-07-01**|**EgoGapBench: Benchmarking Egocentric Action Selection in Multi-Agent Scenes**|Seong Joon Oh Team|[2607.00547](http://arxiv.org/abs/2607.00547)|**[link](https://github.com/jhCOR/EgoGapBench)**|
 |**2026-07-01**|**DriveVer: Lightweight Trajectory Evaluator as Test-Time Verifier for Autonomous Driving**|Fuxi Wen Team|[2607.00399](http://arxiv.org/abs/2607.00399)|null|
 |**2026-07-01**|**Learning Generalizable Skill Policy with Data-Efficient Unsupervised RL**|Yusung Kim Team|[2607.00392](http://arxiv.org/abs/2607.00392)|null|
-|**2026-07-01**|**RetailSMV: Exocentric vs. Egocentric Adaptation of Foundation Video World Models in Retail**|Sashi P. Reddi Team|[2607.00310](http://arxiv.org/abs/2607.00310)|null|
-|**2026-07-01**|**What's Hidden Matters: Identifying Planning-Critical Occluded Agents using Vision-Language Models**|David Isele Team|[2607.00283](http://arxiv.org/abs/2607.00283)|null|
-|**2026-06-30**|**EgoSafetyBench: A Diagnostic Egocentric Video Benchmark for Evaluating Embodied VLMs as Runtime Safety Guards**|Dasol Choi Team|[2607.00218](http://arxiv.org/abs/2607.00218)|null|
-|**2026-06-30**|**Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments**|Kai Chen Team|[2606.32009](http://arxiv.org/abs/2606.32009)|null|
-|**2026-06-30**|**Bridging Local Observation and Global Simulation in Closed-Loop Traffic Modeling**|Xintao Yan Team|[2606.31844](http://arxiv.org/abs/2606.31844)|null|
-|**2026-07-28**|**ForgeDrive: Bidirectional Cross-Conditioning for Unified Visual-Action Generation in Autonomous Driving**|Yang Cai Team|[2606.31226](http://arxiv.org/abs/2606.31226)|null|
 
