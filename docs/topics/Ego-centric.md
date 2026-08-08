@@ -1,16 +1,16 @@
-## Updated on 2026.08.07
+## Updated on 2026.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**$ω$ -0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation**|Shanghang Zhang Team|[2608.06375](http://arxiv.org/abs/2608.06375)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**HOPE: Hand-Object Pressure Estimation from Monocular Videos**|Hanbyul Joo Team|[2608.06192](http://arxiv.org/abs/2608.06192)|**[link](https://subin6.github.io/page-hope)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features**|Yan Wang Team|[2608.06008](http://arxiv.org/abs/2608.06008)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?**|Wei Li Team|[2608.05747](http://arxiv.org/abs/2608.05747)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**JoyAI-RA 0.5: Scaling Robot Manipulation Learning via Dual Action Alignment**|JoyAI-RA Team Team|[2608.05674](http://arxiv.org/abs/2608.05674)|**[link](https://joyai-ra-05.github.io/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-05**|**VLAff: Vision-Language-Affordance Model for Unified Actionable Affordances**|Kei Okada Team|[2608.05215](http://arxiv.org/abs/2608.05215)|**[link](https://ojh6404.github.io/vlaff/)**|
+|**2026-08-06**|**$ω$ -0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation**|Shanghang Zhang Team|[2608.06375](http://arxiv.org/abs/2608.06375)|null|
+|**2026-08-06**|**HOPE: Hand-Object Pressure Estimation from Monocular Videos**|Hanbyul Joo Team|[2608.06192](http://arxiv.org/abs/2608.06192)|**[link](https://subin6.github.io/page-hope)**|
+|**2026-08-06**|**Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features**|Yan Wang Team|[2608.06008](http://arxiv.org/abs/2608.06008)|null|
+|**2026-08-06**|**GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?**|Wei Li Team|[2608.05747](http://arxiv.org/abs/2608.05747)|null|
+|**2026-08-06**|**JoyAI-RA 0.5: Scaling Robot Manipulation Learning via Dual Action Alignment**|JoyAI-RA Team Team|[2608.05674](http://arxiv.org/abs/2608.05674)|**[link](https://joyai-ra-05.github.io/)**|
+|**2026-08-05**|**VLAff: Vision-Language-Affordance Model for Unified Actionable Affordances**|Kei Okada Team|[2608.05215](http://arxiv.org/abs/2608.05215)|**[link](https://ojh6404.github.io/vlaff/)**|
 |**2026-08-05**|**SpikingNav: Robust Embodied Navigation with Spiking Neural Policies**| GuoqiLi Team|[2608.05078](http://arxiv.org/abs/2608.05078)|null|
 |**2026-08-05**|**Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen**|Nergis Tömen Team|[2608.04865](http://arxiv.org/abs/2608.04865)|null|
 |**2026-08-05**|**The First EgoCross Challenge at EgoVis 2026: Cross-Domain Egocentric Video Question Answering**|Wenping Ma Team|[2608.04589](http://arxiv.org/abs/2608.04589)|null|

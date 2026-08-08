@@ -1,24 +1,24 @@
-## Updated on 2026.08.07
+## Updated on 2026.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation**|Haoang Li Team|[2608.06374](http://arxiv.org/abs/2608.06374)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**|Zhi Wang Team|[2608.06332](http://arxiv.org/abs/2608.06332)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**iARCS: Iterative Agentic RL for Controllable 3D Scene Generation**|Danda Pani Paudel Team|[2608.06161](http://arxiv.org/abs/2608.06161)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**Visual Grounding in Zero-Shot Vision-Language Control**|I. de Zarzà Team|[2608.06154](http://arxiv.org/abs/2608.06154)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**IcFuzz: Fuzzing Isaac Sim with Semantic Stage Guidance and Multi-level Mutation**|Zibin Zheng Team|[2608.06088](http://arxiv.org/abs/2608.06088)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation**|Yi Chang Team|[2608.05999](http://arxiv.org/abs/2608.05999)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**SkillMemo: Expert-guided Skill Memory Framework for Compositional Embodied Manipulation**|Jiwen Lu Team|[2608.05970](http://arxiv.org/abs/2608.05970)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**GAUGE: A Measurement-Grounded Benchmark for Physical Fidelity in Simulation Engines and Video World Models**|Weinan Zhang Team|[2608.05948](http://arxiv.org/abs/2608.05948)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**XEWorld: Can Action-Conditioned World Models Generalize to Unseen Robot Embodiments?**|Liang Wang Team|[2608.05799](http://arxiv.org/abs/2608.05799)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?**|Wei Li Team|[2608.05747](http://arxiv.org/abs/2608.05747)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**LAWM-3D: Learning 3D-Aware Latent Actions from Human Videos for Generalizable Robot World Models**|Shu-Tao Xia Team|[2608.05706](http://arxiv.org/abs/2608.05706)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**JoyAI-RA 0.5: Scaling Robot Manipulation Learning via Dual Action Alignment**|JoyAI-RA Team Team|[2608.05674](http://arxiv.org/abs/2608.05674)|**[link](https://joyai-ra-05.github.io/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Libraries**|Wenjie Zhang Team|[2608.05604](http://arxiv.org/abs/2608.05604)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-05**|**VLAff: Vision-Language-Affordance Model for Unified Actionable Affordances**|Kei Okada Team|[2608.05215](http://arxiv.org/abs/2608.05215)|**[link](https://ojh6404.github.io/vlaff/)**|
+|**2026-08-06**|**DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation**|Haoang Li Team|[2608.06374](http://arxiv.org/abs/2608.06374)|null|
+|**2026-08-06**|**GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**|Zhi Wang Team|[2608.06332](http://arxiv.org/abs/2608.06332)|null|
+|**2026-08-06**|**iARCS: Iterative Agentic RL for Controllable 3D Scene Generation**|Danda Pani Paudel Team|[2608.06161](http://arxiv.org/abs/2608.06161)|null|
+|**2026-08-06**|**Visual Grounding in Zero-Shot Vision-Language Control**|I. de Zarzà Team|[2608.06154](http://arxiv.org/abs/2608.06154)|null|
+|**2026-08-06**|**IcFuzz: Fuzzing Isaac Sim with Semantic Stage Guidance and Multi-level Mutation**|Zibin Zheng Team|[2608.06088](http://arxiv.org/abs/2608.06088)|null|
+|**2026-08-06**|**Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation**|Yi Chang Team|[2608.05999](http://arxiv.org/abs/2608.05999)|null|
+|**2026-08-06**|**SkillMemo: Expert-guided Skill Memory Framework for Compositional Embodied Manipulation**|Jiwen Lu Team|[2608.05970](http://arxiv.org/abs/2608.05970)|null|
+|**2026-08-06**|**GAUGE: A Measurement-Grounded Benchmark for Physical Fidelity in Simulation Engines and Video World Models**|Weinan Zhang Team|[2608.05948](http://arxiv.org/abs/2608.05948)|null|
+|**2026-08-06**|**XEWorld: Can Action-Conditioned World Models Generalize to Unseen Robot Embodiments?**|Liang Wang Team|[2608.05799](http://arxiv.org/abs/2608.05799)|null|
+|**2026-08-06**|**GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?**|Wei Li Team|[2608.05747](http://arxiv.org/abs/2608.05747)|null|
+|**2026-08-06**|**LAWM-3D: Learning 3D-Aware Latent Actions from Human Videos for Generalizable Robot World Models**|Shu-Tao Xia Team|[2608.05706](http://arxiv.org/abs/2608.05706)|null|
+|**2026-08-06**|**JoyAI-RA 0.5: Scaling Robot Manipulation Learning via Dual Action Alignment**|JoyAI-RA Team Team|[2608.05674](http://arxiv.org/abs/2608.05674)|**[link](https://joyai-ra-05.github.io/)**|
+|**2026-08-06**|**SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Libraries**|Wenjie Zhang Team|[2608.05604](http://arxiv.org/abs/2608.05604)|null|
+|**2026-08-05**|**VLAff: Vision-Language-Affordance Model for Unified Actionable Affordances**|Kei Okada Team|[2608.05215](http://arxiv.org/abs/2608.05215)|**[link](https://ojh6404.github.io/vlaff/)**|
 |**2026-08-05**|**SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding**|Hehe Fan Team|[2608.05137](http://arxiv.org/abs/2608.05137)|null|
 |**2026-08-05**|**SpikingNav: Robust Embodied Navigation with Spiking Neural Policies**| GuoqiLi Team|[2608.05078](http://arxiv.org/abs/2608.05078)|null|
 |**2026-08-05**|**Mimir: A Neuro-Symbolic Memory System with Dynamic Grounding for Embodied Agents in Interactive Environments**|Hao Dong Team|[2608.04933](http://arxiv.org/abs/2608.04933)|null|
