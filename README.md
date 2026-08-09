@@ -1,4 +1,4 @@
-## Updated on 2026.08.08
+## Updated on 2026.08.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -70,7 +70,7 @@
 |**2026-07-31**|**STAGE: STyle-controllable Action GEneration for personalized autonomous driving**|Panfeng Huang Team|[2607.29517](http://arxiv.org/abs/2607.29517)|null|
 |**2026-07-31**|**Temporal Policy: History-Initialized Action Generation for Robotic Learning from Demonstration**|Martin Jagersand Team|[2607.29482](http://arxiv.org/abs/2607.29482)|null|
 
-<p align=right>(<a href=#updated-on-20260808>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260809>back to top</a>)</p>
 
 ## VLM
 
@@ -127,7 +127,7 @@
 |**2026-08-04**|**Attention is Case-Sensitive**|Michael Auerbach Team|[2608.03711](http://arxiv.org/abs/2608.03711)|null|
 |**2026-08-04**|**When Teachers Mislead: Spurious-Signal-Aware On-Policy Distillation**|Tiankai Li Team|[2608.03632](http://arxiv.org/abs/2608.03632)|null|
 
-<p align=right>(<a href=#updated-on-20260808>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260809>back to top</a>)</p>
 
 ## VLA
 
@@ -184,7 +184,7 @@
 |**2026-08-02**|**VLAGuard: A Framework for Evaluating and Mitigating Physical Attention Hijacking in Vision-Language-Action Robots within Wireless Sensor Networks**|Jinquan Zhang Team|[2608.01028](http://arxiv.org/abs/2608.01028)|null|
 |**2026-08-02**|**RL Bootstrapping of OpenVLA-OFT for a Novel Robot Embodiment**|Alexander Maloletov Team|[2608.01013](http://arxiv.org/abs/2608.01013)|null|
 
-<p align=right>(<a href=#updated-on-20260808>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260809>back to top</a>)</p>
 
 ## Humanoid
 
@@ -241,7 +241,7 @@
 |**2026-07-20**|**Imitation of Arm Gestures by the Semi-Humanoid Robot NICO**|Igor Farkaš Team|[2607.18197](http://arxiv.org/abs/2607.18197)|null|
 |**2026-07-20**|**World Translation: Minimizing Sim-to-Real Gap with Backward Dynamics Extraction and Unpaired Domain Translation**|Hua Chen Team|[2607.18154](http://arxiv.org/abs/2607.18154)|null|
 
-<p align=right>(<a href=#updated-on-20260808>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260809>back to top</a>)</p>
 
 ## Dexterous
 
@@ -298,7 +298,7 @@
 |**2026-07-05**|**Mask2Real-WM: Segmentation Masks as a Sim-to-Real Bridge for Controllable Dexterous World Models**|Robert K. Katzschmann Team|[2607.04546](http://arxiv.org/abs/2607.04546)|**[link](https://srl-ethz.github.io/Mask2Real-WM/)**|
 |**2026-07-04**|**ObjRetarget: An Object-Aware Motion Retargeting Framework with Anthropomorphic Arm Constraints and Polyhedral Hand Modeling**|Zhaojie Ju Team|[2607.03828](http://arxiv.org/abs/2607.03828)|null|
 
-<p align=right>(<a href=#updated-on-20260808>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260809>back to top</a>)</p>
 
 ## CrossEmbodiment
 
@@ -355,7 +355,7 @@
 |**2026-07-31**|**TRACT: Temporally Routed Action Chunks with Chronological Phase Authority for Contact-Rich Manipulation**|Kei Okada Team|[2607.29285](http://arxiv.org/abs/2607.29285)|null|
 |**2026-07-31**|**FBFM: A Training-Free Asynchronous Feedback Mechanism for Flow-Matching in World-Action Models Execution**|Shanghang Zhang Team|[2607.29235](http://arxiv.org/abs/2607.29235)|null|
 
-<p align=right>(<a href=#updated-on-20260808>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260809>back to top</a>)</p>
 
 ## WorldModel
 
@@ -412,7 +412,7 @@
 |**2026-07-31**|**DreamQAS: Learning a Decision-Useful World Model for VQE-Efficient Quantum Architecture Search**|Yongli Ren Team|[2607.29491](http://arxiv.org/abs/2607.29491)|null|
 |**2026-07-31**|**AquaJEPA: Action-Conditioned Multimodal Predictive Representations for Underwater Robot Dynamics**|Sergey Muravyov Team|[2607.29393](http://arxiv.org/abs/2607.29393)|null|
 
-<p align=right>(<a href=#updated-on-20260808>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260809>back to top</a>)</p>
 
 ## WAM
 
@@ -469,5 +469,5 @@
 |**2026-07-05**|**HALO-WA: Hybrid-Attention Latent-Guided Online Reinforcement Learning for World-Action Models**|Dapeng Zhang Team|[2607.04265](http://arxiv.org/abs/2607.04265)|null|
 |**2026-07-02**|**VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation**|Dongbin Zhao Team|[2607.02503](http://arxiv.org/abs/2607.02503)|null|
 
-<p align=right>(<a href=#updated-on-20260808>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260809>back to top</a>)</p>
 
