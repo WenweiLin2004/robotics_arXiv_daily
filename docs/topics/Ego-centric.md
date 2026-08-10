@@ -1,10 +1,15 @@
-## Updated on 2026.08.09
+## Updated on 2026.08.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-07**|**WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN**|Xuelong Li Team|[2608.07267](http://arxiv.org/abs/2608.07267)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-07**|**R2S-EGO: Dual-Proxy Refinement for Sparse-Capture Real-to-Sim**|Jie Chen Team|[2608.06827](http://arxiv.org/abs/2608.06827)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-07**|**AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models**|Jing Liu Team|[2608.06729](http://arxiv.org/abs/2608.06729)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-07**|**CrossTracer: Cross-Embodiment Navigation via VLA Model Reasoning and Trace Residuals Adapting**|Wenjun Xu Team|[2608.06688](http://arxiv.org/abs/2608.06688)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-02**|**Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes**|Wenjie Zhang Team|[2608.06402](http://arxiv.org/abs/2608.06402)|null|
 |**2026-08-06**|**$ω$ -0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation**|Shanghang Zhang Team|[2608.06375](http://arxiv.org/abs/2608.06375)|null|
 |**2026-08-06**|**HOPE: Hand-Object Pressure Estimation from Monocular Videos**|Hanbyul Joo Team|[2608.06192](http://arxiv.org/abs/2608.06192)|**[link](https://subin6.github.io/page-hope)**|
 |**2026-08-06**|**Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features**|Yan Wang Team|[2608.06008](http://arxiv.org/abs/2608.06008)|null|
@@ -150,9 +155,4 @@
 |**2026-07-01**|**OmniView-Space: Reinforcing Spatial Reasoning via Multi-Perspective Spatial Mapping**|Rongrong Ji Team|[2607.00881](http://arxiv.org/abs/2607.00881)|null|
 |**2026-07-03**|**Beyond Line of Sight: Hybrid Validation of V2X Collective Perception in Complex Scenarios**|Angelos Amditis Team|[2607.00874](http://arxiv.org/abs/2607.00874)|null|
 |**2026-07-01**|**From Prediction Uncertainty to Conformalized Distance Fields for Safe Motion Planning**|Insoon Yang Team|[2607.00776](http://arxiv.org/abs/2607.00776)|null|
-|**2026-07-01**|**Partial Skeleton Visibility for Action Recognition: A Constrained Field-of-View Approach**|Josef Kittler Team|[2607.00716](http://arxiv.org/abs/2607.00716)|null|
-|**2026-07-01**|**Imprint: Online Memory Compression for Long-Horizon Egocentric QA**|Debaditya Roy Team|[2607.00696](http://arxiv.org/abs/2607.00696)|null|
-|**2026-07-01**|**EgoGapBench: Benchmarking Egocentric Action Selection in Multi-Agent Scenes**|Seong Joon Oh Team|[2607.00547](http://arxiv.org/abs/2607.00547)|**[link](https://github.com/jhCOR/EgoGapBench)**|
-|**2026-07-01**|**DriveVer: Lightweight Trajectory Evaluator as Test-Time Verifier for Autonomous Driving**|Fuxi Wen Team|[2607.00399](http://arxiv.org/abs/2607.00399)|null|
-|**2026-07-01**|**Learning Generalizable Skill Policy with Data-Efficient Unsupervised RL**|Yusung Kim Team|[2607.00392](http://arxiv.org/abs/2607.00392)|null|
 

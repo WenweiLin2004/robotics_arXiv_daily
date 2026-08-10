@@ -1,10 +1,22 @@
-## Updated on 2026.08.09
+## Updated on 2026.08.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-07**|**Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation**|Chin-Teng Lin Team|[2608.07154](http://arxiv.org/abs/2608.07154)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-07**|**C2Dex: Contact-Consistent Reconstruction and Retargeting for Dexterous Manipulation from Monocular Video**|Xun Cao Team|[2608.07045](http://arxiv.org/abs/2608.07045)|**[link](https://k-jie.github.io/C2Dex/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-07**|**A Haptic Robot Finger Designed for Guqin Instrument Playing**|Yang Yang. Ziya Wang Team|[2608.07002](http://arxiv.org/abs/2608.07002)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-07**|**How Should I Pick a Foundation Model for My Robot? In Favor of a Community Evaluation Framework for Social Robots**|Hatice Gunes Team|[2608.06898](http://arxiv.org/abs/2608.06898)|**[link](https://sites.google.com/cam.ac.uk/forma/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-07**|**Unordered Landmark Visual Navigation**|Hui Cheng Team|[2608.06833](http://arxiv.org/abs/2608.06833)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-07**|**When Coordination Becomes a Threat: Communication Attacks in LLM-Controlled Multi-Robot Systems**|Zhiping Cai Team|[2608.06830](http://arxiv.org/abs/2608.06830)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-07**|**Capek 0.5: An Execution-Centric Vision-Language Model for Embodied Intelligence**|Jie Chen Team|[2608.06756](http://arxiv.org/abs/2608.06756)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-07**|**MemPrism: Task-Conditioned Relational Memory Views for Long-Horizon Agents**|Jingwei Song Team|[2608.06745](http://arxiv.org/abs/2608.06745)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-07**|**AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models**|Jing Liu Team|[2608.06729](http://arxiv.org/abs/2608.06729)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-07**|**CrossTracer: Cross-Embodiment Navigation via VLA Model Reasoning and Trace Residuals Adapting**|Wenjun Xu Team|[2608.06688](http://arxiv.org/abs/2608.06688)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**Discovering Conceptual Metaphors Across Topics and Media Types**|Maria Leonor Pacheco Team|[2608.06652](http://arxiv.org/abs/2608.06652)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**Fast and Accurate: An Adaptive VLA Inference Framework through Environment-aware Model Selection**|Yuxin Ma Team|[2608.06434](http://arxiv.org/abs/2608.06434)|null|
 |**2026-08-06**|**DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation**|Haoang Li Team|[2608.06374](http://arxiv.org/abs/2608.06374)|null|
 |**2026-08-06**|**GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**|Zhi Wang Team|[2608.06332](http://arxiv.org/abs/2608.06332)|null|
 |**2026-08-06**|**iARCS: Iterative Agentic RL for Controllable 3D Scene Generation**|Danda Pani Paudel Team|[2608.06161](http://arxiv.org/abs/2608.06161)|null|
@@ -19,7 +31,7 @@
 |**2026-08-06**|**JoyAI-RA 0.5: Scaling Robot Manipulation Learning via Dual Action Alignment**|JoyAI-RA Team Team|[2608.05674](http://arxiv.org/abs/2608.05674)|**[link](https://joyai-ra-05.github.io/)**|
 |**2026-08-06**|**SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Libraries**|Wenjie Zhang Team|[2608.05604](http://arxiv.org/abs/2608.05604)|null|
 |**2026-08-05**|**VLAff: Vision-Language-Affordance Model for Unified Actionable Affordances**|Kei Okada Team|[2608.05215](http://arxiv.org/abs/2608.05215)|**[link](https://ojh6404.github.io/vlaff/)**|
-|**2026-08-05**|**SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding**|Hehe Fan Team|[2608.05137](http://arxiv.org/abs/2608.05137)|null|
+|**2026-08-07**|**SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding**|Hehe Fan Team|[2608.05137](http://arxiv.org/abs/2608.05137)|null|
 |**2026-08-05**|**SpikingNav: Robust Embodied Navigation with Spiking Neural Policies**| GuoqiLi Team|[2608.05078](http://arxiv.org/abs/2608.05078)|null|
 |**2026-08-05**|**Mimir: A Neuro-Symbolic Memory System with Dynamic Grounding for Embodied Agents in Interactive Environments**|Hao Dong Team|[2608.04933](http://arxiv.org/abs/2608.04933)|null|
 |**2026-08-05**|**EmpaAva: An Open-source Agentic 3D-Avatar Empathetic Live Chatbot**|Hao Fei Team|[2608.04709](http://arxiv.org/abs/2608.04709)|**[link](https://empaava.top/)**|
@@ -143,16 +155,4 @@
 |**2026-07-24**|**Design and Human Evaluation of Tactile Withdrawal Reflexes for a Skin-Covered Robot Arm**|Matej Hoffmann Team|[2607.22249](http://arxiv.org/abs/2607.22249)|null|
 |**2026-07-24**|**Embodying Multi-Hand Manipulation Policies by Searching the Assignment and Null Spaces**|Maxim Likhachev Team|[2607.22020](http://arxiv.org/abs/2607.22020)|null|
 |**2026-07-24**|**Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents**|Yuki M Asano Team|[2607.22014](http://arxiv.org/abs/2607.22014)|null|
-|**2026-07-24**|**ACME: A Multi-Cultural, Multi-Embodiment Social-Navigation Dataset**|Harold Soh Team|[2607.21964](http://arxiv.org/abs/2607.21964)|null|
-|**2026-07-24**|**Towards Reducing Foreign Language Anxiety Using Level-Appropriate Embodied Conversational Agents**|Yuan Sun Team|[2607.21887](http://arxiv.org/abs/2607.21887)|null|
-|**2026-07-23**|**Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering**|Furong Huang Team|[2607.21571](http://arxiv.org/abs/2607.21571)|null|
-|**2026-07-23**|**GS-Agent: Creating 4D Physical Worlds With Generative Simulation**|Chuang Gan Team|[2607.21522](http://arxiv.org/abs/2607.21522)|null|
-|**2026-07-23**|**VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method**|Wenjun Wu Team|[2607.21400](http://arxiv.org/abs/2607.21400)|**[link](https://admire-ljb.github.io/VoLN-UAV/)**|
-|**2026-07-23**|**Embodied inquiry with AI as facilitator: an exploratory case study**|Paola Damiani Team|[2607.21349](http://arxiv.org/abs/2607.21349)|null|
-|**2026-07-31**|**Robostral Navigate**|Zsofia Csakany Team|[2607.20785](http://arxiv.org/abs/2607.20785)|null|
-|**2026-07-22**|**Language Models Embody and Amplify Human Cognitive Distortions: What Is to Be Done?**|Mahzarin R. Banaji Team|[2607.20695](http://arxiv.org/abs/2607.20695)|null|
-|**2026-07-24**|**Towards Capability-Aware Traversability Navigation for Unstructured Environments**|Marcelo Becker Team|[2607.20679](http://arxiv.org/abs/2607.20679)|**[link](https://capability-aware-traversability.github.io/)**|
-|**2026-07-22**|**surprisal is Not a Theory**|Cassandra L. Jacobs Team|[2607.20208](http://arxiv.org/abs/2607.20208)|null|
-|**2026-07-22**|**SeededGrasp: Language-Guided Grasping in Complex Scenes with Multiple Embodiments**|Igor Gilitschenski Team|[2607.20207](http://arxiv.org/abs/2607.20207)|null|
-|**2026-07-22**|**ReferTrack: Referring Then Tracking for Embodied Visual Tracking**|Hong Zhang Team|[2607.20061](http://arxiv.org/abs/2607.20061)|null|
 
