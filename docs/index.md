@@ -405,7 +405,7 @@ layout: default
 |**2026-08-04**|**UniNav: A Unified World-Action Diffusion Model for Visual Navigation**|Changhao Chen Team|[2608.03244](http://arxiv.org/abs/2608.03244)|null|
 |**2026-08-03**|**CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs**|Ningxin Su Team|[2608.02578](http://arxiv.org/abs/2608.02578)|null|
 |**2026-08-03**|**Faster-WAM: Do World Action Models Need Deep Action Modules?**|Yingxue Zhang Team|[2608.02365](http://arxiv.org/abs/2608.02365)|null|
-|**2026-08-03**|**World Action Models in Real Time: An Empirical Study of Smooth Execution via Asynchronous Deployment**| Motubrain Team Team|[2608.01880](http://arxiv.org/abs/2608.01880)|null|
+|**2026-08-03**|**World Action Models in Real Time: An Empirical Study of Smooth Execution via Asynchronous Deployment**|Motubrain Team Team|[2608.01880](http://arxiv.org/abs/2608.01880)|null|
 |**2026-08-02**|**SG-WAM: Self-Guided World Modeling in Geometry-Aware Policy Space**|Haiyue Zhu Team|[2608.01397](http://arxiv.org/abs/2608.01397)|null|
 |**2026-08-02**|**EndoWAM: A Grounded World-Action Model for Generalizable Endoscopic Navigation**|Hongliang Ren Team|[2608.01221](http://arxiv.org/abs/2608.01221)|null|
 |**2026-08-06**|**DynamicWAM: Dual-Path Motion Conditioning for World-Action Models in Dynamic Manipulation**|Zhibo Pang Team|[2608.00793](http://arxiv.org/abs/2608.00793)|**[link](https://dynamicwam.github.io/)**|
@@ -421,7 +421,7 @@ layout: default
 |**2026-07-28**|**HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone**|Xiaofei Li Team|[2607.25895](http://arxiv.org/abs/2607.25895)|**[link](https://cloud.simpleai.tech/simple-world-lab/hifi-umi/)**|
 |**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Shanghang Zhang Team|[2607.24744](http://arxiv.org/abs/2607.24744)|**[link](https://jasper-aaa.github.io/embodied-data-pyramid/)**|
 |**2026-07-30**|**LeapBot-WA: World-Anchor Action Models via Predictive Latent Alignments**|Jun Ma Team|[2607.23969](http://arxiv.org/abs/2607.23969)|null|
-|**2026-07-26**|**$N_0$ -TWAM: Scaling Tactile-Native World-Action Model for Contact-Rich Manipulation**| Fudan TEAI Team Team|[2607.23783](http://arxiv.org/abs/2607.23783)|null|
+|**2026-07-26**|**$N_0$ -TWAM: Scaling Tactile-Native World-Action Model for Contact-Rich Manipulation**|Fudan TEAI Team Team|[2607.23783](http://arxiv.org/abs/2607.23783)|null|
 |**2026-07-22**|**PerceptDrive: Perception Prior World-Action Modeling with Adaptive Expert Routing for End-to-End Autonomous Driving**|Wenbo Ding Team|[2607.20175](http://arxiv.org/abs/2607.20175)|null|
 |**2026-07-21**|**WorldScape Policy 2.0: Empowering Steerable World Action Modeling with Reasoning-Augmented Memory**|Wei Wu Team|[2607.18840](http://arxiv.org/abs/2607.18840)|null|
 |**2026-07-28**|**RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning**|Yingxue Zhang Team|[2607.18060](http://arxiv.org/abs/2607.18060)|null|
