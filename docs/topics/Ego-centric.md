@@ -1,16 +1,23 @@
-## Updated on 2026.08.10
+## Updated on 2026.08.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-07**|**WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN**|Xuelong Li Team|[2608.07267](http://arxiv.org/abs/2608.07267)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-07**|**R2S-EGO: Dual-Proxy Refinement for Sparse-Capture Real-to-Sim**|Jie Chen Team|[2608.06827](http://arxiv.org/abs/2608.06827)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-07**|**AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models**|Jing Liu Team|[2608.06729](http://arxiv.org/abs/2608.06729)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-07**|**CrossTracer: Cross-Embodiment Navigation via VLA Model Reasoning and Trace Residuals Adapting**|Wenjun Xu Team|[2608.06688](http://arxiv.org/abs/2608.06688)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-02**|**Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes**|Wenjie Zhang Team|[2608.06402](http://arxiv.org/abs/2608.06402)|null|
-|**2026-08-06**|**$ω$ -0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation**|Shanghang Zhang Team|[2608.06375](http://arxiv.org/abs/2608.06375)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-10**|**EgoHieraLoc: A Cortically Inspired Hierarchical Segmentation-Guided Framework for Egocentric Visual Query Localization**|Yu Liu Team|[2608.09656](http://arxiv.org/abs/2608.09656)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-10**|**From Semantic Grounding to Decision Optimization: A Unified Framework for Long-Horizon UAV Vision-Language Navigation**|Di Huang Team|[2608.09564](http://arxiv.org/abs/2608.09564)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-10**|**DH-VLM: Dual-Horizon Cooperative Latent Reasoning for Autonomous Driving**|Zhisheng Niu Team|[2608.09333](http://arxiv.org/abs/2608.09333)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-09**|**Goal-oriented Navigation Instruction Generation with Tour Video Priors**|Wuyue Zhao Team|[2608.08596](http://arxiv.org/abs/2608.08596)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-08**|**Ego-OSCAR: Egocentric Open source Stereo CAptuRe System**|Abhishek Anand Team|[2608.08285](http://arxiv.org/abs/2608.08285)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-08**|**EgoTrack3D: A Modular Framework for Egocentric 3D Object Tracking**|Xi Wang Team|[2608.08016](http://arxiv.org/abs/2608.08016)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-08**|**SCOUT: Self-Checking and Recovery-Aware Tool-Thought Agents for Ultra-Long Egocentric Video Reasoning**|Guanbin Li Team|[2608.07959](http://arxiv.org/abs/2608.07959)|null|
+|**2026-08-07**|**WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN**|Xuelong Li Team|[2608.07267](http://arxiv.org/abs/2608.07267)|null|
+|**2026-08-07**|**R2S-EGO: Dual-Proxy Refinement for Sparse-Capture Real-to-Sim**|Jie Chen Team|[2608.06827](http://arxiv.org/abs/2608.06827)|null|
+|**2026-08-07**|**AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models**|Jing Liu Team|[2608.06729](http://arxiv.org/abs/2608.06729)|null|
+|**2026-08-07**|**CrossTracer: Cross-Embodiment Navigation via VLA Model Reasoning and Trace Residuals Adapting**|Wenjun Xu Team|[2608.06688](http://arxiv.org/abs/2608.06688)|null|
+|**2026-08-02**|**Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes**|Wenjie Zhang Team|[2608.06402](http://arxiv.org/abs/2608.06402)|null|
+|**2026-08-09**|**$ω$ -0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation**|Shanghang Zhang Team|[2608.06375](http://arxiv.org/abs/2608.06375)|null|
 |**2026-08-06**|**HOPE: Hand-Object Pressure Estimation from Monocular Videos**|Hanbyul Joo Team|[2608.06192](http://arxiv.org/abs/2608.06192)|**[link](https://subin6.github.io/page-hope)**|
 |**2026-08-06**|**Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features**|Yan Wang Team|[2608.06008](http://arxiv.org/abs/2608.06008)|null|
 |**2026-08-06**|**GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?**|Wei Li Team|[2608.05747](http://arxiv.org/abs/2608.05747)|null|
@@ -54,7 +61,7 @@
 |**2026-07-28**|**Shared Voxel-Map-Based Cooperative Indoor UAV Guidance with a Multi-Agent Soft Actor-Critic Controller**|Nabil Aouf Team|[2607.25728](http://arxiv.org/abs/2607.25728)|null|
 |**2026-07-28**|**Leveraging Semantic Maps for City-Scale Cross-View Localization**|Nicholas Roy Team|[2607.25215](http://arxiv.org/abs/2607.25215)|null|
 |**2026-07-26**|**Egocentric Station Holding of Robotic Fish in Unknown Turbulent Background Flow**|Yang Wang Team|[2607.24860](http://arxiv.org/abs/2607.24860)|null|
-|**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Shanghang Zhang Team|[2607.24744](http://arxiv.org/abs/2607.24744)|**[link](https://jasper-aaa.github.io/embodied-data-pyramid/)**|
+|**2026-08-08**|**Data Pyramid for Embodied Manipulation: A Survey**|Shanghang Zhang Team|[2607.24744](http://arxiv.org/abs/2607.24744)|**[link](https://jasper-aaa.github.io/embodied-data-pyramid/)**|
 |**2026-07-27**|**EgoPlay: Event-Triggered Video Editing for Egocentric Streams**|Rameen Abdal Team|[2607.24560](http://arxiv.org/abs/2607.24560)|**[link](https://egoplay2026.github.io/egoplay)**|
 |**2026-07-27**|**FloAff-Kitchen: Bridging Navigation and Manipulation via Canonical and Progressive Floor Affordance Learning**|Jianxin Wang Team|[2607.24207](http://arxiv.org/abs/2607.24207)|null|
 |**2026-07-26**|**Topological Data Analysis and Graph-Theoretic Approaches for Tennis Match Prediction**|Angelika Elderbrook Team|[2607.23509](http://arxiv.org/abs/2607.23509)|null|
@@ -148,11 +155,4 @@
 |**2026-07-02**|**HandsOnWorld: Unconstrained Egocentric Video Generation with Camera-Disentangled Hand Control**|Yebin Liu Team|[2607.02075](http://arxiv.org/abs/2607.02075)|null|
 |**2026-07-02**|**Comprehensive Robustness Analysis of LiDAR-based 3D Object Detection in Autonomous Driving**|Tobias Meisen Team|[2607.02074](http://arxiv.org/abs/2607.02074)|null|
 |**2026-07-02**|**C2E: Boosting Ego-Only 3D Object Detection via Multi-Teacher Contrastive Knowledge Distillation**|Chenglu Wen Team|[2607.01827](http://arxiv.org/abs/2607.01827)|null|
-|**2026-07-01**|**How Much Future Helps? A Controlled Study of Future-Privileged Supervision for Causal Egocentric Gaze Estimation**|Yapeng Tian Team|[2607.01437](http://arxiv.org/abs/2607.01437)|null|
-|**2026-07-01**|**SD-RouteFusion: Ego-Trajectory Prediction with SD-Map Route Conditioning**|Junsheng Fu Team|[2607.01139](http://arxiv.org/abs/2607.01139)|null|
-|**2026-07-01**|**LongVQUBench: Benchmarking Long-Term Video Quality Understanding of Vision-Language Models**|Weisi Lin Team|[2607.01086](http://arxiv.org/abs/2607.01086)|null|
-|**2026-07-01**|**Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation**|Zongqing Lu Team|[2607.01067](http://arxiv.org/abs/2607.01067)|null|
-|**2026-07-01**|**OmniView-Space: Reinforcing Spatial Reasoning via Multi-Perspective Spatial Mapping**|Rongrong Ji Team|[2607.00881](http://arxiv.org/abs/2607.00881)|null|
-|**2026-07-03**|**Beyond Line of Sight: Hybrid Validation of V2X Collective Perception in Complex Scenarios**|Angelos Amditis Team|[2607.00874](http://arxiv.org/abs/2607.00874)|null|
-|**2026-07-01**|**From Prediction Uncertainty to Conformalized Distance Fields for Safe Motion Planning**|Insoon Yang Team|[2607.00776](http://arxiv.org/abs/2607.00776)|null|
 
