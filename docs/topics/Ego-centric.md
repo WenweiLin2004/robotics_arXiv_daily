@@ -1,17 +1,22 @@
-## Updated on 2026.08.11
+## Updated on 2026.08.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-10**|**EgoHieraLoc: A Cortically Inspired Hierarchical Segmentation-Guided Framework for Egocentric Visual Query Localization**|Yu Liu Team|[2608.09656](http://arxiv.org/abs/2608.09656)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-10**|**From Semantic Grounding to Decision Optimization: A Unified Framework for Long-Horizon UAV Vision-Language Navigation**|Di Huang Team|[2608.09564](http://arxiv.org/abs/2608.09564)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-10**|**DH-VLM: Dual-Horizon Cooperative Latent Reasoning for Autonomous Driving**|Zhisheng Niu Team|[2608.09333](http://arxiv.org/abs/2608.09333)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-09**|**Goal-oriented Navigation Instruction Generation with Tour Video Priors**|Wuyue Zhao Team|[2608.08596](http://arxiv.org/abs/2608.08596)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-08**|**Ego-OSCAR: Egocentric Open source Stereo CAptuRe System**|Abhishek Anand Team|[2608.08285](http://arxiv.org/abs/2608.08285)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-08**|**EgoTrack3D: A Modular Framework for Egocentric 3D Object Tracking**|Xi Wang Team|[2608.08016](http://arxiv.org/abs/2608.08016)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-08**|**SCOUT: Self-Checking and Recovery-Aware Tool-Thought Agents for Ultra-Long Egocentric Video Reasoning**|Guanbin Li Team|[2608.07959](http://arxiv.org/abs/2608.07959)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-11**|**HUI360: A 360° Egocentric Dataset and Baselines for Human-Robot Interaction Anticipation**|Serena Ivaldi Team|[2608.11051](http://arxiv.org/abs/2608.11051)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-11**|**R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video**|Meng Wang Team|[2608.11017](http://arxiv.org/abs/2608.11017)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-11**|**Visual Geometry Foundation-Aware Gaussians for Single-Frame Surround-View Driving Reconstruction**|Wei Gao Team|[2608.10682](http://arxiv.org/abs/2608.10682)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-11**|**Toward the Cognitive--Physical Limits of Embodied Intelligence through a World-Model-Centric Autonomous Racing Agent**|Chen Lv Team|[2608.10618](http://arxiv.org/abs/2608.10618)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-11**|**JitTrack: Onboard Multi-Object Tracking Against Viewpoint Jitter for Agile UAVs**|Feitian Zhang Team|[2608.10485](http://arxiv.org/abs/2608.10485)|null|
+|**2026-08-10**|**EgoHieraLoc: A Cortically Inspired Hierarchical Segmentation-Guided Framework for Egocentric Visual Query Localization**|Yu Liu Team|[2608.09656](http://arxiv.org/abs/2608.09656)|null|
+|**2026-08-10**|**From Semantic Grounding to Decision Optimization: A Unified Framework for Long-Horizon UAV Vision-Language Navigation**|Di Huang Team|[2608.09564](http://arxiv.org/abs/2608.09564)|null|
+|**2026-08-10**|**DH-VLM: Dual-Horizon Cooperative Latent Reasoning for Autonomous Driving**|Zhisheng Niu Team|[2608.09333](http://arxiv.org/abs/2608.09333)|null|
+|**2026-08-09**|**Goal-oriented Navigation Instruction Generation with Tour Video Priors**|Wuyue Zhao Team|[2608.08596](http://arxiv.org/abs/2608.08596)|null|
+|**2026-08-08**|**Ego-OSCAR: Egocentric Open source Stereo CAptuRe System**|Abhishek Anand Team|[2608.08285](http://arxiv.org/abs/2608.08285)|null|
+|**2026-08-08**|**EgoTrack3D: A Modular Framework for Egocentric 3D Object Tracking**|Xi Wang Team|[2608.08016](http://arxiv.org/abs/2608.08016)|null|
+|**2026-08-08**|**SCOUT: Self-Checking and Recovery-Aware Tool-Thought Agents for Ultra-Long Egocentric Video Reasoning**|Guanbin Li Team|[2608.07959](http://arxiv.org/abs/2608.07959)|null|
 |**2026-08-07**|**WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN**|Xuelong Li Team|[2608.07267](http://arxiv.org/abs/2608.07267)|null|
 |**2026-08-07**|**R2S-EGO: Dual-Proxy Refinement for Sparse-Capture Real-to-Sim**|Jie Chen Team|[2608.06827](http://arxiv.org/abs/2608.06827)|null|
 |**2026-08-07**|**AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models**|Jing Liu Team|[2608.06729](http://arxiv.org/abs/2608.06729)|null|
@@ -150,9 +155,4 @@
 |**2026-07-02**|**S-EMBER: A Large-Scale Benchmark for Streaming Egocentric Memory Retrieval**|Wen-Tau Yih Team|[2607.02689](http://arxiv.org/abs/2607.02689)|null|
 |**2026-07-02**|**ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability**|Adriano Veloso Team|[2607.02686](http://arxiv.org/abs/2607.02686)|null|
 |**2026-07-02**|**Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs**|Giuseppe Averta Team|[2607.02425](http://arxiv.org/abs/2607.02425)|**[link](https://francescapistilli.github.io/GLEN)**|
-|**2026-07-02**|**LIME: Learning Intent-aware Camera Motion from Egocentric Video**|Hermann Blum Team|[2607.02417](http://arxiv.org/abs/2607.02417)|null|
-|**2026-07-02**|**LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension**|Chenhui Chu Team|[2607.02096](http://arxiv.org/abs/2607.02096)|**[link](https://github.com/shunya-kato/LongEgoRefer)**|
-|**2026-07-02**|**HandsOnWorld: Unconstrained Egocentric Video Generation with Camera-Disentangled Hand Control**|Yebin Liu Team|[2607.02075](http://arxiv.org/abs/2607.02075)|null|
-|**2026-07-02**|**Comprehensive Robustness Analysis of LiDAR-based 3D Object Detection in Autonomous Driving**|Tobias Meisen Team|[2607.02074](http://arxiv.org/abs/2607.02074)|null|
-|**2026-07-02**|**C2E: Boosting Ego-Only 3D Object Detection via Multi-Teacher Contrastive Knowledge Distillation**|Chenglu Wen Team|[2607.01827](http://arxiv.org/abs/2607.01827)|null|
 
