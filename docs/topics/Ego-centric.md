@@ -1,20 +1,24 @@
-## Updated on 2026.08.12
+## Updated on 2026.08.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-11**|**HUI360: A 360° Egocentric Dataset and Baselines for Human-Robot Interaction Anticipation**|Serena Ivaldi Team|[2608.11051](http://arxiv.org/abs/2608.11051)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-11**|**R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video**|Meng Wang Team|[2608.11017](http://arxiv.org/abs/2608.11017)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-11**|**Visual Geometry Foundation-Aware Gaussians for Single-Frame Surround-View Driving Reconstruction**|Wei Gao Team|[2608.10682](http://arxiv.org/abs/2608.10682)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-11**|**Toward the Cognitive--Physical Limits of Embodied Intelligence through a World-Model-Centric Autonomous Racing Agent**|Chen Lv Team|[2608.10618](http://arxiv.org/abs/2608.10618)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-11**|**JitTrack: Onboard Multi-Object Tracking Against Viewpoint Jitter for Agile UAVs**|Feitian Zhang Team|[2608.10485](http://arxiv.org/abs/2608.10485)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-12**|**HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing**|Junchi Yan Team|[2608.12122](http://arxiv.org/abs/2608.12122)|**[link](https://handedit.github.io/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-12**|**The SLT 2026 SmartGlasses Challenge: Benchmarking Egocentric Multi-Talker Speech Recognition and Understanding with Audio-Language Models**|Lei Xie Team|[2608.12034](http://arxiv.org/abs/2608.12034)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-12**|**How Can Driving World Models Do Counterfactual Prediction?**|Ziran Wang Team|[2608.11601](http://arxiv.org/abs/2608.11601)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-11**|**Language-Structured Relational Q-Learning for Threat-Aware Control in Safety-Critical Driving**|Ardhendu Behera Team|[2608.11498](http://arxiv.org/abs/2608.11498)|null|
+|**2026-08-11**|**HUI360: A 360° Egocentric Dataset and Baselines for Human-Robot Interaction Anticipation**|Serena Ivaldi Team|[2608.11051](http://arxiv.org/abs/2608.11051)|null|
+|**2026-08-11**|**R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video**|Meng Wang Team|[2608.11017](http://arxiv.org/abs/2608.11017)|null|
+|**2026-08-11**|**Visual Geometry Foundation-Aware Gaussians for Single-Frame Surround-View Driving Reconstruction**|Wei Gao Team|[2608.10682](http://arxiv.org/abs/2608.10682)|null|
+|**2026-08-11**|**Toward the Cognitive--Physical Limits of Embodied Intelligence through a World-Model-Centric Autonomous Racing Agent**|Chen Lv Team|[2608.10618](http://arxiv.org/abs/2608.10618)|null|
+|**2026-08-11**|**JitTrack: Onboard Multi-Object Tracking Against Viewpoint Jitter for Agile UAVs**|Feitian Zhang Team|[2608.10485](http://arxiv.org/abs/2608.10485)|null|
 |**2026-08-10**|**EgoHieraLoc: A Cortically Inspired Hierarchical Segmentation-Guided Framework for Egocentric Visual Query Localization**|Yu Liu Team|[2608.09656](http://arxiv.org/abs/2608.09656)|null|
 |**2026-08-10**|**From Semantic Grounding to Decision Optimization: A Unified Framework for Long-Horizon UAV Vision-Language Navigation**|Di Huang Team|[2608.09564](http://arxiv.org/abs/2608.09564)|null|
 |**2026-08-10**|**DH-VLM: Dual-Horizon Cooperative Latent Reasoning for Autonomous Driving**|Zhisheng Niu Team|[2608.09333](http://arxiv.org/abs/2608.09333)|null|
 |**2026-08-09**|**Goal-oriented Navigation Instruction Generation with Tour Video Priors**|Wuyue Zhao Team|[2608.08596](http://arxiv.org/abs/2608.08596)|null|
-|**2026-08-08**|**Ego-OSCAR: Egocentric Open source Stereo CAptuRe System**|Abhishek Anand Team|[2608.08285](http://arxiv.org/abs/2608.08285)|null|
+|**2026-08-12**|**Ego-OSCAR: Egocentric Open source Stereo CAptuRe System**|Abhishek Anand Team|[2608.08285](http://arxiv.org/abs/2608.08285)|null|
 |**2026-08-08**|**EgoTrack3D: A Modular Framework for Egocentric 3D Object Tracking**|Xi Wang Team|[2608.08016](http://arxiv.org/abs/2608.08016)|null|
 |**2026-08-08**|**SCOUT: Self-Checking and Recovery-Aware Tool-Thought Agents for Ultra-Long Egocentric Video Reasoning**|Guanbin Li Team|[2608.07959](http://arxiv.org/abs/2608.07959)|null|
 |**2026-08-07**|**WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN**|Xuelong Li Team|[2608.07267](http://arxiv.org/abs/2608.07267)|null|
@@ -151,8 +155,4 @@
 |**2026-07-23**|**CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-Centric 3D Scene Generation**|Huan Wang Team|[2607.03819](http://arxiv.org/abs/2607.03819)|null|
 |**2026-07-03**|**Responsibility Distribution Estimation in Ego-View Accident Videos with Multimodal Large Language Models**|Andrew Shin Team|[2607.03591](http://arxiv.org/abs/2607.03591)|null|
 |**2026-07-03**|**OpenGlass: A Sensing-Computing Split Architecture for Local MLLM-Driven Real-Time Visual Assistance**|Yuan Yao Team|[2607.03213](http://arxiv.org/abs/2607.03213)|null|
-|**2026-07-03**|**R3D: Quantitative 3D Spatial Reasoning for Egocentric Wearables**|Seungwhan Moon Team|[2607.02921](http://arxiv.org/abs/2607.02921)|null|
-|**2026-07-02**|**S-EMBER: A Large-Scale Benchmark for Streaming Egocentric Memory Retrieval**|Wen-Tau Yih Team|[2607.02689](http://arxiv.org/abs/2607.02689)|null|
-|**2026-07-02**|**ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability**|Adriano Veloso Team|[2607.02686](http://arxiv.org/abs/2607.02686)|null|
-|**2026-07-02**|**Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs**|Giuseppe Averta Team|[2607.02425](http://arxiv.org/abs/2607.02425)|**[link](https://francescapistilli.github.io/GLEN)**|
 
