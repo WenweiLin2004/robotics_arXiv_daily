@@ -1,14 +1,22 @@
-## Updated on 2026.08.13
+## Updated on 2026.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-12**|**HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing**|Junchi Yan Team|[2608.12122](http://arxiv.org/abs/2608.12122)|**[link](https://handedit.github.io/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-12**|**The SLT 2026 SmartGlasses Challenge: Benchmarking Egocentric Multi-Talker Speech Recognition and Understanding with Audio-Language Models**|Lei Xie Team|[2608.12034](http://arxiv.org/abs/2608.12034)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-12**|**How Can Driving World Models Do Counterfactual Prediction?**|Ziran Wang Team|[2608.11601](http://arxiv.org/abs/2608.11601)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-11**|**Language-Structured Relational Q-Learning for Threat-Aware Control in Safety-Critical Driving**|Ardhendu Behera Team|[2608.11498](http://arxiv.org/abs/2608.11498)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**TraVEL: Trajectory-Guided Video Embedding Learning for Driving-Video Retrieval**|Burhan Yaman Team|[2608.13495](http://arxiv.org/abs/2608.13495)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**Towards Context-Aware Clinical Motion Understanding in Daily Living at Home: Freezing of Gait Detection with Egocentric Vision**|Benjamin Filtjens Team|[2608.13283](http://arxiv.org/abs/2608.13283)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**EgoMonth: A Month-Level Egocentric Video Benchmark for Long-Term Spatiotemporal Memory**|Zili Yi Team|[2608.13113](http://arxiv.org/abs/2608.13113)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models**|Ning Liu Team|[2608.13049](http://arxiv.org/abs/2608.13049)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**EgoPHI: Estimating Contact and Force from Egocentric Vision**|Christian Holz Team|[2608.13014](http://arxiv.org/abs/2608.13014)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**HumanoidVLN: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments**|Quan Nguyen Team|[2608.12860](http://arxiv.org/abs/2608.12860)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-12**|**EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory**|Ke Sun Team|[2608.12627](http://arxiv.org/abs/2608.12627)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-12**|**Can Vision-Language Models Assess Proxemic Risk from Egocentric Robot Images?**|Dmytro Kuzmenko Team|[2608.12515](http://arxiv.org/abs/2608.12515)|null|
+|**2026-08-12**|**HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing**|Junchi Yan Team|[2608.12122](http://arxiv.org/abs/2608.12122)|**[link](https://handedit.github.io/)**|
+|**2026-08-12**|**The SLT 2026 SmartGlasses Challenge: Benchmarking Egocentric Multi-Talker Speech Recognition and Understanding with Audio-Language Models**|Lei Xie Team|[2608.12034](http://arxiv.org/abs/2608.12034)|null|
+|**2026-08-12**|**How Can Driving World Models Do Counterfactual Prediction?**|Ziran Wang Team|[2608.11601](http://arxiv.org/abs/2608.11601)|null|
+|**2026-08-11**|**Language-Structured Relational Q-Learning for Threat-Aware Control in Safety-Critical Driving**|Ardhendu Behera Team|[2608.11498](http://arxiv.org/abs/2608.11498)|null|
 |**2026-08-11**|**HUI360: A 360° Egocentric Dataset and Baselines for Human-Robot Interaction Anticipation**|Serena Ivaldi Team|[2608.11051](http://arxiv.org/abs/2608.11051)|null|
 |**2026-08-11**|**R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video**|Meng Wang Team|[2608.11017](http://arxiv.org/abs/2608.11017)|null|
 |**2026-08-11**|**Visual Geometry Foundation-Aware Gaussians for Single-Frame Surround-View Driving Reconstruction**|Wei Gao Team|[2608.10682](http://arxiv.org/abs/2608.10682)|null|
@@ -147,12 +155,4 @@
 |**2026-07-06**|**ECO: Incremental Ego-Centric Octree Update for Point Streams**|Duksu Kim Team|[2607.05092](http://arxiv.org/abs/2607.05092)|null|
 |**2026-07-06**|**Cam2Sim: Neural Scenario Reconstruction for Closed-Loop Autonomous Driving Simulation**|Andrea Stocco Team|[2607.04770](http://arxiv.org/abs/2607.04770)|null|
 |**2026-07-06**|**A Reliable Context-Aware and Temporal Planning Framework for Autonomous Driving**|Zhiqiu Huang Team|[2607.04689](http://arxiv.org/abs/2607.04689)|null|
-|**2026-07-06**|**PixelPilot: Scalable Vision-Language-Action Models for End-to-End Autonomous Driving**|Chao Ma Team|[2607.04637](http://arxiv.org/abs/2607.04637)|null|
-|**2026-07-05**|**ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI**|Xiaogang Wang Team|[2607.04426](http://arxiv.org/abs/2607.04426)|null|
-|**2026-07-04**|**SAGE: Synchronized Action-Gaze Recognition and Anticipation for Human Behavior Understanding**|Nakul Agarwal Team|[2607.04017](http://arxiv.org/abs/2607.04017)|null|
-|**2026-07-04**|**Worldscape-MoE: A Unified Mixture-of-Experts World Model for Scalable Heterogeneous Action Control**|Yong Li Team|[2607.03964](http://arxiv.org/abs/2607.03964)|null|
-|**2026-07-04**|**EgoInertia-MI: A Multimodal Egocentric Vision and IMU Benchmark for Motor Impairment Assessment**|DK Arvind Team|[2607.03934](http://arxiv.org/abs/2607.03934)|null|
-|**2026-07-23**|**CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-Centric 3D Scene Generation**|Huan Wang Team|[2607.03819](http://arxiv.org/abs/2607.03819)|null|
-|**2026-07-03**|**Responsibility Distribution Estimation in Ego-View Accident Videos with Multimodal Large Language Models**|Andrew Shin Team|[2607.03591](http://arxiv.org/abs/2607.03591)|null|
-|**2026-07-03**|**OpenGlass: A Sensing-Computing Split Architecture for Local MLLM-Driven Real-Time Visual Assistance**|Yuan Yao Team|[2607.03213](http://arxiv.org/abs/2607.03213)|null|
 
