@@ -1,18 +1,18 @@
-## Updated on 2026.08.14
+## Updated on 2026.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**TraVEL: Trajectory-Guided Video Embedding Learning for Driving-Video Retrieval**|Burhan Yaman Team|[2608.13495](http://arxiv.org/abs/2608.13495)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**Towards Context-Aware Clinical Motion Understanding in Daily Living at Home: Freezing of Gait Detection with Egocentric Vision**|Benjamin Filtjens Team|[2608.13283](http://arxiv.org/abs/2608.13283)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**EgoMonth: A Month-Level Egocentric Video Benchmark for Long-Term Spatiotemporal Memory**|Zili Yi Team|[2608.13113](http://arxiv.org/abs/2608.13113)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models**|Ning Liu Team|[2608.13049](http://arxiv.org/abs/2608.13049)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**EgoPHI: Estimating Contact and Force from Egocentric Vision**|Christian Holz Team|[2608.13014](http://arxiv.org/abs/2608.13014)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**HumanoidVLN: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments**|Quan Nguyen Team|[2608.12860](http://arxiv.org/abs/2608.12860)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-12**|**EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory**|Ke Sun Team|[2608.12627](http://arxiv.org/abs/2608.12627)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-12**|**Can Vision-Language Models Assess Proxemic Risk from Egocentric Robot Images?**|Dmytro Kuzmenko Team|[2608.12515](http://arxiv.org/abs/2608.12515)|null|
+|**2026-08-13**|**TraVEL: Trajectory-Guided Video Embedding Learning for Driving-Video Retrieval**|Burhan Yaman Team|[2608.13495](http://arxiv.org/abs/2608.13495)|null|
+|**2026-08-13**|**Towards Context-Aware Clinical Motion Understanding in Daily Living at Home: Freezing of Gait Detection with Egocentric Vision**|Benjamin Filtjens Team|[2608.13283](http://arxiv.org/abs/2608.13283)|null|
+|**2026-08-13**|**EgoMonth: A Month-Level Egocentric Video Benchmark for Long-Term Spatiotemporal Memory**|Zili Yi Team|[2608.13113](http://arxiv.org/abs/2608.13113)|null|
+|**2026-08-13**|**H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models**|Ning Liu Team|[2608.13049](http://arxiv.org/abs/2608.13049)|null|
+|**2026-08-13**|**EgoPHI: Estimating Contact and Force from Egocentric Vision**|Christian Holz Team|[2608.13014](http://arxiv.org/abs/2608.13014)|null|
+|**2026-08-13**|**HumanoidVLN: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments**|Quan Nguyen Team|[2608.12860](http://arxiv.org/abs/2608.12860)|null|
+|**2026-08-12**|**EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory**|Ke Sun Team|[2608.12627](http://arxiv.org/abs/2608.12627)|null|
+|**2026-08-12**|**Can Vision-Language Models Assess Proxemic Risk from Egocentric Robot Images?**|Dmytro Kuzmenko Team|[2608.12515](http://arxiv.org/abs/2608.12515)|null|
 |**2026-08-12**|**HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing**|Junchi Yan Team|[2608.12122](http://arxiv.org/abs/2608.12122)|**[link](https://handedit.github.io/)**|
 |**2026-08-12**|**The SLT 2026 SmartGlasses Challenge: Benchmarking Egocentric Multi-Talker Speech Recognition and Understanding with Audio-Language Models**|Lei Xie Team|[2608.12034](http://arxiv.org/abs/2608.12034)|null|
 |**2026-08-12**|**How Can Driving World Models Do Counterfactual Prediction?**|Ziran Wang Team|[2608.11601](http://arxiv.org/abs/2608.11601)|null|

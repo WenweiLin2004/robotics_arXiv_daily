@@ -1,22 +1,22 @@
-## Updated on 2026.08.14
+## Updated on 2026.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models**|Lei Zhu Team|[2608.13453](http://arxiv.org/abs/2608.13453)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**Enhancing Virtual Agents through SLMs and Edge-Computing: An Exploratory Evaluation of Think and Memory Processes**|Louis Nisiotis Team|[2608.13420](http://arxiv.org/abs/2608.13420)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**Reasoning for Social Audio-Visual Question Answering: Where Do We Stand?**|Stéphane Lathuilière Team|[2608.13239](http://arxiv.org/abs/2608.13239)|**[link](https://github.com/koenv759/VanillaSFT)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**Semantic Radiance Fields as Simulators for Spatial Reasoning in Real-World Scenes**|Bogdan Franczyk Team|[2608.13095](http://arxiv.org/abs/2608.13095)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models**|Ning Liu Team|[2608.13049](http://arxiv.org/abs/2608.13049)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**HumanoidVLN: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments**|Quan Nguyen Team|[2608.12860](http://arxiv.org/abs/2608.12860)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**Energy Efficiency Maximization for FAS-Assisted Downlink Communication in Mobile Embodied AI Networks (MEAN) over Interference Channels**|Zhaoyang Zhang Team|[2608.12849](http://arxiv.org/abs/2608.12849)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence**|Hao Chen Team|[2608.12743](http://arxiv.org/abs/2608.12743)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**FUSE: Active Functional Affordance Grounding through Adaptive Semantic-Geometric Evidence Acquisition**|Sathyanarayanan N. Aakur Team|[2608.12683](http://arxiv.org/abs/2608.12683)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-12**|**Scaling Automatic Research Agents via World Models**|Zhenyu Liao Team|[2608.12564](http://arxiv.org/abs/2608.12564)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-12**|**Can Vision-Language Models Assess Proxemic Risk from Egocentric Robot Images?**|Dmytro Kuzmenko Team|[2608.12515](http://arxiv.org/abs/2608.12515)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-12**|**RoboSynChallenge: Mastering Real-World Dexterity via Generalizing Synthesized Manipulation Skills**|Guiliang Liu Team|[2608.12416](http://arxiv.org/abs/2608.12416)|null|
+|**2026-08-13**|**UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models**|Lei Zhu Team|[2608.13453](http://arxiv.org/abs/2608.13453)|null|
+|**2026-08-13**|**Enhancing Virtual Agents through SLMs and Edge-Computing: An Exploratory Evaluation of Think and Memory Processes**|Louis Nisiotis Team|[2608.13420](http://arxiv.org/abs/2608.13420)|null|
+|**2026-08-13**|**Reasoning for Social Audio-Visual Question Answering: Where Do We Stand?**|Stéphane Lathuilière Team|[2608.13239](http://arxiv.org/abs/2608.13239)|**[link](https://github.com/koenv759/VanillaSFT)**|
+|**2026-08-13**|**Semantic Radiance Fields as Simulators for Spatial Reasoning in Real-World Scenes**|Bogdan Franczyk Team|[2608.13095](http://arxiv.org/abs/2608.13095)|null|
+|**2026-08-13**|**H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models**|Ning Liu Team|[2608.13049](http://arxiv.org/abs/2608.13049)|null|
+|**2026-08-13**|**HumanoidVLN: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments**|Quan Nguyen Team|[2608.12860](http://arxiv.org/abs/2608.12860)|null|
+|**2026-08-13**|**Energy Efficiency Maximization for FAS-Assisted Downlink Communication in Mobile Embodied AI Networks (MEAN) over Interference Channels**|Zhaoyang Zhang Team|[2608.12849](http://arxiv.org/abs/2608.12849)|null|
+|**2026-08-13**|**Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence**|Hao Chen Team|[2608.12743](http://arxiv.org/abs/2608.12743)|null|
+|**2026-08-13**|**FUSE: Active Functional Affordance Grounding through Adaptive Semantic-Geometric Evidence Acquisition**|Sathyanarayanan N. Aakur Team|[2608.12683](http://arxiv.org/abs/2608.12683)|null|
+|**2026-08-12**|**Scaling Automatic Research Agents via World Models**|Zhenyu Liao Team|[2608.12564](http://arxiv.org/abs/2608.12564)|null|
+|**2026-08-12**|**Can Vision-Language Models Assess Proxemic Risk from Egocentric Robot Images?**|Dmytro Kuzmenko Team|[2608.12515](http://arxiv.org/abs/2608.12515)|null|
+|**2026-08-12**|**RoboSynChallenge: Mastering Real-World Dexterity via Generalizing Synthesized Manipulation Skills**|Guiliang Liu Team|[2608.12416](http://arxiv.org/abs/2608.12416)|null|
 |**2026-08-12**|**DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation**|Fei Xu Team|[2608.12308](http://arxiv.org/abs/2608.12308)|null|
 |**2026-08-12**|**Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs**|Marc Pollefeys Team|[2608.12179](http://arxiv.org/abs/2608.12179)|null|
 |**2026-08-12**|**HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing**|Junchi Yan Team|[2608.12122](http://arxiv.org/abs/2608.12122)|**[link](https://handedit.github.io/)**|
