@@ -1,10 +1,20 @@
-## Updated on 2026.08.16
+## Updated on 2026.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-14**|**Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training**|Wei Wang Team|[2608.14498](http://arxiv.org/abs/2608.14498)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-14**|**THRIVE: Therapeutic Humanoid Robot In Virtual Environment**|Ayanna Howard Team|[2608.14462](http://arxiv.org/abs/2608.14462)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-14**|**Estimating the growth in emissions from AI data centres**|Wim Vanderbauwhede Team|[2608.14421](http://arxiv.org/abs/2608.14421)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-14**|**LLMs Don't Pay for the Jump**|Subhrakanta Panda Team|[2608.14397](http://arxiv.org/abs/2608.14397)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-14**|**PRM-as-a-Judge 1.5: A Toolkit for Robot Process Assessment**|Xiaolong Zheng Team|[2608.14284](http://arxiv.org/abs/2608.14284)|**[link](https://prm-as-a-judge.github.io)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-14**|**Evolve Vision-Language-Action Model into an Agent with On-the-fly Tool-use**|Jianan Wang Team|[2608.14047](http://arxiv.org/abs/2608.14047)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-14**|**AdvDex: Learning Dexterous Manipulation from Human Demonstrations via Joint-Aligned Actions and Adversarial Learning**|Zhengxue Cheng Team|[2608.14028](http://arxiv.org/abs/2608.14028)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-14**|**Implementing Computational Law in Wolfram Language for the Governance of Artificial Intelligence**|James K. Wiles Team|[2608.13958](http://arxiv.org/abs/2608.13958)|**[link](https://github.com/Zaffer/research-computational-law)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-13**|**Learning to Assemble Novel Structures with Unfamiliar Parts under Semantic Constraints**|Subramanian Ramamoorthy Team|[2608.13684](http://arxiv.org/abs/2608.13684)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-11**|**Active Perception for Embodied Disambiguation**|Luwei Yang Team|[2608.13605](http://arxiv.org/abs/2608.13605)|null|
 |**2026-08-13**|**UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models**|Lei Zhu Team|[2608.13453](http://arxiv.org/abs/2608.13453)|null|
 |**2026-08-13**|**Enhancing Virtual Agents through SLMs and Edge-Computing: An Exploratory Evaluation of Think and Memory Processes**|Louis Nisiotis Team|[2608.13420](http://arxiv.org/abs/2608.13420)|null|
 |**2026-08-13**|**Reasoning for Social Audio-Visual Question Answering: Where Do We Stand?**|Stéphane Lathuilière Team|[2608.13239](http://arxiv.org/abs/2608.13239)|**[link](https://github.com/koenv759/VanillaSFT)**|
@@ -55,7 +65,7 @@
 |**2026-08-10**|**SAIN: Structure-Aware Interactive Navigation with Active Dialogue Grounding for Mobile Robot**|Haoyao Chen Team|[2608.09196](http://arxiv.org/abs/2608.09196)|null|
 |**2026-08-09**|**Imagining the Musical Metaverse: a study on the needs and creative practices of composers and musicians**|Luca Turchet Team|[2608.08938](http://arxiv.org/abs/2608.08938)|null|
 |**2026-08-09**|**Investigating Multimodal Informativity under Different Partner Visibility Conditions in Video-Mediated Dialogue**|Kristina Kobrock Team|[2608.08915](http://arxiv.org/abs/2608.08915)|null|
-|**2026-08-09**|**From Recovery to Drop-off: How Action Post-training Reduces a VLM's Late-Layer Depth Decodability**|Axel Cassou Team|[2608.08904](http://arxiv.org/abs/2608.08904)|null|
+|**2026-08-14**|**From Recovery to Drop-off: How Action Post-training Reduces a VLM's Late-Layer Depth Decodability**|Axel Cassou Team|[2608.08904](http://arxiv.org/abs/2608.08904)|null|
 |**2026-08-09**|**360CityArena: A Realistic Virtual Urban Navigation Benchmark for Embodied Agents**|Toshihiko Yamasaki Team|[2608.08814](http://arxiv.org/abs/2608.08814)|**[link](https://360mm-team.github.io/360CityArena/)**|
 |**2026-08-09**|**Eco-SoC: A Sustainable VLSI Architecture for Energy-Proportional Artificial Intelligence**|Jatin Chopra Team|[2608.08761](http://arxiv.org/abs/2608.08761)|null|
 |**2026-08-09**|**OnEvoMemory: Evolving Memory through Online Robot Rollouts for Pretrained Robot Policies**|Shenqi Zong Team|[2608.08749](http://arxiv.org/abs/2608.08749)|null|
@@ -145,14 +155,4 @@
 |**2026-08-05**|**GenTrack: Physical Alignment for Robot-Native Motion Generation and Zero-Shot Humanoid Tracking**|Changqing Zou Team|[2608.01410](http://arxiv.org/abs/2608.01410)|null|
 |**2026-08-02**|**SG-WAM: Self-Guided World Modeling in Geometry-Aware Policy Space**|Haiyue Zhu Team|[2608.01397](http://arxiv.org/abs/2608.01397)|null|
 |**2026-08-02**|**InteracVid: Building a Real Interactive Audio-Visual Response Dataset from Live-Chat Videos**|Miao Liu Team|[2608.01157](http://arxiv.org/abs/2608.01157)|null|
-|**2026-08-04**|**MiniWorld: Democratizing the Training of Video World Models from Scratch**|Jie Chen Team|[2608.01127](http://arxiv.org/abs/2608.01127)|null|
-|**2026-08-02**|**KING: Embodiment-Aware Kinematic Graph Neural Network for Unified Motion Representation of Legged and Wheeled Robots**|Masashi Yokozuka Team|[2608.01015](http://arxiv.org/abs/2608.01015)|null|
-|**2026-08-02**|**RL Bootstrapping of OpenVLA-OFT for a Novel Robot Embodiment**|Alexander Maloletov Team|[2608.01013](http://arxiv.org/abs/2608.01013)|null|
-|**2026-08-02**|**Governing Mental-State Inference: Source-Neutral Regulatory Triggers and Tiered Obligations**|Shinnosuke Horiuchi Team|[2608.00936](http://arxiv.org/abs/2608.00936)|null|
-|**2026-08-01**|**ORCESTRA: VLM-driven Visual Robot programming in Mixed Reality**|Dzmitry Tsetserukou Team|[2608.00775](http://arxiv.org/abs/2608.00775)|null|
-|**2026-08-01**|**Learning-Based Motion Planning for Dynamic Environments: From Foundational Algorithms to Emerging Paradigms**|C. L. Philip Chen Team|[2608.00625](http://arxiv.org/abs/2608.00625)|null|
-|**2026-08-01**|**From Failures to Supervision: DynamicEnvPlan for Robust Long-Horizon Embodied Planning**|Zhiwei Yu Team|[2608.00613](http://arxiv.org/abs/2608.00613)|null|
-|**2026-08-01**|**DexMani: Human-Derived Manipulability Guidance for Dexterous Rotation**|Chenxi Xiao Team|[2608.00554](http://arxiv.org/abs/2608.00554)|null|
-|**2026-08-01**|**SpatialAfford: Teaching Compact VLMs Where to Look and Where to Ground for Affordance**|Hongwei Wang Team|[2608.00502](http://arxiv.org/abs/2608.00502)|null|
-|**2026-08-01**|**Embodied Passive Aeroacoustic Perception Enables Relative Sensing and Pursuit Between Aerial Robots**|Boyuan Chen Team|[2608.00401](http://arxiv.org/abs/2608.00401)|**[link](http://generalroboticslab.com/SonicFly)**|
 

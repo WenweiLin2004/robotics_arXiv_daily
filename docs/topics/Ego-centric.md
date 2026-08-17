@@ -1,10 +1,12 @@
-## Updated on 2026.08.16
+## Updated on 2026.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-14**|**CORAL: Curriculum-Optimized Reward Adaptation for LiDAR-Based Goal-Directed Urban Driving**|Duksu Kim Team|[2608.14332](http://arxiv.org/abs/2608.14332)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-14**|**OccPlanner: Goal-Aware Occupancy-Conditioned Diffusion Planner for Pixel-Goal Navigation**|Lanpeng Jia Team|[2608.14160](http://arxiv.org/abs/2608.14160)|null|
 |**2026-08-13**|**TraVEL: Trajectory-Guided Video Embedding Learning for Driving-Video Retrieval**|Burhan Yaman Team|[2608.13495](http://arxiv.org/abs/2608.13495)|null|
 |**2026-08-13**|**Towards Context-Aware Clinical Motion Understanding in Daily Living at Home: Freezing of Gait Detection with Egocentric Vision**|Benjamin Filtjens Team|[2608.13283](http://arxiv.org/abs/2608.13283)|null|
 |**2026-08-13**|**EgoMonth: A Month-Level Egocentric Video Benchmark for Long-Term Spatiotemporal Memory**|Zili Yi Team|[2608.13113](http://arxiv.org/abs/2608.13113)|null|
@@ -153,6 +155,4 @@
 |**2026-07-06**|**SteelBench: Evaluating Vision-Language Models in Real-World Industrial Environments**|Katragadda Ajay RamaSwamy Chowdary Gowtham Team|[2607.05264](http://arxiv.org/abs/2607.05264)|null|
 |**2026-07-06**|**UNIVERSE: Unified Video Action Models for Autonomous Driving with Flexible Mask-Modulated Modality Generation**|Michael Ying Yang Team|[2607.05133](http://arxiv.org/abs/2607.05133)|null|
 |**2026-07-06**|**ECO: Incremental Ego-Centric Octree Update for Point Streams**|Duksu Kim Team|[2607.05092](http://arxiv.org/abs/2607.05092)|null|
-|**2026-07-06**|**Cam2Sim: Neural Scenario Reconstruction for Closed-Loop Autonomous Driving Simulation**|Andrea Stocco Team|[2607.04770](http://arxiv.org/abs/2607.04770)|null|
-|**2026-07-06**|**A Reliable Context-Aware and Temporal Planning Framework for Autonomous Driving**|Zhiqiu Huang Team|[2607.04689](http://arxiv.org/abs/2607.04689)|null|
 
