@@ -1,19 +1,31 @@
-## Updated on 2026.08.17
+## Updated on 2026.08.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-14**|**CORAL: Curriculum-Optimized Reward Adaptation for LiDAR-Based Goal-Directed Urban Driving**|Duksu Kim Team|[2608.14332](http://arxiv.org/abs/2608.14332)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-14**|**OccPlanner: Goal-Aware Occupancy-Conditioned Diffusion Planner for Pixel-Goal Navigation**|Lanpeng Jia Team|[2608.14160](http://arxiv.org/abs/2608.14160)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-17**|**Neurosymbolic Embodied Agents**|Pranava Madhyastha Team|[2608.16794](http://arxiv.org/abs/2608.16794)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-17**|**Spectral Fingerprints of Street-Network Morphology: A Size-Adjusted Graph-Laplacian Descriptor of Urban Fabric**|Piotr C. Kaminski Team|[2608.16758](http://arxiv.org/abs/2608.16758)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-17**|**Exposing the Long-tail in Embodied Urban Navigation via Scalable Learning from In-the-Wild Videos**|Jiankun Wang Team|[2608.16476](http://arxiv.org/abs/2608.16476)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-17**|**DriveCache: Action-Aware Caching for Driving World Model Inference**|Mang Ye Team|[2608.16354](http://arxiv.org/abs/2608.16354)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-17**|**Unifying Graph Neural Networks Through a Common Layer Equation**|Lakshman Tamil Team|[2608.16097](http://arxiv.org/abs/2608.16097)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-16**|**EgoGazeLite: On-Device Egocentric Gaze Prediction for Token-Efficient Multimodal LLM Video Input**|Niels Buus Lassen Team|[2608.15614](http://arxiv.org/abs/2608.15614)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-16**|**AlloEgo-VLM: Disambiguating Allocentric and Egocentric Reference Frames in Vision-Language Models**|Jen-Jee Chen Team|[2608.15605](http://arxiv.org/abs/2608.15605)|**[link](https://github.com/CKL9001/AlloEgo-VLM)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-16**|**CrossView: Can Vision-Language Models Reason Across Cameras?**|Sandeep P. Chinchali Team|[2608.15539](http://arxiv.org/abs/2608.15539)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-15**|**MM-BEV: Enhancing Timeliness by Computing Where and When it Matters**|Kang G. Shin Team|[2608.15437](http://arxiv.org/abs/2608.15437)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-15**|**VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments**|Hao Dong Team|[2608.15284](http://arxiv.org/abs/2608.15284)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-15**|**EgoTac: In-the-wild Tactile Prediction from Egocentric Vision**|Yang Gao Team|[2608.15060](http://arxiv.org/abs/2608.15060)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-15**|**Evidence of Absence: Cross-Modal Abductive Risk Perception to Sustain World Models When Vision Fails**|Ravi Sankar Team|[2608.14952](http://arxiv.org/abs/2608.14952)|null|
+|**2026-08-14**|**CORAL: Curriculum-Optimized Reward Adaptation for LiDAR-Based Goal-Directed Urban Driving**|Duksu Kim Team|[2608.14332](http://arxiv.org/abs/2608.14332)|null|
+|**2026-08-14**|**OccPlanner: Goal-Aware Occupancy-Conditioned Diffusion Planner for Pixel-Goal Navigation**|Lanpeng Jia Team|[2608.14160](http://arxiv.org/abs/2608.14160)|null|
 |**2026-08-13**|**TraVEL: Trajectory-Guided Video Embedding Learning for Driving-Video Retrieval**|Burhan Yaman Team|[2608.13495](http://arxiv.org/abs/2608.13495)|null|
 |**2026-08-13**|**Towards Context-Aware Clinical Motion Understanding in Daily Living at Home: Freezing of Gait Detection with Egocentric Vision**|Benjamin Filtjens Team|[2608.13283](http://arxiv.org/abs/2608.13283)|null|
 |**2026-08-13**|**EgoMonth: A Month-Level Egocentric Video Benchmark for Long-Term Spatiotemporal Memory**|Zili Yi Team|[2608.13113](http://arxiv.org/abs/2608.13113)|null|
 |**2026-08-13**|**H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models**|Ning Liu Team|[2608.13049](http://arxiv.org/abs/2608.13049)|null|
 |**2026-08-13**|**EgoPHI: Estimating Contact and Force from Egocentric Vision**|Christian Holz Team|[2608.13014](http://arxiv.org/abs/2608.13014)|null|
 |**2026-08-13**|**HumanoidVLN: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments**|Quan Nguyen Team|[2608.12860](http://arxiv.org/abs/2608.12860)|null|
-|**2026-08-12**|**EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory**|Ke Sun Team|[2608.12627](http://arxiv.org/abs/2608.12627)|null|
+|**2026-08-15**|**EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory**|Ke Sun Team|[2608.12627](http://arxiv.org/abs/2608.12627)|null|
 |**2026-08-12**|**Can Vision-Language Models Assess Proxemic Risk from Egocentric Robot Images?**|Dmytro Kuzmenko Team|[2608.12515](http://arxiv.org/abs/2608.12515)|null|
 |**2026-08-12**|**HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing**|Junchi Yan Team|[2608.12122](http://arxiv.org/abs/2608.12122)|**[link](https://handedit.github.io/)**|
 |**2026-08-12**|**The SLT 2026 SmartGlasses Challenge: Benchmarking Egocentric Multi-Talker Speech Recognition and Understanding with Audio-Language Models**|Lei Xie Team|[2608.12034](http://arxiv.org/abs/2608.12034)|null|
@@ -143,16 +155,4 @@
 |**2026-07-08**|**Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence**|Ka Leong Cheng Team|[2607.07675](http://arxiv.org/abs/2607.07675)|**[link](https://technology.robbyant.com/lingbot-video)**|
 |**2026-07-08**|**CARLA-GS: Decoupling Representation, Reasoning, and Physics Simulation for Autonomous Driving Corner-Case Synthesis**|Ruimin Ke Team|[2607.07601](http://arxiv.org/abs/2607.07601)|null|
 |**2026-07-08**|**Immersive Social Interaction with VR and LLM-Assisted Humanoids**|Yi Fang Team|[2607.07430](http://arxiv.org/abs/2607.07430)|null|
-|**2026-07-08**|**Ego-Human Motion Prediction with 3D-Aware LLM**|Kuk-Jin Yoon Team|[2607.07001](http://arxiv.org/abs/2607.07001)|null|
-|**2026-07-07**|**CoMind: Understanding Collaborative Human Activity from Multiple Minds and Views**|Xi Wang Team|[2607.06691](http://arxiv.org/abs/2607.06691)|null|
-|**2026-07-07**|**RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation**|Zhongyu Li Team|[2607.06559](http://arxiv.org/abs/2607.06559)|**[link](https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io)**|
-|**2026-07-12**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Zhongyu Li Team|[2607.06558](http://arxiv.org/abs/2607.06558)|**[link](https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io)**|
-|**2026-07-07**|**Point as Skeleton: Accumulated Point Cloud Enhanced Autoregressive Generation for Closed-Loop Autonomous Driving Simulation**|Junchi Yan Team|[2607.06516](http://arxiv.org/abs/2607.06516)|null|
-|**2026-07-07**|**EgoPolice: A Benchmark for Egocentric Video Understanding in High-Stakes Police Body-Worn Camera Footage**|Olga Russakovsky Team|[2607.06468](http://arxiv.org/abs/2607.06468)|null|
-|**2026-07-07**|**From Foundation to Application: Improving VLA Models in Practice**|Kecheng Zheng Team|[2607.06403](http://arxiv.org/abs/2607.06403)|**[link](https://technology.robbyant.com/lingbot-vla-v2)**|
-|**2026-07-07**|**EAGOR: Embodied Reasoning in Omni-direction**|Addison Lin Wang Team|[2607.06165](http://arxiv.org/abs/2607.06165)|null|
-|**2026-07-14**|**TRIG: Trajectory-Rig Decoupled Metric Geometry Learning**|Chang Huang Team|[2607.05801](http://arxiv.org/abs/2607.05801)|null|
-|**2026-07-06**|**SteelBench: Evaluating Vision-Language Models in Real-World Industrial Environments**|Katragadda Ajay RamaSwamy Chowdary Gowtham Team|[2607.05264](http://arxiv.org/abs/2607.05264)|null|
-|**2026-07-06**|**UNIVERSE: Unified Video Action Models for Autonomous Driving with Flexible Mask-Modulated Modality Generation**|Michael Ying Yang Team|[2607.05133](http://arxiv.org/abs/2607.05133)|null|
-|**2026-07-06**|**ECO: Incremental Ego-Centric Octree Update for Point Streams**|Duksu Kim Team|[2607.05092](http://arxiv.org/abs/2607.05092)|null|
 
