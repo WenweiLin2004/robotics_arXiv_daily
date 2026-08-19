@@ -1,22 +1,24 @@
-## Updated on 2026.08.18
+## Updated on 2026.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-17**|**Neurosymbolic Embodied Agents**|Pranava Madhyastha Team|[2608.16794](http://arxiv.org/abs/2608.16794)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-17**|**Spectral Fingerprints of Street-Network Morphology: A Size-Adjusted Graph-Laplacian Descriptor of Urban Fabric**|Piotr C. Kaminski Team|[2608.16758](http://arxiv.org/abs/2608.16758)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-17**|**Exposing the Long-tail in Embodied Urban Navigation via Scalable Learning from In-the-Wild Videos**|Jiankun Wang Team|[2608.16476](http://arxiv.org/abs/2608.16476)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-17**|**DriveCache: Action-Aware Caching for Driving World Model Inference**|Mang Ye Team|[2608.16354](http://arxiv.org/abs/2608.16354)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-17**|**Unifying Graph Neural Networks Through a Common Layer Equation**|Lakshman Tamil Team|[2608.16097](http://arxiv.org/abs/2608.16097)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-16**|**EgoGazeLite: On-Device Egocentric Gaze Prediction for Token-Efficient Multimodal LLM Video Input**|Niels Buus Lassen Team|[2608.15614](http://arxiv.org/abs/2608.15614)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-16**|**AlloEgo-VLM: Disambiguating Allocentric and Egocentric Reference Frames in Vision-Language Models**|Jen-Jee Chen Team|[2608.15605](http://arxiv.org/abs/2608.15605)|**[link](https://github.com/CKL9001/AlloEgo-VLM)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-16**|**CrossView: Can Vision-Language Models Reason Across Cameras?**|Sandeep P. Chinchali Team|[2608.15539](http://arxiv.org/abs/2608.15539)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-15**|**MM-BEV: Enhancing Timeliness by Computing Where and When it Matters**|Kang G. Shin Team|[2608.15437](http://arxiv.org/abs/2608.15437)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-15**|**VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments**|Hao Dong Team|[2608.15284](http://arxiv.org/abs/2608.15284)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-15**|**EgoTac: In-the-wild Tactile Prediction from Egocentric Vision**|Yang Gao Team|[2608.15060](http://arxiv.org/abs/2608.15060)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-15**|**Evidence of Absence: Cross-Modal Abductive Risk Perception to Sustain World Models When Vision Fails**|Ravi Sankar Team|[2608.14952](http://arxiv.org/abs/2608.14952)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-18**|**SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering**|Chaojian Li Team|[2608.17420](http://arxiv.org/abs/2608.17420)|**[link](https://li00147.github.io/SPVC-Project-Page/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-17**|**Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving**|Abhinav Valada Team|[2608.17178](http://arxiv.org/abs/2608.17178)|null|
+|**2026-08-17**|**Neurosymbolic Embodied Agents**|Pranava Madhyastha Team|[2608.16794](http://arxiv.org/abs/2608.16794)|null|
+|**2026-08-17**|**Spectral Fingerprints of Street-Network Morphology: A Size-Adjusted Graph-Laplacian Descriptor of Urban Fabric**|Piotr C. Kaminski Team|[2608.16758](http://arxiv.org/abs/2608.16758)|null|
+|**2026-08-17**|**Exposing the Long-tail in Embodied Urban Navigation via Scalable Learning from In-the-Wild Videos**|Jiankun Wang Team|[2608.16476](http://arxiv.org/abs/2608.16476)|null|
+|**2026-08-17**|**DriveCache: Action-Aware Caching for Driving World Model Inference**|Mang Ye Team|[2608.16354](http://arxiv.org/abs/2608.16354)|null|
+|**2026-08-17**|**Unifying Graph Neural Networks Through a Common Layer Equation**|Lakshman Tamil Team|[2608.16097](http://arxiv.org/abs/2608.16097)|null|
+|**2026-08-16**|**EgoGazeLite: On-Device Egocentric Gaze Prediction for Token-Efficient Multimodal LLM Video Input**|Niels Buus Lassen Team|[2608.15614](http://arxiv.org/abs/2608.15614)|null|
+|**2026-08-16**|**AlloEgo-VLM: Disambiguating Allocentric and Egocentric Reference Frames in Vision-Language Models**|Jen-Jee Chen Team|[2608.15605](http://arxiv.org/abs/2608.15605)|**[link](https://github.com/CKL9001/AlloEgo-VLM)**|
+|**2026-08-16**|**CrossView: Can Vision-Language Models Reason Across Cameras?**|Sandeep P. Chinchali Team|[2608.15539](http://arxiv.org/abs/2608.15539)|null|
+|**2026-08-15**|**MM-BEV: Enhancing Timeliness by Computing Where and When it Matters**|Kang G. Shin Team|[2608.15437](http://arxiv.org/abs/2608.15437)|null|
+|**2026-08-15**|**VTInstructor: Visual Trajectory Prompting for Navigation Instruction Generation in Continuous Environments**|Hao Dong Team|[2608.15284](http://arxiv.org/abs/2608.15284)|null|
+|**2026-08-15**|**EgoTac: In-the-wild Tactile Prediction from Egocentric Vision**|Yang Gao Team|[2608.15060](http://arxiv.org/abs/2608.15060)|null|
+|**2026-08-15**|**Evidence of Absence: Cross-Modal Abductive Risk Perception to Sustain World Models When Vision Fails**|Ravi Sankar Team|[2608.14952](http://arxiv.org/abs/2608.14952)|null|
 |**2026-08-14**|**CORAL: Curriculum-Optimized Reward Adaptation for LiDAR-Based Goal-Directed Urban Driving**|Duksu Kim Team|[2608.14332](http://arxiv.org/abs/2608.14332)|null|
 |**2026-08-14**|**OccPlanner: Goal-Aware Occupancy-Conditioned Diffusion Planner for Pixel-Goal Navigation**|Lanpeng Jia Team|[2608.14160](http://arxiv.org/abs/2608.14160)|null|
 |**2026-08-13**|**TraVEL: Trajectory-Guided Video Embedding Learning for Driving-Video Retrieval**|Burhan Yaman Team|[2608.13495](http://arxiv.org/abs/2608.13495)|null|
@@ -153,6 +155,4 @@
 |**2026-07-09**|**HeadRoom: Lightweight, Edge-deployable Pipeline for Adaptive Notification Routing**|Suranga Nanayakkara Team|[2607.08083](http://arxiv.org/abs/2607.08083)|null|
 |**2026-07-08**|**Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous Driving Motion Planning**|Julian Jordan Team|[2607.07844](http://arxiv.org/abs/2607.07844)|null|
 |**2026-07-08**|**Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence**|Ka Leong Cheng Team|[2607.07675](http://arxiv.org/abs/2607.07675)|**[link](https://technology.robbyant.com/lingbot-video)**|
-|**2026-07-08**|**CARLA-GS: Decoupling Representation, Reasoning, and Physics Simulation for Autonomous Driving Corner-Case Synthesis**|Ruimin Ke Team|[2607.07601](http://arxiv.org/abs/2607.07601)|null|
-|**2026-07-08**|**Immersive Social Interaction with VR and LLM-Assisted Humanoids**|Yi Fang Team|[2607.07430](http://arxiv.org/abs/2607.07430)|null|
 
