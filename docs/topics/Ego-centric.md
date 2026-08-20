@@ -1,13 +1,16 @@
-## Updated on 2026.08.19
+## Updated on 2026.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-18**|**SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering**|Chaojian Li Team|[2608.17420](http://arxiv.org/abs/2608.17420)|**[link](https://li00147.github.io/SPVC-Project-Page/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-17**|**Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving**|Abhinav Valada Team|[2608.17178](http://arxiv.org/abs/2608.17178)|null|
-|**2026-08-17**|**Neurosymbolic Embodied Agents**|Pranava Madhyastha Team|[2608.16794](http://arxiv.org/abs/2608.16794)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-19**|**DA-WAM: Decision-Aligned Future Latents for Driving World Models**|Jun Ma Team|[2608.19085](http://arxiv.org/abs/2608.19085)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-19**|**EgoHRV: Continuous Heart Rate Variability Estimation from Egocentric Systems for Autonomic Response and Skill Assessment**|Christian Holz Team|[2608.18711](http://arxiv.org/abs/2608.18711)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-19**|**Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI**|Fatemeh Ziaeetabar Team|[2608.18671](http://arxiv.org/abs/2608.18671)|null|
+|**2026-08-18**|**SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering**|Chaojian Li Team|[2608.17420](http://arxiv.org/abs/2608.17420)|**[link](https://li00147.github.io/SPVC-Project-Page/)**|
+|**2026-08-17**|**Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving**|Abhinav Valada Team|[2608.17178](http://arxiv.org/abs/2608.17178)|null|
+|**2026-08-18**|**Neurosymbolic Embodied Agents**|Pranava Madhyastha Team|[2608.16794](http://arxiv.org/abs/2608.16794)|null|
 |**2026-08-17**|**Spectral Fingerprints of Street-Network Morphology: A Size-Adjusted Graph-Laplacian Descriptor of Urban Fabric**|Piotr C. Kaminski Team|[2608.16758](http://arxiv.org/abs/2608.16758)|null|
 |**2026-08-17**|**Exposing the Long-tail in Embodied Urban Navigation via Scalable Learning from In-the-Wild Videos**|Jiankun Wang Team|[2608.16476](http://arxiv.org/abs/2608.16476)|null|
 |**2026-08-17**|**DriveCache: Action-Aware Caching for Driving World Model Inference**|Mang Ye Team|[2608.16354](http://arxiv.org/abs/2608.16354)|null|
@@ -27,7 +30,7 @@
 |**2026-08-13**|**H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models**|Ning Liu Team|[2608.13049](http://arxiv.org/abs/2608.13049)|null|
 |**2026-08-13**|**EgoPHI: Estimating Contact and Force from Egocentric Vision**|Christian Holz Team|[2608.13014](http://arxiv.org/abs/2608.13014)|null|
 |**2026-08-13**|**HumanoidVLN: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments**|Quan Nguyen Team|[2608.12860](http://arxiv.org/abs/2608.12860)|null|
-|**2026-08-15**|**EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory**|Ke Sun Team|[2608.12627](http://arxiv.org/abs/2608.12627)|null|
+|**2026-08-18**|**EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory**|Ke Sun Team|[2608.12627](http://arxiv.org/abs/2608.12627)|null|
 |**2026-08-12**|**Can Vision-Language Models Assess Proxemic Risk from Egocentric Robot Images?**|Dmytro Kuzmenko Team|[2608.12515](http://arxiv.org/abs/2608.12515)|null|
 |**2026-08-12**|**HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing**|Junchi Yan Team|[2608.12122](http://arxiv.org/abs/2608.12122)|**[link](https://handedit.github.io/)**|
 |**2026-08-12**|**The SLT 2026 SmartGlasses Challenge: Benchmarking Egocentric Multi-Talker Speech Recognition and Understanding with Audio-Language Models**|Lei Xie Team|[2608.12034](http://arxiv.org/abs/2608.12034)|null|
@@ -108,7 +111,7 @@
 |**2026-07-23**|**EgoRecovery: Acquiring Failure Recovery Ability Through Human Recovery Demonstration**|Yu-Gang Jiang Team|[2607.19745](http://arxiv.org/abs/2607.19745)|null|
 |**2026-07-22**|**Perceived vertical and eye level as one orientation order parameter: a closed-form account of the Li-Matin rules for egocentric space**|A. Y. Shavit Team|[2607.19681](http://arxiv.org/abs/2607.19681)|null|
 |**2026-07-21**|**Agent-Centric Animal Pose Forecasting**|Kristin Branson Team|[2607.19548](http://arxiv.org/abs/2607.19548)|null|
-|**2026-07-21**|**Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field**|Margaret M. Henderson Team|[2607.19316](http://arxiv.org/abs/2607.19316)|null|
+|**2026-08-19**|**Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field**|Margaret M. Henderson Team|[2607.19316](http://arxiv.org/abs/2607.19316)|**[link](https://github.com/DM-Diaz/eccentricity-constrained-simclr)**|
 |**2026-07-21**|**Stochastic Multi-Objective Kinodynamic Planning Against Adversaries**|Dimitra Panagou Team|[2607.19284](http://arxiv.org/abs/2607.19284)|null|
 |**2026-07-21**|**SkyEV: RGB-Event UAV detection and tracking dataset and baseline**|Michele Magno Team|[2607.18747](http://arxiv.org/abs/2607.18747)|null|
 |**2026-07-21**|**End-to-end Conditional Diffusion for Realistic and Controllable Visual Traffic Scenario Generation**|Philip S Yu Team|[2607.18637](http://arxiv.org/abs/2607.18637)|null|
@@ -152,7 +155,4 @@
 |**2026-07-09**|**Do Egocentric Video-Language Models Capture Both Hand- and Object-Centric Cues?**|Dima Damen Team|[2607.08514](http://arxiv.org/abs/2607.08514)|null|
 |**2026-07-09**|**VEGAS: Human-Aligned Video Caption Evaluation via Gaze**|Ufuk Topcu Team|[2607.08489](http://arxiv.org/abs/2607.08489)|null|
 |**2026-07-08**|**EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data**|Danfei Xu Team|[2607.08436](http://arxiv.org/abs/2607.08436)|null|
-|**2026-07-09**|**HeadRoom: Lightweight, Edge-deployable Pipeline for Adaptive Notification Routing**|Suranga Nanayakkara Team|[2607.08083](http://arxiv.org/abs/2607.08083)|null|
-|**2026-07-08**|**Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous Driving Motion Planning**|Julian Jordan Team|[2607.07844](http://arxiv.org/abs/2607.07844)|null|
-|**2026-07-08**|**Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence**|Ka Leong Cheng Team|[2607.07675](http://arxiv.org/abs/2607.07675)|**[link](https://technology.robbyant.com/lingbot-video)**|
 
