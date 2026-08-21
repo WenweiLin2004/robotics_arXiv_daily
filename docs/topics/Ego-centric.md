@@ -1,13 +1,18 @@
-## Updated on 2026.08.20
+## Updated on 2026.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-19**|**DA-WAM: Decision-Aligned Future Latents for Driving World Models**|Jun Ma Team|[2608.19085](http://arxiv.org/abs/2608.19085)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-19**|**EgoHRV: Continuous Heart Rate Variability Estimation from Egocentric Systems for Autonomic Response and Skill Assessment**|Christian Holz Team|[2608.18711](http://arxiv.org/abs/2608.18711)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-19**|**Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI**|Fatemeh Ziaeetabar Team|[2608.18671](http://arxiv.org/abs/2608.18671)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-20**|**DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery**|Hongsheng Li Team|[2608.20308](http://arxiv.org/abs/2608.20308)|**[link](https://ggxxii.github.io/dreamhand/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-20**|**G3Ego: Gaze-Guided Graphs for Egocentric Action Understanding**|Estefania Talavera Martinez Team|[2608.20157](http://arxiv.org/abs/2608.20157)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-20**|**DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation**|Qiaojun Yu Team|[2608.20114](http://arxiv.org/abs/2608.20114)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-20**|**G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs**|Tajana Rosing Team|[2608.19964](http://arxiv.org/abs/2608.19964)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-20**|**Online Test-Time Adaptation for Generalizable Dynamic Graph Anomaly Detection**|Philip S. Yu Team|[2608.19858](http://arxiv.org/abs/2608.19858)|null|
+|**2026-08-20**|**DA-WAM: Decision-Aligned Future Latents for Driving World Models**|Jun Ma Team|[2608.19085](http://arxiv.org/abs/2608.19085)|null|
+|**2026-08-19**|**EgoHRV: Continuous Heart Rate Variability Estimation from Egocentric Systems for Autonomic Response and Skill Assessment**|Christian Holz Team|[2608.18711](http://arxiv.org/abs/2608.18711)|null|
+|**2026-08-19**|**Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI**|Fatemeh Ziaeetabar Team|[2608.18671](http://arxiv.org/abs/2608.18671)|null|
 |**2026-08-18**|**SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering**|Chaojian Li Team|[2608.17420](http://arxiv.org/abs/2608.17420)|**[link](https://li00147.github.io/SPVC-Project-Page/)**|
 |**2026-08-17**|**Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving**|Abhinav Valada Team|[2608.17178](http://arxiv.org/abs/2608.17178)|null|
 |**2026-08-18**|**Neurosymbolic Embodied Agents**|Pranava Madhyastha Team|[2608.16794](http://arxiv.org/abs/2608.16794)|null|
@@ -48,7 +53,7 @@
 |**2026-08-12**|**Ego-OSCAR: Egocentric Open source Stereo CAptuRe System**|Abhishek Anand Team|[2608.08285](http://arxiv.org/abs/2608.08285)|null|
 |**2026-08-08**|**EgoTrack3D: A Modular Framework for Egocentric 3D Object Tracking**|Xi Wang Team|[2608.08016](http://arxiv.org/abs/2608.08016)|null|
 |**2026-08-08**|**SCOUT: Self-Checking and Recovery-Aware Tool-Thought Agents for Ultra-Long Egocentric Video Reasoning**|Guanbin Li Team|[2608.07959](http://arxiv.org/abs/2608.07959)|null|
-|**2026-08-07**|**WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN**|Xuelong Li Team|[2608.07267](http://arxiv.org/abs/2608.07267)|null|
+|**2026-08-20**|**WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN**|Xuelong Li Team|[2608.07267](http://arxiv.org/abs/2608.07267)|null|
 |**2026-08-07**|**R2S-EGO: Dual-Proxy Refinement for Sparse-Capture Real-to-Sim**|Jie Chen Team|[2608.06827](http://arxiv.org/abs/2608.06827)|null|
 |**2026-08-07**|**AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models**|Jing Liu Team|[2608.06729](http://arxiv.org/abs/2608.06729)|null|
 |**2026-08-07**|**CrossTracer: Cross-Embodiment Navigation via VLA Model Reasoning and Trace Residuals Adapting**|Wenjun Xu Team|[2608.06688](http://arxiv.org/abs/2608.06688)|null|
@@ -127,7 +132,7 @@
 |**2026-07-16**|**AeroAct: Action-Centered World-Action Models for Language-Conditioned Quadrotor Flight**|Gang Wang Team|[2607.14997](http://arxiv.org/abs/2607.14997)|null|
 |**2026-07-16**|**Communication-Efficient Relative Pose Estimation with Vision Foundation Models for Ephemeral Collaborative Perception**|Peng Gao Team|[2607.14539](http://arxiv.org/abs/2607.14539)|null|
 |**2026-07-16**|**DRIFT: Drift and Aggregation for Motion Planning**|Jianqiang Wang Team|[2607.14507](http://arxiv.org/abs/2607.14507)|null|
-|**2026-07-16**|**Reinforcing Egocentric Spatial Perception in Multimodal Large Language Models via Ego Scene Augmentation**|Xuming Hu Team|[2607.14497](http://arxiv.org/abs/2607.14497)|**[link](https://github.com/Chikit-WONG/spatialGraph)**|
+|**2026-08-20**|**Reinforcing Egocentric Spatial Perception in Multimodal Large Language Models via Ego Scene Augmentation**|Xuming Hu Team|[2607.14497](http://arxiv.org/abs/2607.14497)|**[link](https://github.com/Chikit-WONG/spatialGraph)**|
 |**2026-07-15**|**MEMORA: Embodied Action Memory from Egocentric Videos for Reasoning and Planning**|Chongjie Zhang Team|[2607.14252](http://arxiv.org/abs/2607.14252)|null|
 |**2026-07-18**|**Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning**|Zhe Li Team|[2607.14183](http://arxiv.org/abs/2607.14183)|null|
 |**2026-07-15**|**EgoProceVQA: A Novel Egocentric Procedural Understanding Task with Self-Skill-Exploration Agent**|Yi Wang Team|[2607.13792](http://arxiv.org/abs/2607.13792)|null|
@@ -150,9 +155,4 @@
 |**2026-06-21**|**EgoSteer: A Full-Stack System Towards Steerable Dexterous Manipulation from Egocentric Videos**|Yaodong Yang Team|[2607.09701](http://arxiv.org/abs/2607.09701)|null|
 |**2026-07-10**|**OpenLongTail: Generative Scaling of Long-Tail Driving Data**|Zhiwen Fan Team|[2607.09655](http://arxiv.org/abs/2607.09655)|**[link](https://openlongtail.github.io/)**|
 |**2026-07-10**|**TSR-Ego: Temporally Guided Stereo Refinement Framework for Egocentric 3D Human Pose Estimation**|Kevin Desai Team|[2607.09169](http://arxiv.org/abs/2607.09169)|null|
-|**2026-07-13**|**AgenticFocus: Object-Preserving Mixed Reality Synthesis from Human FPV Video for Dexterous Humanoid Learning**|Dzmitry Tsetserukou Team|[2607.08857](http://arxiv.org/abs/2607.08857)|null|
-|**2026-07-09**|**Whareformer: Learning to Track What is Where in Long Egocentric Videos**|Diane Larlus Team|[2607.08537](http://arxiv.org/abs/2607.08537)|**[link](https://jacobchalk.github.io/Whareformer/)**|
-|**2026-07-09**|**Do Egocentric Video-Language Models Capture Both Hand- and Object-Centric Cues?**|Dima Damen Team|[2607.08514](http://arxiv.org/abs/2607.08514)|null|
-|**2026-07-09**|**VEGAS: Human-Aligned Video Caption Evaluation via Gaze**|Ufuk Topcu Team|[2607.08489](http://arxiv.org/abs/2607.08489)|null|
-|**2026-07-08**|**EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data**|Danfei Xu Team|[2607.08436](http://arxiv.org/abs/2607.08436)|null|
 
