@@ -1,15 +1,15 @@
-## Updated on 2026.08.21
+## Updated on 2026.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-20**|**DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery**|Hongsheng Li Team|[2608.20308](http://arxiv.org/abs/2608.20308)|**[link](https://ggxxii.github.io/dreamhand/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-20**|**G3Ego: Gaze-Guided Graphs for Egocentric Action Understanding**|Estefania Talavera Martinez Team|[2608.20157](http://arxiv.org/abs/2608.20157)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-20**|**DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation**|Qiaojun Yu Team|[2608.20114](http://arxiv.org/abs/2608.20114)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-20**|**G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs**|Tajana Rosing Team|[2608.19964](http://arxiv.org/abs/2608.19964)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-20**|**Online Test-Time Adaptation for Generalizable Dynamic Graph Anomaly Detection**|Philip S. Yu Team|[2608.19858](http://arxiv.org/abs/2608.19858)|null|
+|**2026-08-20**|**DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery**|Hongsheng Li Team|[2608.20308](http://arxiv.org/abs/2608.20308)|**[link](https://ggxxii.github.io/dreamhand/)**|
+|**2026-08-20**|**G3Ego: Gaze-Guided Graphs for Egocentric Action Understanding**|Estefania Talavera Martinez Team|[2608.20157](http://arxiv.org/abs/2608.20157)|null|
+|**2026-08-20**|**DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation**|Qiaojun Yu Team|[2608.20114](http://arxiv.org/abs/2608.20114)|null|
+|**2026-08-20**|**G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs**|Tajana Rosing Team|[2608.19964](http://arxiv.org/abs/2608.19964)|null|
+|**2026-08-20**|**Online Test-Time Adaptation for Generalizable Dynamic Graph Anomaly Detection**|Philip S. Yu Team|[2608.19858](http://arxiv.org/abs/2608.19858)|null|
 |**2026-08-20**|**DA-WAM: Decision-Aligned Future Latents for Driving World Models**|Jun Ma Team|[2608.19085](http://arxiv.org/abs/2608.19085)|null|
 |**2026-08-19**|**EgoHRV: Continuous Heart Rate Variability Estimation from Egocentric Systems for Autonomic Response and Skill Assessment**|Christian Holz Team|[2608.18711](http://arxiv.org/abs/2608.18711)|null|
 |**2026-08-19**|**Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI**|Fatemeh Ziaeetabar Team|[2608.18671](http://arxiv.org/abs/2608.18671)|null|

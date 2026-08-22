@@ -1,17 +1,17 @@
-## Updated on 2026.08.21
+## Updated on 2026.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-20**|**DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery**|Hongsheng Li Team|[2608.20308](http://arxiv.org/abs/2608.20308)|**[link](https://ggxxii.github.io/dreamhand/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-20**|**DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation**|Qiaojun Yu Team|[2608.20114](http://arxiv.org/abs/2608.20114)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-20**|**Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents**|Zebing Mao Team|[2608.19794](http://arxiv.org/abs/2608.19794)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-20**|**SafeBranch: Branch-Pair Safety Alignment for Embodied Agents**|Woojin Lee Team|[2608.19729](http://arxiv.org/abs/2608.19729)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-20**|**Grounding Mindfulness in Embodied Tangibles: A Scoping Review & Theoretical Framework for HCI Design**|Wafa Johal Team|[2608.19673](http://arxiv.org/abs/2608.19673)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-19**|**Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation**|Derek Hoiem Team|[2608.19490](http://arxiv.org/abs/2608.19490)|**[link](https://self-supervised-control.pages.dev/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-19**|**Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot Control**|Dan Negrut Team|[2608.19375](http://arxiv.org/abs/2608.19375)|null|
+|**2026-08-20**|**DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery**|Hongsheng Li Team|[2608.20308](http://arxiv.org/abs/2608.20308)|**[link](https://ggxxii.github.io/dreamhand/)**|
+|**2026-08-20**|**DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation**|Qiaojun Yu Team|[2608.20114](http://arxiv.org/abs/2608.20114)|null|
+|**2026-08-20**|**Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents**|Zebing Mao Team|[2608.19794](http://arxiv.org/abs/2608.19794)|null|
+|**2026-08-20**|**SafeBranch: Branch-Pair Safety Alignment for Embodied Agents**|Woojin Lee Team|[2608.19729](http://arxiv.org/abs/2608.19729)|null|
+|**2026-08-20**|**Grounding Mindfulness in Embodied Tangibles: A Scoping Review & Theoretical Framework for HCI Design**|Wafa Johal Team|[2608.19673](http://arxiv.org/abs/2608.19673)|null|
+|**2026-08-19**|**Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation**|Derek Hoiem Team|[2608.19490](http://arxiv.org/abs/2608.19490)|**[link](https://self-supervised-control.pages.dev/)**|
+|**2026-08-19**|**Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot Control**|Dan Negrut Team|[2608.19375](http://arxiv.org/abs/2608.19375)|null|
 |**2026-08-19**|**ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning**|Ankur Handa Team|[2608.19182](http://arxiv.org/abs/2608.19182)|**[link](https://adept-dexterity.github.io/)**|
 |**2026-08-19**|**Grouping the Stochastic Machine: Precision, Not Capability, as the Frontier Metric for AI Systems**|George Andrikopoulos Team|[2608.19140](http://arxiv.org/abs/2608.19140)|null|
 |**2026-08-19**|**RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience**|Chenfanfu Jiang Team|[2608.18948](http://arxiv.org/abs/2608.18948)|null|
