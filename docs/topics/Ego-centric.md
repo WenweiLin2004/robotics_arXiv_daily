@@ -1,13 +1,18 @@
-## Updated on 2026.08.23
+## Updated on 2026.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-21**|**Roadside-Cooperative Autonomous Driving: From Data Platform to Vision-Language End-to-End Reasoning**|Jianqiang Wang Team|[2608.21032](http://arxiv.org/abs/2608.21032)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-21**|**Dorsal Hand Images for Immersive (XR) and Privacy-preserving Age Assurance and Child Safety**|Josh P. Davis Team|[2608.21009](http://arxiv.org/abs/2608.21009)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-21**|**WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving**|Mu Yang Team|[2608.20974](http://arxiv.org/abs/2608.20974)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-21**|**Bridging Language and Spherical Space: Object-Centric Control for Text-to-Panorama Generation**|Peng Lu Team|[2608.20691](http://arxiv.org/abs/2608.20691)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-20**|**Grounded-Exo2Ego: Structured Semantic Grounding for Robust Exocentric-to-Egocentric Video Generation**|Shalini De Mello Team|[2608.20534](http://arxiv.org/abs/2608.20534)|**[link](https://research.nvidia.com/labs/amri/projects/grounded-exo2ego/)**|
 |**2026-08-20**|**DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery**|Hongsheng Li Team|[2608.20308](http://arxiv.org/abs/2608.20308)|**[link](https://ggxxii.github.io/dreamhand/)**|
 |**2026-08-20**|**G3Ego: Gaze-Guided Graphs for Egocentric Action Understanding**|Estefania Talavera Martinez Team|[2608.20157](http://arxiv.org/abs/2608.20157)|null|
-|**2026-08-20**|**DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation**|Qiaojun Yu Team|[2608.20114](http://arxiv.org/abs/2608.20114)|null|
+|**2026-08-21**|**DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation**|Qiaojun Yu Team|[2608.20114](http://arxiv.org/abs/2608.20114)|null|
 |**2026-08-20**|**G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs**|Tajana Rosing Team|[2608.19964](http://arxiv.org/abs/2608.19964)|null|
 |**2026-08-20**|**Online Test-Time Adaptation for Generalizable Dynamic Graph Anomaly Detection**|Philip S. Yu Team|[2608.19858](http://arxiv.org/abs/2608.19858)|null|
 |**2026-08-20**|**DA-WAM: Decision-Aligned Future Latents for Driving World Models**|Jun Ma Team|[2608.19085](http://arxiv.org/abs/2608.19085)|null|
@@ -150,9 +155,4 @@
 |**2026-07-12**|**World Models as Adversaries: Multi-Agent Self-Play Fine-Tuning for Robust Motion Planning**|Wei Ma Team|[2607.10630](http://arxiv.org/abs/2607.10630)|null|
 |**2026-07-11**|**PrismAD: Decoupled Planning via Semantic Mixture-of-Planners for End-to-End Autonomous Driving**|Lei He Team|[2607.10336](http://arxiv.org/abs/2607.10336)|null|
 |**2026-07-11**|**InterPet4D: A Multimodal 4D Human-Pet Interaction Dataset for Pet Motion Generation**|Erwin Wu Team|[2607.10287](http://arxiv.org/abs/2607.10287)|null|
-|**2026-07-11**|**Immunization on Temporal Higher-Order Networks**|Shaoting Tang Team|[2607.10171](http://arxiv.org/abs/2607.10171)|null|
-|**2026-07-07**|**A Risk-Field Enhanced Closed-Loop Digital Twin Framework for Autonomous Driving Safety Validation**|Yongzhi Liu Team|[2607.09772](http://arxiv.org/abs/2607.09772)|null|
-|**2026-06-21**|**EgoSteer: A Full-Stack System Towards Steerable Dexterous Manipulation from Egocentric Videos**|Yaodong Yang Team|[2607.09701](http://arxiv.org/abs/2607.09701)|null|
-|**2026-07-10**|**OpenLongTail: Generative Scaling of Long-Tail Driving Data**|Zhiwen Fan Team|[2607.09655](http://arxiv.org/abs/2607.09655)|**[link](https://openlongtail.github.io/)**|
-|**2026-07-10**|**TSR-Ego: Temporally Guided Stereo Refinement Framework for Egocentric 3D Human Pose Estimation**|Kevin Desai Team|[2607.09169](http://arxiv.org/abs/2607.09169)|null|
 
