@@ -1,15 +1,27 @@
-## Updated on 2026.08.24
+## Updated on 2026.08.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-21**|**Roadside-Cooperative Autonomous Driving: From Data Platform to Vision-Language End-to-End Reasoning**|Jianqiang Wang Team|[2608.21032](http://arxiv.org/abs/2608.21032)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-21**|**Dorsal Hand Images for Immersive (XR) and Privacy-preserving Age Assurance and Child Safety**|Josh P. Davis Team|[2608.21009](http://arxiv.org/abs/2608.21009)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-21**|**WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving**|Mu Yang Team|[2608.20974](http://arxiv.org/abs/2608.20974)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-21**|**Bridging Language and Spherical Space: Object-Centric Control for Text-to-Panorama Generation**|Peng Lu Team|[2608.20691](http://arxiv.org/abs/2608.20691)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-20**|**Grounded-Exo2Ego: Structured Semantic Grounding for Robust Exocentric-to-Egocentric Video Generation**|Shalini De Mello Team|[2608.20534](http://arxiv.org/abs/2608.20534)|**[link](https://research.nvidia.com/labs/amri/projects/grounded-exo2ego/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-24**|**The ALMA EGO-10 Survey of Massive Protoclusters: Correlation of 1.3 mm Continuum Source Clustering with Evolutionary State**|Stella S. R. Offner Team|[2608.23527](http://arxiv.org/abs/2608.23527)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-24**|**GeoWAM: Visual Geometry World Action Models for Autonomous Driving**|Burhan Yaman Team|[2608.23486](http://arxiv.org/abs/2608.23486)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-24**|**Motion-Based Tokenization for Cross-Dataset Egocentric Gaze Modeling**|Enkelejda Kasneci Team|[2608.22926](http://arxiv.org/abs/2608.22926)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-24**|**Results of the 1st Asynchronous CASTLE Challenge at the Joint Egocentric Vision Workshop in Conjunction with CVPR 2026**|Allie Tran Team|[2608.22914](http://arxiv.org/abs/2608.22914)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-23**|**AI-based worker guidance in assembly and disassembly operations using multimodal ego/exo-centric data capture and structured task knowledge**|Jörg Krüger Team|[2608.22617](http://arxiv.org/abs/2608.22617)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-23**|**Optimizing Treatment Allocation in Experiments with Network Interference**|Asim K. Dey Team|[2608.22570](http://arxiv.org/abs/2608.22570)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-23**|**EMPIRE: Explicit Manipulation Planning as a Learnable Intermediate Representation for Egocentric Hand-Motion Forecasting**|Xilin Chen Team|[2608.22449](http://arxiv.org/abs/2608.22449)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-23**|**Pre-Decoding Acoustic Triage for Budgeted Vision-Language Captioning of Untrimmed Egocentric Video**|Yu Xiao Team|[2608.22359](http://arxiv.org/abs/2608.22359)|**[link](https://github.com/masjalayer/PreDecoding-AcousticTriage)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-23**|**TransHands: Repurposing Human Pose Encoders as Hand Pose Encoders**|Gabriella Olmo Team|[2608.22341](http://arxiv.org/abs/2608.22341)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-23**|**BehaviorWorldGen: Closing the Loop between Action Models and World Simulators via Controllable Behavior-Aware Structured World Generation**|Jiajun Zhu Team|[2608.22187](http://arxiv.org/abs/2608.22187)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-12**|**RiskWorld: Object-Centric Latent World Modeling for Autonomous Driving Risk Identification**|Xianglong Liu Team|[2608.21414](http://arxiv.org/abs/2608.21414)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-06**|**Active Interaction-Aware Model Predictive Path Integral via Ego-Conditioned Generative Predictions**|Javier Alonso-Mora Team|[2608.21400](http://arxiv.org/abs/2608.21400)|null|
+|**2026-08-21**|**Roadside-Cooperative Autonomous Driving: From Data Platform to Vision-Language End-to-End Reasoning**|Jianqiang Wang Team|[2608.21032](http://arxiv.org/abs/2608.21032)|null|
+|**2026-08-21**|**Dorsal Hand Images for Immersive (XR) and Privacy-preserving Age Assurance and Child Safety**|Josh P. Davis Team|[2608.21009](http://arxiv.org/abs/2608.21009)|null|
+|**2026-08-21**|**WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving**|Mu Yang Team|[2608.20974](http://arxiv.org/abs/2608.20974)|null|
+|**2026-08-21**|**Bridging Language and Spherical Space: Object-Centric Control for Text-to-Panorama Generation**|Peng Lu Team|[2608.20691](http://arxiv.org/abs/2608.20691)|null|
+|**2026-08-20**|**Grounded-Exo2Ego: Structured Semantic Grounding for Robust Exocentric-to-Egocentric Video Generation**|Shalini De Mello Team|[2608.20534](http://arxiv.org/abs/2608.20534)|**[link](https://research.nvidia.com/labs/amri/projects/grounded-exo2ego/)**|
 |**2026-08-20**|**DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery**|Hongsheng Li Team|[2608.20308](http://arxiv.org/abs/2608.20308)|**[link](https://ggxxii.github.io/dreamhand/)**|
 |**2026-08-20**|**G3Ego: Gaze-Guided Graphs for Egocentric Action Understanding**|Estefania Talavera Martinez Team|[2608.20157](http://arxiv.org/abs/2608.20157)|null|
 |**2026-08-21**|**DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation**|Qiaojun Yu Team|[2608.20114](http://arxiv.org/abs/2608.20114)|null|
@@ -143,16 +155,4 @@
 |**2026-07-15**|**EgoProceVQA: A Novel Egocentric Procedural Understanding Task with Self-Skill-Exploration Agent**|Yi Wang Team|[2607.13792](http://arxiv.org/abs/2607.13792)|null|
 |**2026-07-15**|**EgoHTR: Egocentric 4D Demonstrations of Human Terrain Traversal**|Marco Hutter Team|[2607.13472](http://arxiv.org/abs/2607.13472)|**[link](https://egohtr.github.io)**|
 |**2026-07-15**|**Ego-Dynamics-Augmented World Model for Autonomous Driving with Zero-Shot Cross-Chassis Adaptation**|Chen Lv Team|[2607.13410](http://arxiv.org/abs/2607.13410)|null|
-|**2026-07-10**|**A 3DGS-Driven Dynamic Viewpoint and Vibrotactile Framework for Subsea Teleoperation Validated via fNIRS**|Jing Du Team|[2607.13067](http://arxiv.org/abs/2607.13067)|null|
-|**2026-08-04**|**TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale**|Wei Zhan Team|[2607.13028](http://arxiv.org/abs/2607.13028)|null|
-|**2026-07-14**|**MAMMOTH: A Multi-Modal End-to-End Policy for Off-Road Mobility Robust to Missing Modality**|Suresh Sundaram Team|[2607.12965](http://arxiv.org/abs/2607.12965)|null|
-|**2026-07-14**|**ViCo3D: Empowering LiDAR-based Collaborative 3D Object Detection with Vision Foundation Models**|Yanyong Zhang Team|[2607.12959](http://arxiv.org/abs/2607.12959)|null|
-|**2026-07-14**|**Adaptive Cross-Modal Fusion with Sparse Attention for Pedestrian Crossing Intention Prediction**|Kaixin Gao Team|[2607.12293](http://arxiv.org/abs/2607.12293)|null|
-|**2026-07-14**|**DA-Nav: Direction-Aware City-Scale Vision-Language Navigation**|Zhulin An Team|[2607.11638](http://arxiv.org/abs/2607.11638)|null|
-|**2026-07-13**|**Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos**|Yifei Huang Team|[2607.11523](http://arxiv.org/abs/2607.11523)|null|
-|**2026-07-13**|**LightMem-Ego: Your AI Memory for Everyday Life**|Ningyu Zhang Team|[2607.11487](http://arxiv.org/abs/2607.11487)|null|
-|**2026-07-12**|**Is Energy Guidance All You Need? Training-Free Norm Injection for Driving World Models**|Markus Lienkamp Team|[2607.10781](http://arxiv.org/abs/2607.10781)|null|
-|**2026-07-12**|**World Models as Adversaries: Multi-Agent Self-Play Fine-Tuning for Robust Motion Planning**|Wei Ma Team|[2607.10630](http://arxiv.org/abs/2607.10630)|null|
-|**2026-07-11**|**PrismAD: Decoupled Planning via Semantic Mixture-of-Planners for End-to-End Autonomous Driving**|Lei He Team|[2607.10336](http://arxiv.org/abs/2607.10336)|null|
-|**2026-07-11**|**InterPet4D: A Multimodal 4D Human-Pet Interaction Dataset for Pet Motion Generation**|Erwin Wu Team|[2607.10287](http://arxiv.org/abs/2607.10287)|null|
 
