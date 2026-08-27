@@ -1,10 +1,16 @@
-## Updated on 2026.08.26
+## Updated on 2026.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-26**|**A spinal circuit for collective coordination**|Abdel El Manira Team|[2608.25909](http://arxiv.org/abs/2608.25909)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-26**|**Moving Beyond More Views: Redundancy-Aware Ego-Exo Fusion for Proficiency Estimation**|Andrew Gilbert Team|[2608.25736](http://arxiv.org/abs/2608.25736)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-26**|**EgoArgus: Benchmarking VLMs as Situational Assistants for Modality-Grounded User Supports**|An-Zi Yen Team|[2608.25561](http://arxiv.org/abs/2608.25561)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-26**|**PhaseShift: Topology-Aware Data Harmonization and Model Consolidation Across Signalized Intersections**|Sanjay Ranka Team|[2608.25275](http://arxiv.org/abs/2608.25275)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-25**|**Belief Cascades Drive Persuasion in LLM Agent Networks**|Nanyun Peng Team|[2608.25152](http://arxiv.org/abs/2608.25152)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-25**|**SkyDrive: Learning to Drive in a New City from Aerial Traffic Monitoring**|Nikolas Geroliminis Team|[2608.25142](http://arxiv.org/abs/2608.25142)|null|
 |**2026-08-25**|**From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms**|Yong Liu Team|[2608.24877](http://arxiv.org/abs/2608.24877)|**[link](https://github.com/zhangzjn/awesome-smart-glasses)**|
 |**2026-08-25**|**EVEREST:Endogenous Vision-Language Reinforcement Reasoning Exploration for Urban Socio-Semantic Segmentation**|Weifeng Xu Team|[2608.24640](http://arxiv.org/abs/2608.24640)|null|
 |**2026-08-25**|**EgoErrorVQA: Assess Egocentric Comprehension Capabilities through Procedural Errors for Ego-Agentic AI**|Yi Wang Team|[2608.24134](http://arxiv.org/abs/2608.24134)|null|
@@ -13,7 +19,7 @@
 |**2026-08-24**|**Motion-Based Tokenization for Cross-Dataset Egocentric Gaze Modeling**|Enkelejda Kasneci Team|[2608.22926](http://arxiv.org/abs/2608.22926)|null|
 |**2026-08-24**|**Results of the 1st Asynchronous CASTLE Challenge at the Joint Egocentric Vision Workshop in Conjunction with CVPR 2026**|Allie Tran Team|[2608.22914](http://arxiv.org/abs/2608.22914)|null|
 |**2026-08-23**|**AI-based worker guidance in assembly and disassembly operations using multimodal ego/exo-centric data capture and structured task knowledge**|Jörg Krüger Team|[2608.22617](http://arxiv.org/abs/2608.22617)|null|
-|**2026-08-23**|**Optimizing Treatment Allocation in Experiments with Network Interference**|Asim K. Dey Team|[2608.22570](http://arxiv.org/abs/2608.22570)|null|
+|**2026-08-26**|**Optimal Experimental Design for Network Experiments under Interference**|Asim K. Dey Team|[2608.22570](http://arxiv.org/abs/2608.22570)|null|
 |**2026-08-23**|**EMPIRE: Explicit Manipulation Planning as a Learnable Intermediate Representation for Egocentric Hand-Motion Forecasting**|Xilin Chen Team|[2608.22449](http://arxiv.org/abs/2608.22449)|null|
 |**2026-08-23**|**Pre-Decoding Acoustic Triage for Budgeted Vision-Language Captioning of Untrimmed Egocentric Video**|Yu Xiao Team|[2608.22359](http://arxiv.org/abs/2608.22359)|**[link](https://github.com/masjalayer/PreDecoding-AcousticTriage)**|
 |**2026-08-23**|**TransHands: Repurposing Human Pose Encoders as Hand Pose Encoders**|Gabriella Olmo Team|[2608.22341](http://arxiv.org/abs/2608.22341)|null|
@@ -149,10 +155,4 @@
 |**2026-07-17**|**Let the Body Follow: Coupled Egocentric Control for Whole-Body Robot Teleoperation**|Chien-Ming Huang Team|[2607.16095](http://arxiv.org/abs/2607.16095)|null|
 |**2026-08-05**|**Exo2EgoPose: Leveraging Exocentric Demonstrations for Vision-Language guided Egocentric 3D Hand Pose Forecasting**|Hongliang Li Team|[2607.15890](http://arxiv.org/abs/2607.15890)|null|
 |**2026-07-17**|**EgoExoMoCap: Distributed Ego-Exo Human Motion Capture**|Federica Bogo Team|[2607.15868](http://arxiv.org/abs/2607.15868)|**[link](https://siplab.org/projects/EgoExoMoCap)**|
-|**2026-07-16**|**AeroAct: Action-Centered World-Action Models for Language-Conditioned Quadrotor Flight**|Gang Wang Team|[2607.14997](http://arxiv.org/abs/2607.14997)|null|
-|**2026-07-16**|**Communication-Efficient Relative Pose Estimation with Vision Foundation Models for Ephemeral Collaborative Perception**|Peng Gao Team|[2607.14539](http://arxiv.org/abs/2607.14539)|null|
-|**2026-07-16**|**DRIFT: Drift and Aggregation for Motion Planning**|Jianqiang Wang Team|[2607.14507](http://arxiv.org/abs/2607.14507)|null|
-|**2026-08-20**|**Reinforcing Egocentric Spatial Perception in Multimodal Large Language Models via Ego Scene Augmentation**|Xuming Hu Team|[2607.14497](http://arxiv.org/abs/2607.14497)|**[link](https://github.com/Chikit-WONG/spatialGraph)**|
-|**2026-07-15**|**MEMORA: Embodied Action Memory from Egocentric Videos for Reasoning and Planning**|Chongjie Zhang Team|[2607.14252](http://arxiv.org/abs/2607.14252)|null|
-|**2026-07-18**|**Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning**|Zhe Li Team|[2607.14183](http://arxiv.org/abs/2607.14183)|null|
 

@@ -1,10 +1,17 @@
-## Updated on 2026.08.26
+## Updated on 2026.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-26**|**One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation**|Zhi-xin Yang Team|[2608.26058](http://arxiv.org/abs/2608.26058)|**[link](https://public-bots.github.io/UCAG-P)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-26**|**MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization**|Lijun Wang Team|[2608.25864](http://arxiv.org/abs/2608.25864)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-26**|**Large Language Model Few-Shot Prompting with Dilemma Training Outperforms Human Surrogates in Predicting Patient Preferences**|Pin Sym Foong Team|[2608.25771](http://arxiv.org/abs/2608.25771)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-26**|**AffectSim: A Controllable Interactive 3D Simulation Benchmark for Embodied Affective Perception**|Xiping Hu Team|[2608.25664](http://arxiv.org/abs/2608.25664)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-26**|**ConfAL-WM: Confidence-Guided Active Learning for Action-Conditioned World Models**|Changshui Zhang Team|[2608.25572](http://arxiv.org/abs/2608.25572)|**[link](https://ConfAL-WM.github.io)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-26**|**A Tendon-Driven Five-Fingered Hand with Distributed Tactile Perception for Dexterous Manipulation**|Longhui Qin Team|[2608.25547](http://arxiv.org/abs/2608.25547)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-26**|**4DStreamCtrl: Interactive Video Generation with Online 4D Control**|Yixin Zhu Team|[2608.25479](http://arxiv.org/abs/2608.25479)|null|
 |**2026-08-25**|**From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms**|Yong Liu Team|[2608.24877](http://arxiv.org/abs/2608.24877)|**[link](https://github.com/zhangzjn/awesome-smart-glasses)**|
 |**2026-08-25**|**Gripper-aware Vision Language Action Models**|Baoru Huang Team|[2608.24603](http://arxiv.org/abs/2608.24603)|null|
 |**2026-08-25**|**NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation**|Yunbo Wang Team|[2608.24212](http://arxiv.org/abs/2608.24212)|null|
@@ -25,8 +32,9 @@
 |**2026-08-23**|**LD4WAM: Learning Latent Dynamics from Human Videos for World Action Models**|Ruihai Wu Team|[2608.22403](http://arxiv.org/abs/2608.22403)|null|
 |**2026-08-23**|**How Agents Represent Humans: Human-Directed Stereotypes in an Open Agent Social Network**|Yi Chang Team|[2608.22192](http://arxiv.org/abs/2608.22192)|null|
 |**2026-08-23**|**AUDITA: certified auditing and causal attribution of adverse outcomes in autonomous multi-agent systems**|Yiran Chen Team|[2608.22160](http://arxiv.org/abs/2608.22160)|null|
-|**2026-08-23**|**Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints**|Yuchen Cui Team|[2608.22149](http://arxiv.org/abs/2608.22149)|null|
+|**2026-08-25**|**Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints**|Yuchen Cui Team|[2608.22149](http://arxiv.org/abs/2608.22149)|null|
 |**2026-08-25**|**GenCoord: Skill-Path Commitments under Private Information**|Jianpeng Liang Team|[2608.22055](http://arxiv.org/abs/2608.22055)|**[link](https://github.com/JulianZJN/GenCoord)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-26**|**EDGE: Experience-Distillation for Guided Exploration in Agentic Reinforcement Learning**|Jiajun Zhang Team|[2608.21946](http://arxiv.org/abs/2608.21946)|null|
 |**2026-08-22**|**GuardianBench: A Same-Scene Instruction-Contrastive Benchmark for Latent Contextual Risk in Embodied AI**|Keji He Team|[2608.21928](http://arxiv.org/abs/2608.21928)|null|
 |**2026-08-22**|**CIDER: Continual Interactive Distillation for Embodied Reinforcement Learning**|Maoqing Yao Team|[2608.21899](http://arxiv.org/abs/2608.21899)|null|
 |**2026-08-22**|**ViSMoE: Visual-Aware Sparse Mixture-of-Experts for Embodied Referring Expression Grounding**|Piji Li Team|[2608.21878](http://arxiv.org/abs/2608.21878)|null|
@@ -147,12 +155,4 @@
 |**2026-08-11**|**Embodied Multimodal Grounding for Open-Vocabulary Mobile Manipulation via Semantic 3D Gaussian Splatting**|Yiding Ji Team|[2608.10756](http://arxiv.org/abs/2608.10756)|null|
 |**2026-08-11**|**Toward the Cognitive--Physical Limits of Embodied Intelligence through a World-Model-Centric Autonomous Racing Agent**|Chen Lv Team|[2608.10618](http://arxiv.org/abs/2608.10618)|null|
 |**2026-08-11**|**Visual-to-Haptic Augmentation in XR: A Wearable Glove for Perceptual Grounding in Multimodal Interaction**|Abdulmotaleb El Saddik Team|[2608.10368](http://arxiv.org/abs/2608.10368)|null|
-|**2026-08-11**|**Towards Unified Dynamic Face Landmark Detection**|Igor Gilitschenski Team|[2608.10346](http://arxiv.org/abs/2608.10346)|null|
-|**2026-08-10**|**Chain of Spatial Thoughts: Modality-Agnostic Spatial Grounding for Vision Language Models**|Dongfeng Bai Team|[2608.10278](http://arxiv.org/abs/2608.10278)|null|
-|**2026-08-10**|**Not a Monolith: Lab-Level Divergence in the Cooperative Equilibria of Chinese Frontier LLM Agents**|Francisco León Zúñiga Bolívar Team|[2608.10262](http://arxiv.org/abs/2608.10262)|**[link](https://github.com/arqFranciscoLeon/evollm)**|
-|**2026-08-10**|**Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning**|Lin Wang Team|[2608.09876](http://arxiv.org/abs/2608.09876)|null|
-|**2026-08-10**|**RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance**|Xin Li Team|[2608.09853](http://arxiv.org/abs/2608.09853)|null|
-|**2026-08-10**|**CEAA: A Cognitive Embodied Agents Architecture for Interactive Computing Systems**|Louis Nisiotis Team|[2608.09848](http://arxiv.org/abs/2608.09848)|null|
-|**2026-08-10**|**SLIM-0.5B: Learning Action-Grounded Predictive Latents for Robot Manipulation**|Dejing Dou Team|[2608.09771](http://arxiv.org/abs/2608.09771)|**[link](https://kzz1031.github.io/slim-project-page/)**|
-|**2026-08-10**|**World Tokens: Enhancing Embodied Policies with Training-Time World Modeling**|Junlan Feng Team|[2608.09730](http://arxiv.org/abs/2608.09730)|null|
 
