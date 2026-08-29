@@ -1,14 +1,14 @@
-## Updated on 2026.08.28
+## Updated on 2026.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**Embodied Scene Rearrangement Planning**|Wei Liang Team|[2608.27371](http://arxiv.org/abs/2608.27371)|**[link](https://bit-pie.github.io/ESRP/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**Surrounded by Friends: Design and Evaluation of Immersive Layouts of Egocentric Network for Visual Analytics**|Huamin Qu Team|[2608.27194](http://arxiv.org/abs/2608.27194)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**Riemann-1.0: An Embodied World Action Model for Physical AI**|Yangguang Li Team|[2608.27033](http://arxiv.org/abs/2608.27033)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**RegulAR: Graph-Grounded Error Recognition and Assistance for Procedural Tasks in AR**|Wong Kam-Kwai Team|[2608.26715](http://arxiv.org/abs/2608.26715)|null|
+|**2026-08-27**|**Embodied Scene Rearrangement Planning**|Wei Liang Team|[2608.27371](http://arxiv.org/abs/2608.27371)|**[link](https://bit-pie.github.io/ESRP/)**|
+|**2026-08-27**|**Surrounded by Friends: Design and Evaluation of Immersive Layouts of Egocentric Network for Visual Analytics**|Huamin Qu Team|[2608.27194](http://arxiv.org/abs/2608.27194)|null|
+|**2026-08-27**|**Riemann-1.0: An Embodied World Action Model for Physical AI**|Yangguang Li Team|[2608.27033](http://arxiv.org/abs/2608.27033)|null|
+|**2026-08-27**|**RegulAR: Graph-Grounded Error Recognition and Assistance for Procedural Tasks in AR**|Wong Kam-Kwai Team|[2608.26715](http://arxiv.org/abs/2608.26715)|null|
 |**2026-08-26**|**A spinal circuit for collective coordination**|Abdel El Manira Team|[2608.25909](http://arxiv.org/abs/2608.25909)|null|
 |**2026-08-26**|**Moving Beyond More Views: Redundancy-Aware Ego-Exo Fusion for Proficiency Estimation**|Andrew Gilbert Team|[2608.25736](http://arxiv.org/abs/2608.25736)|null|
 |**2026-08-26**|**EgoArgus: Benchmarking VLMs as Situational Assistants for Modality-Grounded User Supports**|An-Zi Yen Team|[2608.25561](http://arxiv.org/abs/2608.25561)|null|

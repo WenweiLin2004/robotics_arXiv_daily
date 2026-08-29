@@ -1,21 +1,21 @@
-## Updated on 2026.08.28
+## Updated on 2026.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**Reconstructing Humans and Objects in Interaction using Large Reconstruction Models**|Georgios Pavlakos Team|[2608.27407](http://arxiv.org/abs/2608.27407)|**[link](https://ac5113.github.io/MILO)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators**|Ola Shorinwa Team|[2608.27406](http://arxiv.org/abs/2608.27406)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**Beyond Harassment: Exploring the Harm Experienced by People with Disabilities in Social Virtual Reality**|Yaxing Yao Team|[2608.27390](http://arxiv.org/abs/2608.27390)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**Embodied Scene Rearrangement Planning**|Wei Liang Team|[2608.27371](http://arxiv.org/abs/2608.27371)|**[link](https://bit-pie.github.io/ESRP/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**DINOcular: Self-Supervised Visuospatial Representations**|Hermann Blum Team|[2608.27226](http://arxiv.org/abs/2608.27226)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**Riemann-1.0: An Embodied World Action Model for Physical AI**|Yangguang Li Team|[2608.27033](http://arxiv.org/abs/2608.27033)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation**|Shuyang Sun Team|[2608.26947](http://arxiv.org/abs/2608.26947)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**Contact-Aided Factor-Graph Localization for Underwater Sampling**|Tomoya Inoue Team|[2608.26932](http://arxiv.org/abs/2608.26932)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**Decoupling Planning and Control for Instructable Agents**|Alane Suhr Team|[2608.26788](http://arxiv.org/abs/2608.26788)|**[link](https://zinengtang.github.io/instruct-to-act/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-26**|**WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression**|Qian Wang Team|[2608.26239](http://arxiv.org/abs/2608.26239)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-22**|**Can You Say This for Me? Speaking Up by Proxy in Co-Located Discussion**|Yan Chen Team|[2608.26185](http://arxiv.org/abs/2608.26185)|null|
+|**2026-08-27**|**Reconstructing Humans and Objects in Interaction using Large Reconstruction Models**|Georgios Pavlakos Team|[2608.27407](http://arxiv.org/abs/2608.27407)|**[link](https://ac5113.github.io/MILO)**|
+|**2026-08-27**|**CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators**|Ola Shorinwa Team|[2608.27406](http://arxiv.org/abs/2608.27406)|null|
+|**2026-08-27**|**Beyond Harassment: Exploring the Harm Experienced by People with Disabilities in Social Virtual Reality**|Yaxing Yao Team|[2608.27390](http://arxiv.org/abs/2608.27390)|null|
+|**2026-08-27**|**Embodied Scene Rearrangement Planning**|Wei Liang Team|[2608.27371](http://arxiv.org/abs/2608.27371)|**[link](https://bit-pie.github.io/ESRP/)**|
+|**2026-08-27**|**DINOcular: Self-Supervised Visuospatial Representations**|Hermann Blum Team|[2608.27226](http://arxiv.org/abs/2608.27226)|null|
+|**2026-08-27**|**Riemann-1.0: An Embodied World Action Model for Physical AI**|Yangguang Li Team|[2608.27033](http://arxiv.org/abs/2608.27033)|null|
+|**2026-08-27**|**4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation**|Shuyang Sun Team|[2608.26947](http://arxiv.org/abs/2608.26947)|null|
+|**2026-08-27**|**Contact-Aided Factor-Graph Localization for Underwater Sampling**|Tomoya Inoue Team|[2608.26932](http://arxiv.org/abs/2608.26932)|null|
+|**2026-08-27**|**Decoupling Planning and Control for Instructable Agents**|Alane Suhr Team|[2608.26788](http://arxiv.org/abs/2608.26788)|**[link](https://zinengtang.github.io/instruct-to-act/)**|
+|**2026-08-26**|**WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression**|Qian Wang Team|[2608.26239](http://arxiv.org/abs/2608.26239)|null|
+|**2026-08-22**|**Can You Say This for Me? Speaking Up by Proxy in Co-Located Discussion**|Yan Chen Team|[2608.26185](http://arxiv.org/abs/2608.26185)|null|
 |**2026-08-26**|**One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation**|Zhi-xin Yang Team|[2608.26058](http://arxiv.org/abs/2608.26058)|**[link](https://public-bots.github.io/UCAG-P)**|
 |**2026-08-26**|**MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization**|Lijun Wang Team|[2608.25864](http://arxiv.org/abs/2608.25864)|null|
 |**2026-08-26**|**Large Language Model Few-Shot Prompting with Dilemma Training Outperforms Human Surrogates in Predicting Patient Preferences**|Pin Sym Foong Team|[2608.25771](http://arxiv.org/abs/2608.25771)|null|
