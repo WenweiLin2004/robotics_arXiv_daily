@@ -247,7 +247,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-28**|**Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning**|Yiwei Tao Team|[2608.28578](http://arxiv.org/abs/2608.28578)|**[link](https://tetheria.github.io/aero-hand-open/)**|
+|**2026-08-28**|**Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning**|Yiwei Tao Team|[2608.28578](http://arxiv.org/abs/2608.28578)|**[link](https://tetheria.github.io/aero-hand-open/)**|
 |**2026-08-27**|**Task-space model-based control of pneumatic soft actuators**|Eric J. Barth Team|[2608.27186](http://arxiv.org/abs/2608.27186)|null|
 |**2026-08-26**|**A Tendon-Driven Five-Fingered Hand with Distributed Tactile Perception for Dexterous Manipulation**|Longhui Qin Team|[2608.25547](http://arxiv.org/abs/2608.25547)|null|
 |**2026-08-26**|**Paint What You See: Benchmarking Dexterous Visual Tool Use in Multimodal Agents**|Lewei Lu Team|[2608.25417](http://arxiv.org/abs/2608.25417)|null|
@@ -304,15 +304,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-28**|**PanelShield: Verifiable Closed-Loop Safe Planning for Robotic Industrial Panel Operation**|Zhongxu Hu Team|[2608.28305](http://arxiv.org/abs/2608.28305)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-28**|**CoCoBench: A Cooperative Coordination Benchmark for Embodied Multi-Agent Task Planning**|Lan-Zhe Guo Team|[2608.28266](http://arxiv.org/abs/2608.28266)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-28**|**Training-free Suction Grasp Detection for Deformed Aseptic Cartons Using Vision-Language Models and Geometric Surface Scoring**|Goran Vasiljevic Team|[2608.28246](http://arxiv.org/abs/2608.28246)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-28**|**A-PAIR: A Benchmark and Identity-Consistent Grounding Framework for Air-Ground Cross-View Referring Person Detection**|Pengfei Zhu Team|[2608.27997](http://arxiv.org/abs/2608.27997)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-28**|**Iron: Intent-Aligned and Retrospective Dual Learning Framework for Enhancing Generalist Virtual Agents**|Siliang Tang Team|[2608.27866](http://arxiv.org/abs/2608.27866)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-28**|**uScenes: A Multimodal RGB and 3D Sonar Dataset for Underwater Robot Perception**|Xiaomin Lin Team|[2608.27795](http://arxiv.org/abs/2608.27795)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**One year in a forest: Analyzing the challenges of autonomous navigation in subarctic environments**|François Pomerleau Team|[2608.27628](http://arxiv.org/abs/2608.27628)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models**|Jiaya Jia Team|[2608.27550](http://arxiv.org/abs/2608.27550)|**[link](https://starvla.github.io/VLAct)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**Beyond Relative Geometry: Metric-Aware Geometry Perception for Robotics**|Zhongliang Qiao Team|[2608.27497](http://arxiv.org/abs/2608.27497)|null|
+|**2026-08-28**|**PanelShield: Verifiable Closed-Loop Safe Planning for Robotic Industrial Panel Operation**|Zhongxu Hu Team|[2608.28305](http://arxiv.org/abs/2608.28305)|null|
+|**2026-08-28**|**CoCoBench: A Cooperative Coordination Benchmark for Embodied Multi-Agent Task Planning**|Lan-Zhe Guo Team|[2608.28266](http://arxiv.org/abs/2608.28266)|null|
+|**2026-08-28**|**Training-free Suction Grasp Detection for Deformed Aseptic Cartons Using Vision-Language Models and Geometric Surface Scoring**|Goran Vasiljevic Team|[2608.28246](http://arxiv.org/abs/2608.28246)|null|
+|**2026-08-28**|**A-PAIR: A Benchmark and Identity-Consistent Grounding Framework for Air-Ground Cross-View Referring Person Detection**|Pengfei Zhu Team|[2608.27997](http://arxiv.org/abs/2608.27997)|null|
+|**2026-08-28**|**Iron: Intent-Aligned and Retrospective Dual Learning Framework for Enhancing Generalist Virtual Agents**|Siliang Tang Team|[2608.27866](http://arxiv.org/abs/2608.27866)|null|
+|**2026-08-28**|**uScenes: A Multimodal RGB and 3D Sonar Dataset for Underwater Robot Perception**|Xiaomin Lin Team|[2608.27795](http://arxiv.org/abs/2608.27795)|null|
+|**2026-08-27**|**One year in a forest: Analyzing the challenges of autonomous navigation in subarctic environments**|François Pomerleau Team|[2608.27628](http://arxiv.org/abs/2608.27628)|null|
+|**2026-08-27**|**Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models**|Jiaya Jia Team|[2608.27550](http://arxiv.org/abs/2608.27550)|**[link](https://starvla.github.io/VLAct)**|
+|**2026-08-27**|**Beyond Relative Geometry: Metric-Aware Geometry Perception for Robotics**|Zhongliang Qiao Team|[2608.27497](http://arxiv.org/abs/2608.27497)|null|
 |**2026-08-27**|**CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators**|Ola Shorinwa Team|[2608.27406](http://arxiv.org/abs/2608.27406)|null|
 |**2026-08-27**|**Embodied Scene Rearrangement Planning**|Wei Liang Team|[2608.27371](http://arxiv.org/abs/2608.27371)|**[link](https://bit-pie.github.io/ESRP/)**|
 |**2026-08-27**|**DINOcular: Self-Supervised Visuospatial Representations**|Hermann Blum Team|[2608.27226](http://arxiv.org/abs/2608.27226)|null|
@@ -361,12 +361,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-28**|**An Enclosed Mode Is a Gauge Choice: Topology Relative to Reach in Certified Code World Models**|Javier Aguilar Martín Team|[2608.28541](http://arxiv.org/abs/2608.28541)|**[link](https://github.com/JaviMaligno/code-world-models)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-28**|**AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction**|Nan Wu Team|[2608.28491](http://arxiv.org/abs/2608.28491)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-28**|**WALDO: One-Shot Exemplar-Conditioned Object Detection in Cluttered Scenes**|Mohd Ariful Haque Team|[2608.28216](http://arxiv.org/abs/2608.28216)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-28**|**Learning to Allocate Incentives for Incentivized Advertising via Offline Model-Based Reinforcement Learning**|Yinsong Xue Team|[2608.28065](http://arxiv.org/abs/2608.28065)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-28**|**Should I Use This Synthetic Dataset for Training? How to Test with Minimal Real Data**|Osvaldo Simeone Team|[2608.27996](http://arxiv.org/abs/2608.27996)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning**|Tianwen Qian Team|[2608.27508](http://arxiv.org/abs/2608.27508)|null|
+|**2026-08-28**|**An Enclosed Mode Is a Gauge Choice: Topology Relative to Reach in Certified Code World Models**|Javier Aguilar Martín Team|[2608.28541](http://arxiv.org/abs/2608.28541)|**[link](https://github.com/JaviMaligno/code-world-models)**|
+|**2026-08-28**|**AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction**|Nan Wu Team|[2608.28491](http://arxiv.org/abs/2608.28491)|null|
+|**2026-08-28**|**WALDO: One-Shot Exemplar-Conditioned Object Detection in Cluttered Scenes**|Mohd Ariful Haque Team|[2608.28216](http://arxiv.org/abs/2608.28216)|null|
+|**2026-08-28**|**Learning to Allocate Incentives for Incentivized Advertising via Offline Model-Based Reinforcement Learning**|Yinsong Xue Team|[2608.28065](http://arxiv.org/abs/2608.28065)|null|
+|**2026-08-28**|**Should I Use This Synthetic Dataset for Training? How to Test with Minimal Real Data**|Osvaldo Simeone Team|[2608.27996](http://arxiv.org/abs/2608.27996)|null|
+|**2026-08-27**|**WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning**|Tianwen Qian Team|[2608.27508](http://arxiv.org/abs/2608.27508)|null|
 |**2026-08-27**|**CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators**|Ola Shorinwa Team|[2608.27406](http://arxiv.org/abs/2608.27406)|null|
 |**2026-08-27**|**Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models**|Frederik Berenz Team|[2608.27367](http://arxiv.org/abs/2608.27367)|null|
 |**2026-08-28**|**PAWBench: How Far Are We from Probabilistically Aligned World Modeling?**|Xi Chen Team|[2608.27345](http://arxiv.org/abs/2608.27345)|null|
@@ -418,7 +418,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models**|Jiaya Jia Team|[2608.27550](http://arxiv.org/abs/2608.27550)|**[link](https://starvla.github.io/VLAct)**|
+|**2026-08-27**|**Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models**|Jiaya Jia Team|[2608.27550](http://arxiv.org/abs/2608.27550)|**[link](https://starvla.github.io/VLAct)**|
 |**2026-08-27**|**Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models**|Ye Yuan Team|[2608.27259](http://arxiv.org/abs/2608.27259)|null|
 |**2026-08-27**|**Riemann-1.0: An Embodied World Action Model for Physical AI**|Yangguang Li Team|[2608.27033](http://arxiv.org/abs/2608.27033)|null|
 |**2026-08-25**|**GameWAM: A World Action Model for Video Games**|Weijia Li Team|[2608.26200](http://arxiv.org/abs/2608.26200)|null|
