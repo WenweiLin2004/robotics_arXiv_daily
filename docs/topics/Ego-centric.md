@@ -5,7 +5,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**VidParse: Online Parsing of Egocentric Procedures Like a Pro**|Abhinav Shrivastava Team|[2608.27562](http://arxiv.org/abs/2608.27562)|null|
+|**2026-08-27**|**VidParse: Online Parsing of Egocentric Procedures Like a Pro**|Abhinav Shrivastava Team|[2608.27562](http://arxiv.org/abs/2608.27562)|null|
 |**2026-08-27**|**Embodied Scene Rearrangement Planning**|Wei Liang Team|[2608.27371](http://arxiv.org/abs/2608.27371)|**[link](https://bit-pie.github.io/ESRP/)**|
 |**2026-08-27**|**Surrounded by Friends: Design and Evaluation of Immersive Layouts of Egocentric Network for Visual Analytics**|Huamin Qu Team|[2608.27194](http://arxiv.org/abs/2608.27194)|null|
 |**2026-08-27**|**Riemann-1.0: An Embodied World Action Model for Physical AI**|Yangguang Li Team|[2608.27033](http://arxiv.org/abs/2608.27033)|null|

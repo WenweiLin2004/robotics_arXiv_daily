@@ -5,14 +5,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-28**|**When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI**|Oliver Lemon Team|[2608.28518](http://arxiv.org/abs/2608.28518)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-28**|**CoCoBench: A Cooperative Coordination Benchmark for Embodied Multi-Agent Task Planning**|Lan-Zhe Guo Team|[2608.28266](http://arxiv.org/abs/2608.28266)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-28**|**A-PAIR: A Benchmark and Identity-Consistent Grounding Framework for Air-Ground Cross-View Referring Person Detection**|Pengfei Zhu Team|[2608.27997](http://arxiv.org/abs/2608.27997)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-28**|**Iron: Intent-Aligned and Retrospective Dual Learning Framework for Enhancing Generalist Virtual Agents**|Siliang Tang Team|[2608.27866](http://arxiv.org/abs/2608.27866)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-28**|**Synthetic Linguistic Agency: How an Embodied Mortal Agent Learns Linguistic Affordances through Consequential Social Experience**|Taizhou Chen Team|[2608.27843](http://arxiv.org/abs/2608.27843)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-28**|**CEDAR: Automata as Verifiable Interfaces for Language-Guided Embodied Action**|Ashutosh Trivedi Team|[2608.27797](http://arxiv.org/abs/2608.27797)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models**|Jiaya Jia Team|[2608.27550](http://arxiv.org/abs/2608.27550)|**[link](https://starvla.github.io/VLAct)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-27**|**Beyond Relative Geometry: Metric-Aware Geometry Perception for Robotics**|Zhongliang Qiao Team|[2608.27497](http://arxiv.org/abs/2608.27497)|null|
+|**2026-08-28**|**When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI**|Oliver Lemon Team|[2608.28518](http://arxiv.org/abs/2608.28518)|null|
+|**2026-08-28**|**CoCoBench: A Cooperative Coordination Benchmark for Embodied Multi-Agent Task Planning**|Lan-Zhe Guo Team|[2608.28266](http://arxiv.org/abs/2608.28266)|null|
+|**2026-08-28**|**A-PAIR: A Benchmark and Identity-Consistent Grounding Framework for Air-Ground Cross-View Referring Person Detection**|Pengfei Zhu Team|[2608.27997](http://arxiv.org/abs/2608.27997)|null|
+|**2026-08-28**|**Iron: Intent-Aligned and Retrospective Dual Learning Framework for Enhancing Generalist Virtual Agents**|Siliang Tang Team|[2608.27866](http://arxiv.org/abs/2608.27866)|null|
+|**2026-08-28**|**Synthetic Linguistic Agency: How an Embodied Mortal Agent Learns Linguistic Affordances through Consequential Social Experience**|Taizhou Chen Team|[2608.27843](http://arxiv.org/abs/2608.27843)|null|
+|**2026-08-28**|**CEDAR: Automata as Verifiable Interfaces for Language-Guided Embodied Action**|Ashutosh Trivedi Team|[2608.27797](http://arxiv.org/abs/2608.27797)|null|
+|**2026-08-27**|**Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models**|Jiaya Jia Team|[2608.27550](http://arxiv.org/abs/2608.27550)|**[link](https://starvla.github.io/VLAct)**|
+|**2026-08-27**|**Beyond Relative Geometry: Metric-Aware Geometry Perception for Robotics**|Zhongliang Qiao Team|[2608.27497](http://arxiv.org/abs/2608.27497)|null|
 |**2026-08-27**|**Reconstructing Humans and Objects in Interaction using Large Reconstruction Models**|Georgios Pavlakos Team|[2608.27407](http://arxiv.org/abs/2608.27407)|**[link](https://ac5113.github.io/MILO)**|
 |**2026-08-27**|**CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators**|Ola Shorinwa Team|[2608.27406](http://arxiv.org/abs/2608.27406)|null|
 |**2026-08-27**|**Beyond Harassment: Exploring the Harm Experienced by People with Disabilities in Social Virtual Reality**|Yaxing Yao Team|[2608.27390](http://arxiv.org/abs/2608.27390)|null|
