@@ -1,19 +1,20 @@
-## Updated on 2026.09.02
+## Updated on 2026.09.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-01**|**TempCloze: Can Video-LLMs Identify the Missing Middle?**|Hongyang Du Team|[2609.01515](http://arxiv.org/abs/2609.01515)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-01**|**Seeing the World and the Self from Egocentric Video**|Lei Zhang Team|[2609.01276](http://arxiv.org/abs/2609.01276)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-01**|**Dyn-3D: Unveiling and Resolving Ego-Motion Ambiguity in Vision-Language Models**|Wenbo Xing Team|[2609.01059](http://arxiv.org/abs/2609.01059)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-01**|**CERF: Communication-Efficient and Retraining-Free Collaborative Perception**|Pin Lv Team|[2609.00951](http://arxiv.org/abs/2609.00951)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-31**|**Scene Graph-based Driving Scenario Extraction for Automotive Egocentric Datasets**|Mark Lawford Team|[2609.00333](http://arxiv.org/abs/2609.00333)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-31**|**CoLT-Drive: Counterfactual Long-Tail Benchmarking and Knowledge-Preserving Adaptation for Driving Affordance Prediction**|Pichao Wang Team|[2609.00242](http://arxiv.org/abs/2609.00242)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-31**|**Social bots weaken activist cohesion**|Balazs Vedres Team|[2609.00197](http://arxiv.org/abs/2609.00197)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-31**|**ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training**|Nan Duan Team|[2609.00188](http://arxiv.org/abs/2609.00188)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-08-31**|**Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving**|Xiang Bai Team|[2609.00111](http://arxiv.org/abs/2609.00111)|**[link](https://github.com/QwenLM/Qwen-Drive-1.0)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-02**|**AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels**|Eric Brachmann Team|[2609.02798](http://arxiv.org/abs/2609.02798)|null|
+|**2026-09-01**|**TempCloze: Can Video-LLMs Identify the Missing Middle?**|Hongyang Du Team|[2609.01515](http://arxiv.org/abs/2609.01515)|null|
+|**2026-09-01**|**Seeing the World and the Self from Egocentric Video**|Lei Zhang Team|[2609.01276](http://arxiv.org/abs/2609.01276)|null|
+|**2026-09-01**|**Dyn-3D: Unveiling and Resolving Ego-Motion Ambiguity in Vision-Language Models**|Wenbo Xing Team|[2609.01059](http://arxiv.org/abs/2609.01059)|null|
+|**2026-09-01**|**CERF: Communication-Efficient and Retraining-Free Collaborative Perception**|Pin Lv Team|[2609.00951](http://arxiv.org/abs/2609.00951)|null|
+|**2026-08-31**|**Scene Graph-based Driving Scenario Extraction for Automotive Egocentric Datasets**|Mark Lawford Team|[2609.00333](http://arxiv.org/abs/2609.00333)|null|
+|**2026-08-31**|**CoLT-Drive: Counterfactual Long-Tail Benchmarking and Knowledge-Preserving Adaptation for Driving Affordance Prediction**|Pichao Wang Team|[2609.00242](http://arxiv.org/abs/2609.00242)|null|
+|**2026-08-31**|**Social bots weaken activist cohesion**|Balazs Vedres Team|[2609.00197](http://arxiv.org/abs/2609.00197)|null|
+|**2026-08-31**|**ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training**|Nan Duan Team|[2609.00188](http://arxiv.org/abs/2609.00188)|null|
+|**2026-08-31**|**Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving**|Xiang Bai Team|[2609.00111](http://arxiv.org/abs/2609.00111)|**[link](https://github.com/QwenLM/Qwen-Drive-1.0)**|
 |**2026-08-31**|**SMG: Semantic Motion Graph for Monocular Dynamic Gaussian Splatting**|Bharath Hariharan Team|[2608.31023](http://arxiv.org/abs/2608.31023)|null|
 |**2026-08-31**|**InfraOcc: An Infrastructure Occupancy Benchmark with Static-to-Dynamic Reasoning**|Kaicheng Yu Team|[2608.30657](http://arxiv.org/abs/2608.30657)|null|
 |**2026-08-31**|**PRISM: Predictive Recomposition via Semantic Latent Decomposition for View-invariant Video Representation Learning**|Yong Man Ro Team|[2608.30388](http://arxiv.org/abs/2608.30388)|null|
@@ -154,5 +155,4 @@
 |**2026-07-28**|**Pictura: Perspective-View Self-Play at Scale for Driving**|Matthieu Cord Team|[2607.26005](http://arxiv.org/abs/2607.26005)|null|
 |**2026-07-28**|**Shared Voxel-Map-Based Cooperative Indoor UAV Guidance with a Multi-Agent Soft Actor-Critic Controller**|Nabil Aouf Team|[2607.25728](http://arxiv.org/abs/2607.25728)|null|
 |**2026-07-28**|**Leveraging Semantic Maps for City-Scale Cross-View Localization**|Nicholas Roy Team|[2607.25215](http://arxiv.org/abs/2607.25215)|null|
-|**2026-07-26**|**Egocentric Station Holding of Robotic Fish in Unknown Turbulent Background Flow**|Yang Wang Team|[2607.24860](http://arxiv.org/abs/2607.24860)|null|
 
