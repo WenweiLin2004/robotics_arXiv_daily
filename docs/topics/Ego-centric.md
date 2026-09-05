@@ -1,13 +1,13 @@
-## Updated on 2026.09.04
+## Updated on 2026.09.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-03**|**GraFT: A Training-Free Framework for Spatial Reasoning in Multimodal Large Language Models via 3D Scene Graphs**|Lu Liu Team|[2609.03892](http://arxiv.org/abs/2609.03892)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-03**|**PACE: Towards Surfacing Hidden Conflicts in User Requests**|Hyounghun Kim Team|[2609.03293](http://arxiv.org/abs/2609.03293)|**[link](https://github.com/p2chp2t/pacemaker)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-03**|**Long-Horizon Consistent and Interaction-Aware World Models for Multi-Style End-to-End Driving**|Liang Hu Team|[2609.03225](http://arxiv.org/abs/2609.03225)|null|
+|**2026-09-03**|**GraFT: A Training-Free Framework for Spatial Reasoning in Multimodal Large Language Models via 3D Scene Graphs**|Lu Liu Team|[2609.03892](http://arxiv.org/abs/2609.03892)|null|
+|**2026-09-03**|**PACE: Towards Surfacing Hidden Conflicts in User Requests**|Hyounghun Kim Team|[2609.03293](http://arxiv.org/abs/2609.03293)|**[link](https://github.com/p2chp2t/pacemaker)**|
+|**2026-09-03**|**Long-Horizon Consistent and Interaction-Aware World Models for Multi-Style End-to-End Driving**|Liang Hu Team|[2609.03225](http://arxiv.org/abs/2609.03225)|null|
 |**2026-09-02**|**AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels**|Eric Brachmann Team|[2609.02798](http://arxiv.org/abs/2609.02798)|null|
 |**2026-09-01**|**TempCloze: Can Video-LLMs Identify the Missing Middle?**|Hongyang Du Team|[2609.01515](http://arxiv.org/abs/2609.01515)|null|
 |**2026-09-01**|**Seeing the World and the Self from Egocentric Video**|Lei Zhang Team|[2609.01276](http://arxiv.org/abs/2609.01276)|null|

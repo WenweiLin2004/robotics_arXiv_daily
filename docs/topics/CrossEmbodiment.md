@@ -1,20 +1,20 @@
-## Updated on 2026.09.04
+## Updated on 2026.09.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-03**|**MulDP: Multimodal Diffusion Policy for Autonomous Quadruped Parkour Navigation across Complex Terrains**|Lihua Zhang Team|[2609.03984](http://arxiv.org/abs/2609.03984)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-03**|**Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models**|Kanata Suzuki Team|[2609.03927](http://arxiv.org/abs/2609.03927)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-03**|**From Data Querying to Data Investigations: Rethinking Natural Language Interfaces for Databases**|Carsten Binnig Team|[2609.03898](http://arxiv.org/abs/2609.03898)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-03**|**Rethinking World Models for Safety-Critical Embodied Systems**|Kitae Jang Team|[2609.03774](http://arxiv.org/abs/2609.03774)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-03**|**Artificial Intelligence for Energy Optimization in Data Centers**|Mohammed Nadeem Ullah Team|[2609.03716](http://arxiv.org/abs/2609.03716)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-03**|**Open WebXR versus Commercial Game Engines: A Socio-Technical Position Analysis for an Open, Sustainable, and Interoperable Metaverse**|Michel Buffa Team|[2609.03666](http://arxiv.org/abs/2609.03666)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-03**|**Toward Physically Grounded JEPA World Models for Goal-Conditioned Robotic Planning**|Xiang Gao Team|[2609.03565](http://arxiv.org/abs/2609.03565)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-03**|**BRIDGE: An Open-Source Humanoid Platform via Morphology-Control Co-Design for Physical AI**|Deepak Pathak Team|[2609.03497](http://arxiv.org/abs/2609.03497)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-02**|**Sensing Which Modality Matters: Evidence-Gated Regularization for Robust VLA Policies**|Siddarth Jain Team|[2609.03142](http://arxiv.org/abs/2609.03142)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-02**|**Distinctness threshold for pseudorandom unitaries**|Bill Fefferman Team|[2609.03065](http://arxiv.org/abs/2609.03065)|null|
+|**2026-09-03**|**MulDP: Multimodal Diffusion Policy for Autonomous Quadruped Parkour Navigation across Complex Terrains**|Lihua Zhang Team|[2609.03984](http://arxiv.org/abs/2609.03984)|null|
+|**2026-09-03**|**Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models**|Kanata Suzuki Team|[2609.03927](http://arxiv.org/abs/2609.03927)|null|
+|**2026-09-03**|**From Data Querying to Data Investigations: Rethinking Natural Language Interfaces for Databases**|Carsten Binnig Team|[2609.03898](http://arxiv.org/abs/2609.03898)|null|
+|**2026-09-03**|**Rethinking World Models for Safety-Critical Embodied Systems**|Kitae Jang Team|[2609.03774](http://arxiv.org/abs/2609.03774)|null|
+|**2026-09-03**|**Artificial Intelligence for Energy Optimization in Data Centers**|Mohammed Nadeem Ullah Team|[2609.03716](http://arxiv.org/abs/2609.03716)|null|
+|**2026-09-03**|**Open WebXR versus Commercial Game Engines: A Socio-Technical Position Analysis for an Open, Sustainable, and Interoperable Metaverse**|Michel Buffa Team|[2609.03666](http://arxiv.org/abs/2609.03666)|null|
+|**2026-09-03**|**Toward Physically Grounded JEPA World Models for Goal-Conditioned Robotic Planning**|Xiang Gao Team|[2609.03565](http://arxiv.org/abs/2609.03565)|null|
+|**2026-09-03**|**BRIDGE: An Open-Source Humanoid Platform via Morphology-Control Co-Design for Physical AI**|Deepak Pathak Team|[2609.03497](http://arxiv.org/abs/2609.03497)|null|
+|**2026-09-02**|**Sensing Which Modality Matters: Evidence-Gated Regularization for Robust VLA Policies**|Siddarth Jain Team|[2609.03142](http://arxiv.org/abs/2609.03142)|null|
+|**2026-09-02**|**Distinctness threshold for pseudorandom unitaries**|Bill Fefferman Team|[2609.03065](http://arxiv.org/abs/2609.03065)|null|
 |**2026-09-02**|**ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding**|Jun Yu Team|[2609.02780](http://arxiv.org/abs/2609.02780)|null|
 |**2026-09-02**|**ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation**|He Wang Team|[2609.02546](http://arxiv.org/abs/2609.02546)|null|
 |**2026-09-02**|**How LLMs Build Fictional Worlds: Setting and Narrative Space in AI-Generated Creative Storytelling**|Michaela Mahlberg Team|[2609.02482](http://arxiv.org/abs/2609.02482)|null|
