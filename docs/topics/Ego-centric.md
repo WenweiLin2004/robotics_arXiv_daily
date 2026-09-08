@@ -1,14 +1,14 @@
-## Updated on 2026.09.07
+## Updated on 2026.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-04**|**MINT: A Unified Model for World-Space Camera and Hand Motion Estimation from Scalable Egocentric Pipeline Supervision**|Guanqi He Team|[2609.04958](http://arxiv.org/abs/2609.04958)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-04**|**One Diffusion Model, Two Roles: Guided Trajectory Planning and Safety-Critical Scenario Generation in Closed-Loop Simulation**|Maciej Wozniak Team|[2609.04921](http://arxiv.org/abs/2609.04921)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-04**|**NavArena: Automated Construction of Goal-Oriented Navigation Benchmarks from 3D Gaussian Splatting Reconstructions**|Chao Gao Team|[2609.04602](http://arxiv.org/abs/2609.04602)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-04**|**Hidden In Plain Gaze: Gaze Representations as Privacy Controls for Utility and Re-identification Risk in XR**|Doug A. Bowman Team|[2609.04592](http://arxiv.org/abs/2609.04592)|null|
+|**2026-09-04**|**MINT: A Unified Model for World-Space Camera and Hand Motion Estimation from Scalable Egocentric Pipeline Supervision**|Guanqi He Team|[2609.04958](http://arxiv.org/abs/2609.04958)|null|
+|**2026-09-04**|**One Diffusion Model, Two Roles: Guided Trajectory Planning and Safety-Critical Scenario Generation in Closed-Loop Simulation**|Maciej Wozniak Team|[2609.04921](http://arxiv.org/abs/2609.04921)|null|
+|**2026-09-04**|**NavArena: Automated Construction of Goal-Oriented Navigation Benchmarks from 3D Gaussian Splatting Reconstructions**|Chao Gao Team|[2609.04602](http://arxiv.org/abs/2609.04602)|null|
+|**2026-09-04**|**Hidden In Plain Gaze: Gaze Representations as Privacy Controls for Utility and Re-identification Risk in XR**|Doug A. Bowman Team|[2609.04592](http://arxiv.org/abs/2609.04592)|null|
 |**2026-09-03**|**GraFT: A Training-Free Framework for Spatial Reasoning in Multimodal Large Language Models via 3D Scene Graphs**|Lu Liu Team|[2609.03892](http://arxiv.org/abs/2609.03892)|null|
 |**2026-09-03**|**PACE: Towards Surfacing Hidden Conflicts in User Requests**|Hyounghun Kim Team|[2609.03293](http://arxiv.org/abs/2609.03293)|**[link](https://github.com/p2chp2t/pacemaker)**|
 |**2026-09-03**|**Long-Horizon Consistent and Interaction-Aware World Models for Multi-Style End-to-End Driving**|Liang Hu Team|[2609.03225](http://arxiv.org/abs/2609.03225)|null|

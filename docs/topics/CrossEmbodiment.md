@@ -1,18 +1,18 @@
-## Updated on 2026.09.07
+## Updated on 2026.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-04**|**Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction**|Sihwa Park Team|[2609.05404](http://arxiv.org/abs/2609.05404)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-04**|**RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?**|Yueting Zhuang Team|[2609.05324](http://arxiv.org/abs/2609.05324)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-04**|**One Word, Different Action: A Real-Robot Benchmark for Language-Conditioned Embodied Reasoning**|Shunbo Lei Team|[2609.05260](http://arxiv.org/abs/2609.05260)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-04**|**LIBERO-RECOVER: Beyond Task Success Towards Failure Recovery in Robotic Manipulation Models**|Huchuan Lu Team|[2609.05178](http://arxiv.org/abs/2609.05178)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-04**|**How do LLMs Evaluate Perceived Moral Agency? Investigating Moral Decision-Making in Human-Artificial Agents Interactions**|Nancy F. Chen Team|[2609.05037](http://arxiv.org/abs/2609.05037)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-04**|**Linguistic Trajectory Encoding for Efficient Long-Horizon Spatial Memory in Embodied Agents**|Zili Yi Team|[2609.04802](http://arxiv.org/abs/2609.04802)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-03**|**Continual Field-Adaptive Models (CFAMs) for Post-Deployment Physical AI**|Vince Nakayama Team|[2609.04552](http://arxiv.org/abs/2609.04552)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-03**|**VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of Vision-Language-Action Models**|Weiwei Shang Team|[2609.04355](http://arxiv.org/abs/2609.04355)|null|
+|**2026-09-04**|**Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction**|Sihwa Park Team|[2609.05404](http://arxiv.org/abs/2609.05404)|null|
+|**2026-09-04**|**RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?**|Yueting Zhuang Team|[2609.05324](http://arxiv.org/abs/2609.05324)|null|
+|**2026-09-04**|**One Word, Different Action: A Real-Robot Benchmark for Language-Conditioned Embodied Reasoning**|Shunbo Lei Team|[2609.05260](http://arxiv.org/abs/2609.05260)|null|
+|**2026-09-04**|**LIBERO-RECOVER: Beyond Task Success Towards Failure Recovery in Robotic Manipulation Models**|Huchuan Lu Team|[2609.05178](http://arxiv.org/abs/2609.05178)|null|
+|**2026-09-04**|**How do LLMs Evaluate Perceived Moral Agency? Investigating Moral Decision-Making in Human-Artificial Agents Interactions**|Nancy F. Chen Team|[2609.05037](http://arxiv.org/abs/2609.05037)|null|
+|**2026-09-04**|**Linguistic Trajectory Encoding for Efficient Long-Horizon Spatial Memory in Embodied Agents**|Zili Yi Team|[2609.04802](http://arxiv.org/abs/2609.04802)|null|
+|**2026-09-03**|**Continual Field-Adaptive Models (CFAMs) for Post-Deployment Physical AI**|Vince Nakayama Team|[2609.04552](http://arxiv.org/abs/2609.04552)|null|
+|**2026-09-03**|**VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of Vision-Language-Action Models**|Weiwei Shang Team|[2609.04355](http://arxiv.org/abs/2609.04355)|null|
 |**2026-09-03**|**MulDP: Multimodal Diffusion Policy for Autonomous Quadruped Parkour Navigation across Complex Terrains**|Lihua Zhang Team|[2609.03984](http://arxiv.org/abs/2609.03984)|null|
 |**2026-09-03**|**Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models**|Kanata Suzuki Team|[2609.03927](http://arxiv.org/abs/2609.03927)|null|
 |**2026-09-03**|**From Data Querying to Data Investigations: Rethinking Natural Language Interfaces for Databases**|Carsten Binnig Team|[2609.03898](http://arxiv.org/abs/2609.03898)|null|
