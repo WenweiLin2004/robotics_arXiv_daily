@@ -1,36 +1,37 @@
-## Updated on 2026.09.09
+## Updated on 2026.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-08**|**TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model**|Dhruv Shah Team|[2609.09158](http://arxiv.org/abs/2609.09158)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-08**|**DYAD: A Multimodal Dataset of Co-Located Human Assistance**|Mohsen Moghaddam Team|[2609.09023](http://arxiv.org/abs/2609.09023)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-08**|**EgoSIS: From Factorized Visual Ego-Transitions to Motion-Canonical Spatial Evidence for UAV Reasoning**|Yufeng Wang Team|[2609.08938](http://arxiv.org/abs/2609.08938)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-08**|**From Where to How: Continuous 4D Interaction Forecasting from Egocentric Video**|Liqiang Nie Team|[2609.08636](http://arxiv.org/abs/2609.08636)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-08**|**GOLF: Global Observation with Local Focus for Calibration-Aware Stereo Interaction Field Estimation**|Yao Tang Team|[2609.08607](http://arxiv.org/abs/2609.08607)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-08**|**Safe Task Planning with Long-Term Graph Memory for Embodied Agents**|Peng Liu Team|[2609.08444](http://arxiv.org/abs/2609.08444)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-08**|**Human-Centric Image Captioning with Subject-Centered Spatial Understanding**|Wentao Zhang Team|[2609.08300](http://arxiv.org/abs/2609.08300)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-08**|**Dual-Layer Semantic-Spatial Belief Mapping for Aerial Object Goal Navigation**|Liqiang Nie Team|[2609.08164](http://arxiv.org/abs/2609.08164)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-08**|**RevalExo: A Functional Daily-Activity Benchmark for Inertial and Visual Locomotion Mode Recognition in Older Adults and Clinical Cohorts**|Benjamin Filtjens Team|[2609.08090](http://arxiv.org/abs/2609.08090)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-07**|**MamMA: A Mamba-Based Pedestrian Trajectory Prediction Algorithm Considering Occupancy Map and Pedestrian Awareness States**|Matteo Matteucci Team|[2609.08041](http://arxiv.org/abs/2609.08041)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-07**|**SPOT: Spatial Perception-Oriented Long-Horizon Humanoid Teleoperation**|Chuang Gan Team|[2609.07933](http://arxiv.org/abs/2609.07933)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-07**|**A Multimodal Label Forecasting Method for Aperiodic Visuo-Motor Time Series**|Garrett E Katz Team|[2609.07930](http://arxiv.org/abs/2609.07930)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-07**|**Open-Set Ego-Noise Separation for Legged-Robot Audition via Annotation-Free Adaptation and Pretrained-Model Transfer**|Atsushi Yamashita Team|[2609.07440](http://arxiv.org/abs/2609.07440)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-07**|**OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining**|Hang Zhao Team|[2609.07398](http://arxiv.org/abs/2609.07398)|**[link](https://openwam-official.github.io/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-07**|**Social Intuition vs. Machine Reasoning: Anticipating Human-Robot Interaction from multiple modalities**|Serena Ivaldi Team|[2609.07394](http://arxiv.org/abs/2609.07394)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-07**|**Ambient @ EgoLongQA 2026: Distilling Long-Video perception into a Sub-2B Model**|Logesh Kumar Umapathi Team|[2609.07154](http://arxiv.org/abs/2609.07154)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-07**|**A Two-Stage Framework for Ego-Centric Key Object Identification via Object State Prediction**|Na Du Team|[2609.07125](http://arxiv.org/abs/2609.07125)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-07**|**Ambient @ EgoProactive 2026 : Proactive Egocentric Assistance with Visually Grounded Supervision**|Logesh Kumar Umapathi Team|[2609.07099](http://arxiv.org/abs/2609.07099)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-07**|**CASCADE: A Spatio-Temporal-Causal Reasoning Representation and Dataset for Driving**|Jose M. Alvarez Team|[2609.07094](http://arxiv.org/abs/2609.07094)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-06**|**Companion-style QA Assistance in Ego-Vision**|Angela Yao Team|[2609.06721](http://arxiv.org/abs/2609.06721)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-06**|**Collision Snapshot Guided Time-Reversed Safety-Critical Scenario Generation**|Jongeun Choi Team|[2609.06433](http://arxiv.org/abs/2609.06433)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-05**|**CST-WM: A Causally Structured World Model for Embodied Visual Tracking**|Yi Fang Team|[2609.06302](http://arxiv.org/abs/2609.06302)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-05**|**EgoNeMo: Transferable Map of Pedestrian Dynamics via Egocentric LiDAR Scan**|Aaron Steinfeld Team|[2609.06195](http://arxiv.org/abs/2609.06195)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-05**|**UniFusion: Sparse-View 4D Reconstruction via Unified Spatio-temporal Depth Alignment**|Siyuan Huang Team|[2609.05888](http://arxiv.org/abs/2609.05888)|**[link](https://yongzhelyu.github.io/UniFusion)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-05**|**Map the Possibilities: Spatial Belief Fields for Language-Goal Aerial Navigation**|Quanjun Yin Team|[2609.05841](http://arxiv.org/abs/2609.05841)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-04**|**Time-Aware Assistive Navigation**|Eshed Ohn-Bar Team|[2609.05596](http://arxiv.org/abs/2609.05596)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-09**|**Data-Driven Risk Fields for Safer End-to-End Autonomous Driving**|Jianqiang Wang Team|[2609.10377](http://arxiv.org/abs/2609.10377)|null|
+|**2026-09-08**|**TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model**|Dhruv Shah Team|[2609.09158](http://arxiv.org/abs/2609.09158)|null|
+|**2026-09-08**|**DYAD: A Multimodal Dataset of Co-Located Human Assistance**|Mohsen Moghaddam Team|[2609.09023](http://arxiv.org/abs/2609.09023)|null|
+|**2026-09-09**|**EgoSIS: From Factorized Visual Ego-Transitions to Motion-Canonical Spatial Evidence for UAV Reasoning**|Yufeng Wang Team|[2609.08938](http://arxiv.org/abs/2609.08938)|null|
+|**2026-09-08**|**From Where to How: Continuous 4D Interaction Forecasting from Egocentric Video**|Liqiang Nie Team|[2609.08636](http://arxiv.org/abs/2609.08636)|null|
+|**2026-09-08**|**GOLF: Global Observation with Local Focus for Calibration-Aware Stereo Interaction Field Estimation**|Yao Tang Team|[2609.08607](http://arxiv.org/abs/2609.08607)|null|
+|**2026-09-08**|**Safe Task Planning with Long-Term Graph Memory for Embodied Agents**|Peng Liu Team|[2609.08444](http://arxiv.org/abs/2609.08444)|null|
+|**2026-09-08**|**Human-Centric Image Captioning with Subject-Centered Spatial Understanding**|Wentao Zhang Team|[2609.08300](http://arxiv.org/abs/2609.08300)|null|
+|**2026-09-08**|**Dual-Layer Semantic-Spatial Belief Mapping for Aerial Object Goal Navigation**|Liqiang Nie Team|[2609.08164](http://arxiv.org/abs/2609.08164)|null|
+|**2026-09-09**|**RevalExo: A Functional Daily-Activity Benchmark for Inertial and Visual Locomotion Mode Recognition in Older Adults and Clinical Cohorts**|Benjamin Filtjens Team|[2609.08090](http://arxiv.org/abs/2609.08090)|null|
+|**2026-09-07**|**MamMA: A Mamba-Based Pedestrian Trajectory Prediction Algorithm Considering Occupancy Map and Pedestrian Awareness States**|Matteo Matteucci Team|[2609.08041](http://arxiv.org/abs/2609.08041)|null|
+|**2026-09-07**|**SPOT: Spatial Perception-Oriented Long-Horizon Humanoid Teleoperation**|Chuang Gan Team|[2609.07933](http://arxiv.org/abs/2609.07933)|null|
+|**2026-09-07**|**A Multimodal Label Forecasting Method for Aperiodic Visuo-Motor Time Series**|Garrett E Katz Team|[2609.07930](http://arxiv.org/abs/2609.07930)|null|
+|**2026-09-07**|**Open-Set Ego-Noise Separation for Legged-Robot Audition via Annotation-Free Adaptation and Pretrained-Model Transfer**|Atsushi Yamashita Team|[2609.07440](http://arxiv.org/abs/2609.07440)|null|
+|**2026-09-07**|**OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining**|Hang Zhao Team|[2609.07398](http://arxiv.org/abs/2609.07398)|**[link](https://openwam-official.github.io/)**|
+|**2026-09-07**|**Social Intuition vs. Machine Reasoning: Anticipating Human-Robot Interaction from multiple modalities**|Serena Ivaldi Team|[2609.07394](http://arxiv.org/abs/2609.07394)|null|
+|**2026-09-07**|**Ambient @ EgoLongQA 2026: Distilling Long-Video perception into a Sub-2B Model**|Logesh Kumar Umapathi Team|[2609.07154](http://arxiv.org/abs/2609.07154)|null|
+|**2026-09-07**|**A Two-Stage Framework for Ego-Centric Key Object Identification via Object State Prediction**|Na Du Team|[2609.07125](http://arxiv.org/abs/2609.07125)|null|
+|**2026-09-07**|**Ambient @ EgoProactive 2026 : Proactive Egocentric Assistance with Visually Grounded Supervision**|Logesh Kumar Umapathi Team|[2609.07099](http://arxiv.org/abs/2609.07099)|null|
+|**2026-09-07**|**CASCADE: A Spatio-Temporal-Causal Reasoning Representation and Dataset for Driving**|Jose M. Alvarez Team|[2609.07094](http://arxiv.org/abs/2609.07094)|null|
+|**2026-09-06**|**Companion-style QA Assistance in Ego-Vision**|Angela Yao Team|[2609.06721](http://arxiv.org/abs/2609.06721)|null|
+|**2026-09-06**|**Collision Snapshot Guided Time-Reversed Safety-Critical Scenario Generation**|Jongeun Choi Team|[2609.06433](http://arxiv.org/abs/2609.06433)|null|
+|**2026-09-05**|**CST-WM: A Causally Structured World Model for Embodied Visual Tracking**|Yi Fang Team|[2609.06302](http://arxiv.org/abs/2609.06302)|null|
+|**2026-09-05**|**EgoNeMo: Transferable Map of Pedestrian Dynamics via Egocentric LiDAR Scan**|Aaron Steinfeld Team|[2609.06195](http://arxiv.org/abs/2609.06195)|null|
+|**2026-09-05**|**UniFusion: Sparse-View 4D Reconstruction via Unified Spatio-temporal Depth Alignment**|Siyuan Huang Team|[2609.05888](http://arxiv.org/abs/2609.05888)|**[link](https://yongzhelyu.github.io/UniFusion)**|
+|**2026-09-05**|**Map the Possibilities: Spatial Belief Fields for Language-Goal Aerial Navigation**|Quanjun Yin Team|[2609.05841](http://arxiv.org/abs/2609.05841)|null|
+|**2026-09-04**|**Time-Aware Assistive Navigation**|Eshed Ohn-Bar Team|[2609.05596](http://arxiv.org/abs/2609.05596)|null|
 |**2026-09-08**|**MINT: A Unified Model for World-Space Camera and Hand Motion Estimation from Scalable Egocentric Pipeline Supervision**|Guanqi He Team|[2609.04958](http://arxiv.org/abs/2609.04958)|null|
 |**2026-09-04**|**One Diffusion Model, Two Roles: Guided Trajectory Planning and Safety-Critical Scenario Generation in Closed-Loop Simulation**|Maciej Wozniak Team|[2609.04921](http://arxiv.org/abs/2609.04921)|null|
 |**2026-09-04**|**NavArena: Automated Construction of Goal-Oriented Navigation Benchmarks from 3D Gaussian Splatting Reconstructions**|Chao Gao Team|[2609.04602](http://arxiv.org/abs/2609.04602)|null|
@@ -154,5 +155,4 @@
 |**2026-08-05**|**SpikingNav: Robust Embodied Navigation with Spiking Neural Policies**| GuoqiLi Team|[2608.05078](http://arxiv.org/abs/2608.05078)|null|
 |**2026-08-05**|**Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen**|Nergis Tömen Team|[2608.04865](http://arxiv.org/abs/2608.04865)|null|
 |**2026-08-05**|**The First EgoCross Challenge at EgoVis 2026: Cross-Domain Egocentric Video Question Answering**|Wenping Ma Team|[2608.04589](http://arxiv.org/abs/2608.04589)|null|
-|**2026-08-05**|**EgoAfford: Task-Oriented Affordance Grounding via Egocentric Referring Segmentation**|Lixin Yang Team|[2608.04533](http://arxiv.org/abs/2608.04533)|null|
 
