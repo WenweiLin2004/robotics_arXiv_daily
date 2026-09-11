@@ -1,11 +1,14 @@
-## Updated on 2026.09.10
+## Updated on 2026.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-09**|**Data-Driven Risk Fields for Safer End-to-End Autonomous Driving**|Jianqiang Wang Team|[2609.10377](http://arxiv.org/abs/2609.10377)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**CARLAverse: A Highly Modular, Distributed, and Multimodal Framework for Human-in-the-Loop Simulation**|Reiner Kriesten Team|[2609.11478](http://arxiv.org/abs/2609.11478)|**[link](https://git.ieem-ka.de/simulator-environments/carlaverse)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**Harness Robotic OS: A Unified Embodied-Agent Runtime for Closed-Loop Quadruped Inspection**|Wei Zhou Team|[2609.11225](http://arxiv.org/abs/2609.11225)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**Beyond Visual Quality: Evaluating Physical Consistency under Ego-Motion with EgoGenEval**|Tai Wang Team|[2609.11172](http://arxiv.org/abs/2609.11172)|**[link](https://github.com/InternRobotics/EgoGenEval)**|
+|**2026-09-10**|**Data-Driven Risk Fields for Safer End-to-End Autonomous Driving**|Jianqiang Wang Team|[2609.10377](http://arxiv.org/abs/2609.10377)|null|
 |**2026-09-08**|**TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model**|Dhruv Shah Team|[2609.09158](http://arxiv.org/abs/2609.09158)|null|
 |**2026-09-08**|**DYAD: A Multimodal Dataset of Co-Located Human Assistance**|Mohsen Moghaddam Team|[2609.09023](http://arxiv.org/abs/2609.09023)|null|
 |**2026-09-09**|**EgoSIS: From Factorized Visual Ego-Transitions to Motion-Canonical Spatial Evidence for UAV Reasoning**|Yufeng Wang Team|[2609.08938](http://arxiv.org/abs/2609.08938)|null|
@@ -21,9 +24,9 @@
 |**2026-09-07**|**Open-Set Ego-Noise Separation for Legged-Robot Audition via Annotation-Free Adaptation and Pretrained-Model Transfer**|Atsushi Yamashita Team|[2609.07440](http://arxiv.org/abs/2609.07440)|null|
 |**2026-09-07**|**OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining**|Hang Zhao Team|[2609.07398](http://arxiv.org/abs/2609.07398)|**[link](https://openwam-official.github.io/)**|
 |**2026-09-07**|**Social Intuition vs. Machine Reasoning: Anticipating Human-Robot Interaction from multiple modalities**|Serena Ivaldi Team|[2609.07394](http://arxiv.org/abs/2609.07394)|null|
-|**2026-09-07**|**Ambient @ EgoLongQA 2026: Distilling Long-Video perception into a Sub-2B Model**|Logesh Kumar Umapathi Team|[2609.07154](http://arxiv.org/abs/2609.07154)|null|
+|**2026-09-10**|**Ambient @ EgoLongQA 2026: Distilling Long-Video perception into a Sub-2B Model**|Logesh Kumar Umapathi Team|[2609.07154](http://arxiv.org/abs/2609.07154)|null|
 |**2026-09-07**|**A Two-Stage Framework for Ego-Centric Key Object Identification via Object State Prediction**|Na Du Team|[2609.07125](http://arxiv.org/abs/2609.07125)|null|
-|**2026-09-07**|**Ambient @ EgoProactive 2026 : Proactive Egocentric Assistance with Visually Grounded Supervision**|Logesh Kumar Umapathi Team|[2609.07099](http://arxiv.org/abs/2609.07099)|null|
+|**2026-09-10**|**Ambient @ EgoProactive 2026 : Proactive Egocentric Assistance with Visually Grounded Supervision**|Logesh Kumar Umapathi Team|[2609.07099](http://arxiv.org/abs/2609.07099)|null|
 |**2026-09-07**|**CASCADE: A Spatio-Temporal-Causal Reasoning Representation and Dataset for Driving**|Jose M. Alvarez Team|[2609.07094](http://arxiv.org/abs/2609.07094)|null|
 |**2026-09-06**|**Companion-style QA Assistance in Ego-Vision**|Angela Yao Team|[2609.06721](http://arxiv.org/abs/2609.06721)|null|
 |**2026-09-06**|**Collision Snapshot Guided Time-Reversed Safety-Critical Scenario Generation**|Jongeun Choi Team|[2609.06433](http://arxiv.org/abs/2609.06433)|null|
@@ -53,7 +56,7 @@
 |**2026-08-31**|**InfraOcc: An Infrastructure Occupancy Benchmark with Static-to-Dynamic Reasoning**|Kaicheng Yu Team|[2608.30657](http://arxiv.org/abs/2608.30657)|null|
 |**2026-08-31**|**PRISM: Predictive Recomposition via Semantic Latent Decomposition for View-invariant Video Representation Learning**|Yong Man Ro Team|[2608.30388](http://arxiv.org/abs/2608.30388)|null|
 |**2026-08-31**|**CometVLA: Co-Training on an Embodied Data Pyramid towards Physical Understanding**|Xiaoqiang Ji Team|[2608.30289](http://arxiv.org/abs/2608.30289)|null|
-|**2026-08-31**|**Motus2: A Self-Evolving General World Model for Dexterous Manipulation**|Jun Zhu Team|[2608.30237](http://arxiv.org/abs/2608.30237)|null|
+|**2026-09-10**|**Motus2: A Self-Evolving General World Model for Dexterous Manipulation**|Jun Zhu Team|[2608.30237](http://arxiv.org/abs/2608.30237)|null|
 |**2026-08-30**|**Everybody Tracking Every Body**|Charless Fowlkes Team|[2608.29927](http://arxiv.org/abs/2608.29927)|null|
 |**2026-08-30**|**Drive the Thoughts: Runtime Monitoring of VLA Reasoning-Trajectory Consistency**|Sebastian Elbaum Team|[2608.29583](http://arxiv.org/abs/2608.29583)|null|
 |**2026-09-01**|**AnyWorld: Factorized Egocentric World Models for Cross-Embodiment Generalization**|Fayao Liu Team|[2608.29242](http://arxiv.org/abs/2608.29242)|**[link](https://xpeng-robotics.github.io/anyworld/)**|
@@ -152,7 +155,4 @@
 |**2026-08-06**|**GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?**|Wei Li Team|[2608.05747](http://arxiv.org/abs/2608.05747)|null|
 |**2026-08-06**|**JoyAI-RA 0.5: Scaling Robot Manipulation Learning via Dual Action Alignment**|JoyAI-RA Team Team|[2608.05674](http://arxiv.org/abs/2608.05674)|**[link](https://joyai-ra-05.github.io/)**|
 |**2026-08-05**|**VLAff: Vision-Language-Affordance Model for Unified Actionable Affordances**|Kei Okada Team|[2608.05215](http://arxiv.org/abs/2608.05215)|**[link](https://ojh6404.github.io/vlaff/)**|
-|**2026-08-05**|**SpikingNav: Robust Embodied Navigation with Spiking Neural Policies**| GuoqiLi Team|[2608.05078](http://arxiv.org/abs/2608.05078)|null|
-|**2026-08-05**|**Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen**|Nergis Tömen Team|[2608.04865](http://arxiv.org/abs/2608.04865)|null|
-|**2026-08-05**|**The First EgoCross Challenge at EgoVis 2026: Cross-Domain Egocentric Video Question Answering**|Wenping Ma Team|[2608.04589](http://arxiv.org/abs/2608.04589)|null|
 
