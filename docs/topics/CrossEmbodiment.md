@@ -1,28 +1,28 @@
-## Updated on 2026.09.11
+## Updated on 2026.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement**|Fan Wu Team|[2609.11873](http://arxiv.org/abs/2609.11873)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**Rapid Learning of Dexterous In-Hand Pen Writing through Real-Time Jacobian Estimation**|Robert K. Katzschmann Team|[2609.11775](http://arxiv.org/abs/2609.11775)|**[link](https://srl-ethz.github.io/rapid-dexterous-writing/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**SEED-UMI: Sharing the Exoskeleton between human and robot for onE-to-one Dexterous demonstration**|Hangxin Liu Team|[2609.11753](http://arxiv.org/abs/2609.11753)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**ORCH: Organizational Principles Enable Collective Intelligence in Embodied AI**|Boyuan Chen Team|[2609.11737](http://arxiv.org/abs/2609.11737)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**ActSafeGuard: Differentiable and Training-Aligned Constraint Enforcement for Flow-Matching Policies**|Yue Gao Team|[2609.11697](http://arxiv.org/abs/2609.11697)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**Autonomy, Social Norms, and Alignment: Towards a Developmental Framework for Autonomous Artificial Agents**|Vieri Giuliano Santucci Team|[2609.11660](http://arxiv.org/abs/2609.11660)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration**|Uichin Lee Team|[2609.11529](http://arxiv.org/abs/2609.11529)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**BridgeMatch: Conditional Transport Bridges in Matching Matrix Space for 3D Deformable Registration**|Yaqing Ding Team|[2609.11472](http://arxiv.org/abs/2609.11472)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**Harness Robotic OS: A Unified Embodied-Agent Runtime for Closed-Loop Quadruped Inspection**|Wei Zhou Team|[2609.11225](http://arxiv.org/abs/2609.11225)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**Conceptualising an Initial Design Space for Guidance in Digital Physical Activity Support**|Jan Smeddinck Team|[2609.11193](http://arxiv.org/abs/2609.11193)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**Beyond Visual Quality: Evaluating Physical Consistency under Ego-Motion with EgoGenEval**|Tai Wang Team|[2609.11172](http://arxiv.org/abs/2609.11172)|**[link](https://github.com/InternRobotics/EgoGenEval)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**Topological Necessities: Mechanism-Invariant Strategic Subgoals for Cross-Embodiment Goal-Conditioned Control**|Xi Li Team|[2609.11014](http://arxiv.org/abs/2609.11014)|**[link](https://osf.io/wak7u/overview?view_only=70a3d17f63114468a43b2d7a918e47db)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**A Mathematical Theory of Pragmatic Information**|Ping Zhang Team|[2609.10986](http://arxiv.org/abs/2609.10986)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-09**|**ReactHuman: A Physics-Grounded Benchmark for Human-Like Reactive Decision-Making in Embodied Multimodal LLMs**|Bang Liu Team|[2609.10895](http://arxiv.org/abs/2609.10895)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-09**|**When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents**|Ruihai Wu Team|[2609.10873](http://arxiv.org/abs/2609.10873)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-09**|**Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge**|Angelique Taylor Team|[2609.10724](http://arxiv.org/abs/2609.10724)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-09**|**From Semantic to Token Communication: The Next Paradigm for Large-Model-Driven 6G Intelligent Connectivity**|Ping Zhang Team|[2609.10714](http://arxiv.org/abs/2609.10714)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-09**|**HuRo: Robotizing Human Videos for Scalable VLA Pretraining**|Seon Joo Kim Team|[2609.10706](http://arxiv.org/abs/2609.10706)|null|
+|**2026-09-10**|**The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement**|Fan Wu Team|[2609.11873](http://arxiv.org/abs/2609.11873)|null|
+|**2026-09-10**|**Rapid Learning of Dexterous In-Hand Pen Writing through Real-Time Jacobian Estimation**|Robert K. Katzschmann Team|[2609.11775](http://arxiv.org/abs/2609.11775)|**[link](https://srl-ethz.github.io/rapid-dexterous-writing/)**|
+|**2026-09-10**|**SEED-UMI: Sharing the Exoskeleton between human and robot for onE-to-one Dexterous demonstration**|Hangxin Liu Team|[2609.11753](http://arxiv.org/abs/2609.11753)|null|
+|**2026-09-10**|**ORCH: Organizational Principles Enable Collective Intelligence in Embodied AI**|Boyuan Chen Team|[2609.11737](http://arxiv.org/abs/2609.11737)|null|
+|**2026-09-10**|**ActSafeGuard: Differentiable and Training-Aligned Constraint Enforcement for Flow-Matching Policies**|Yue Gao Team|[2609.11697](http://arxiv.org/abs/2609.11697)|null|
+|**2026-09-10**|**Autonomy, Social Norms, and Alignment: Towards a Developmental Framework for Autonomous Artificial Agents**|Vieri Giuliano Santucci Team|[2609.11660](http://arxiv.org/abs/2609.11660)|null|
+|**2026-09-10**|**Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration**|Uichin Lee Team|[2609.11529](http://arxiv.org/abs/2609.11529)|null|
+|**2026-09-10**|**BridgeMatch: Conditional Transport Bridges in Matching Matrix Space for 3D Deformable Registration**|Yaqing Ding Team|[2609.11472](http://arxiv.org/abs/2609.11472)|null|
+|**2026-09-10**|**Harness Robotic OS: A Unified Embodied-Agent Runtime for Closed-Loop Quadruped Inspection**|Wei Zhou Team|[2609.11225](http://arxiv.org/abs/2609.11225)|null|
+|**2026-09-10**|**Conceptualising an Initial Design Space for Guidance in Digital Physical Activity Support**|Jan Smeddinck Team|[2609.11193](http://arxiv.org/abs/2609.11193)|null|
+|**2026-09-10**|**Beyond Visual Quality: Evaluating Physical Consistency under Ego-Motion with EgoGenEval**|Tai Wang Team|[2609.11172](http://arxiv.org/abs/2609.11172)|**[link](https://github.com/InternRobotics/EgoGenEval)**|
+|**2026-09-10**|**Topological Necessities: Mechanism-Invariant Strategic Subgoals for Cross-Embodiment Goal-Conditioned Control**|Xi Li Team|[2609.11014](http://arxiv.org/abs/2609.11014)|**[link](https://osf.io/wak7u/overview?view_only=70a3d17f63114468a43b2d7a918e47db)**|
+|**2026-09-10**|**A Mathematical Theory of Pragmatic Information**|Ping Zhang Team|[2609.10986](http://arxiv.org/abs/2609.10986)|null|
+|**2026-09-09**|**ReactHuman: A Physics-Grounded Benchmark for Human-Like Reactive Decision-Making in Embodied Multimodal LLMs**|Bang Liu Team|[2609.10895](http://arxiv.org/abs/2609.10895)|null|
+|**2026-09-09**|**When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents**|Ruihai Wu Team|[2609.10873](http://arxiv.org/abs/2609.10873)|null|
+|**2026-09-09**|**Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge**|Angelique Taylor Team|[2609.10724](http://arxiv.org/abs/2609.10724)|null|
+|**2026-09-09**|**From Semantic to Token Communication: The Next Paradigm for Large-Model-Driven 6G Intelligent Connectivity**|Ping Zhang Team|[2609.10714](http://arxiv.org/abs/2609.10714)|null|
+|**2026-09-09**|**HuRo: Robotizing Human Videos for Scalable VLA Pretraining**|Seon Joo Kim Team|[2609.10706](http://arxiv.org/abs/2609.10706)|null|
 |**2026-09-09**|**Show-Harness: Just a VLM Agent Can Play Robots**|Mike Zheng Shou Team|[2609.10522](http://arxiv.org/abs/2609.10522)|**[link](https://showlab.github.io/Show-Harness)**|
 |**2026-09-09**|**FolDeX: A Physical-World Benchmark for Long-Horizon Robotic Manipulation of Deformable Objects**|Wenqiang Zhang Team|[2609.10243](http://arxiv.org/abs/2609.10243)|null|
 |**2026-09-09**|**RoboDrop: Curating VLA Post-Training Data via Local Gradient Compatibility**|Jincheng Yu Team|[2609.10021](http://arxiv.org/abs/2609.10021)|null|

@@ -1,13 +1,13 @@
-## Updated on 2026.09.11
+## Updated on 2026.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**CARLAverse: A Highly Modular, Distributed, and Multimodal Framework for Human-in-the-Loop Simulation**|Reiner Kriesten Team|[2609.11478](http://arxiv.org/abs/2609.11478)|**[link](https://git.ieem-ka.de/simulator-environments/carlaverse)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**Harness Robotic OS: A Unified Embodied-Agent Runtime for Closed-Loop Quadruped Inspection**|Wei Zhou Team|[2609.11225](http://arxiv.org/abs/2609.11225)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-10**|**Beyond Visual Quality: Evaluating Physical Consistency under Ego-Motion with EgoGenEval**|Tai Wang Team|[2609.11172](http://arxiv.org/abs/2609.11172)|**[link](https://github.com/InternRobotics/EgoGenEval)**|
+|**2026-09-10**|**CARLAverse: A Highly Modular, Distributed, and Multimodal Framework for Human-in-the-Loop Simulation**|Reiner Kriesten Team|[2609.11478](http://arxiv.org/abs/2609.11478)|**[link](https://git.ieem-ka.de/simulator-environments/carlaverse)**|
+|**2026-09-10**|**Harness Robotic OS: A Unified Embodied-Agent Runtime for Closed-Loop Quadruped Inspection**|Wei Zhou Team|[2609.11225](http://arxiv.org/abs/2609.11225)|null|
+|**2026-09-10**|**Beyond Visual Quality: Evaluating Physical Consistency under Ego-Motion with EgoGenEval**|Tai Wang Team|[2609.11172](http://arxiv.org/abs/2609.11172)|**[link](https://github.com/InternRobotics/EgoGenEval)**|
 |**2026-09-10**|**Data-Driven Risk Fields for Safer End-to-End Autonomous Driving**|Jianqiang Wang Team|[2609.10377](http://arxiv.org/abs/2609.10377)|null|
 |**2026-09-08**|**TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model**|Dhruv Shah Team|[2609.09158](http://arxiv.org/abs/2609.09158)|null|
 |**2026-09-08**|**DYAD: A Multimodal Dataset of Co-Located Human Assistance**|Mohsen Moghaddam Team|[2609.09023](http://arxiv.org/abs/2609.09023)|null|
