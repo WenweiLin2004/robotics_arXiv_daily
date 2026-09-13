@@ -1,4 +1,4 @@
-## Updated on 2026.09.12
+## Updated on 2026.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -70,7 +70,7 @@
 |**2026-09-03**|**GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation**|Dongbin Zhao Team|[2609.04193](http://arxiv.org/abs/2609.04193)|null|
 |**2026-09-03**|**A Low-Cost, Open Platform for End-to-End Autonomous Driving on a Miniature Ackermann Vehicle**|Gabriel George Zipperer Team|[2609.04147](http://arxiv.org/abs/2609.04147)|null|
 
-<p align=right>(<a href=#updated-on-20260912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260913>back to top</a>)</p>
 
 ## VLM
 
@@ -127,7 +127,7 @@
 |**2026-09-04**|**Where to Look Matters: Learning Influential Views for VLM-based 3D Visual Grounding**|Chun-Yi Lee Team|[2609.04741](http://arxiv.org/abs/2609.04741)|null|
 |**2026-09-04**|**Knowing What Not to Answer: Selective Non-Compliance in Vision-Language Models**|Hyounghun Kim Team|[2609.04720](http://arxiv.org/abs/2609.04720)|**[link](https://github.com/mz-kim/KoNA)**|
 
-<p align=right>(<a href=#updated-on-20260912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260913>back to top</a>)</p>
 
 ## VLA
 
@@ -184,7 +184,7 @@
 |**2026-09-03**|**Revisiting Topological Graphs for Macro Action based Closed-loop Reinforcement Learning of Vision Language Navigation in Continuous Environment**|Yue Wang Team|[2609.03906](http://arxiv.org/abs/2609.03906)|null|
 |**2026-09-04**|**FWBC-VLA: Force-Aware Whole-Body Compensation for Contact-Rich Loco-Manipulation**|Dibo Hou Team|[2609.03889](http://arxiv.org/abs/2609.03889)|null|
 
-<p align=right>(<a href=#updated-on-20260912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260913>back to top</a>)</p>
 
 ## Humanoid
 
@@ -241,7 +241,7 @@
 |**2026-08-26**|**EgoNav: Bridging Learned Waypoints and Geometry-Aware Local Control for Robust Indoor Navigation**|Peng Yin Team|[2608.25642](http://arxiv.org/abs/2608.25642)|null|
 |**2026-08-26**|**LAC: Linear and Angular Compliance for Humanoid Whole-body Control**|Mitsuhiro Hayashibe Team|[2608.25405](http://arxiv.org/abs/2608.25405)|null|
 
-<p align=right>(<a href=#updated-on-20260912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260913>back to top</a>)</p>
 
 ## Dexterous
 
@@ -298,7 +298,7 @@
 |**2026-08-15**|**EgoTac: In-the-wild Tactile Prediction from Egocentric Vision**|Yang Gao Team|[2608.15060](http://arxiv.org/abs/2608.15060)|null|
 |**2026-08-14**|**AdvDex: Learning Dexterous Manipulation from Human Demonstrations via Joint-Aligned Actions and Adversarial Learning**|Zhengxue Cheng Team|[2608.14028](http://arxiv.org/abs/2608.14028)|null|
 
-<p align=right>(<a href=#updated-on-20260912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260913>back to top</a>)</p>
 
 ## CrossEmbodiment
 
@@ -355,7 +355,7 @@
 |**2026-09-03**|**Continual Field-Adaptive Models (CFAMs) for Post-Deployment Physical AI**|Vince Nakayama Team|[2609.04552](http://arxiv.org/abs/2609.04552)|null|
 |**2026-09-03**|**Adaptive Vision-Language Grasping via Composable Foundation Priors and Generalizable Grasp Synthesis**|Xinggang Wang Team|[2609.04096](http://arxiv.org/abs/2609.04096)|null|
 
-<p align=right>(<a href=#updated-on-20260912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260913>back to top</a>)</p>
 
 ## WorldModel
 
@@ -412,7 +412,7 @@
 |**2026-09-03**|**Symmetries and Causality: Causal Effect Identification Beyond IID Data**|Jakob Runge Team|[2609.03697](http://arxiv.org/abs/2609.03697)|null|
 |**2026-09-03**|**WISE: World-model-guided Imagination Scheduling for Efficient Post-training of Vision-Language-Action Models**|Long Zeng Team|[2609.03681](http://arxiv.org/abs/2609.03681)|null|
 
-<p align=right>(<a href=#updated-on-20260912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260913>back to top</a>)</p>
 
 ## WAM
 
@@ -469,5 +469,5 @@
 |**2026-08-10**|**World Tokens: Enhancing Embodied Policies with Training-Time World Modeling**|Junlan Feng Team|[2608.09730](http://arxiv.org/abs/2608.09730)|null|
 |**2026-08-10**|**HarnessWAM: Bridging Prediction and Deliberation in World Action Models**|Jinqiao Wang Team|[2608.09516](http://arxiv.org/abs/2608.09516)|null|
 
-<p align=right>(<a href=#updated-on-20260912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260913>back to top</a>)</p>
 
