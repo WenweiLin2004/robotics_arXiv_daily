@@ -1,21 +1,21 @@
-## Updated on 2026.09.18
+## Updated on 2026.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-17**|**PROVIA: Procedure State Tracking for Online Mistake Detection in Egocentric Videos**|Kunyu Peng Team|[2609.20638](http://arxiv.org/abs/2609.20638)|**[link](https://github.com/Kratos-Wen/PROVIA)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-17**|**INSPECT: Learning Robot View Selection from Assistant Use**|Kunyu Peng Team|[2609.20615](http://arxiv.org/abs/2609.20615)|**[link](https://github.com/Kratos-Wen/INSPECT)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-17**|**Worst-Case Hidden-Vehicle Trajectory Search in Spatiotemporal Occlusion Regions**|Satish Ukkusuri Team|[2609.20480](http://arxiv.org/abs/2609.20480)|**[link](https://sdad.cc/papers.html)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-17**|**TouchSight: Bare-Handed Tactile Prediction from Egocentric Video via Generative Visual Augmentation**|Wenbo Ding Team|[2609.20414](http://arxiv.org/abs/2609.20414)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-17**|**Safety-Critical Scenanrio Emerges from Initial Scene**|J. Marius Zöllner Team|[2609.20103](http://arxiv.org/abs/2609.20103)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-17**|**PointEvent: Rethinking Event-based Tiny Object Detection via Serialized Motion Evidence Accumulation**|Jing Han Team|[2609.20066](http://arxiv.org/abs/2609.20066)|**[link](https://github.com/wzz-z/PointEvent)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-17**|**BinoGen: Scaling egocentric binocular data for embodied visual perception and learning**|Ya-tang Li Team|[2609.19881](http://arxiv.org/abs/2609.19881)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-17**|**SlugTrails: An Egocentric Benchmark for Floor Plan Localization in Large Buildings**|Roberto Manduchi Team|[2609.19876](http://arxiv.org/abs/2609.19876)|**[link](https://github.com/Head-inthe-Cloud/SlugTrails)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-17**|**Vehicle Trajectory Prediction via Neural Fusion of Multiple EKF-Based Trajectory Candidates**|Seung-Hyun Kong Team|[2609.19813](http://arxiv.org/abs/2609.19813)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-17**|**AI Smart Glasses for Wearable Intelligence: From Egocentric Sensing to Agentic Personalization**|Wenqi Fan Team|[2609.19793](http://arxiv.org/abs/2609.19793)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-16**|**ViLoMan: Learning Visual-Proprioceptive Whole-Body Loco-Manipulation Skills for Humanoid Robots**|Shiguang Shan Team|[2609.19340](http://arxiv.org/abs/2609.19340)|**[link](https://viloman-anonymous.pages.dev/)**|
+|**2026-09-17**|**PROVIA: Procedure State Tracking for Online Mistake Detection in Egocentric Videos**|Kunyu Peng Team|[2609.20638](http://arxiv.org/abs/2609.20638)|**[link](https://github.com/Kratos-Wen/PROVIA)**|
+|**2026-09-17**|**INSPECT: Learning Robot View Selection from Assistant Use**|Kunyu Peng Team|[2609.20615](http://arxiv.org/abs/2609.20615)|**[link](https://github.com/Kratos-Wen/INSPECT)**|
+|**2026-09-17**|**Worst-Case Hidden-Vehicle Trajectory Search in Spatiotemporal Occlusion Regions**|Satish Ukkusuri Team|[2609.20480](http://arxiv.org/abs/2609.20480)|**[link](https://sdad.cc/papers.html)**|
+|**2026-09-17**|**TouchSight: Bare-Handed Tactile Prediction from Egocentric Video via Generative Visual Augmentation**|Wenbo Ding Team|[2609.20414](http://arxiv.org/abs/2609.20414)|null|
+|**2026-09-17**|**Safety-Critical Scenanrio Emerges from Initial Scene**|J. Marius Zöllner Team|[2609.20103](http://arxiv.org/abs/2609.20103)|null|
+|**2026-09-17**|**PointEvent: Rethinking Event-based Tiny Object Detection via Serialized Motion Evidence Accumulation**|Jing Han Team|[2609.20066](http://arxiv.org/abs/2609.20066)|**[link](https://github.com/wzz-z/PointEvent)**|
+|**2026-09-17**|**BinoGen: Scaling egocentric binocular data for embodied visual perception and learning**|Ya-tang Li Team|[2609.19881](http://arxiv.org/abs/2609.19881)|null|
+|**2026-09-17**|**SlugTrails: An Egocentric Benchmark for Floor Plan Localization in Large Buildings**|Roberto Manduchi Team|[2609.19876](http://arxiv.org/abs/2609.19876)|**[link](https://github.com/Head-inthe-Cloud/SlugTrails)**|
+|**2026-09-17**|**Vehicle Trajectory Prediction via Neural Fusion of Multiple EKF-Based Trajectory Candidates**|Seung-Hyun Kong Team|[2609.19813](http://arxiv.org/abs/2609.19813)|null|
+|**2026-09-17**|**AI Smart Glasses for Wearable Intelligence: From Egocentric Sensing to Agentic Personalization**|Wenqi Fan Team|[2609.19793](http://arxiv.org/abs/2609.19793)|null|
+|**2026-09-16**|**ViLoMan: Learning Visual-Proprioceptive Whole-Body Loco-Manipulation Skills for Humanoid Robots**|Shiguang Shan Team|[2609.19340](http://arxiv.org/abs/2609.19340)|**[link](https://viloman-anonymous.pages.dev/)**|
 |**2026-09-16**|**PASSAGE: Scaling Scene-Aligned Motion Learning for Perceptive Humanoid Traversal in Cluttered Environments**|Li Yi Team|[2609.18732](http://arxiv.org/abs/2609.18732)|null|
 |**2026-09-16**|**From Gameplay to Policy: Towards Scalable Robot Data Collection via Gamified Robot-Free Interaction**|Jun Ma Team|[2609.18650](http://arxiv.org/abs/2609.18650)|null|
 |**2026-09-16**|**HAP: A Hand-Driven Active Perception Framework for Egocentric Head Motion Prediction**|Hesheng Wang Team|[2609.18548](http://arxiv.org/abs/2609.18548)|null|
