@@ -1,4 +1,4 @@
-## Updated on 2026.09.19
+## Updated on 2026.09.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -70,7 +70,7 @@
 |**2026-09-15**|**ProxiDex: Learning Dynamics-Guided Proximity Policy for Dexterous Manipulation**|Zhengtao Zhang Team|[2609.16586](http://arxiv.org/abs/2609.16586)|**[link](https://proxidex.github.io/)**|
 |**2026-09-15**|**Beyond Gestures: Estimating Full Hand Pose and Contact Forces from Wrist-Worn Pressure Sensor Array**|Richard Newcombe Team|[2609.16518](http://arxiv.org/abs/2609.16518)|null|
 
-<p align=right>(<a href=#updated-on-20260919>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
 
 ## VLM
 
@@ -127,7 +127,7 @@
 |**2026-09-15**|**Bridging Learned Visual Perception and Symbolic Belief-Space Planning**|Sarah Keren Team|[2609.16884](http://arxiv.org/abs/2609.16884)|null|
 |**2026-09-15**|**TecoPrompt: Temporal-Conservative Prompt Learning for Vision-Language Models**|Cong Yang Team|[2609.16858](http://arxiv.org/abs/2609.16858)|**[link](https://github.com/haji-mimi/TecoPrompt)**|
 
-<p align=right>(<a href=#updated-on-20260919>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
 
 ## VLA
 
@@ -184,7 +184,7 @@
 |**2026-09-15**|**EgoPathBench: Evaluating Zero-Shot Egocentric Waypoint Decision-Making in Vision-Language Models**|Xubo Yang Team|[2609.16610](http://arxiv.org/abs/2609.16610)|null|
 |**2026-09-15**|**Dense to MoE Adaptation for Compact Vision Language Action Policies**|Linfeng Zhang Team|[2609.16503](http://arxiv.org/abs/2609.16503)|null|
 
-<p align=right>(<a href=#updated-on-20260919>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
 
 ## Humanoid
 
@@ -241,7 +241,7 @@
 |**2026-09-04**|**Development of a Humanoid Robot Prototype for Multimodal Human-Robot Interaction**|Xiem HoangVan Team|[2609.05361](http://arxiv.org/abs/2609.05361)|null|
 |**2026-09-03**|**Continual Field-Adaptive Models (CFAMs) for Post-Deployment Physical AI**|Vince Nakayama Team|[2609.04552](http://arxiv.org/abs/2609.04552)|null|
 
-<p align=right>(<a href=#updated-on-20260919>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
 
 ## Dexterous
 
@@ -298,7 +298,7 @@
 |**2026-08-31**|**Data-Centric Neuromotor Interfaces for Portable Human-Machine Interaction**|Liming Shu Team|[2608.30301](http://arxiv.org/abs/2608.30301)|null|
 |**2026-08-31**|**Motus2: A Self-Evolving General World Model for Dexterous Manipulation**|Jun Zhu Team|[2608.30237](http://arxiv.org/abs/2608.30237)|null|
 
-<p align=right>(<a href=#updated-on-20260919>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
 
 ## CrossEmbodiment
 
@@ -355,7 +355,7 @@
 |**2026-09-13**|**GLAM: Training a latent world model over global spatiotemporal memory for active exploration and navigation**|Wenbo Ding Team|[2609.14561](http://arxiv.org/abs/2609.14561)|null|
 |**2026-09-13**|**NavPatch: Evidence-Guided Object-Level Costmap Correction with Vision-Language Models**|Zhengyi Chen Team|[2609.14543](http://arxiv.org/abs/2609.14543)|null|
 
-<p align=right>(<a href=#updated-on-20260919>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
 
 ## WorldModel
 
@@ -412,7 +412,7 @@
 |**2026-09-09**|**Proof-Carrying Cognition: Closing the Verification Gap with Reality-Settled Reward**|Sourav Karmakar Team|[2609.09776](http://arxiv.org/abs/2609.09776)|null|
 |**2026-09-09**|**Arti-JEPA: Adapting Video World Model to Real-Time MRI of the Vocal Tract for Speech-Production Analysis**|Shrikanth Narayanan Team|[2609.09757](http://arxiv.org/abs/2609.09757)|null|
 
-<p align=right>(<a href=#updated-on-20260919>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
 
 ## WAM
 
@@ -469,5 +469,5 @@
 |**2026-08-21**|**WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving**|Mu Yang Team|[2608.20974](http://arxiv.org/abs/2608.20974)|null|
 |**2026-08-24**|**ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation**|Xiaojin Huang Team|[2608.20735](http://arxiv.org/abs/2608.20735)|null|
 
-<p align=right>(<a href=#updated-on-20260919>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
 
