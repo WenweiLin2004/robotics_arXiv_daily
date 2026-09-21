@@ -1,15 +1,27 @@
-## Updated on 2026.09.20
+## Updated on 2026.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-17**|**DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation**|Renjing Xu Team|[2609.20649](http://arxiv.org/abs/2609.20649)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**SkelWAM: A Skeleton-Guided World-Action Model for Zero-Shot Cross-Embodiment Manipulation**|Ke Liu Team|[2609.21983](http://arxiv.org/abs/2609.21983)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**GALA: Geometry-Aware Latent Action Modeling for Vision-Language-Action Model Pretraining across Embodiments**|Jianyu Chen Team|[2609.21948](http://arxiv.org/abs/2609.21948)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**Touvigation: Embodied Adaptive Object Acquisition for Blind and Low-Vision Users in Unfamiliar Indoor Environments**|Jing Qian Team|[2609.21828](http://arxiv.org/abs/2609.21828)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**ForceTwin: Physics-informed Digital Twins for Robotic Manipulation from Instrumented Human Interaction**|Zuria Bauer Team|[2609.21751](http://arxiv.org/abs/2609.21751)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**GestureFAR: Streaming Co-Speech Gesture Generation with Flow Autoregression**|Luchuan Song Team|[2609.21576](http://arxiv.org/abs/2609.21576)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**Skel-WAM: A Hand-Skeleton-Conditioned World Action Model for Human-to-Robot Manipulation Transfer**|Dahua Lin Team|[2609.21514](http://arxiv.org/abs/2609.21514)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**MT-WAM: Reorienting the One-Pass Predictive Representation Toward Action Generation**|Zhibo Fang Team|[2609.21474](http://arxiv.org/abs/2609.21474)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**AtomEgo: Exploring Ego-Robot Integration for Embodied Foundation Model Pretraining**|Jiayu Chen Team|[2609.21461](http://arxiv.org/abs/2609.21461)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**ME-Dex 1.0: Bringing Heterogeneous Tactile Sensing into World Action Modeling**|Yu Liu Team|[2609.21449](http://arxiv.org/abs/2609.21449)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**RobotEQ-Video: A Video-Centric Benchmark for Social Proactive Intelligence with World-State Taxonomy**|Bin He Team|[2609.21371](http://arxiv.org/abs/2609.21371)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-17**|**DEXTERA: From a Single Image to Deployable Dexterous Manipulation via Real-to-Sim-to-Real**|Fangzhou Xia Team|[2609.21045](http://arxiv.org/abs/2609.21045)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-16**|**BirdsongChat: A Hybrid Multi-Agent Framework for Multimodal Embodied Behavior Simulation**|Ellie L. Zhang Team|[2609.20887](http://arxiv.org/abs/2609.20887)|null|
+|**2026-09-18**|**DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation**|Renjing Xu Team|[2609.20649](http://arxiv.org/abs/2609.20649)|null|
 |**2026-09-17**|**CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-Agent Scene Understanding**|Kailun Yang Team|[2609.20586](http://arxiv.org/abs/2609.20586)|**[link](https://github.com/ruojiruoli17/CoRef-GS.git)**|
 |**2026-09-17**|**Spatial-Semantic Uncertainty in VLM-Based Target Search: Balancing Exploration and Identification**|Philip Dames Team|[2609.20443](http://arxiv.org/abs/2609.20443)|null|
 |**2026-09-17**|**A Mathematical Model of Motivated Emotional Mind - Cognitive Embodied System**|Janusz A. Starzyk Team|[2609.20437](http://arxiv.org/abs/2609.20437)|null|
-|**2026-09-17**|**Navi-Agent: Unlocalized Monocular Navigation Agent**|Hongtao Lu Team|[2609.20388](http://arxiv.org/abs/2609.20388)|null|
+|**2026-09-18**|**Navi-Agent: Unlocalized Monocular Navigation Agent**|Hongtao Lu Team|[2609.20388](http://arxiv.org/abs/2609.20388)|null|
 |**2026-09-17**|**Astronex-World 1.0: Real-Time Interactive World Model Foundation**|Cong Miao Team|[2609.20034](http://arxiv.org/abs/2609.20034)|**[link](https://world.astronex.com.cn)**|
 |**2026-09-17**|**CitySTAR: Structured and Topology-Aware Reasoning for Open-Vocabulary Urban 3D Grounding**|Wufan Zhao Team|[2609.19911](http://arxiv.org/abs/2609.19911)|null|
 |**2026-09-17**|**BinoGen: Scaling egocentric binocular data for embodied visual perception and learning**|Ya-tang Li Team|[2609.19881](http://arxiv.org/abs/2609.19881)|null|
@@ -106,7 +118,7 @@
 |**2026-09-09**|**When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents**|Ruihai Wu Team|[2609.10873](http://arxiv.org/abs/2609.10873)|null|
 |**2026-09-09**|**Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge**|Angelique Taylor Team|[2609.10724](http://arxiv.org/abs/2609.10724)|null|
 |**2026-09-09**|**From Semantic to Token Communication: The Next Paradigm for Large-Model-Driven 6G Intelligent Connectivity**|Ping Zhang Team|[2609.10714](http://arxiv.org/abs/2609.10714)|null|
-|**2026-09-11**|**HuRo: Robotizing Human Videos for Scalable VLA Pretraining**|Seon Joo Kim Team|[2609.10706](http://arxiv.org/abs/2609.10706)|null|
+|**2026-09-18**|**HuRo: Robotizing Human Videos for Scalable VLA Pretraining**|Seon Joo Kim Team|[2609.10706](http://arxiv.org/abs/2609.10706)|null|
 |**2026-09-09**|**Show-Harness: Just a VLM Agent Can Play Robots**|Mike Zheng Shou Team|[2609.10522](http://arxiv.org/abs/2609.10522)|**[link](https://showlab.github.io/Show-Harness)**|
 |**2026-09-09**|**FolDeX: A Physical-World Benchmark for Long-Horizon Robotic Manipulation of Deformable Objects**|Wenqiang Zhang Team|[2609.10243](http://arxiv.org/abs/2609.10243)|null|
 |**2026-09-09**|**RoboDrop: Curating VLA Post-Training Data via Local Gradient Compatibility**|Jincheng Yu Team|[2609.10021](http://arxiv.org/abs/2609.10021)|null|
@@ -143,16 +155,4 @@
 |**2026-09-13**|**OVMAN: A Task and Benchmark for Open-Vocabulary Motion-Aware Navigation**|Dibyendu Ghosh Team|[2609.06424](http://arxiv.org/abs/2609.06424)|null|
 |**2026-09-06**|**Rethinking Safety for Generalist Robots**|Andrea Bajcsy Team|[2609.06326](http://arxiv.org/abs/2609.06326)|null|
 |**2026-09-05**|**CST-WM: A Causally Structured World Model for Embodied Visual Tracking**|Yi Fang Team|[2609.06302](http://arxiv.org/abs/2609.06302)|null|
-|**2026-09-05**|**IM-ENGINE: Image Editing for Embodied Data Generation**|Chuang Gan Team|[2609.06279](http://arxiv.org/abs/2609.06279)|null|
-|**2026-09-05**|**MobileVLA-R1 2.0: RL-Enhanced Reasoning for Mobile Robot Control**|Hao Tang Team|[2609.06251](http://arxiv.org/abs/2609.06251)|**[link](https://github.com/AIGeeksGroup/MobileVLA-R1-2.0.)**|
-|**2026-09-05**|**PASTEL: Panoramic Alignment for Monocular 4D Scene Reconstruction**|Li Zhang Team|[2609.06099](http://arxiv.org/abs/2609.06099)|null|
-|**2026-09-05**|**A4A: Cross-Embodiment Transfer of Action-Oriented 4D Affordances from Human Demonstrations**|Gen Li Team|[2609.05892](http://arxiv.org/abs/2609.05892)|null|
-|**2026-09-05**|**Learning Counterfactual World Models for Embodied Reasoning under Partial Observability**|Daniel Zhang Team|[2609.05834](http://arxiv.org/abs/2609.05834)|null|
-|**2026-09-04**|**SceneMosaic: Efficient and Diverse Simulation-Ready Scene Generation via Hybrid Agentic Layout Evolution**|Bo Dai Team|[2609.05594](http://arxiv.org/abs/2609.05594)|**[link](https://github.com/rxjfighting/SceneMosaic)**|
-|**2026-09-04**|**GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulation**|Maoqing Yao Team|[2609.05588](http://arxiv.org/abs/2609.05588)|**[link](https://ge-act-v2.github.io/)**|
-|**2026-09-04**|**An overview of 3D Vision-Language Models**|Moacir Ponti Team|[2609.05583](http://arxiv.org/abs/2609.05583)|**[link](https://usmarcv.github.io/Tutorial-3DVLMs/)**|
-|**2026-09-04**|**Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction**|Sihwa Park Team|[2609.05404](http://arxiv.org/abs/2609.05404)|null|
-|**2026-09-04**|**RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?**|Yueting Zhuang Team|[2609.05324](http://arxiv.org/abs/2609.05324)|null|
-|**2026-09-13**|**One Word, Different Action: A Real-Robot Benchmark for Language-Conditioned Embodied Reasoning**|Shunbo Lei Team|[2609.05260](http://arxiv.org/abs/2609.05260)|null|
-|**2026-09-14**|**LIBERO-RECOVER: Beyond Task Success Towards Failure Recovery in Robotic Manipulation Models**|Huchuan Lu Team|[2609.05178](http://arxiv.org/abs/2609.05178)|null|
 

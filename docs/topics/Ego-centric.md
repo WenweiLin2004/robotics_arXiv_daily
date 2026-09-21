@@ -1,15 +1,21 @@
-## Updated on 2026.09.20
+## Updated on 2026.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**GALA: Geometry-Aware Latent Action Modeling for Vision-Language-Action Model Pretraining across Embodiments**|Jianyu Chen Team|[2609.21948](http://arxiv.org/abs/2609.21948)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**AcousticDiffusion: Semantically Conditioned Audio-Guided Diffusion Policy for Search-and-Rescue Assistance**|Dzmitry Tsetserukou Team|[2609.21792](http://arxiv.org/abs/2609.21792)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**ZYT-World: A Real-Time Controllable World Model for Closed-Loop Autonomous-Driving Simulation**|Xiaozhi Chen Team|[2609.21712](http://arxiv.org/abs/2609.21712)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**AtomEgo: Exploring Ego-Robot Integration for Embodied Foundation Model Pretraining**|Jiayu Chen Team|[2609.21461](http://arxiv.org/abs/2609.21461)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**NaViRrator: Robot Navigation from Human-Readable Maps through a Learned Visual Route**|Giseop Kim Team|[2609.21316](http://arxiv.org/abs/2609.21316)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-17**|**Do Spinning Radar Doppler Velocity Measurements Improve Vehicle Detection and Tracking?**|Timothy D. Barfoot Team|[2609.21000](http://arxiv.org/abs/2609.21000)|null|
 |**2026-09-17**|**PROVIA: Procedure State Tracking for Online Mistake Detection in Egocentric Videos**|Kunyu Peng Team|[2609.20638](http://arxiv.org/abs/2609.20638)|**[link](https://github.com/Kratos-Wen/PROVIA)**|
 |**2026-09-17**|**INSPECT: Learning Robot View Selection from Assistant Use**|Kunyu Peng Team|[2609.20615](http://arxiv.org/abs/2609.20615)|**[link](https://github.com/Kratos-Wen/INSPECT)**|
 |**2026-09-17**|**Worst-Case Hidden-Vehicle Trajectory Search in Spatiotemporal Occlusion Regions**|Satish Ukkusuri Team|[2609.20480](http://arxiv.org/abs/2609.20480)|**[link](https://sdad.cc/papers.html)**|
 |**2026-09-17**|**TouchSight: Bare-Handed Tactile Prediction from Egocentric Video via Generative Visual Augmentation**|Wenbo Ding Team|[2609.20414](http://arxiv.org/abs/2609.20414)|null|
-|**2026-09-17**|**Safety-Critical Scenanrio Emerges from Initial Scene**|J. Marius Zöllner Team|[2609.20103](http://arxiv.org/abs/2609.20103)|null|
+|**2026-09-18**|**Safety-Critical Scenarios Emerge from Initial Scenes**|J. Marius Zöllner Team|[2609.20103](http://arxiv.org/abs/2609.20103)|null|
 |**2026-09-17**|**PointEvent: Rethinking Event-based Tiny Object Detection via Serialized Motion Evidence Accumulation**|Jing Han Team|[2609.20066](http://arxiv.org/abs/2609.20066)|**[link](https://github.com/wzz-z/PointEvent)**|
 |**2026-09-17**|**BinoGen: Scaling egocentric binocular data for embodied visual perception and learning**|Ya-tang Li Team|[2609.19881](http://arxiv.org/abs/2609.19881)|null|
 |**2026-09-17**|**SlugTrails: An Egocentric Benchmark for Floor Plan Localization in Large Buildings**|Roberto Manduchi Team|[2609.19876](http://arxiv.org/abs/2609.19876)|**[link](https://github.com/Head-inthe-Cloud/SlugTrails)**|
@@ -149,10 +155,4 @@
 |**2026-08-20**|**Online Test-Time Adaptation for Generalizable Dynamic Graph Anomaly Detection**|Philip S. Yu Team|[2608.19858](http://arxiv.org/abs/2608.19858)|null|
 |**2026-08-20**|**DA-WAM: Decision-Aligned Future Latents for Driving World Models**|Jun Ma Team|[2608.19085](http://arxiv.org/abs/2608.19085)|null|
 |**2026-08-19**|**EgoHRV: Continuous Heart Rate Variability Estimation from Egocentric Systems for Autonomic Response and Skill Assessment**|Christian Holz Team|[2608.18711](http://arxiv.org/abs/2608.18711)|null|
-|**2026-08-19**|**Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI**|Fatemeh Ziaeetabar Team|[2608.18671](http://arxiv.org/abs/2608.18671)|null|
-|**2026-08-18**|**SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering**|Chaojian Li Team|[2608.17420](http://arxiv.org/abs/2608.17420)|**[link](https://li00147.github.io/SPVC-Project-Page/)**|
-|**2026-08-17**|**Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving**|Abhinav Valada Team|[2608.17178](http://arxiv.org/abs/2608.17178)|null|
-|**2026-08-18**|**Neurosymbolic Embodied Agents**|Pranava Madhyastha Team|[2608.16794](http://arxiv.org/abs/2608.16794)|null|
-|**2026-08-17**|**Spectral Fingerprints of Street-Network Morphology: A Size-Adjusted Graph-Laplacian Descriptor of Urban Fabric**|Piotr C. Kaminski Team|[2608.16758](http://arxiv.org/abs/2608.16758)|null|
-|**2026-08-17**|**Exposing the Long-tail in Embodied Urban Navigation via Scalable Learning from In-the-Wild Videos**|Jiankun Wang Team|[2608.16476](http://arxiv.org/abs/2608.16476)|null|
 
