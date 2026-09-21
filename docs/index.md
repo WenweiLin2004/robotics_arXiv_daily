@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.20
+## Updated on 2026.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -339,8 +339,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**Benchmarking World Models for Continual Learning on Compositional Tasks**|Ingmar Posner Team|[2609.22055](http://arxiv.org/abs/2609.22055)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**Intervention Granularity Matters: Coherent Treatment Bundles in Counterfactual Simulation with Clinical World Models**|Rishikesan Kamaleswaran Team|[2609.21906](http://arxiv.org/abs/2609.21906)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**Compact but Moving: Intervention-Relevant Geometry in Recurrent World Models**|Yang Liu Team|[2609.21787](http://arxiv.org/abs/2609.21787)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**World Modeling in Transformers**|Andre Freitas Team|[2609.21748](http://arxiv.org/abs/2609.21748)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**Sandwich-Residuals: Parameter-Efficient Test-time Adaptation of World Models**|Elmar Rueckert Team|[2609.21740](http://arxiv.org/abs/2609.21740)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**ZYT-World: A Real-Time Controllable World Model for Closed-Loop Autonomous-Driving Simulation**|Xiaozhi Chen Team|[2609.21712](http://arxiv.org/abs/2609.21712)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**Adaptive World Memory 3D Foundation Model for Scalable 3D Mapping, Localization, and Rendering**|Hesheng Wang Team|[2609.21502](http://arxiv.org/abs/2609.21502)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**Adaptive Rollout Truncation Based on Epistemic Uncertainty for Efficient Offline World Model Training**|Johannes Pitz Team|[2609.21482](http://arxiv.org/abs/2609.21482)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**Robotic Multiphase Interaction: Manipulating Coupled Liquid and Solid Dynamics with a World Model**|Peng Wang Team|[2609.21448](http://arxiv.org/abs/2609.21448)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**RobotEQ-Video: A Video-Centric Benchmark for Social Proactive Intelligence with World-State Taxonomy**|Bin He Team|[2609.21371](http://arxiv.org/abs/2609.21371)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**FOCAL-VLA: Subtask-Guided Geometry Distillation and Implicit World Modeling for Vision-Language-Action Models**|Michael Beetz Team|[2609.21228](http://arxiv.org/abs/2609.21228)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**SafeStage: Evaluating Safety Before, During, and After Vision-Language-Conditioned Robot Manipulation**|Wei Jiang Team|[2609.21223](http://arxiv.org/abs/2609.21223)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-17**|**Same World, Different Knowledge: When Isolated Audits Misjudge World-Model Repairs**|Jing Du Team|[2609.21155](http://arxiv.org/abs/2609.21155)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-17**|**WM-VS: Progress-Aligned World Models for Closed-Loop Visual Servoing**|Hesheng Wang Team|[2609.20892](http://arxiv.org/abs/2609.20892)|null|
 |**2026-09-17**|**JEPA-Anything: Learning Predictive Models across Different Worlds**|Ling Yang Team|[2609.20800](http://arxiv.org/abs/2609.20800)|**[link](https://github.com/Gen-Verse/JEPA-Anything)**|
-|**2026-09-17**|**DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation**|Renjing Xu Team|[2609.20649](http://arxiv.org/abs/2609.20649)|null|
+|**2026-09-18**|**DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation**|Renjing Xu Team|[2609.20649](http://arxiv.org/abs/2609.20649)|null|
 |**2026-09-17**|**Semantic SLAM in Precision Agriculture using Bayesian Inference**|Duarte Antunes Team|[2609.20604](http://arxiv.org/abs/2609.20604)|null|
 |**2026-09-17**|**Astronex-World 1.0: Real-Time Interactive World Model Foundation**|Cong Miao Team|[2609.20034](http://arxiv.org/abs/2609.20034)|**[link](https://world.astronex.com.cn)**|
 |**2026-09-17**|**Feeling Terrain Before Crossing: World Models for Off-Road Navigation**|Seung-Woo Seo Team|[2609.19863](http://arxiv.org/abs/2609.19863)|null|
@@ -375,20 +389,6 @@ layout: default
 |**2026-09-14**|**Math for AI safety: an invitation for mathematicians**|Lionel Levine Team|[2609.15289](http://arxiv.org/abs/2609.15289)|null|
 |**2026-09-14**|**Legislating World-Model-Based Planning with Legal Reasoning**|Amir Banifatemi Team|[2609.15113](http://arxiv.org/abs/2609.15113)|null|
 |**2026-09-13**|**AutoLab: An Internet-Accessible Experimental Platform for Operational World Models in Wireless Networks**|Jack Shi Jie Luo Team|[2609.14854](http://arxiv.org/abs/2609.14854)|null|
-|**2026-09-13**|**One Model, Two Physical Stories: Auditing Misalignment in Multi-Modal World Modeling**|Manish Bhattarai Team|[2609.14833](http://arxiv.org/abs/2609.14833)|null|
-|**2026-09-13**|**An immune world model for multiscale forecasting and therapeutic hypothesis generation**|Yingcheng Wu Team|[2609.14709](http://arxiv.org/abs/2609.14709)|null|
-|**2026-09-10**|**A Chip-scale Space-time Multiplexed Gaussian Boson Sampling Processor Beyond 10,000 Photons**|Xian-Min Jin Team|[2609.11922](http://arxiv.org/abs/2609.11922)|null|
-|**2026-09-10**|**CAP: Continuously Adaptive Perception-Blind Humanoid Locomotion via Learned Denoising**|Wenchao Ding Team|[2609.11553](http://arxiv.org/abs/2609.11553)|null|
-|**2026-09-10**|**World in World: Explore the World with World Models**|Chi Zhang Team|[2609.11548](http://arxiv.org/abs/2609.11548)|**[link](https://chenxi-song.github.io/worldinworld)**|
-|**2026-09-10**|**Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs**|Bo Zhu Team|[2609.11499](http://arxiv.org/abs/2609.11499)|null|
-|**2026-09-10**|**FARM: Reading Failure Signals from the Internal Predictive States of a Frozen Robotic World Model**|Ruixi Ci Team|[2609.11445](http://arxiv.org/abs/2609.11445)|null|
-|**2026-09-10**|**Measuring the Value of World-Model Updates: A Counterfactual Utility Protocol for Continual Adaptation**|Kaden Kim Team|[2609.10954](http://arxiv.org/abs/2609.10954)|null|
-|**2026-09-09**|**Programmable World Model**|Zhixiang Wang Team|[2609.10540](http://arxiv.org/abs/2609.10540)|**[link](https://alaya-lab.github.io/pwm)**|
-|**2026-09-09**|**DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation**|Wolfram Burgard Team|[2609.10506](http://arxiv.org/abs/2609.10506)|**[link](https://utn-air.github.io/DUET-DINO)**|
-|**2026-09-09**|**Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization**|John Sous Team|[2609.10464](http://arxiv.org/abs/2609.10464)|null|
-|**2026-09-09**|**HaWMPO: Hallucination-Aware World Model-based Policy Optimization for Generalist Robot Policy**|Qi Wang Team|[2609.09941](http://arxiv.org/abs/2609.09941)|null|
-|**2026-09-09**|**Proof-Carrying Cognition: Closing the Verification Gap with Reality-Settled Reward**|Sourav Karmakar Team|[2609.09776](http://arxiv.org/abs/2609.09776)|null|
-|**2026-09-09**|**Arti-JEPA: Adapting Video World Model to Real-Time MRI of the Vocal Tract for Speech-Production Analysis**|Shrikanth Narayanan Team|[2609.09757](http://arxiv.org/abs/2609.09757)|null|
 
 ## WAM
 
