@@ -1,30 +1,36 @@
-## Updated on 2026.09.22
+## Updated on 2026.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-21**|**DualWAM: Dual-System World Action Models for Asynchronous Global Planning and Local Refinement**|Zhizheng Zhang Team|[2609.24868](http://arxiv.org/abs/2609.24868)|**[link](https://steveouo.github.io/DualWAM-Web/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-21**|**Do LiDAR Language Models Really Understand Spatio-temporal Relationships?**|Kunyu Peng Team|[2609.24452](http://arxiv.org/abs/2609.24452)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-21**|**Zeva-Ego: Egocentric Mid-Training with In-Context Causal Learning for Robot Manipulation**|Ting Cao Team|[2609.24411](http://arxiv.org/abs/2609.24411)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-21**|**Mind or Message? Auditing Theory of Mind in Multi-Agent Social Simulation**|Yi Li Team|[2609.24146](http://arxiv.org/abs/2609.24146)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-20**|**EgoWild2Dex: Learning Dexterous Robotic Manipulation from In-the-Wild Human Experience**|Ping Luo Team|[2609.23755](http://arxiv.org/abs/2609.23755)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-20**|**CE $^4$ L: Continual Ego, Exo, and Ego-Exo Learning**|Liyuan Wang Team|[2609.23492](http://arxiv.org/abs/2609.23492)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-20**|**FeasibleFlow: One-Step Joint Transport of Configuration Feasibility and Trajectories for End-to-End Driving**|Jianjun Wang Team|[2609.23488](http://arxiv.org/abs/2609.23488)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-20**|**Scenario MPC with STL Specifications and Pareto-Based Feasibility Repair**|Yiwei Lyu Team|[2609.23263](http://arxiv.org/abs/2609.23263)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-19**|**General Collaborative Intelligence: Architecting Cognition for Resilient Multi-Agent Ecosystems**|Binglu Wang Team|[2609.22967](http://arxiv.org/abs/2609.22967)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-19**|**Planning-Aligned Pretraining of BEV Representations with Sparse Action-Conditioned Targets for End-to-End Autonomous Driving**|Soonmin Hwang Team|[2609.22868](http://arxiv.org/abs/2609.22868)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-19**|**Image Frame Dynamic Object Segmentation and Ego Motion Estimation using Radar Image Fusion**|Madhava Krishna Team|[2609.22857](http://arxiv.org/abs/2609.22857)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-19**|**Real-Validated UAV Audition Under Rotor Ego-Noise for Low-False-Alarm Human Detection**|Yapeng Wang Team|[2609.22830](http://arxiv.org/abs/2609.22830)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-19**|**DriveReferee: Geometric Safety Verdicts Need Not Be Learned for Driving World-Action Models**|Yue Wang Team|[2609.22762](http://arxiv.org/abs/2609.22762)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-18**|**Beyond the Leaderboard: Counterfactual Diagnosis of End-to-End and VLA Driving Policies Under Domain Shift**|Sikai Chen Team|[2609.22582](http://arxiv.org/abs/2609.22582)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-16**|**AffordanceWAM: Affordance-Aware Joint World-Action Modeling for Robot Manipulation**|Yingcong Chen Team|[2609.22332](http://arxiv.org/abs/2609.22332)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-15**|**EditWM: Event-Decomposed World Modeling with Incremental Correction for End-to-End Autonomous Driving**|Hai Yang Team|[2609.22317](http://arxiv.org/abs/2609.22317)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-13**|**OJOx: Specification-Conditioned Demonstrations for Embodied AI in Construction**|Mohamed Dawod Team|[2609.22289](http://arxiv.org/abs/2609.22289)|**[link](https://ojox.ai)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-22**|**NavSafe- $\infty$ : Benchmarking Closed-Loop Driving Safety in Photorealistic Environments**|Bolei Zhou Team|[2609.26618](http://arxiv.org/abs/2609.26618)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-22**|**Predict Before You Step: Auditable Occupancy Forecasting for Dynamic Obstacle Avoidance under Sparse Guidance**|Rong Su Team|[2609.25969](http://arxiv.org/abs/2609.25969)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-22**|**MachEmbodied-U0: Unified Understanding and Generation Model for Embodied Intelligence**|Yan Xie Team|[2609.25627](http://arxiv.org/abs/2609.25627)|**[link](https://machembodied.com/ME-U/ME-U0.html.)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-22**|**HABILIS Brain 0: Geometry-Change Supervision for Vision-Language-Action and Residual Flow Recovery**|Byoung-Tak Zhang Team|[2609.25558](http://arxiv.org/abs/2609.25558)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-21**|**X-Planner: Event-Structured Task Planning for Embodied Intelligence**|Qian Wang Team|[2609.25187](http://arxiv.org/abs/2609.25187)|**[link](https://github.com/X-Square-Robot/Xplanner)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-21**|**Brain-Inspired Hierarchical Modularity for General Continual Learning**|Liyuan Wang Team|[2609.25146](http://arxiv.org/abs/2609.25146)|null|
+|**2026-09-21**|**DualWAM: Dual-System World Action Models for Asynchronous Global Planning and Local Refinement**|Zhizheng Zhang Team|[2609.24868](http://arxiv.org/abs/2609.24868)|**[link](https://steveouo.github.io/DualWAM-Web/)**|
+|**2026-09-21**|**Do LiDAR Language Models Really Understand Spatio-temporal Relationships?**|Kunyu Peng Team|[2609.24452](http://arxiv.org/abs/2609.24452)|null|
+|**2026-09-22**|**Zeva-Ego: Egocentric Mid-Training with In-Context Causal Learning for Robot Manipulation**|Ting Cao Team|[2609.24411](http://arxiv.org/abs/2609.24411)|null|
+|**2026-09-21**|**Mind or Message? Auditing Theory of Mind in Multi-Agent Social Simulation**|Yi Li Team|[2609.24146](http://arxiv.org/abs/2609.24146)|null|
+|**2026-09-20**|**EgoWild2Dex: Learning Dexterous Robotic Manipulation from In-the-Wild Human Experience**|Ping Luo Team|[2609.23755](http://arxiv.org/abs/2609.23755)|null|
+|**2026-09-20**|**CE $^4$ L: Continual Ego, Exo, and Ego-Exo Learning**|Liyuan Wang Team|[2609.23492](http://arxiv.org/abs/2609.23492)|null|
+|**2026-09-20**|**FeasibleFlow: One-Step Joint Transport of Configuration Feasibility and Trajectories for End-to-End Driving**|Jianjun Wang Team|[2609.23488](http://arxiv.org/abs/2609.23488)|null|
+|**2026-09-20**|**Scenario MPC with STL Specifications and Pareto-Based Feasibility Repair**|Yiwei Lyu Team|[2609.23263](http://arxiv.org/abs/2609.23263)|null|
+|**2026-09-19**|**General Collaborative Intelligence: Architecting Cognition for Resilient Multi-Agent Ecosystems**|Binglu Wang Team|[2609.22967](http://arxiv.org/abs/2609.22967)|null|
+|**2026-09-19**|**Planning-Aligned Pretraining of BEV Representations with Sparse Action-Conditioned Targets for End-to-End Autonomous Driving**|Soonmin Hwang Team|[2609.22868](http://arxiv.org/abs/2609.22868)|null|
+|**2026-09-19**|**Image Frame Dynamic Object Segmentation and Ego Motion Estimation using Radar Image Fusion**|Madhava Krishna Team|[2609.22857](http://arxiv.org/abs/2609.22857)|null|
+|**2026-09-19**|**Real-Validated UAV Audition Under Rotor Ego-Noise for Low-False-Alarm Human Detection**|Yapeng Wang Team|[2609.22830](http://arxiv.org/abs/2609.22830)|null|
+|**2026-09-19**|**DriveReferee: Geometric Safety Verdicts Need Not Be Learned for Driving World-Action Models**|Yue Wang Team|[2609.22762](http://arxiv.org/abs/2609.22762)|null|
+|**2026-09-18**|**Beyond the Leaderboard: Counterfactual Diagnosis of End-to-End and VLA Driving Policies Under Domain Shift**|Sikai Chen Team|[2609.22582](http://arxiv.org/abs/2609.22582)|null|
+|**2026-09-22**|**AffordanceWAM: Affordance-Aware Joint World-Action Modeling for Robot Manipulation**|Yingcong Chen Team|[2609.22332](http://arxiv.org/abs/2609.22332)|null|
+|**2026-09-15**|**EditWM: Event-Decomposed World Modeling with Incremental Correction for End-to-End Autonomous Driving**|Hai Yang Team|[2609.22317](http://arxiv.org/abs/2609.22317)|null|
+|**2026-09-13**|**OJOx: Specification-Conditioned Demonstrations for Embodied AI in Construction**|Mohamed Dawod Team|[2609.22289](http://arxiv.org/abs/2609.22289)|**[link](https://ojox.ai)**|
 |**2026-09-18**|**GALA: Geometry-Aware Latent Action Modeling for Vision-Language-Action Model Pretraining across Embodiments**|Jianyu Chen Team|[2609.21948](http://arxiv.org/abs/2609.21948)|null|
 |**2026-09-18**|**AcousticDiffusion: Semantically Conditioned Audio-Guided Diffusion Policy for Search-and-Rescue Assistance**|Dzmitry Tsetserukou Team|[2609.21792](http://arxiv.org/abs/2609.21792)|null|
-|**2026-09-18**|**ZYT-World: A Real-Time Controllable World Model for Closed-Loop Autonomous-Driving Simulation**|Xiaozhi Chen Team|[2609.21712](http://arxiv.org/abs/2609.21712)|null|
+|**2026-09-22**|**ZYT-World: A Real-Time Controllable World Model for Closed-Loop Autonomous-Driving Simulation**|Xiaozhi Chen Team|[2609.21712](http://arxiv.org/abs/2609.21712)|null|
 |**2026-09-18**|**AtomEgo: Exploring Ego-Robot Integration for Embodied Foundation Model Pretraining**|Jiayu Chen Team|[2609.21461](http://arxiv.org/abs/2609.21461)|null|
 |**2026-09-18**|**NaViRrator: Robot Navigation from Human-Readable Maps through a Learned Visual Route**|Giseop Kim Team|[2609.21316](http://arxiv.org/abs/2609.21316)|null|
 |**2026-09-17**|**Do Spinning Radar Doppler Velocity Measurements Improve Vehicle Detection and Tracking?**|Timothy D. Barfoot Team|[2609.21000](http://arxiv.org/abs/2609.21000)|null|
@@ -149,10 +155,4 @@
 |**2026-09-15**|**EVEREST:Endogenous Vision-Language Reinforcement Reasoning Exploration for Urban Socio-Semantic Segmentation**|Weifeng Xu Team|[2608.24640](http://arxiv.org/abs/2608.24640)|null|
 |**2026-08-25**|**EgoErrorVQA: Assess Egocentric Comprehension Capabilities through Procedural Errors for Ego-Agentic AI**|Yi Wang Team|[2608.24134](http://arxiv.org/abs/2608.24134)|null|
 |**2026-08-24**|**The ALMA EGO-10 Survey of Massive Protoclusters: Correlation of 1.3 mm Continuum Source Clustering with Evolutionary State**|Stella S. R. Offner Team|[2608.23527](http://arxiv.org/abs/2608.23527)|null|
-|**2026-08-25**|**GeoWAM: Visual Geometry World Action Models for Autonomous Driving**|Burhan Yaman Team|[2608.23486](http://arxiv.org/abs/2608.23486)|**[link](https://yiren-lu.com/project_pages/geowam/)**|
-|**2026-08-24**|**Motion-Based Tokenization for Cross-Dataset Egocentric Gaze Modeling**|Enkelejda Kasneci Team|[2608.22926](http://arxiv.org/abs/2608.22926)|null|
-|**2026-08-24**|**Results of the 1st Asynchronous CASTLE Challenge at the Joint Egocentric Vision Workshop in Conjunction with CVPR 2026**|Allie Tran Team|[2608.22914](http://arxiv.org/abs/2608.22914)|null|
-|**2026-08-23**|**AI-based worker guidance in assembly and disassembly operations using multimodal ego/exo-centric data capture and structured task knowledge**|Jörg Krüger Team|[2608.22617](http://arxiv.org/abs/2608.22617)|null|
-|**2026-08-26**|**Optimal Experimental Design for Network Experiments under Interference**|Asim K. Dey Team|[2608.22570](http://arxiv.org/abs/2608.22570)|null|
-|**2026-08-23**|**EMPIRE: Explicit Manipulation Planning as a Learnable Intermediate Representation for Egocentric Hand-Motion Forecasting**|Xilin Chen Team|[2608.22449](http://arxiv.org/abs/2608.22449)|null|
 
