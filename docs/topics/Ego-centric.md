@@ -1,16 +1,22 @@
-## Updated on 2026.09.23
+## Updated on 2026.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-22**|**NavSafe- $\infty$ : Benchmarking Closed-Loop Driving Safety in Photorealistic Environments**|Bolei Zhou Team|[2609.26618](http://arxiv.org/abs/2609.26618)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-22**|**Predict Before You Step: Auditable Occupancy Forecasting for Dynamic Obstacle Avoidance under Sparse Guidance**|Rong Su Team|[2609.25969](http://arxiv.org/abs/2609.25969)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-22**|**MachEmbodied-U0: Unified Understanding and Generation Model for Embodied Intelligence**|Yan Xie Team|[2609.25627](http://arxiv.org/abs/2609.25627)|**[link](https://machembodied.com/ME-U/ME-U0.html.)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-22**|**HABILIS Brain 0: Geometry-Change Supervision for Vision-Language-Action and Residual Flow Recovery**|Byoung-Tak Zhang Team|[2609.25558](http://arxiv.org/abs/2609.25558)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-21**|**X-Planner: Event-Structured Task Planning for Embodied Intelligence**|Qian Wang Team|[2609.25187](http://arxiv.org/abs/2609.25187)|**[link](https://github.com/X-Square-Robot/Xplanner)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-21**|**Brain-Inspired Hierarchical Modularity for General Continual Learning**|Liyuan Wang Team|[2609.25146](http://arxiv.org/abs/2609.25146)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-23**|**Talk2Escape: Conversational Grounding for Vision-and-Language Navigation**|Qi Wu Team|[2609.28296](http://arxiv.org/abs/2609.28296)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-23**|**InternW0: A Foundational Physical World Model for Efficient Real-World Interactions**|Weinan Zhang Team|[2609.27656](http://arxiv.org/abs/2609.27656)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-23**|**Know-Your-Scene (KYS)-SLAM: Hierarchical Semantic-Motion Priors for Feature Matching in Stereo Visual SLAM**|Suchendra M. Bhandarkar Team|[2609.27509](http://arxiv.org/abs/2609.27509)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-23**|**Reflection-Aware Reasoning for Non-Line-of-Sight Pedestrian Localization**|Seong-Woo Kim Team|[2609.27346](http://arxiv.org/abs/2609.27346)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-23**|**Teach-to-Crash: A Closed-Loop Student-Teacher LLM Framework for Collision-Inducing Test Scenario Generation**|Bruce Maxim Team|[2609.27296](http://arxiv.org/abs/2609.27296)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-23**|**BranchDrive: A Branch-Structured Dataset for Action-Conditioned Driving Prediction**|Jaerock Kwon Team|[2609.27275](http://arxiv.org/abs/2609.27275)|null|
+|**2026-09-22**|**NavSafe- $\infty$ : Benchmarking Closed-Loop Driving Safety in Photorealistic Environments**|Bolei Zhou Team|[2609.26618](http://arxiv.org/abs/2609.26618)|null|
+|**2026-09-22**|**Predict Before You Step: Auditable Occupancy Forecasting for Dynamic Obstacle Avoidance under Sparse Guidance**|Rong Su Team|[2609.25969](http://arxiv.org/abs/2609.25969)|null|
+|**2026-09-22**|**MachEmbodied-U0: Unified Understanding and Generation Model for Embodied Intelligence**|Yan Xie Team|[2609.25627](http://arxiv.org/abs/2609.25627)|**[link](https://machembodied.com/ME-U/ME-U0.html.)**|
+|**2026-09-22**|**HABILIS Brain 0: Geometry-Change Supervision for Vision-Language-Action and Residual Flow Recovery**|Byoung-Tak Zhang Team|[2609.25558](http://arxiv.org/abs/2609.25558)|null|
+|**2026-09-21**|**X-Planner: Event-Structured Task Planning for Embodied Intelligence**|Qian Wang Team|[2609.25187](http://arxiv.org/abs/2609.25187)|**[link](https://github.com/X-Square-Robot/Xplanner)**|
+|**2026-09-21**|**Brain-Inspired Hierarchical Modularity for General Continual Learning**|Liyuan Wang Team|[2609.25146](http://arxiv.org/abs/2609.25146)|null|
 |**2026-09-21**|**DualWAM: Dual-System World Action Models for Asynchronous Global Planning and Local Refinement**|Zhizheng Zhang Team|[2609.24868](http://arxiv.org/abs/2609.24868)|**[link](https://steveouo.github.io/DualWAM-Web/)**|
 |**2026-09-21**|**Do LiDAR Language Models Really Understand Spatio-temporal Relationships?**|Kunyu Peng Team|[2609.24452](http://arxiv.org/abs/2609.24452)|null|
 |**2026-09-22**|**Zeva-Ego: Egocentric Mid-Training with In-Context Causal Learning for Robot Manipulation**|Ting Cao Team|[2609.24411](http://arxiv.org/abs/2609.24411)|null|
@@ -149,10 +155,4 @@
 |**2026-08-26**|**Moving Beyond More Views: Redundancy-Aware Ego-Exo Fusion for Proficiency Estimation**|Andrew Gilbert Team|[2608.25736](http://arxiv.org/abs/2608.25736)|null|
 |**2026-08-26**|**EgoArgus: Benchmarking VLMs as Situational Assistants for Modality-Grounded User Supports**|An-Zi Yen Team|[2608.25561](http://arxiv.org/abs/2608.25561)|null|
 |**2026-08-26**|**PhaseShift: Topology-Aware Data Harmonization and Model Consolidation Across Signalized Intersections**|Sanjay Ranka Team|[2608.25275](http://arxiv.org/abs/2608.25275)|null|
-|**2026-08-25**|**Belief Cascades Drive Persuasion in LLM Agent Networks**|Nanyun Peng Team|[2608.25152](http://arxiv.org/abs/2608.25152)|null|
-|**2026-08-25**|**SkyDrive: Learning to Drive in a New City from Aerial Traffic Monitoring**|Nikolas Geroliminis Team|[2608.25142](http://arxiv.org/abs/2608.25142)|null|
-|**2026-08-25**|**From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms**|Yong Liu Team|[2608.24877](http://arxiv.org/abs/2608.24877)|**[link](https://github.com/zhangzjn/awesome-smart-glasses)**|
-|**2026-09-15**|**EVEREST:Endogenous Vision-Language Reinforcement Reasoning Exploration for Urban Socio-Semantic Segmentation**|Weifeng Xu Team|[2608.24640](http://arxiv.org/abs/2608.24640)|null|
-|**2026-08-25**|**EgoErrorVQA: Assess Egocentric Comprehension Capabilities through Procedural Errors for Ego-Agentic AI**|Yi Wang Team|[2608.24134](http://arxiv.org/abs/2608.24134)|null|
-|**2026-08-24**|**The ALMA EGO-10 Survey of Massive Protoclusters: Correlation of 1.3 mm Continuum Source Clustering with Evolutionary State**|Stella S. R. Offner Team|[2608.23527](http://arxiv.org/abs/2608.23527)|null|
 
