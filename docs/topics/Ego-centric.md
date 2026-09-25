@@ -1,16 +1,22 @@
-## Updated on 2026.09.24
+## Updated on 2026.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-23**|**Talk2Escape: Conversational Grounding for Vision-and-Language Navigation**|Qi Wu Team|[2609.28296](http://arxiv.org/abs/2609.28296)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-23**|**InternW0: A Foundational Physical World Model for Efficient Real-World Interactions**|Weinan Zhang Team|[2609.27656](http://arxiv.org/abs/2609.27656)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-23**|**Know-Your-Scene (KYS)-SLAM: Hierarchical Semantic-Motion Priors for Feature Matching in Stereo Visual SLAM**|Suchendra M. Bhandarkar Team|[2609.27509](http://arxiv.org/abs/2609.27509)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-23**|**Reflection-Aware Reasoning for Non-Line-of-Sight Pedestrian Localization**|Seong-Woo Kim Team|[2609.27346](http://arxiv.org/abs/2609.27346)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-23**|**Teach-to-Crash: A Closed-Loop Student-Teacher LLM Framework for Collision-Inducing Test Scenario Generation**|Bruce Maxim Team|[2609.27296](http://arxiv.org/abs/2609.27296)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-23**|**BranchDrive: A Branch-Structured Dataset for Action-Conditioned Driving Prediction**|Jaerock Kwon Team|[2609.27275](http://arxiv.org/abs/2609.27275)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**Ego-Exo4D Human Meshes Dataset: 4D Human Motion Reconstruction for Ego-Exo Captures**|Georgios Pavlakos Team|[2609.30187](http://arxiv.org/abs/2609.30187)|**[link](https://abhiram824.github.io/egoexo4d_human_meshes)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**S2Planner: Multi-Scale Semantic Planner for End-to-End Autonomous Driving**|Alois Knoll Team|[2609.29813](http://arxiv.org/abs/2609.29813)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**Dense Coverage, Sparse Refinement: Byte-Constrained Cooperative Perception**|J. Marius Zöllner Team|[2609.29456](http://arxiv.org/abs/2609.29456)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**Seeing Is Not Measuring: Tool-Augmented Metric Spatial Reasoning for Vision-Language Models**|Clemens Grange Team|[2609.29073](http://arxiv.org/abs/2609.29073)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**ReVNM: Learning-Based Visual Navigation from a Remote Camera**|Ryo Yonetani Team|[2609.28976](http://arxiv.org/abs/2609.28976)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**HelloWorld: Towards Practical Applications of Generative Driving World Models**|Jianyun Xu Team|[2609.28931](http://arxiv.org/abs/2609.28931)|**[link](https://helloworld-4d.github.io)**|
+|**2026-09-23**|**Talk2Escape: Conversational Grounding for Vision-and-Language Navigation**|Qi Wu Team|[2609.28296](http://arxiv.org/abs/2609.28296)|null|
+|**2026-09-23**|**InternW0: A Foundational Physical World Model for Efficient Real-World Interactions**|Weinan Zhang Team|[2609.27656](http://arxiv.org/abs/2609.27656)|null|
+|**2026-09-23**|**Know-Your-Scene (KYS)-SLAM: Hierarchical Semantic-Motion Priors for Feature Matching in Stereo Visual SLAM**|Suchendra M. Bhandarkar Team|[2609.27509](http://arxiv.org/abs/2609.27509)|null|
+|**2026-09-23**|**Reflection-Aware Reasoning for Non-Line-of-Sight Pedestrian Localization**|Seong-Woo Kim Team|[2609.27346](http://arxiv.org/abs/2609.27346)|null|
+|**2026-09-23**|**Teach-to-Crash: A Closed-Loop Student-Teacher LLM Framework for Collision-Inducing Test Scenario Generation**|Bruce Maxim Team|[2609.27296](http://arxiv.org/abs/2609.27296)|null|
+|**2026-09-23**|**BranchDrive: A Branch-Structured Dataset for Action-Conditioned Driving Prediction**|Jaerock Kwon Team|[2609.27275](http://arxiv.org/abs/2609.27275)|null|
 |**2026-09-22**|**NavSafe- $\infty$ : Benchmarking Closed-Loop Driving Safety in Photorealistic Environments**|Bolei Zhou Team|[2609.26618](http://arxiv.org/abs/2609.26618)|null|
 |**2026-09-22**|**Predict Before You Step: Auditable Occupancy Forecasting for Dynamic Obstacle Avoidance under Sparse Guidance**|Rong Su Team|[2609.25969](http://arxiv.org/abs/2609.25969)|null|
 |**2026-09-22**|**MachEmbodied-U0: Unified Understanding and Generation Model for Embodied Intelligence**|Yan Xie Team|[2609.25627](http://arxiv.org/abs/2609.25627)|**[link](https://machembodied.com/ME-U/ME-U0.html.)**|
@@ -149,10 +155,4 @@
 |**2026-08-27**|**VidParse: Online Parsing of Egocentric Procedures Like a Pro**|Abhinav Shrivastava Team|[2608.27562](http://arxiv.org/abs/2608.27562)|null|
 |**2026-08-27**|**Embodied Scene Rearrangement Planning**|Wei Liang Team|[2608.27371](http://arxiv.org/abs/2608.27371)|**[link](https://bit-pie.github.io/ESRP/)**|
 |**2026-08-27**|**Surrounded by Friends: Design and Evaluation of Immersive Layouts of Egocentric Network for Visual Analytics**|Huamin Qu Team|[2608.27194](http://arxiv.org/abs/2608.27194)|null|
-|**2026-08-27**|**Riemann-1.0: An Embodied World Action Model for Physical AI**|Yangguang Li Team|[2608.27033](http://arxiv.org/abs/2608.27033)|null|
-|**2026-08-27**|**RegulAR: Graph-Grounded Error Recognition and Assistance for Procedural Tasks in AR**|Wong Kam-Kwai Team|[2608.26715](http://arxiv.org/abs/2608.26715)|null|
-|**2026-08-26**|**A spinal circuit for collective coordination**|Abdel El Manira Team|[2608.25909](http://arxiv.org/abs/2608.25909)|null|
-|**2026-08-26**|**Moving Beyond More Views: Redundancy-Aware Ego-Exo Fusion for Proficiency Estimation**|Andrew Gilbert Team|[2608.25736](http://arxiv.org/abs/2608.25736)|null|
-|**2026-08-26**|**EgoArgus: Benchmarking VLMs as Situational Assistants for Modality-Grounded User Supports**|An-Zi Yen Team|[2608.25561](http://arxiv.org/abs/2608.25561)|null|
-|**2026-08-26**|**PhaseShift: Topology-Aware Data Harmonization and Model Consolidation Across Signalized Intersections**|Sanjay Ranka Team|[2608.25275](http://arxiv.org/abs/2608.25275)|null|
 
