@@ -1,16 +1,16 @@
-## Updated on 2026.09.25
+## Updated on 2026.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**Ego-Exo4D Human Meshes Dataset: 4D Human Motion Reconstruction for Ego-Exo Captures**|Georgios Pavlakos Team|[2609.30187](http://arxiv.org/abs/2609.30187)|**[link](https://abhiram824.github.io/egoexo4d_human_meshes)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**S2Planner: Multi-Scale Semantic Planner for End-to-End Autonomous Driving**|Alois Knoll Team|[2609.29813](http://arxiv.org/abs/2609.29813)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**Dense Coverage, Sparse Refinement: Byte-Constrained Cooperative Perception**|J. Marius Zöllner Team|[2609.29456](http://arxiv.org/abs/2609.29456)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**Seeing Is Not Measuring: Tool-Augmented Metric Spatial Reasoning for Vision-Language Models**|Clemens Grange Team|[2609.29073](http://arxiv.org/abs/2609.29073)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**ReVNM: Learning-Based Visual Navigation from a Remote Camera**|Ryo Yonetani Team|[2609.28976](http://arxiv.org/abs/2609.28976)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**HelloWorld: Towards Practical Applications of Generative Driving World Models**|Jianyun Xu Team|[2609.28931](http://arxiv.org/abs/2609.28931)|**[link](https://helloworld-4d.github.io)**|
+|**2026-09-24**|**Ego-Exo4D Human Meshes Dataset: 4D Human Motion Reconstruction for Ego-Exo Captures**|Georgios Pavlakos Team|[2609.30187](http://arxiv.org/abs/2609.30187)|**[link](https://abhiram824.github.io/egoexo4d_human_meshes)**|
+|**2026-09-24**|**S2Planner: Multi-Scale Semantic Planner for End-to-End Autonomous Driving**|Alois Knoll Team|[2609.29813](http://arxiv.org/abs/2609.29813)|null|
+|**2026-09-24**|**Dense Coverage, Sparse Refinement: Byte-Constrained Cooperative Perception**|J. Marius Zöllner Team|[2609.29456](http://arxiv.org/abs/2609.29456)|null|
+|**2026-09-24**|**Seeing Is Not Measuring: Tool-Augmented Metric Spatial Reasoning for Vision-Language Models**|Clemens Grange Team|[2609.29073](http://arxiv.org/abs/2609.29073)|null|
+|**2026-09-24**|**ReVNM: Learning-Based Visual Navigation from a Remote Camera**|Ryo Yonetani Team|[2609.28976](http://arxiv.org/abs/2609.28976)|null|
+|**2026-09-24**|**HelloWorld: Towards Practical Applications of Generative Driving World Models**|Jianyun Xu Team|[2609.28931](http://arxiv.org/abs/2609.28931)|**[link](https://helloworld-4d.github.io)**|
 |**2026-09-23**|**Talk2Escape: Conversational Grounding for Vision-and-Language Navigation**|Qi Wu Team|[2609.28296](http://arxiv.org/abs/2609.28296)|null|
 |**2026-09-23**|**InternW0: A Foundational Physical World Model for Efficient Real-World Interactions**|Weinan Zhang Team|[2609.27656](http://arxiv.org/abs/2609.27656)|null|
 |**2026-09-23**|**Know-Your-Scene (KYS)-SLAM: Hierarchical Semantic-Motion Priors for Feature Matching in Stereo Visual SLAM**|Suchendra M. Bhandarkar Team|[2609.27509](http://arxiv.org/abs/2609.27509)|null|

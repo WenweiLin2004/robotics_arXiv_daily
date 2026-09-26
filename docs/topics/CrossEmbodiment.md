@@ -1,24 +1,24 @@
-## Updated on 2026.09.25
+## Updated on 2026.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CrossEmbodiment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning**|Yang Xiao Team|[2609.30258](http://arxiv.org/abs/2609.30258)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**Ego-Exo4D Human Meshes Dataset: 4D Human Motion Reconstruction for Ego-Exo Captures**|Georgios Pavlakos Team|[2609.30187](http://arxiv.org/abs/2609.30187)|**[link](https://abhiram824.github.io/egoexo4d_human_meshes)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal**|Zexi Li Team|[2609.29964](http://arxiv.org/abs/2609.29964)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**GPT-6-Astra Lights Up Embodied Navigation: Evaluation in Zero-Shot Vision-and-Language Navigation in Continuous Environments**|Bin Zhu Team|[2609.29861](http://arxiv.org/abs/2609.29861)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**PUBG Ally: A Conversational Embodied Agent as an AI Teammate**|Hyunseung Kim Team|[2609.29837](http://arxiv.org/abs/2609.29837)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**Representation World Model: Learning States, Transition and Executable Plans in Representation**|Hang Zhao Team|[2609.29171](http://arxiv.org/abs/2609.29171)|**[link](https://tsinghua-mars-lab.github.io/RepresentationWorldModel)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**HarnessPAI: An Evolving Harness for Physical AI**|Heng Qu Team|[2609.29166](http://arxiv.org/abs/2609.29166)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**A Support-Enhanced Granular-Jamming Gripper for RL-based Grasping with Continuum Manipulators**|Zhongyu Li Team|[2609.29093](http://arxiv.org/abs/2609.29093)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**From Passive Execution to Active Exploration: Agentic Embodied Manipulation in Realistic Environments**|Yansong Tang Team|[2609.29091](http://arxiv.org/abs/2609.29091)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**CrossSafe: Towards Cross-Embodiment Latent Safety Filters**|Hussein Sibai Team|[2609.28984](http://arxiv.org/abs/2609.28984)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**AquaMend: Minimal Re-probing and Conditional Rollback for Latent-Belief Failures in Embodied Agents**|Bin Chong Team|[2609.28973](http://arxiv.org/abs/2609.28973)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**Characterizing LLM-Based Family Education through the Lens of Activity Theory: A Scoping Review of the HCI Literature**|Pan Hui Team|[2609.28886](http://arxiv.org/abs/2609.28886)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-23**|**FlyCNS: Connectome-Grounded Information Organization for Communication-Constrained Embodied Control**|Guoyu Lu Team|[2609.28816](http://arxiv.org/abs/2609.28816)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-23**|**Signals of AI Hallucination: Designing Hallucination-Aware Cues for Embodied Conversational Agents in VR**|Qiao Jin Team|[2609.28812](http://arxiv.org/abs/2609.28812)|null|
+|**2026-09-24**|**Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning**|Yang Xiao Team|[2609.30258](http://arxiv.org/abs/2609.30258)|null|
+|**2026-09-24**|**Ego-Exo4D Human Meshes Dataset: 4D Human Motion Reconstruction for Ego-Exo Captures**|Georgios Pavlakos Team|[2609.30187](http://arxiv.org/abs/2609.30187)|**[link](https://abhiram824.github.io/egoexo4d_human_meshes)**|
+|**2026-09-24**|**World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal**|Zexi Li Team|[2609.29964](http://arxiv.org/abs/2609.29964)|null|
+|**2026-09-24**|**GPT-6-Astra Lights Up Embodied Navigation: Evaluation in Zero-Shot Vision-and-Language Navigation in Continuous Environments**|Bin Zhu Team|[2609.29861](http://arxiv.org/abs/2609.29861)|null|
+|**2026-09-24**|**PUBG Ally: A Conversational Embodied Agent as an AI Teammate**|Hyunseung Kim Team|[2609.29837](http://arxiv.org/abs/2609.29837)|null|
+|**2026-09-24**|**Representation World Model: Learning States, Transition and Executable Plans in Representation**|Hang Zhao Team|[2609.29171](http://arxiv.org/abs/2609.29171)|**[link](https://tsinghua-mars-lab.github.io/RepresentationWorldModel)**|
+|**2026-09-24**|**HarnessPAI: An Evolving Harness for Physical AI**|Heng Qu Team|[2609.29166](http://arxiv.org/abs/2609.29166)|null|
+|**2026-09-24**|**A Support-Enhanced Granular-Jamming Gripper for RL-based Grasping with Continuum Manipulators**|Zhongyu Li Team|[2609.29093](http://arxiv.org/abs/2609.29093)|null|
+|**2026-09-24**|**From Passive Execution to Active Exploration: Agentic Embodied Manipulation in Realistic Environments**|Yansong Tang Team|[2609.29091](http://arxiv.org/abs/2609.29091)|null|
+|**2026-09-24**|**CrossSafe: Towards Cross-Embodiment Latent Safety Filters**|Hussein Sibai Team|[2609.28984](http://arxiv.org/abs/2609.28984)|null|
+|**2026-09-24**|**AquaMend: Minimal Re-probing and Conditional Rollback for Latent-Belief Failures in Embodied Agents**|Bin Chong Team|[2609.28973](http://arxiv.org/abs/2609.28973)|null|
+|**2026-09-24**|**Characterizing LLM-Based Family Education through the Lens of Activity Theory: A Scoping Review of the HCI Literature**|Pan Hui Team|[2609.28886](http://arxiv.org/abs/2609.28886)|null|
+|**2026-09-23**|**FlyCNS: Connectome-Grounded Information Organization for Communication-Constrained Embodied Control**|Guoyu Lu Team|[2609.28816](http://arxiv.org/abs/2609.28816)|null|
+|**2026-09-23**|**Signals of AI Hallucination: Designing Hallucination-Aware Cues for Embodied Conversational Agents in VR**|Qiao Jin Team|[2609.28812](http://arxiv.org/abs/2609.28812)|null|
 |**2026-09-23**|**Watch, Recall, Act: Always-On Robots in Concurrent Embodied Streams**|Xi Lin Team|[2609.28429](http://arxiv.org/abs/2609.28429)|null|
 |**2026-09-23**|**AnchorReasoning: A Visual Grounding and Causal Reasoning Dataset in Long-Tail Autonomous Driving Scenarios**|Qianwen Li Team|[2609.28366](http://arxiv.org/abs/2609.28366)|null|
 |**2026-09-23**|**Modularity is Not Enough: Demonstration of a Solderless 400 V DC, 2.5 kW Three-Phase Inverter**|Jonas Huber Team|[2609.28244](http://arxiv.org/abs/2609.28244)|null|
