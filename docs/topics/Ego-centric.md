@@ -1,10 +1,17 @@
-## Updated on 2026.09.27
+## Updated on 2026.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-25**|**InternW0- $Δ$ : A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data**|Chunhua Shen Team|[2609.31394](http://arxiv.org/abs/2609.31394)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-25**|**RECAST: From Log Replay to Closed-Loop Driving Simulation with View-Complete Actors**|Ming Yang Team|[2609.31374](http://arxiv.org/abs/2609.31374)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-25**|**INTERACT: Interactive Planning for Autonomous Driving via Anchor-Conditioned Prediction and Trust-Region Refinement**|Joschka Boedecker Team|[2609.31137](http://arxiv.org/abs/2609.31137)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-25**|**STORM-Bench: Evaluating Online Video QA under Evolving and Incomplete Evidence**|Yuxuan Liang Team|[2609.30981](http://arxiv.org/abs/2609.30981)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-25**|**Praxis: Distilling Physical Interaction Priors from Egocentric Videos for Generalizable Whole-Body Manipulation**|Guiliang Liu Team|[2609.30735](http://arxiv.org/abs/2609.30735)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-25**|**Learning Vision-Based Agile Gap Traversal: Differentiable Simulation with a Warm-Started Critic**|Lin Zhao Team|[2609.30696](http://arxiv.org/abs/2609.30696)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-24**|**Auditing Latent-Space Monitors for Autonomous Driving**|Saurav Kumar Team|[2609.30557](http://arxiv.org/abs/2609.30557)|null|
 |**2026-09-24**|**Ego-Exo4D Human Meshes Dataset: 4D Human Motion Reconstruction for Ego-Exo Captures**|Georgios Pavlakos Team|[2609.30187](http://arxiv.org/abs/2609.30187)|**[link](https://abhiram824.github.io/egoexo4d_human_meshes)**|
 |**2026-09-24**|**S2Planner: Multi-Scale Semantic Planner for End-to-End Autonomous Driving**|Alois Knoll Team|[2609.29813](http://arxiv.org/abs/2609.29813)|null|
 |**2026-09-24**|**Dense Coverage, Sparse Refinement: Byte-Constrained Cooperative Perception**|J. Marius Zöllner Team|[2609.29456](http://arxiv.org/abs/2609.29456)|null|
@@ -148,11 +155,4 @@
 |**2026-08-30**|**Drive the Thoughts: Runtime Monitoring of VLA Reasoning-Trajectory Consistency**|Sebastian Elbaum Team|[2608.29583](http://arxiv.org/abs/2608.29583)|null|
 |**2026-09-01**|**AnyWorld: Factorized Egocentric World Models for Cross-Embodiment Generalization**|Fayao Liu Team|[2608.29242](http://arxiv.org/abs/2608.29242)|**[link](https://xpeng-robotics.github.io/anyworld/)**|
 |**2026-08-29**|**A Degradation-Tolerance Benchmark for Camera-Only End-to-End Driving**|Handong Yao Team|[2608.29005](http://arxiv.org/abs/2608.29005)|null|
-|**2026-08-29**|**Coding What Matters: A Semantic-Aware Memory Interface for Energy-Efficient Perception in Autonomous Vehicles**|Handong Yao Team|[2608.29000](http://arxiv.org/abs/2608.29000)|null|
-|**2026-08-28**|**ClearText-Video: A Large-Scale Text-Centric Video Dataset Bridging Video Restoration and Scene-Text Enhancement**|Zibo Meng Team|[2608.28784](http://arxiv.org/abs/2608.28784)|null|
-|**2026-08-28**|**Inter-3D VQA: A Roadside Multimodal Benchmark for 3D Spatiotemporally Grounded Visual Question Answering**|Dajiang Suo Team|[2608.28762](http://arxiv.org/abs/2608.28762)|null|
-|**2026-08-26**|**Defending Wearable VLMs Against Private Attribute Inference**|Jingtong Hu Team|[2608.28691](http://arxiv.org/abs/2608.28691)|null|
-|**2026-08-27**|**VidParse: Online Parsing of Egocentric Procedures Like a Pro**|Abhinav Shrivastava Team|[2608.27562](http://arxiv.org/abs/2608.27562)|null|
-|**2026-08-27**|**Embodied Scene Rearrangement Planning**|Wei Liang Team|[2608.27371](http://arxiv.org/abs/2608.27371)|**[link](https://bit-pie.github.io/ESRP/)**|
-|**2026-08-27**|**Surrounded by Friends: Design and Evaluation of Immersive Layouts of Egocentric Network for Visual Analytics**|Huamin Qu Team|[2608.27194](http://arxiv.org/abs/2608.27194)|null|
 
