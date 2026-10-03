@@ -1,19 +1,19 @@
-## Updated on 2026.10.02
+## Updated on 2026.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-01**|**InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation**|Liang-Yan Gui Team|[2610.02196](http://arxiv.org/abs/2610.02196)|**[link](https://sirui-xu.github.io/InterEvolve)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-01**|**UniWAM: Unified World-Action Model**|Haoang Li Team|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-01**|**FFBL-Coop: Association-Decoupled Cooperative 3D Multi-Object Tracking**|Xiaokai Bai Team|[2610.01750](http://arxiv.org/abs/2610.01750)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-01**|**NextMe-800: Anticipating Personal Behavior from Months of Egocentric Video**|Jian-Qiao Zhu Team|[2610.01461](http://arxiv.org/abs/2610.01461)|**[link](https://huggingface.co/datasets/mmm8383/NextMe-800)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-01**|**EgoFound3R: End-to-End Egocentric Hand Reconstruction in World Space with Point-Wise Interaction Attributes**|Bo Zhao Team|[2610.01210](http://arxiv.org/abs/2610.01210)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-01**|**Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation**|Alham Fikri Aji Team|[2610.01092](http://arxiv.org/abs/2610.01092)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-01**|**CtrlWAM: Controllable World Action Models with Aligned Intent and Foresight**|Yuxiao Chen Team|[2610.00859](http://arxiv.org/abs/2610.00859)|**[link](https://ctrl-wam.github.io/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-30**|**Towards a General Humanoid Loco-Manipulation Model via Egocentric Whole-Body Human Data Pretraining**|Steven C. H. Hoi Team|[2610.00438](http://arxiv.org/abs/2610.00438)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-29**|**EgoRefine: Ego-Referenced Predictive Alignment and Trajectory-Conditioned Reliability-Aware Fusion for Asynchronous Collaborative Perception**|Zhiyong Li Team|[2610.00319](http://arxiv.org/abs/2610.00319)|**[link](https://github.com/godk0509/EgoRefine)**|
+|**2026-10-01**|**InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation**|Liang-Yan Gui Team|[2610.02196](http://arxiv.org/abs/2610.02196)|**[link](https://sirui-xu.github.io/InterEvolve)**|
+|**2026-10-01**|**UniWAM: Unified World-Action Model**|Haoang Li Team|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
+|**2026-10-01**|**FFBL-Coop: Association-Decoupled Cooperative 3D Multi-Object Tracking**|Xiaokai Bai Team|[2610.01750](http://arxiv.org/abs/2610.01750)|null|
+|**2026-10-01**|**NextMe-800: Anticipating Personal Behavior from Months of Egocentric Video**|Jian-Qiao Zhu Team|[2610.01461](http://arxiv.org/abs/2610.01461)|**[link](https://huggingface.co/datasets/mmm8383/NextMe-800)**|
+|**2026-10-01**|**EgoFound3R: End-to-End Egocentric Hand Reconstruction in World Space with Point-Wise Interaction Attributes**|Bo Zhao Team|[2610.01210](http://arxiv.org/abs/2610.01210)|null|
+|**2026-10-01**|**Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation**|Alham Fikri Aji Team|[2610.01092](http://arxiv.org/abs/2610.01092)|null|
+|**2026-10-01**|**CtrlWAM: Controllable World Action Models with Aligned Intent and Foresight**|Yuxiao Chen Team|[2610.00859](http://arxiv.org/abs/2610.00859)|**[link](https://ctrl-wam.github.io/)**|
+|**2026-09-30**|**Towards a General Humanoid Loco-Manipulation Model via Egocentric Whole-Body Human Data Pretraining**|Steven C. H. Hoi Team|[2610.00438](http://arxiv.org/abs/2610.00438)|null|
+|**2026-09-29**|**EgoRefine: Ego-Referenced Predictive Alignment and Trajectory-Conditioned Reliability-Aware Fusion for Asynchronous Collaborative Perception**|Zhiyong Li Team|[2610.00319](http://arxiv.org/abs/2610.00319)|**[link](https://github.com/godk0509/EgoRefine)**|
 |**2026-09-30**|**Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?**|Zuxuan Wu Team|[2609.40341](http://arxiv.org/abs/2609.40341)|null|
 |**2026-09-30**|**MemLife: Curating and Reasoning over Long-Term Egocentric Video Memories**|Xin Luna Dong Team|[2609.40195](http://arxiv.org/abs/2609.40195)|null|
 |**2026-10-01**|**Social-WM: Safety-Aware Latent World Models for Robot Social Navigation**|Mooi Choo Chuah Team|[2609.40177](http://arxiv.org/abs/2609.40177)|null|
