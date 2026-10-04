@@ -1,4 +1,4 @@
-## Updated on 2026.10.03
+## Updated on 2026.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -70,7 +70,7 @@
 |**2026-09-28**|**Proactive Dialogue Policy Optimization via Cognitive-State Transition**|Jingqi Liu Team|[2609.34948](http://arxiv.org/abs/2609.34948)|null|
 |**2026-09-28**|**Where Do Embodied Decisions Come From? Rethinking Latent and Explicit Reasoning**|Kun Zhan Team|[2609.34794](http://arxiv.org/abs/2609.34794)|null|
 
-<p align=right>(<a href=#updated-on-20261003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
 
 ## VLM
 
@@ -127,7 +127,7 @@
 |**2026-09-29**|**ProAct-VLM: Pre-Failure Vision-Language Task Replanning with Continuous Perception Feedback**|Irfan Hussain Team|[2609.37681](http://arxiv.org/abs/2609.37681)|**[link](https://github.com/moured/ProAct-VLM)**|
 |**2026-09-29**|**Are In-Context Images Worth 10 Dimensions?**|Gabriele Facciolo Team|[2609.37659](http://arxiv.org/abs/2609.37659)|null|
 
-<p align=right>(<a href=#updated-on-20261003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
 
 ## VLA
 
@@ -184,7 +184,7 @@
 |**2026-09-28**|**Spatial Grafting: Grounding 3D Features for Flow-Matching Robot Policies**|Yingxue Zhang Team|[2609.35249](http://arxiv.org/abs/2609.35249)|null|
 |**2026-09-28**|**Zero-Shot Reactive Obstacle Avoidance for Generative Robot Policies**|Lydia E. Kavraki Team|[2609.35231](http://arxiv.org/abs/2609.35231)|null|
 
-<p align=right>(<a href=#updated-on-20261003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
 
 ## Humanoid
 
@@ -241,7 +241,7 @@
 |**2026-09-25**|**Bundled Contact Gradients: Stabilizing Differentiable Simulation for Deployable Dynamic Tasks**|Gabriele Fadini Team|[2609.30951](http://arxiv.org/abs/2609.30951)|null|
 |**2026-09-25**|**Praxis: Distilling Physical Interaction Priors from Egocentric Videos for Generalizable Whole-Body Manipulation**|Guiliang Liu Team|[2609.30735](http://arxiv.org/abs/2609.30735)|null|
 
-<p align=right>(<a href=#updated-on-20261003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
 
 ## Dexterous
 
@@ -298,7 +298,7 @@
 |**2026-09-23**|**A Quasi-Direct-Drive Underactuated Asymmetric Hand for Dexterous and Efficient Grasping and Manipulation**|Hannah S. Stuart Team|[2609.27240](http://arxiv.org/abs/2609.27240)|null|
 |**2026-09-22**|**Design and Modeling of a Single-Port Three-Arm Robotic Tool for Minimally Invasive Neurosurgery**|Ronghuai Qi Team|[2609.27099](http://arxiv.org/abs/2609.27099)|null|
 
-<p align=right>(<a href=#updated-on-20261003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
 
 ## CrossEmbodiment
 
@@ -355,7 +355,7 @@
 |**2026-09-29**|**UniAfford: Token-Routed Multitask Learning for Generalizable 2D-3D Affordance Perception**|Xinge Zhu Team|[2609.37264](http://arxiv.org/abs/2609.37264)|null|
 |**2026-09-29**|**EgoHumanoid-V2: Human-to-Humanoid Transfer of Coordinated Whole-Body Skills for Loco-Manipulation**|Hongyang Li Team|[2609.37181](http://arxiv.org/abs/2609.37181)|null|
 
-<p align=right>(<a href=#updated-on-20261003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
 
 ## WorldModel
 
@@ -412,7 +412,7 @@
 |**2026-09-29**|**Direct Experience World-Model Optimization: Learning the World Beyond Action Imitation**|Shuo Yang Team|[2609.37398](http://arxiv.org/abs/2609.37398)|null|
 |**2026-09-29**|**Do-JEPA: From Masking to Intervention in Latent World Models**|Javen Qinfeng Shi Team|[2609.37378](http://arxiv.org/abs/2609.37378)|null|
 
-<p align=right>(<a href=#updated-on-20261003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
 
 ## WAM
 
@@ -469,5 +469,5 @@
 |**2026-09-25**|**MA-WAM: Multi-Agent World-Action Model for Test-Time Planning**|Hejun Wu Team|[2609.31281](http://arxiv.org/abs/2609.31281)|**[link](https://ma-wam.github.io/)**|
 |**2026-09-25**|**NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation**|Xin Zhou Team|[2609.30770](http://arxiv.org/abs/2609.30770)|null|
 
-<p align=right>(<a href=#updated-on-20261003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
 
