@@ -1,10 +1,17 @@
-## Updated on 2026.10.04
+## Updated on 2026.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-02**|**EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras**|Angjoo Kanazawa Team|[2610.03710](http://arxiv.org/abs/2610.03710)|**[link](https://eyerobot2.github.io/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-02**|**World Action Learning via Interaction-Centric Spectral Latent Guidance**|Song Guo Team|[2610.03607](http://arxiv.org/abs/2610.03607)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-02**|**DexJoCo-X: Benchmarking Action Representations for Multi-Hand Dexterous Manipulation**|Wen Li Team|[2610.03278](http://arxiv.org/abs/2610.03278)|**[link](https://darenrenjian.github.io/DexJoCo-X-website/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-02**|**TerrainForge: Physics-Grounded road geometry Editing for Counterfactual Autonomous Driving**|Zilin Bian Team|[2610.02825](http://arxiv.org/abs/2610.02825)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-02**|**Localized Conformal Safety Monitoring with Vision-Language Models for Autonomous Driving**|Dmitry Berenson Team|[2610.02765](http://arxiv.org/abs/2610.02765)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-02**|**Ego2World: Compiling Egocentric Cooking Videos into Executable Worlds for Belief-State Planning**|Shijie Li Team|[2610.02715](http://arxiv.org/abs/2610.02715)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-02**|**GeoScaffold: Learning Compact Geometric Latents via Reconstruction for Efficient Vision-Language Navigation**|Jian Cheng Team|[2610.02697](http://arxiv.org/abs/2610.02697)|null|
 |**2026-10-01**|**InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation**|Liang-Yan Gui Team|[2610.02196](http://arxiv.org/abs/2610.02196)|**[link](https://sirui-xu.github.io/InterEvolve)**|
 |**2026-10-01**|**UniWAM: Unified World-Action Model**|Haoang Li Team|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
 |**2026-10-01**|**FFBL-Coop: Association-Decoupled Cooperative 3D Multi-Object Tracking**|Xiaokai Bai Team|[2610.01750](http://arxiv.org/abs/2610.01750)|null|
@@ -21,14 +28,14 @@
 |**2026-09-30**|**Magic-W0: A Structured World-Action Foundation Model for Physical Intelligence**|Tao Zhang Team|[2609.39870](http://arxiv.org/abs/2609.39870)|**[link](https://embodied.magiclab.top/works/wam/magic-w0/index.html)**|
 |**2026-09-30**|**IronMind: Scaling Humanoid Dexterous Manipulation via Camera-Space Ego-Centric Pretraining**|Chenyi Chen Team|[2609.39403](http://arxiv.org/abs/2609.39403)|**[link](https://xpeng-robotics.github.io/ironmind/)**|
 |**2026-09-30**|**UniWAM Technical Report: Unified Mobile Manipulation via Mixed-Stream World-Action Modeling and Manipulation Anchor Pose Supervision**|Dingkang Yang Team|[2609.39388](http://arxiv.org/abs/2609.39388)|null|
-|**2026-09-30**|**EgoTools: Towards Tool-Centric Reasoning in Real-World Egocentric Videos**|Ziwei Liu Team|[2609.39378](http://arxiv.org/abs/2609.39378)|**[link](https://ropedia.github.io/egotools)**|
+|**2026-10-02**|**EgoTools: Towards Tool-Centric Reasoning in Real-World Egocentric Videos**|Ziwei Liu Team|[2609.39378](http://arxiv.org/abs/2609.39378)|**[link](https://ropedia.github.io/egotools)**|
 |**2026-09-30**|**ReWAM: Reciprocal World Action Models for Interactive Autonomous Driving**|Jun Ma Team|[2609.39245](http://arxiv.org/abs/2609.39245)|null|
 |**2026-09-30**|**Synchronous Multi-view Neural Diffusion**|Shiping Wang Team|[2609.39019](http://arxiv.org/abs/2609.39019)|null|
 |**2026-09-30**|**OccluDex: Hierarchical 3D Visuo-Tactile Representation Learning for Egocentric Dexterous Manipulation under Self-Occlusion**|Peter B. Shull Team|[2609.39017](http://arxiv.org/abs/2609.39017)|null|
 |**2026-09-29**|**Exo2EgoHOI: Hand-Object-Interaction Aware Exocentric-to-Egocentric Video Generation**|Xingxing Zuo Team|[2609.38615](http://arxiv.org/abs/2609.38615)|null|
 |**2026-09-29**|**GazeFlow: From Human Gaze Behavior to Generative Egocentric Gaze Prediction**|Yuhao Zhu Team|[2609.38519](http://arxiv.org/abs/2609.38519)|null|
 |**2026-09-29**|**Learning to Plan from Random Exploration**|Ying Nian Wu Team|[2609.38383](http://arxiv.org/abs/2609.38383)|null|
-|**2026-09-30**|**EgoAlign: Bridging the Human-Humanoid Gap for Long-Range Loco-Manipulation**|Yisheng He Team|[2609.38046](http://arxiv.org/abs/2609.38046)|null|
+|**2026-10-01**|**EgoAlign: Bridging the Human-Humanoid Gap for Long-Range Loco-Manipulation**|Yisheng He Team|[2609.38046](http://arxiv.org/abs/2609.38046)|null|
 |**2026-09-29**|**PhysWAM: Physically Consistent World Action Model for Autonomous Driving**|Yue Wang Team|[2609.37970](http://arxiv.org/abs/2609.37970)|null|
 |**2026-09-29**|**Does Local Video Understanding Transfer Across Encounters? The EgoGears Benchmark**|Kunyu Peng Team|[2609.37938](http://arxiv.org/abs/2609.37938)|null|
 |**2026-09-29**|**APM-Bench: Benchmarking Cross-session Persistent Memory for Egocentric Streaming Video Assistants**|Wenjun Zeng Team|[2609.37559](http://arxiv.org/abs/2609.37559)|null|
@@ -53,7 +60,7 @@
 |**2026-09-28**|**SemRD-V2X: Closure-Guided Communication with Bounded Inference for Cooperative Perception**|Jianfeng Xu Team|[2609.34353](http://arxiv.org/abs/2609.34353)|null|
 |**2026-09-28**|**Dexterous Tactile World Model**|Daniel Rakita Team|[2609.34286](http://arxiv.org/abs/2609.34286)|**[link](https://adonis-galaxy.github.io/dtwm-project-page/)**|
 |**2026-09-28**|**UMR: Universal Manipulation Representation**|Jingrun Chen Team|[2609.34256](http://arxiv.org/abs/2609.34256)|null|
-|**2026-09-30**|**WB-WAM: Heterogeneous Body-Hand Pre-training for Humanoid Loco-Manipulation**|Hang Zhao Team|[2609.34199](http://arxiv.org/abs/2609.34199)|**[link](https://wb-wam.github.io)**|
+|**2026-10-02**|**WB-WAM: Heterogeneous Body-Hand Pre-training for Humanoid Loco-Manipulation**|Hang Zhao Team|[2609.34199](http://arxiv.org/abs/2609.34199)|**[link](https://wb-wam.github.io)**|
 |**2026-09-28**|**Functional Hand Type Prior for 3D Hand Pose Estimation and Action Recognition from Egocentric View Monocular Videos**|Sangpil Kim Team|[2609.34149](http://arxiv.org/abs/2609.34149)|null|
 |**2026-09-28**|**A Differentiable Optimization Framework for Registering Sequential Bounding Boxes with Point Cloud Stream**|Jie Hong Team|[2609.34103](http://arxiv.org/abs/2609.34103)|null|
 |**2026-09-26**|**SV2V-RSim: A Comprehensive Benchmark for Self-Selective V2V Cooperative Perception with Near-Realistic Data**|Shangce Gao Team|[2609.32863](http://arxiv.org/abs/2609.32863)|null|
@@ -148,11 +155,4 @@
 |**2026-09-13**|**DynEoMT: Learning Object Dynamicity from Online Segmentation Queries**|François Goulette Team|[2609.14466](http://arxiv.org/abs/2609.14466)|null|
 |**2026-09-13**|**Multi-Task Visual Perception Network with LLM Conditioning for Autonomous Navigation**|Tushar Sandhan Team|[2609.14297](http://arxiv.org/abs/2609.14297)|null|
 |**2026-09-12**|**Talking to Me or Someone Else? Rethinking Talk-to-Me Detection in Egocentric Videos**|Weili Wu Team|[2609.14118](http://arxiv.org/abs/2609.14118)|null|
-|**2026-09-12**|**Gradient-Free Neural Hamilton-Jacobi Reachability for Scalable Safety-Critical Control**|Somil Bansal Team|[2609.14087](http://arxiv.org/abs/2609.14087)|null|
-|**2026-09-12**|**BLInD: Learning Driver Intent as a Distribution over Future Ego Trajectories**|Soham Phade Team|[2609.13941](http://arxiv.org/abs/2609.13941)|null|
-|**2026-09-12**|**ReWeight: Leveraging Human Data for VLA Post-Training via Demonstration Retrieval and Sample Weighting**|Zhongliang Jiang Team|[2609.13851](http://arxiv.org/abs/2609.13851)|null|
-|**2026-09-12**|**JaxAHT: A JAX-Based Library for Ad Hoc Teamwork**|Peter Stone Team|[2609.13716](http://arxiv.org/abs/2609.13716)|null|
-|**2026-09-09**|**Reliable Egocentric Action Anticipation via Temporal Reliability Suppression and Compositional Graph Decoding**|Sareh Rowlands Team|[2609.13293](http://arxiv.org/abs/2609.13293)|null|
-|**2026-09-11**|**DWMP: Leveraging Dual World Models for Humanoid Obstacle Traversal**|Yue Gao Team|[2609.12347](http://arxiv.org/abs/2609.12347)|null|
-|**2026-09-10**|**Does Video Memory Use What It Retrieves? A Causal Audit of Memory Specificity**|Heng Ji Team|[2609.12090](http://arxiv.org/abs/2609.12090)|null|
 
