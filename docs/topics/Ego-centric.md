@@ -1,29 +1,41 @@
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Ego-centric
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-06**|**EgoLAP: Learning from Egocentric Human Data through Language-Action Reasoning**|Anirudha Majumdar Team|[2610.08726](http://arxiv.org/abs/2610.08726)|**[link](https://ego-lap.github.io/)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-06**|**RenderBench: Benchmarking Render-to-Real Video Transfer with Reconstructed Digital Twins**|Bo Ye Team|[2610.08684](http://arxiv.org/abs/2610.08684)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-06**|**Sparse2comm: Towards Robust Cooperative 3D Object Detection**|Chen Lv Team|[2610.08573](http://arxiv.org/abs/2610.08573)|**[link](https://github.com/yanglei18/Sparse2comm)**|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-06**|**Evolutionary One-Step Generators: Fast and Diverse Sampling for Discrete Design**|Giovanni Iacca Team|[2610.08367](http://arxiv.org/abs/2610.08367)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-06**|**MacJEPA: Missingness-Robust Audio-Visual Recognition from Untrimmed Egocentric Videos**|Zahra Ahmadi Team|[2610.08192](http://arxiv.org/abs/2610.08192)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-06**|**LFHE: Local-First Heuristic Evolution for Bounded Local Topology Search in Decentralized Learning with Non-IID Data**|Yang Long Team|[2610.08176](http://arxiv.org/abs/2610.08176)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-06**|**Partially Observable Zero-shot coordination by Predicting Intention of Partner**|Kuk-Jin Yoon Team|[2610.08142](http://arxiv.org/abs/2610.08142)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-06**|**Beyond Waypoint Regression: Query-Based Cost Learning over Reachable Ego Futures for End-to-End Driving**|J. Marius Zöllner Team|[2610.08123](http://arxiv.org/abs/2610.08123)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-06**|**Context-Conditioned Hamilton-Jacobi Reachability for Adaptive Safety Filtering**|Somil Bansal Team|[2610.08115](http://arxiv.org/abs/2610.08115)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-06**|**Independent Multi-Agent Reinforcement Learning with Counterfactual Semantic-Social World Models**|Juntao Chen Team|[2610.07704](http://arxiv.org/abs/2610.07704)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-05**|**MobileVISTA: Generative Data Augmentation for Pose Generalization in Mobile Manipulation**|Jiajun Wu Team|[2610.07511](http://arxiv.org/abs/2610.07511)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-05**|**RoboCap: A New Platform for Egocentric Robot Learning**| BitRobot Team|[2610.07217](http://arxiv.org/abs/2610.07217)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-05**|**R2RI: A Multi-View Event and RGB Dataset for Robot-to-Robot Interaction**|Lorenzo Seidenari Team|[2610.07117](http://arxiv.org/abs/2610.07117)|null|
-|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-03**|**EVFormer: An Egocentric Vision-EMG Bidirectional Attention Model for Bimanual Hand Pose Estimation**|XinTong Yang Team|[2610.06970](http://arxiv.org/abs/2610.06970)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-07**|**Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos**|Homanga Bharadhwaj Team|[2610.10538](http://arxiv.org/abs/2610.10538)|**[link](https://ledger-3d.github.io)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-07**|**Long-WAM: Scaling the Context of World-Action Models**|Yukang Chen Team|[2610.10528](http://arxiv.org/abs/2610.10528)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-07**|**Explicit Geometric Chain-of-Thought for Vision-Language-Action in Autonomous Driving**|Jianbing Shen Team|[2610.10390](http://arxiv.org/abs/2610.10390)|**[link](https://github.com/TabGuigui/GeoCoTDrive)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-07**|**TouchScale: 500 Hours of Human Vision and Touch for Visual-Tactile Learning**|Zhiwen Fan Team|[2610.10288](http://arxiv.org/abs/2610.10288)|**[link](https://touch-scale.github.io/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-07**|**LLM4Impact: Integrating Heterogeneous Information for Scientific Impact Prediction**|Andreas Geiger Team|[2610.10138](http://arxiv.org/abs/2610.10138)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-07**|**Temporal Residual Bottleneck for Robust Asynchronous Collaborative Perception**|J. Marius Zöllner Team|[2610.10090](http://arxiv.org/abs/2610.10090)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-07**|**Beyond Policy Support: Interaction Constrained Offline Reinforcement Learning for Autonomous Driving**|Karl Henrik Johansson Team|[2610.09763](http://arxiv.org/abs/2610.09763)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-07**|**Self-Supervised Deconvolution of In-Air Sonar Images Using Sensor Ego-Motion**|Jan Steckel Team|[2610.09682](http://arxiv.org/abs/2610.09682)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-07**|**RLHND: Video Foundation Models as Physically Grounded Hand Trackers for Robot Learning**|Jinwoo Shin Team|[2610.09455](http://arxiv.org/abs/2610.09455)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-07**|**SearchWorld: Spatial Value-Grounded Imagination for UAV Object Search via World Models**|Quanjun Yin Team|[2610.09335](http://arxiv.org/abs/2610.09335)|null|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-10-06**|**Workhorse: Learning Robust Whole-Body Humanoid Loco-Manipulation from Human Data**|Koushil Sreenath Team|[2610.09117](http://arxiv.org/abs/2610.09117)|**[link](https://hsb0508.github.io/workhorse/)**|
+|![NEW](https://img.shields.io/badge/NEW-brightgreen) **2026-09-23**|**Taming an End-to-End Autonomous Driving Policy for Urban Navigation of Quadruped Robots**|Hwasup Lim Team|[2610.08812](http://arxiv.org/abs/2610.08812)|null|
+|**2026-10-06**|**EgoLAP: Learning from Egocentric Human Data through Language-Action Reasoning**|Anirudha Majumdar Team|[2610.08726](http://arxiv.org/abs/2610.08726)|**[link](https://ego-lap.github.io/)**|
+|**2026-10-06**|**RenderBench: Benchmarking Render-to-Real Video Transfer with Reconstructed Digital Twins**|Bo Ye Team|[2610.08684](http://arxiv.org/abs/2610.08684)|null|
+|**2026-10-06**|**Sparse2comm: Towards Robust Cooperative 3D Object Detection**|Chen Lv Team|[2610.08573](http://arxiv.org/abs/2610.08573)|**[link](https://github.com/yanglei18/Sparse2comm)**|
+|**2026-10-06**|**Evolutionary One-Step Generators: Fast and Diverse Sampling for Discrete Design**|Giovanni Iacca Team|[2610.08367](http://arxiv.org/abs/2610.08367)|null|
+|**2026-10-06**|**MacJEPA: Missingness-Robust Audio-Visual Recognition from Untrimmed Egocentric Videos**|Zahra Ahmadi Team|[2610.08192](http://arxiv.org/abs/2610.08192)|null|
+|**2026-10-06**|**LFHE: Local-First Heuristic Evolution for Bounded Local Topology Search in Decentralized Learning with Non-IID Data**|Yang Long Team|[2610.08176](http://arxiv.org/abs/2610.08176)|null|
+|**2026-10-06**|**Partially Observable Zero-shot coordination by Predicting Intention of Partner**|Kuk-Jin Yoon Team|[2610.08142](http://arxiv.org/abs/2610.08142)|null|
+|**2026-10-06**|**Beyond Waypoint Regression: Query-Based Cost Learning over Reachable Ego Futures for End-to-End Driving**|J. Marius Zöllner Team|[2610.08123](http://arxiv.org/abs/2610.08123)|null|
+|**2026-10-06**|**Context-Conditioned Hamilton-Jacobi Reachability for Adaptive Safety Filtering**|Somil Bansal Team|[2610.08115](http://arxiv.org/abs/2610.08115)|null|
+|**2026-10-06**|**Independent Multi-Agent Reinforcement Learning with Counterfactual Semantic-Social World Models**|Juntao Chen Team|[2610.07704](http://arxiv.org/abs/2610.07704)|null|
+|**2026-10-05**|**MobileVISTA: Generative Data Augmentation for Pose Generalization in Mobile Manipulation**|Jiajun Wu Team|[2610.07511](http://arxiv.org/abs/2610.07511)|null|
+|**2026-10-05**|**RoboCap: A New Platform for Egocentric Robot Learning**| BitRobot Team|[2610.07217](http://arxiv.org/abs/2610.07217)|null|
+|**2026-10-05**|**R2RI: A Multi-View Event and RGB Dataset for Robot-to-Robot Interaction**|Lorenzo Seidenari Team|[2610.07117](http://arxiv.org/abs/2610.07117)|null|
+|**2026-10-03**|**EVFormer: An Egocentric Vision-EMG Bidirectional Attention Model for Bimanual Hand Pose Estimation**|XinTong Yang Team|[2610.06970](http://arxiv.org/abs/2610.06970)|null|
 |**2026-10-05**|**MarvisNav: Making Memory Visible on Route Choices for Zero-Shot Object Navigation**|Dimitrios Kanoulas Team|[2610.06510](http://arxiv.org/abs/2610.06510)|null|
 |**2026-10-05**|**Odyssey: A Closed-Loop Benchmark for Long-Horizon Real-World Driving with Explicit Navigation Routes**|Jun Won Choi Team|[2610.06469](http://arxiv.org/abs/2610.06469)|null|
 |**2026-10-05**|**Radar2Plan: Benchmarking 4D Radar for End-to-End Open-Loop Ego-Trajectory Planning**|Fangqiang Ding Team|[2610.06121](http://arxiv.org/abs/2610.06121)|null|
 |**2026-10-05**|**Infant simulator with an embodied caregiver: Generating infant-perspective touch and vision during social interaction**|Matej Hoffmann Team|[2610.05997](http://arxiv.org/abs/2610.05997)|null|
-|**2026-10-04**|**SEA-LM: Egocentric Spatial Audio Understanding for Wearable Microphone Arrays**|Andrea Colaco Team|[2610.05610](http://arxiv.org/abs/2610.05610)|null|
+|**2026-10-07**|**SEA-LM: Egocentric Spatial Audio Understanding for Wearable Microphone Arrays**|Andrea Colaco Team|[2610.05610](http://arxiv.org/abs/2610.05610)|null|
 |**2026-10-04**|**Have I Scene This Before? Spatially Grounded Conversational Memory for Complex Queries in Egocentric Assistants**|Scott Sanner Team|[2610.05526](http://arxiv.org/abs/2610.05526)|null|
 |**2026-10-04**|**EMBER-Bench: Benchmarking Cross-Event Causal Memory in Long-Horizon Embodied Tasks**|Guocai Yao Team|[2610.05013](http://arxiv.org/abs/2610.05013)|**[link](https://zhaoalexgoat.github.io/EMBER-Bench/)**|
 |**2026-10-04**|**How corner is a corner case? Percentile control for highway scenario generation**|Xiaopeng Li Team|[2610.05003](http://arxiv.org/abs/2610.05003)|**[link](https://hhjj233.github.io/CornerPercentile/)**|
@@ -143,16 +155,4 @@
 |**2026-09-18**|**AtomEgo: Exploring Ego-Robot Integration for Embodied Foundation Model Pretraining**|Jiayu Chen Team|[2609.21461](http://arxiv.org/abs/2609.21461)|null|
 |**2026-09-18**|**NaViRrator: Robot Navigation from Human-Readable Maps through a Learned Visual Route**|Giseop Kim Team|[2609.21316](http://arxiv.org/abs/2609.21316)|null|
 |**2026-09-17**|**Do Spinning Radar Doppler Velocity Measurements Improve Vehicle Detection and Tracking?**|Timothy D. Barfoot Team|[2609.21000](http://arxiv.org/abs/2609.21000)|null|
-|**2026-09-17**|**PROVIA: Procedure State Tracking for Online Mistake Detection in Egocentric Videos**|Kunyu Peng Team|[2609.20638](http://arxiv.org/abs/2609.20638)|**[link](https://github.com/Kratos-Wen/PROVIA)**|
-|**2026-09-17**|**INSPECT: Learning Robot View Selection from Assistant Use**|Kunyu Peng Team|[2609.20615](http://arxiv.org/abs/2609.20615)|**[link](https://github.com/Kratos-Wen/INSPECT)**|
-|**2026-09-17**|**Worst-Case Hidden-Vehicle Trajectory Search in Spatiotemporal Occlusion Regions**|Satish Ukkusuri Team|[2609.20480](http://arxiv.org/abs/2609.20480)|**[link](https://sdad.cc/papers.html)**|
-|**2026-09-17**|**TouchSight: Bare-Handed Tactile Prediction from Egocentric Video via Generative Visual Augmentation**|Wenbo Ding Team|[2609.20414](http://arxiv.org/abs/2609.20414)|null|
-|**2026-09-18**|**Safety-Critical Scenarios Emerge from Initial Scenes**|J. Marius Zöllner Team|[2609.20103](http://arxiv.org/abs/2609.20103)|null|
-|**2026-09-17**|**PointEvent: Rethinking Event-based Tiny Object Detection via Serialized Motion Evidence Accumulation**|Jing Han Team|[2609.20066](http://arxiv.org/abs/2609.20066)|**[link](https://github.com/wzz-z/PointEvent)**|
-|**2026-09-17**|**BinoGen: Scaling egocentric binocular data for embodied visual perception and learning**|Ya-tang Li Team|[2609.19881](http://arxiv.org/abs/2609.19881)|null|
-|**2026-09-17**|**SlugTrails: An Egocentric Benchmark for Floor Plan Localization in Large Buildings**|Roberto Manduchi Team|[2609.19876](http://arxiv.org/abs/2609.19876)|**[link](https://github.com/Head-inthe-Cloud/SlugTrails)**|
-|**2026-09-17**|**Vehicle Trajectory Prediction via Neural Fusion of Multiple EKF-Based Trajectory Candidates**|Seung-Hyun Kong Team|[2609.19813](http://arxiv.org/abs/2609.19813)|null|
-|**2026-09-17**|**AI Smart Glasses for Wearable Intelligence: From Egocentric Sensing to Agentic Personalization**|Wenqi Fan Team|[2609.19793](http://arxiv.org/abs/2609.19793)|null|
-|**2026-09-16**|**ViLoMan: Learning Visual-Proprioceptive Whole-Body Loco-Manipulation Skills for Humanoid Robots**|Shiguang Shan Team|[2609.19340](http://arxiv.org/abs/2609.19340)|**[link](https://viloman-anonymous.pages.dev/)**|
-|**2026-09-16**|**PASSAGE: Scaling Scene-Aligned Motion Learning for Perceptive Humanoid Traversal in Cluttered Environments**|Li Yi Team|[2609.18732](http://arxiv.org/abs/2609.18732)|null|
 
