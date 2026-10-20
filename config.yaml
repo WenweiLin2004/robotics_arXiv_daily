@@ -32,6 +32,43 @@ topic_pages:
             filters: ["Ego-centric", "Ego centric", "Egocentric", "Ego", "ego"]
         "CrossEmbodiment":
             filters: ["Cross Embodiment", "Cross-Embodiment", "Embodiment", "Embodied"]
+        "Evaluation":
+            filters: [
+                "simulation benchmark",
+                "robot simulator",
+                "robotic simulator",
+                "robotics simulator",
+                "embodied benchmark",
+                "embodied simulator",
+                "Isaac Lab",
+                "Isaac Sim",
+                "Isaac Gym",
+                "IsaacLab",
+                "IsaacGym",
+                "ManiSkill",
+                "ManiSkill2",
+                "ManiSkill3",
+                "RoboCasa",
+                "SimplerEnv",
+                "SIMPLER-Env",
+                "RLBench",
+                "BEHAVIOR-1K",
+                "RoboTwin",
+                "EmbodiedBench",
+                "VLABench",
+                "robosuite",
+                "RoboSuite",
+                "Meta-World",
+                "MetaWorld",
+                "iGibson",
+                "AI2-THOR",
+                "OmniGibson",
+                "CALVIN benchmark",
+                "Habitat-Sim",
+                "Habitat 2.0",
+                "Habitat 3.0",
+                "CoppeliaSim"
+            ]
 
 # keywords to search
 keywords:
